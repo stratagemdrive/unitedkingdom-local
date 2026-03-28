@@ -1,7 +1,7 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-03-28T15:40:05.279255+00:00",
-  "story_count": 82,
+  "last_updated": "2026-03-28T23:59:23.074891+00:00",
+  "story_count": 85,
   "stories": [
     {
       "title": "Fresh delay for new EU border checks at Dover",
@@ -58,6 +58,20 @@
       "url": "https://www.bbc.com/news/videos/cly6glydjl8o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-23T17:50:29+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "RAF gunners earn title of drone ‘aces’ for first time in history",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/drone-gunner-raf-iran-uk-b2947660.html",
+      "published_date": "2026-03-28T22:25:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer’s popularity boosted by Iran war rift with Trump, poll shows",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/trump-iran-war-keir-starmer-poll-b2947053.html",
+      "published_date": "2026-03-28T17:52:13+00:00",
+      "category": "Military"
     },
     {
       "title": "UK ‘weeks away’ from medicine shortages if Iran war continues, experts say",
@@ -186,18 +200,25 @@
       "category": "Military"
     },
     {
-      "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-26T07:34:55+00:00",
-      "category": "Military"
+      "title": "Kemi Badenoch to launch ‘Get Britain Drilling’ campaign amid living cost hikes",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/kemi-badenoch-conservatives-britain-keir-starmer-north-sea-b2947737.html",
+      "published_date": "2026-03-28T22:28:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UK facing biggest economic hit from Iran war of any major country",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/uk-facing-biggest-economic-hit-from-iran-war-of-any-major-country-13524511",
-      "published_date": "2026-03-26T06:08:00+00:00",
-      "category": "Military"
+      "title": "Kemi Badenoch launches ‘Get Britain Drilling’ campaign amid global oil price surge",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-north-sea-drilling-iran-oil-b2947669.html",
+      "published_date": "2026-03-28T22:22:20+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Badenoch criticised for ‘peddling dangerous fantasy’ about North Sea oil drilling",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/mar/28/badenoch-criticised-for-peddling-dangerous-fantasy-about-north-sea-oil-drilling",
+      "published_date": "2026-03-28T22:00:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "How EVs could be part of answer to UK’s fuel reserve worries",
@@ -424,6 +445,13 @@
       "category": "Economy"
     },
     {
+      "title": "I was paid to write fake Google reviews – then my ‘bosses’ tried to scam me",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/mar/27/paid-write-fake-google-reviews-scammer-cryptocurrency",
+      "published_date": "2026-03-27T08:31:48+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Just Eat and Autotrader among five firms under investigation in fake and misleading review crackdown",
       "source": "Sky News",
       "url": "https://news.sky.com/story/just-eat-and-autotrader-among-five-firms-under-investigation-in-fake-and-misleading-review-crackdown-13524963",
@@ -431,11 +459,95 @@
       "category": "Economy"
     },
     {
-      "title": "'Affordability is the biggest thing' - Conservatives mixed on economy under Trump",
+      "title": "Half a million people march in London for biggest anti-far-right demonstration",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/london-protest-today-far-right-b2947672.html",
+      "published_date": "2026-03-28T23:24:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bang to nose left rugby star bedbound after rare infection spread to his bones",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cn08y2jgdxpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T00:01:51+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/c2evgr3vgkdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-28T21:52:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigel Farage repeatedly heckled at Reform UK event in London",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/nigel-farage-heckled-reform-uk-london-b2947726.html",
+      "published_date": "2026-03-28T21:27:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met Office issues hay fever alert for people in these areas",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/hay-fever-pollen-levels-met-office-b2947687.html",
+      "published_date": "2026-03-28T20:06:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder inquiry launched after young woman dies",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yw0k1eyz9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-28T19:35:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder probe underway after death of ‘young’ woman in Leeds",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/leeds-murder-probe-teen-arrests-b2947693.html",
+      "published_date": "2026-03-28T19:01:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder inquiry launched after death of young woman in Leeds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/28/young-woman-leeds-west-yorkshire-police-investigation",
+      "published_date": "2026-03-28T18:49:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder investigation launched following death of young woman in Leeds",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/murder-investigation-launched-following-death-of-young-woman-in-leeds-13525606",
+      "published_date": "2026-03-28T18:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestine Action supporters arrested outside Met headquarters as police resume arrests",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/palestine-action-protest-arrests-met-police-headquarters-b2947679.html",
+      "published_date": "2026-03-28T18:03:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands march against far right in London in biggest ever multicultural protest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/28/london-far-right-march-biggest-ever-multicultural-protest",
+      "published_date": "2026-03-28T17:29:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huge crowds take part in London march against the far right – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/video/2026/mar/28/huge-crowds-take-part-in-london-march-against-the-far-right-video",
+      "published_date": "2026-03-28T17:25:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform UK’s ‘pro-family’ policies are an exclusionary sham, minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/mar/28/reform-uk-family-policies-labour-best-start-centres-olivia-bailey",
+      "published_date": "2026-03-28T16:59:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Half a million' join London rally against the far right, claim organisers",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/half-a-million-join-london-rally-against-the-far-right-claim-organisers-13525518",
+      "published_date": "2026-03-28T16:10:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Huge crowds take part in London march against the far right – live",
@@ -484,97 +596,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/crime/leek-mill-fire-staffordshire-arrest-b2947593.html",
       "published_date": "2026-03-28T13:22:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mary Rand - the Olympic champion who blazed a trail for female athletes",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/athletics/articles/crr1dz940v9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T12:04:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luxury watch thief caught wearing neon T-shirt in chip shop jailed",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/luxury-watch-thief-caught-after-wearing-bright-neon-t-shirt-in-chip-shop-13525454",
-      "published_date": "2026-03-28T10:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of protesters descend on London for march against far-right",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/protest-london-met-police-together-alliance-palestine-coalition-b2947442.html",
-      "published_date": "2026-03-28T10:27:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teen convicted of manslaughter after cigarette butt DNA matched to his inhaler",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/teen-convicted-of-manslaughter-after-asthma-inhaler-dna-matched-to-crime-scene-cigarette-butt-13525449",
-      "published_date": "2026-03-28T10:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saving for a pension: why gen Z aren’t all banking on retirement",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/mar/28/pension-saving-gen-z-struggle-to-picture-retirement",
-      "published_date": "2026-03-28T10:00:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager arrested on suspicion of arson after fire rips through historic mill",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/huge-fire-rips-through-historic-big-mill-in-staffordshire-13525428",
-      "published_date": "2026-03-28T08:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices: ‘Social media needs a health warning’: Readers on kids’ rising screen time",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/life-style/health-and-families/screen-time-children-uk-social-media-facebook-meta-b2946931.html",
-      "published_date": "2026-03-28T08:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Left-wing parties would block a Reform government in Wales, says Drakeford",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c04xnzvl27ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T07:34:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaming's Glastonbury arrives in Birmingham",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwykjzv2zz9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T07:04:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We’re quietly chirpy’: some Tories glimpse ray of hope, but others see abyss at May elections",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/mar/28/tories-may-elections-kemi-badenoch-labour-reform-hope-abyss-polls",
-      "published_date": "2026-03-28T07:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'All we want is justice for Amy': Thousands gather at vigil for mother after man charged with murder",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/all-we-want-is-justice-for-amy-thousands-gather-at-vigil-for-mother-after-man-charged-with-murder-13525384",
-      "published_date": "2026-03-28T03:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Our daughters got on a school bus and never came home'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c995yyr1xnno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T00:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Probe launched into policing of man wrongly jailed for 38 years",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/investigation-launched-following-case-of-man-who-was-wrongly-jailed-for-38-years-13525352",
-      "published_date": "2026-03-27T22:45:00+00:00",
       "category": "Local Events"
     }
   ]
