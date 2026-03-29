@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-03-28T23:59:23.074891+00:00",
-  "story_count": 85,
+  "last_updated": "2026-03-29T11:56:44.652276+00:00",
+  "story_count": 90,
   "stories": [
+    {
+      "title": "'I was naive,' says minister who quit over Labour Together claims",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy8135ny182o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-28T17:59:46+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Fresh delay for new EU border checks at Dover",
       "source": "BBC News",
@@ -22,6 +29,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/money/2026/mar/28/end-to-two-child-benefit-cap-offers-300-a-month-lifeline-to-cash-strapped-families",
       "published_date": "2026-03-28T07:00:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-28T01:06:54+00:00",
       "category": "Diplomacy"
     },
     {
@@ -58,6 +72,41 @@
       "url": "https://www.bbc.com/news/videos/cly6glydjl8o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-23T17:50:29+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Royal Navy fits ship with advanced minehunting drones ahead of possible Hormuz deployment",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/hormuz-rfa-lyme-bay-mines-b2947863.html",
+      "published_date": "2026-03-29T11:24:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil on track for record monthly surge as Iran war disrupts markets",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/mar/29/oil-monthly-surge-record-iran-war-markets-gold",
+      "published_date": "2026-03-29T11:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer’s popularity boosted by Iran war rift with Trump, poll shows",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-trump-uk-iran-us-war-poll-b2947803.html",
+      "published_date": "2026-03-29T07:05:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Undercover police officer was sacked for assaulting partner, spycops inquiry hears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/29/undercover-police-officer-was-sacked-for-assaulting-partner-spycops-inquiry-hears",
+      "published_date": "2026-03-29T07:00:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "RAF gunners earn title of drone ‘aces’ for first time in history",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/raf-gunners-iran-drones-uk-b2947791.html",
+      "published_date": "2026-03-29T06:16:46+00:00",
+      "category": "Military"
     },
     {
       "title": "RAF gunners earn title of drone ‘aces’ for first time in history",
@@ -165,39 +214,25 @@
       "category": "Military"
     },
     {
-      "title": "UK politics: Trump says UK’s aircraft carriers are just ‘toys’ – as it happened",
+      "title": "Cut taxes on energy bills before giving bailouts, Badenoch says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-29T11:12:33+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Motorists should 'fill up as normal' despite fuel prices soaring, minister says",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/motorists-should-fill-up-as-normal-despite-fuel-prices-soaring-minister-says-13525774",
+      "published_date": "2026-03-29T08:59:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘Definitely dodgy’: how to spot a fake vape",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/mar/26/keir-starmer-ukraine-iran-social-media-ban-councils-pensions-latest-news-updates",
-      "published_date": "2026-03-26T18:00:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK forecast to see biggest hit to growth from Iran war out of major economies",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-26T12:56:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Ripple of fear' among households over Iran war price surge",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/ripple-of-fear-among-households-over-iran-war-price-surge-13524601",
-      "published_date": "2026-03-26T10:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK CO2 plant to reopen in Iran war contingency plan",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cew7xrj4497o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-26T09:55:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three areas industry is warning government about due to Iran war",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/three-areas-industry-is-warning-government-about-due-to-iran-war-13524555",
-      "published_date": "2026-03-26T07:51:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/society/2026/mar/29/how-to-spot-a-fake-vape-illegal-device",
+      "published_date": "2026-03-29T06:00:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Kemi Badenoch to launch ‘Get Britain Drilling’ campaign amid living cost hikes",
@@ -319,6 +354,27 @@
       "category": "Energy"
     },
     {
+      "title": "War in Iran erodes the chancellor’s headroom and exposes our fragility | Heather Stewart",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/mar/29/war-iran-erodes-chancellor-headroom-uk-fragility-rachel-reeves",
+      "published_date": "2026-03-29T10:13:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "HBO Max pins hopes on Friends and Harry Potter to win UK streaming war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/mar/29/hbo-max-pins-hopes-friends-harry-potter-uk-streaming-war",
+      "published_date": "2026-03-29T09:00:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nigel Farage’s farming adviser calls for wheat prices to double",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/mar/29/nigel-farage-farming-adviser-calls-for-hike-in-wheat-prices-reform-uk",
+      "published_date": "2026-03-29T07:00:49+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "‘It feels like they’re pulling figures out of the sky’: UK pet owners welcome crackdown on vet fees",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/mar/28/pet-owners-welcome-crackdown-on-vet-fees",
@@ -438,25 +494,81 @@
       "category": "Economy"
     },
     {
-      "title": "Five firms including Autotrader and Just Eat investigated over fake review failings",
+      "title": "Man held on suspicion of attempted murder after car hits pedestrians in Derby",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/mar/27/five-firms-including-autotrader-and-just-eat-investigated-over-fake-review-failings",
-      "published_date": "2026-03-27T10:35:56+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/mar/29/man-arrested-in-derby-after-car-hits-multiple-pedestrians-with-some-seriously-injured",
+      "published_date": "2026-03-29T11:09:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "I was paid to write fake Google reviews – then my ‘bosses’ tried to scam me",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/mar/27/paid-write-fake-google-reviews-scammer-cryptocurrency",
-      "published_date": "2026-03-27T08:31:48+00:00",
-      "category": "Economy"
+      "title": "Man arrested after car hits seven people in Derby",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-29T10:53:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Just Eat and Autotrader among five firms under investigation in fake and misleading review crackdown",
+      "title": "Derby car incident: Seven seriously injured after vehicle hits multiple people as man arrested",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/derby-car-incident-news-friar-gate-city-centre-attack-latest-b2947818.html",
+      "published_date": "2026-03-29T10:01:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schools do not have enough staff to make SEND reforms work, union warns",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c15dzz8z153o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-29T09:10:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five years on: Why the SNP is still the  party to beat in Scotland",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2ven2lx10o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-29T07:17:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Road could be shut for days after major mill fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yvrpl6502o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-29T06:13:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why is Northern Ireland 'UK's most dangerous place to be a woman'?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyxexlkgd1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-29T05:13:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lack of specialist staff hinders support for Send children, teacher survey finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/mar/29/lack-of-specialist-staff-hinders-support-for-send-children-teacher-survey-finds",
+      "published_date": "2026-03-29T00:01:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tories face existential challenge from Reform - but electoral pact may not be answer",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/just-eat-and-autotrader-among-five-firms-under-investigation-in-fake-and-misleading-review-crackdown-13524963",
-      "published_date": "2026-03-27T07:53:00+00:00",
-      "category": "Economy"
+      "url": "https://news.sky.com/story/tories-face-existential-challenge-from-reform-but-electoral-pact-may-not-be-answer-13521818",
+      "published_date": "2026-03-29T00:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farage no longer wants a deal with the Tories, he wants to destroy them",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/farage-no-longer-wants-a-deal-with-the-tories-he-wants-to-destroy-them-13525628",
+      "published_date": "2026-03-29T00:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested on suspicion of attempted murder after pedestrians struck by car in Derby",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/derby-man-arrested-on-suspicion-of-attempted-murder-after-multiple-pedestrians-struck-by-car-13525693",
+      "published_date": "2026-03-28T23:50:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Half a million people march in London for biggest anti-far-right demonstration",
@@ -519,83 +631,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/palestine-action-protest-arrests-met-police-headquarters-b2947679.html",
       "published_date": "2026-03-28T18:03:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands march against far right in London in biggest ever multicultural protest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/28/london-far-right-march-biggest-ever-multicultural-protest",
-      "published_date": "2026-03-28T17:29:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huge crowds take part in London march against the far right – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/video/2026/mar/28/huge-crowds-take-part-in-london-march-against-the-far-right-video",
-      "published_date": "2026-03-28T17:25:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK’s ‘pro-family’ policies are an exclusionary sham, minister says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/mar/28/reform-uk-family-policies-labour-best-start-centres-olivia-bailey",
-      "published_date": "2026-03-28T16:59:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Half a million' join London rally against the far right, claim organisers",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/half-a-million-join-london-rally-against-the-far-right-claim-organisers-13525518",
-      "published_date": "2026-03-28T16:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huge crowds take part in London march against the far right – live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/live/2026/mar/28/london-protest-march-together-alliance-against-the-far-right-latest-news-updates",
-      "published_date": "2026-03-28T15:32:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London anti-far right march – latest: Half a million people join protest as extremists ‘intimidated away’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/london-march-today-live-updates-far-right-protest-together-alliance-b2947555.html",
-      "published_date": "2026-03-28T15:21:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Green Party leader Zack Polanski joins half a million people in anti-far-right march in London",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/zack-polanski-green-party-thousands-antifarright-march-london-b2947620.html",
-      "published_date": "2026-03-28T15:15:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drone footage shows huge fire engulf historic mill",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1w40e82w98o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T14:52:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Major Scottish gangland figure Steven Lyons arrested in Bali",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgk157ex41o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T13:41:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Met police investigate stabbing death near Westminster Abbey",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/28/stabbing-death-westminster-abbey-london-met-police-investigate",
-      "published_date": "2026-03-28T13:36:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager arrested after fire tears through historic mill",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/leek-mill-fire-staffordshire-arrest-b2947593.html",
-      "published_date": "2026-03-28T13:22:22+00:00",
       "category": "Local Events"
     }
   ]
