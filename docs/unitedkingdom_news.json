@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-03-30T00:05:15.176336+00:00",
-  "story_count": 92,
+  "last_updated": "2026-03-30T14:55:57.918821+00:00",
+  "story_count": 93,
   "stories": [
+    {
+      "title": "Apple subsidiary fined by UK government over Moscow sanctions breach",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/mar/30/apple-subsidiary-fine-uk-government-sanctions-russia",
+      "published_date": "2026-03-30T12:49:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Childminders are a vital, yet overlooked, part of early years care | Letters",
       "source": "The Guardian",
@@ -88,6 +95,83 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Starmer says UK won’t get ‘dragged into Iran war’ and there is no need for drivers to stock up on petrol – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/mar/30/starmer-iran-war-labour-values-local-elections-campaign-launch-uk-politics-latest",
+      "published_date": "2026-03-30T14:34:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Fertiliser costs mean I'm better off not planting'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyr16v71l6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T14:26:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer pledges to tackle new cost of living crisis at May elections campaign launch",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/mar/30/may-elections-war-on-two-fronts-keir-starmer",
+      "published_date": "2026-03-30T14:11:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How will the Iran war play at the ballot box in May? – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/mar/30/how-will-the-iran-war-play-at-the-ballot-box-in-may-podcast",
+      "published_date": "2026-03-30T13:22:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia expels British diplomat from Moscow over spying claims",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/russia-british-spy-diplomat-moscow-uk-expelled-b2948144.html",
+      "published_date": "2026-03-30T12:38:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British troops will not join any ground invasion of Iran, Starmer says",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-iran-british-troops-iran-ground-b2948296.html",
+      "published_date": "2026-03-30T11:27:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia expels British diplomat over spying allegations",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T10:33:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Easter bank holiday expected to be UK’s busiest on roads in four years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/30/easter-bank-holiday-uk-busiest-roads-four-years",
+      "published_date": "2026-03-30T08:00:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T06:37:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pessimism takes root in UK as shoppers struggle to afford essentials",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/mar/30/pessimism-takes-root-uk-shoppers-struggle-essentials-iran-war-prices",
+      "published_date": "2026-03-30T06:00:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia kicks out British diplomat accused of spying",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/russia-kicks-out-british-diplomat-moscow-accused-of-spying-13524362",
+      "published_date": "2026-03-30T05:00:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Motorists rushed to buy fuel in Iran war aftermath, data reveals",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/barclays-iran-israel-britons-asda-b2948031.html",
@@ -151,81 +235,74 @@
       "category": "Military"
     },
     {
-      "title": "Starmer’s popularity boosted by Iran war rift with Trump, poll shows",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/trump-iran-war-keir-starmer-poll-b2947053.html",
-      "published_date": "2026-03-28T17:52:13+00:00",
-      "category": "Military"
+      "title": "What was the 1970s oil crisis, and are we heading for something worse?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T14:50:06+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UK ‘weeks away’ from medicine shortages if Iran war continues, experts say",
+      "title": "Putin likely to stage another Salisbury-style attack, exiled oil tycoon says",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/mar/28/uk-weeks-away-medicine-shortages-iran-war-impacts-experts-warn",
-      "published_date": "2026-03-28T07:00:22+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/world/2026/mar/30/putin-salisbury-style-attack-exiled-oligarch-mikhail-khodorkovsky",
+      "published_date": "2026-03-30T14:25:31+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+      "title": "Easter bank holiday weekend set to be busiest on roads in four years",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T21:16:30+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/cy81eryy125o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T13:31:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Middle East conflict could drive up homelessness, housing minister warns",
+      "title": "Reeves urged to follow Europe’s example and protect consumers amid spiralling fuel prices",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/homelessness-alison-mcgovern-temporary-accommodation-iran-war-uk-b2945418.html",
-      "published_date": "2026-03-27T18:55:03+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/politics/fuel-prices-diesel-petrol-iran-oil-b2948396.html",
+      "published_date": "2026-03-30T13:26:30+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Sanctioned oil tanker enters UK waters day after government crackdown threat",
+      "title": "Diesel price hits highest level since December 2022",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/rac-government-rachel-reeves-iran-b2948367.html",
+      "published_date": "2026-03-30T12:22:11+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "White van man ‘bleeding cash’ as diesel price disparity hits new high",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/strait-of-hormuz-iran-government-rachel-reeves-diesel-b2948358.html",
+      "published_date": "2026-03-30T12:02:09+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The renewable energy source homeowners are turning to as oil and gas prices soar",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/solar-power-oil-gas-prices-e-on-b2948267.html",
+      "published_date": "2026-03-30T10:42:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Remove VAT from energy bills for three years, Tories urge",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3lw02ndr5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T18:48:33+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/c4gx01d0re1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T09:57:53+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T18:28:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FTSE 100 ends down as oil rises while Iran war remains in deadlock",
+      "title": "UK diesel price disparity hits new high as Iran oil crisis deepens",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/strait-of-hormuz-tehran-donald-trump-aim-pricewaterhousecoopers-b2947278.html",
-      "published_date": "2026-03-27T17:35:02+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/diese-prices-petrol-fuel-costs-iran-b2948254.html",
+      "published_date": "2026-03-30T09:53:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Emily Thornberry warns  Britain is ‘complacent’ in ‘disinformation war’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/emily-thornberry-iran-war-russia-china-disinformation-b2947151.html",
-      "published_date": "2026-03-27T17:26:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Asda warns of ‘temporary shortages’ at some petrol pumps amid Iran war",
+      "title": "Cost of living: how to prepare for the ‘awful April’ shower of bill increases",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/mar/27/asda-boss-warns-of-temporary-shortages-at-some-petrol-pumps-iran-war",
-      "published_date": "2026-03-27T16:47:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How the Iran war may affect your money and bills",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T12:51:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Ripple of fear' over Iran war hits consumer confidence",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8957kqqdg4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T12:13:36+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/money/2026/mar/30/cost-of-living-how-to-prepare-for-the-awful-april-shower-of-bill-increases",
+      "published_date": "2026-03-30T06:00:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "Britons turn to solar power to ‘insulate’ against oil and gas chaos, says E.On",
@@ -298,74 +375,67 @@
       "category": "Energy"
     },
     {
-      "title": "How EVs could be part of answer to UK’s fuel reserve worries",
+      "title": "FCA to release details of UK car finance scandal compensation scheme",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/mar/28/how-evs-could-be-part-of-answer-to-uk-fuel-reserve-worries",
-      "published_date": "2026-03-28T13:00:29+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/mar/30/fca-uk-car-motor-finance-scandal-compensation-scheme",
+      "published_date": "2026-03-30T13:47:41+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK supermarket boss warns fuel supply is ‘tight’ as petrol prices soar above 150p a litre",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/asda-fuel-prices-iran-diesel-petrol-b2946980.html",
-      "published_date": "2026-03-28T09:26:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Hundreds of North Sea licences granted by Conservatives have ‘so far produced only 36  days worth of gas’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/mar/28/north-sea-oil-gas-licences-conservatives",
-      "published_date": "2026-03-28T07:00:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "How will energy crisis hit Ireland's economy?",
+      "title": "How will car finance compensation payments work?",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g8wyvv1wxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T06:17:59+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T12:14:58+00:00",
+      "category": "Economy"
     },
     {
-      "title": "King Charles suffers ‘disaster’ at plaque unveiling as he hails work of solar panel firm",
+      "title": "PayPoint plans overhaul to cut costs and get more people using services",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-disaster-oxford-solar-panel-b2947425.html",
-      "published_date": "2026-03-27T22:27:32+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/atms-london-b2948332.html",
+      "published_date": "2026-03-30T11:26:09+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK judge praises Barron Trump’s ‘lifesaving’ actions in reporting assault on friend",
+      "title": "Reeves is ‘oblivious’ to the Iran war cost of living crisis, blasts Kemi Badenoch",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/barron-trump-woman-assault-jailed-matvei-rumiantsev-london-uk-b2946964.html",
-      "published_date": "2026-03-27T16:44:14+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/rachel-reeves-kemi-badenoch-iran-war-b2948013.html",
+      "published_date": "2026-03-30T10:47:18+00:00",
+      "category": "Economy"
     },
     {
-      "title": "King suffers ‘disaster’ while unveiling plaque during visit to solar panel firm",
+      "title": "Watchdogs join up to tackle saga motorists face making car finance claims",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/the-king-charles-oxford-kate-green-oxford-university-b2947183.html",
-      "published_date": "2026-03-27T15:49:08+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/fca-advertising-standards-authority-ico-press-association-b2948286.html",
+      "published_date": "2026-03-30T10:25:33+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK car production falls 17% as industry warns of ‘worrying’ decline",
+      "title": "DWP payment date changes for Easter 2026 universal credit, benefits and pensions plus cost of living support",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/dwp-payment-date-change-easter-2026-cost-of-living-b2948199.html",
+      "published_date": "2026-03-30T08:57:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Car finance compensation scheme: How will redress work and who is eligible?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/car-finance-claims-compensation-redress-scheme-fca-b2948186.html",
+      "published_date": "2026-03-30T08:52:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK savers told to act now before Easter Sunday cash Isa deadline",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/mar/27/uk-car-production-falls-worrying-decline",
-      "published_date": "2026-03-27T11:59:16+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/money/2026/mar/30/uk-savers-told-to-act-now-before-easter-sunday-cash-isa-deadline",
+      "published_date": "2026-03-30T06:00:20+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Panic buying prompts PM to reassure Australians over fuel supply",
+      "title": "I turned down MMA fighter on a night out - so he punched me",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg73znr1vj7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-27T06:32:59+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ed Miliband’s stock is rising because he’s a rare commodity in Labour these days: a thinker | Gaby Hinsliff",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/27/ed-miliband-rare-labour-thinker-intellectual-heavyweight",
-      "published_date": "2026-03-27T06:00:05+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c86e3dpj2d9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T05:35:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
@@ -445,206 +515,143 @@
       "category": "Economy"
     },
     {
-      "title": "City's electronic music venues struggling despite growth",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg4gdxp553wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T07:35:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Service charges coming under government scrutiny",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxd9ee1dwzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T07:17:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "I cleared my £40,000 gambling debt after I started re-selling clothes online",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvg0d73v3gvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T07:05:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Free prom hire boutique set up for two schools",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c17ve1n8njgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T06:47:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The £5.30 orange juice that tells the story of why supermarket prices are sky high",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T06:30:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How Trump and the oil markets move in sync: a tango in five charts",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T03:04:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Where have weekend jobs for teenagers gone?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwywxlvelevo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T00:40:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tiramisu hot cross buns, doughnut eggs: Have Easter treats gone too far?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyenwrz23go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-28T00:33:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK government borrowing costs hit 5% as Iran war fuels bond market sell-off",
+      "title": "Families hardest hit by energy crisis could be given funds dispensed by councils in England",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/mar/27/uk-government-borrowing-iran-war-bond-market-sell-off",
-      "published_date": "2026-03-27T16:59:52+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/business/2026/mar/30/families-hardest-hit-energy-crisis-given-funds-dispensed-local-councils",
+      "published_date": "2026-03-30T14:46:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Papers:  'Horror on the street' and 'Fears grow over shortages'",
+      "title": "Defection MP locked out of office loses court case",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy81e75vy7mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T23:47:26+00:00",
+      "url": "https://www.bbc.com/news/articles/cp3l14d9wklo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T14:30:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Child focus is biggest change to family courts in 30 years, senior judge says",
+      "title": "Cardiff City damages claim over Emiliano Sala death dismissed",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y96wyj5pyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T23:07:04+00:00",
+      "url": "https://www.bbc.com/news/articles/c8jkeprrn00o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T14:24:02+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Barack Obama and Sir David Attenborough to appear in Queen Elizabeth II BBC documentary",
+      "title": "Welsh Labour promises NHS will see people within 48 hours in manifesto",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c747kp8eexjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T14:23:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform defector loses High Court bid for access to Tory HQ and ‘panic room’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/bbc-documentary-queen-elizabeth-obama-b2947958.html",
-      "published_date": "2026-03-29T22:44:33+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/andrew-rosindell-reform-farage-romford-b2948368.html",
+      "published_date": "2026-03-30T14:20:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Starmer to kick off make-or-break local election campaign with vow to ‘fight for our values’",
+      "title": "Former BBC DJ Tim Westwood gets next court date in rape and sex assault case",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-local-election-campaign-labour-b2947912.html",
-      "published_date": "2026-03-29T21:30:58+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/tim-westwood-rape-bbc-court-b2948422.html",
+      "published_date": "2026-03-30T13:40:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Keir Starmer to launch local elections campaign with focus on cost of living",
+      "title": "‘A life among the trees’: Bristol zoo’s gorillas move out of town",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/mar/29/keir-starmer-labour-local-elections-campaign-cost-of-living-iran-war",
-      "published_date": "2026-03-29T21:30:06+00:00",
+      "url": "https://www.theguardian.com/world/2026/mar/30/bristol-zoo-gorillas-move",
+      "published_date": "2026-03-30T13:13:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Seven years since Emiliano Sala's death, what has changed for the 'wild west' of football transfers?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c93eqg9wnx0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T20:50:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Councils pressed to use universal parking app to cut 'unfair' fines",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgep3ryp9po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T19:02:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burglar tracked down by neon t-shirt while eating fish and chips in Kent",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/burglar-neon-t-shirt-arrest-kent-video-b2947972.html",
-      "published_date": "2026-03-29T18:59:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS restructure is greatest danger to Streeting’s effort to revive service",
+      "title": "Starmer says UK will not be ‘dragged into Iran war’, as he launches local election campaign – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/mar/29/nhs-restructure-danger-wes-streeting-revive-service",
-      "published_date": "2026-03-29T18:45:56+00:00",
+      "url": "https://www.theguardian.com/politics/video/2026/mar/30/starmer-says-uk-will-not-be-dragged-into-iran-war-as-he-launches-local-election-campaign-video",
+      "published_date": "2026-03-30T13:02:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NHS to miss targets for cutting A&E wait times and performance in England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/mar/29/nhs-miss-targets-wait-times-performance-england-wes-streeting",
-      "published_date": "2026-03-29T16:56:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Keir Starmer made Hillsborough families a promise, now we fear he won’t keep his word’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/hillsborough-law-delay-keir-starmer-bill-b2945366.html",
-      "published_date": "2026-03-29T16:22:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 26, shot dead in car near Euston station",
+      "title": "Man charged with murder after 'frenzied attack' in Portadown",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwykgv0xlwwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T15:51:22+00:00",
+      "url": "https://www.bbc.com/news/articles/c1kr483r0ewo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T12:46:41+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Hunt for killer after man shot dead in London",
+      "title": "Siblings face huge ‘fence wars’ court bill after chopping down trees in neighbours’ garden",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nazeing-robert-mccarthy-foulla-bowler-b2948138.html",
+      "published_date": "2026-03-30T12:27:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rob Burrow's father dies after short illness",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwykq1rvgqjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T12:27:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘The police can’t do it alone’: head of police watchdog on how to cut crime",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/mar/30/andy-cooke-police-how-to-cut-crime",
+      "published_date": "2026-03-30T12:26:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Total washout expected for Easter bank holiday weekend as Met Office forecasts rain and wind",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/weather/met-office-weather-easter-rain-wind-b2948241.html",
+      "published_date": "2026-03-30T12:24:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two hurt in Derby car incident released from hospital",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0le0nrnxpno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T11:51:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM launches Labour's local election campaign with focus on cost of living",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8r4gp71l5mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T11:35:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sir Billy Connolly creates audio guide for Kelvingrove Museum",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn89r8dy7m4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T11:31:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tributes paid to 'innocent' teenager as four arrested on suspicion of murder remain in custody",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/hunt-for-killer-after-man-shot-dead-in-london-13525840",
-      "published_date": "2026-03-29T13:33:00+00:00",
+      "url": "https://news.sky.com/story/tributes-paid-to-innocent-teenager-chloe-watson-as-four-arrested-on-suspicion-of-murder-remain-in-custody-13526081",
+      "published_date": "2026-03-30T10:59:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Victim in murder inquiry was 16-year-old girl",
+      "title": "Partner of crime boss Steven Lyons arrested in Dubai",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c145j60236vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T13:03:13+00:00",
+      "url": "https://www.bbc.com/news/articles/ckg02jl9ngpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T10:39:40+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Crime boss Steven Lyons paraded by Bali police after airport arrest",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8x74kn1597o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T12:38:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man held on suspicion of attempted murder after car hits pedestrians in Derby",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/29/man-arrested-in-derby-after-car-hits-multiple-pedestrians-with-some-seriously-injured",
-      "published_date": "2026-03-29T11:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested after car hits seven people in Derby",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T10:53:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Derby car incident: Seven seriously injured after vehicle hits multiple people as man arrested",
+      "title": "Staff at University of Edinburgh strike over proposed cuts",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/derby-car-incident-news-friar-gate-city-centre-attack-latest-b2947818.html",
-      "published_date": "2026-03-29T10:01:14+00:00",
+      "url": "https://www.independent.co.uk/news/business/university-of-edinburgh-scotland-b2948270.html",
+      "published_date": "2026-03-30T10:05:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Schools do not have enough staff to make SEND reforms work, union warns",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c15dzz8z153o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T09:10:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five years on: Why the SNP is still the  party to beat in Scotland",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2ven2lx10o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-29T07:17:49+00:00",
+      "title": "Two pedestrians injured when car struck seven outside pub discharged from hospital",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/two-pedestrians-injured-when-car-struck-seven-outside-derby-pub-discharged-from-hospital-13526055",
+      "published_date": "2026-03-30T09:42:00+00:00",
       "category": "Local Events"
     }
   ]
