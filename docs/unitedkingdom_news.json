@@ -1,8 +1,50 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-01T00:04:35.277361+00:00",
-  "story_count": 94,
+  "last_updated": "2026-04-01T14:56:43.451876+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Starmer says he will push for ‘closer partnership’ with EU after Iran war highlights global volatility – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates",
+      "published_date": "2026-04-01T14:35:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starmer calls for UK to get closer to EU after Trump criticism and warns coming weeks ‘won’t be easy’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-uk-iran-war-starmer-trump-b2950050.html",
+      "published_date": "2026-04-01T14:18:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T14:00:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian ambassador suggests Tehran could strike British bases",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/iran-us-war-middle-east-raf-fairford-b2949766.html",
+      "published_date": "2026-04-01T10:27:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Voices: ‘An absolutely impossible situation’: Readers clash over King Charles’ US state visit",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/life-style/royal-family/news/king-charles-us-state-visit-trump-b2949874.html",
+      "published_date": "2026-04-01T09:31:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Delayed by EU entry/exit system? Then travel light",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/01/delayed-by-eu-entry-exit-system-then-travel-light",
+      "published_date": "2026-04-01T06:00:40+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russia’s shadow fleet pass through UK waters after Starmer’s boarding threat",
       "source": "The Independent",
@@ -102,144 +144,207 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'Something needs to be done' - Americans struggle as petrol prices surge",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cn4vggzkjgdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T22:45:49+00:00",
+      "title": "Navy captain steps back from duties over link to MP whose husband faces China spy claims",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/01/navy-captain-steps-back-from-duties-link-mp-husband-china-spy-claims",
+      "published_date": "2026-04-01T14:40:28+00:00",
       "category": "Military"
     },
     {
-      "title": "Oil nears highest price since start of Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T22:34:04+00:00",
+      "title": "UK food inflation ‘could hit 9% this year’ as Iran war drives up energy prices",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/01/uk-food-inflation-iran-war-drives-up-energy-prices",
+      "published_date": "2026-04-01T14:05:02+00:00",
       "category": "Military"
     },
     {
-      "title": "Police given stronger powers to combat public sexual harassment",
+      "title": "Drivers urged to drive 10% slower to ‘improve fuel efficiency’ as prices rise amid Iran war",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/fuel-prices-oil-iran-uk-drive-slower-b2950115.html",
+      "published_date": "2026-04-01T13:23:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer holds off from emergency measures but warns storm is coming",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjr9nq94vrwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T13:03:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war shows UK needs ‘ambitious’ new EU ties, Starmer says, as Trump again criticises Nato",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/01/uk-needs-ambitious-new-eu-ties-amid-iran-war-starmer-says",
+      "published_date": "2026-04-01T13:02:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US jibes at Royal Navy are uncomfortable because they have substance | Jamie Grierson",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/01/us-royal-navy-jibes-are-uncomfortable-because-they-have-substance-pete-hegseth",
+      "published_date": "2026-04-01T12:57:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ryanair CEO issues warning over jet fuel shortages amid Iran war – here’s when disruption is expected",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/ryanair-uk-flights-fuel-supplies-shortages-iran-war-b2950058.html",
+      "published_date": "2026-04-01T12:41:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Politics latest: ‘Angry’ Reeves says Trump started Iran war with ‘no clear plan’ to end conflict",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-iran-war-latest-updates-trump-uk-b2949792.html",
+      "published_date": "2026-04-01T12:29:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ryanair warns of jet fuel supply disruption in May",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/police-given-stronger-powers-to-combat-public-sexual-harassment-13526452",
-      "published_date": "2026-03-31T21:29:00+00:00",
+      "url": "https://news.sky.com/story/ryanair-warns-of-jet-fuel-supply-disruption-in-may-13526834",
+      "published_date": "2026-04-01T12:17:00+00:00",
       "category": "Military"
     },
     {
-      "title": "‘Get your own oil’: Trump launches tirade against Europe for not joining Iran war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/31/trump-launches-tirade-against-european-countries-not-joining-iran-war",
-      "published_date": "2026-03-31T21:01:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "David Dimbleby labels King Charles’ US visit ‘an embarrassment’ - urging ministers to call it off",
+      "title": "Factory input price inflation jumps by most since 1992 due to Iran war – survey",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-trump-visit-us-david-dimbleby-bbc-b2949551.html",
-      "published_date": "2026-03-31T20:27:10+00:00",
+      "url": "https://www.independent.co.uk/news/business/iran-pmi-middle-east-holly-williams-b2949888.html",
+      "published_date": "2026-04-01T11:22:55+00:00",
       "category": "Military"
     },
     {
-      "title": "More UK troops to be sent to Middle East, defence secretary announces",
+      "title": "First sea lord admits Royal Navy is not ready for war",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/us-iran-war-uk-royal-navy-b2949806.html",
+      "published_date": "2026-04-01T10:57:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil briefly falls below $100 and shares jump on Trump Iran war pledge",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7vq76g45rvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T20:25:20+00:00",
+      "url": "https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T08:49:19+00:00",
       "category": "Military"
     },
     {
-      "title": "UK sends more troops to Middle East to defend Gulf allies against Iran’s ‘aggressive’ attacks",
+      "title": "Oil prices retreat and stock markets rally on Iran war resolution optimism",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/uk-troops-iran-war-middle-east-healey-b2949316.html",
-      "published_date": "2026-03-31T17:46:15+00:00",
+      "url": "https://www.independent.co.uk/news/business/iran-donald-trump-strait-of-hormuz-stock-markets-brent-b2949843.html",
+      "published_date": "2026-04-01T08:26:47+00:00",
       "category": "Military"
     },
     {
-      "title": "Nigel Farage’s biggest problem? Donald Trump",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/mar/31/nigel-farage-reform-biggest-problem-donald-trump",
-      "published_date": "2026-03-31T17:26:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK sends more troops to Gulf amid Trump jibes over British military role",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/31/uk-troops-gulf-donald-trump-jibes-british-military-involvement",
-      "published_date": "2026-03-31T16:24:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "King Charles and Queen to visit US in April in first state visit for a UK monarch for 20 years",
+      "title": "Starmer to update on cost of living as Iran conflict pushes diesel tank to £100",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-queen-state-visit-us-trump-b2949156.html",
-      "published_date": "2026-03-31T14:30:38+00:00",
+      "url": "https://www.independent.co.uk/news/business/keir-starmer-rachel-reeves-iran-donald-trump-mel-stride-b2949715.html",
+      "published_date": "2026-04-01T08:07:40+00:00",
       "category": "Military"
     },
     {
-      "title": "King’s state visit to US will take place in April despite calls to delay amid Iran war – UK politics live",
+      "title": "David Dimbleby labels King Charles’ US visit ‘an embarrassment’ – urging ministers to call it off",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-us-visit-trump-david-dimbleby-bbc-b2949734.html",
+      "published_date": "2026-04-01T05:47:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Asian stocks rally as Trump says US will leave Iran war in ‘two to three weeks’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/middle-east/asian-stocks-iran-war-trump-b2949710.html",
+      "published_date": "2026-04-01T05:19:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Beer shortage warning for India as Iran war hits supply",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/asia/india/beer-shortage-warning-iran-war-heineken-carlsberg-b2949709.html",
+      "published_date": "2026-04-01T04:37:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war worries fail to dampen business sentiment in Japan",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/asia/japan/japan-business-tankan-report-yen-b2949702.html",
+      "published_date": "2026-04-01T04:20:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The brilliant students the UK doesn’t want - podcast",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/mar/31/doctors-strike-starmer-bma-nhs-labour-conservatives-reform-farage-latest-news-updates",
-      "published_date": "2026-03-31T14:16:43+00:00",
+      "url": "https://www.theguardian.com/news/audio/2026/apr/01/the-brilliant-students-the-uk-doesnt-want-podcast",
+      "published_date": "2026-04-01T02:00:34+00:00",
       "category": "Military"
     },
     {
-      "title": "US petrol price tops $4 for first time since 2022",
+      "title": "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn8d47vzz13o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T13:56:01+00:00",
+      "url": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-31T22:48:34+00:00",
       "category": "Military"
     },
     {
-      "title": "King Charles’s state visit to US will be ‘humiliation’ amid Iran war",
+      "title": "Would more North Sea drilling mean lower energy prices for UK consumers?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/31/king-charles-state-visit-to-us-to-go-ahead-buckingham-palace-confirms",
-      "published_date": "2026-03-31T13:39:13+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/apr/01/would-more-north-sea-drilling-mean-lower-energy-prices-uk-consumers-explainer",
+      "published_date": "2026-04-01T14:00:01+00:00",
+      "category": "Energy"
     },
     {
-      "title": "How the Iran war may affect your money and bills",
+      "title": "Girls arrested as 'online trends' fuel disturbance",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T11:19:17+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/cm25yv7z3jko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T13:50:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘All roads’ from Iran war lead to higher prices and slower growth, warns IMF",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/strait-of-hormuz-iran-middle-east-italy-asia-b2948532.html",
-      "published_date": "2026-03-31T10:54:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tuna firm Princes signals potential price rises as Iran conflict pushes up costs",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/iran-middle-east-london-grocer-london-stock-exchange-b2949104.html",
-      "published_date": "2026-03-31T10:52:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Food prices set to spike amid Iran war – but not for the reason you might expect",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-food-prices-iran-us-war-inflation-groceries-fuel-b2948451.html",
-      "published_date": "2026-03-31T10:34:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WW2 veteran who fought on D-Day dies aged 100",
+      "title": "Warning Iran war 'shock' could push up mortgages for 1.3m homeowners",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyx17vznz0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T08:07:56+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/c895pqepwv2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T10:47:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The toughest job facing the new head of Ofcom: tackling the blatantly partisan GB News | Polly Toynbee",
+      "title": "In The Room | Stockpiling fuel and panic buying loo roll – are we prepped for war?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/in-the-room/iran-war-uk-fuel-crisis-stockpiling-in-the-room-b2946830.html",
+      "published_date": "2026-04-01T10:11:15+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Food prices to soar by almost 10% due to Iran war, as fuel and energy bills bite",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/food-prices-grocery-inflation-fdf-iran-war-b2949769.html",
+      "published_date": "2026-04-01T10:04:24+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy bill help would be based on household income, Reeves says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T08:07:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Social media influencers fuelling ‘violent extremism’, MPs warn",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/social-media-influencers-violence-government-b2949785.html",
+      "published_date": "2026-04-01T07:21:29+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy crisis: why ‘keep calm but cut down’ may be a better message for Labour",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/31/toughest-job-new-head-ofcom-partisan-gb-news",
-      "published_date": "2026-03-31T07:00:34+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/politics/2026/apr/01/energy-crisis-keep-calm-but-cut-down-better-message-labour",
+      "published_date": "2026-04-01T06:00:41+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Oil prices fall after report says Trump open to ending US-Israeli war against Iran",
+      "title": "Household energy bill drop ‘short-lived respite’ amid fears of July hike",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/oil-prices-asia-trade-trump-military-campaign-iran-b2948820.html",
-      "published_date": "2026-03-31T06:15:36+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/ofgem-chancellor-energy-uk-simon-francis-middle-east-b2949669.html",
+      "published_date": "2026-04-01T01:45:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "What is happening to gas and electricity prices?",
@@ -319,67 +424,137 @@
       "category": "Energy"
     },
     {
-      "title": "Reeves urged to follow Europe’s example and protect consumers amid spiralling fuel prices",
+      "title": "Union warns of ‘year of disruption’ at university amid ongoing cuts row",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/uk-fuel-oil-prices-diesel-petrol-rachel-reeves-b2948868.html",
-      "published_date": "2026-03-31T05:30:25+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/university-and-college-union-university-of-edinburgh-trade-unions-edinburgh-union-b2950119.html",
+      "published_date": "2026-04-01T14:48:42+00:00",
+      "category": "Economy"
     },
     {
-      "title": "More drilling in North Sea ‘not the answer’ for UK energy security, say former military leaders",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/mar/31/drilling-north-sea-not-the-answer-uk-energy-security",
-      "published_date": "2026-03-31T05:00:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Are domes and spheres the future of entertainment?",
+      "title": "Newly qualified paramedics told to apply for jobs abroad due to hire freeze",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq6q66n86qyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T23:29:15+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c70dnkqjyvlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T14:39:05+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Greens pledge £600m renewables investment through carbon capture cuts",
+      "title": "How to wear a quarter-zip jumper without looking like a finance bro (and 14 of the best)",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/apr/01/best-quarter-zip-jumper-men-uk",
+      "published_date": "2026-04-01T14:00:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rightmove hit with £1.5bn legal claim by estate agents over ‘excessive’ fees",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/scotland-green-energy-uk-government-snp-iran-b2948762.html",
-      "published_date": "2026-03-30T23:01:00+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/rightmove-property-website-legal-action-estate-agents-b2950134.html",
+      "published_date": "2026-04-01T13:55:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "IMF warns Middle East conflict will lead to higher prices and slower global growth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/30/imf-warns-middle-east-conflict-will-lead-to-higher-prices-and-slower-global-growth",
-      "published_date": "2026-03-30T17:32:21+00:00",
-      "category": "Energy"
+      "title": "Minimum wage increase comes into force – what it means for 2.7m workers",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/real-living-wage-pay-rise-minimum-wage-2025-b2950005.html",
+      "published_date": "2026-04-01T13:41:24+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Kemi the attention seeker somehow always makes two plus two equal five | John Crace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/mar/30/kemi-the-attention-seeker-somehow-always-makes-two-plus-two-equal-five",
-      "published_date": "2026-03-30T17:12:07+00:00",
-      "category": "Energy"
+      "title": "EasyGroup loses High Court trademark dispute over ‘easy’ branding",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/easyjet-trademark-copyright-court-easyfeetstore-b2950069.html",
+      "published_date": "2026-04-01T12:53:45+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Remove VAT from energy bills for three years, Tories urge",
+      "title": "From 14-hour shifts to lottery win for former Tata Steel workers",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gx01d0re1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T16:32:34+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c8x7gy4l1vro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T12:53:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "What was the 1970s oil crisis, and are we heading for something worse?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-30T14:50:06+00:00",
-      "category": "Energy"
+      "title": "More than a million households face higher mortgages due to Iran war, warns Bank of England",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/mortgages-bank-of-england-iran-war-energy-prices-b2949983.html",
+      "published_date": "2026-04-01T12:41:58+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Putin likely to stage another Salisbury-style attack, exiled oil tycoon says",
+      "title": "Jo Malone sued for £200,000 in damages over use of her own name",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/jo-malone-zara-estee-lauder-trademark-b2950034.html",
+      "published_date": "2026-04-01T12:17:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Housebuilder Berkeley to halt buying new land and hiring staff",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/mar/30/putin-salisbury-style-attack-exiled-oligarch-mikhail-khodorkovsky",
-      "published_date": "2026-03-30T14:25:31+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/apr/01/housebuilder-berkeley-to-halt-buying-new-land-and-hiring-staff",
+      "published_date": "2026-04-01T11:38:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran war may increase mortgage payments for extra 1.3m households, says Bank of England",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/01/iran-war-higher-mortgage-payments-uk-households-bank-of-england",
+      "published_date": "2026-04-01T10:35:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "All the bills going up in April as households face over £200 in extra costs",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/april-bill-rises-energy-water-council-tax-easter-b2949925.html",
+      "published_date": "2026-04-01T10:14:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "DWP payment dates for Easter 2026 universal credit, benefits and pensions plus cost of living support",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/dwp-payment-date-april-uc-easter-2026-cost-of-living-b2949876.html",
+      "published_date": "2026-04-01T09:21:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Family feud over textiles empire ends in court as son-in-law fails to seize £10m business",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/natalie-jeremy-berg-darren-hill-fabric-land-b2949834.html",
+      "published_date": "2026-04-01T08:56:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Minimum wage: Who is getting a pay rise and how much is it?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T08:52:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Reeves: Government ‘can’t alleviate every price increase’ from Iran war",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/rachel-reeves-chancellor-government-iran-middle-east-b2949822.html",
+      "published_date": "2026-04-01T08:08:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Housebuilder Berkeley to pause buying new land for homes amid global volatility",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/berkeley-middle-east-london-iran-b2949784.html",
+      "published_date": "2026-04-01T07:12:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Revealed: the vast illegal casino network targeting UK gamblers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/apr/01/the-vast-casino-network-targeting-uk-gamblers",
+      "published_date": "2026-04-01T07:00:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Chancellor meets UK supermarket bosses to discuss cost of living",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/01/chancellor-meets-uk-supermarket-bosses-discuss-cost-living",
+      "published_date": "2026-04-01T04:00:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Two-thirds of UK hospitality businesses plan to cut jobs and one in seven will close, survey finds",
@@ -389,137 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "Minimum wage rises to £12.71 an hour",
+      "title": "Man appears in court after pedestrians hit by car in Derby",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T23:01:15+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/c4g8epx01gqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T14:41:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Cost of living crisis ‘holding young people back from having children’ as UK birth rate falls",
+      "title": "Officers investigated after black child suffers broken knee in police search",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp38qz29k83o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T14:22:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SNP candidate ditched over handling of Linden complaints",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp86v8lze34o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T14:08:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayor resigns over social media posts about Golders Green arson",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-birth-rate-cost-of-living-b2949413.html",
-      "published_date": "2026-03-31T23:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/golders-green-bath-mayor-resigns-b2950131.html",
+      "published_date": "2026-04-01T13:53:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "From water to council tax: How the bill rises (and one drop) affect you",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyeke8z871o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T23:00:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Want to boost the UK’s birthrate? Fix the housing crisis, research suggests",
+      "title": "Pot Noodle pizza and Liz Truss joining Nasa were among the best April fools this year",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/01/uk-birthrate-fix-housing-crisis-research",
-      "published_date": "2026-03-31T23:00:31+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/media/2026/apr/01/pot-noodle-pizza-liz-truss-nasa-april-fools-2026",
+      "published_date": "2026-04-01T13:31:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tech giant Oracle makes 'significant' job cuts",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T21:50:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Britons brace for price hikes despite Starmer pledge to ease spiralling cost of living",
+      "title": "Man accused of injuring seven people with car in Derby appears in court",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/energy-bills-oil-petrol-cost-of-living-iran-war-starmer-b2949433.html",
-      "published_date": "2026-03-31T21:31:11+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/man-accused-injuring-seven-car-derby-court-b2949846.html",
+      "published_date": "2026-04-01T13:19:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Crunch talks between resident doctors and ministers set to continue",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/prime-minister-keir-starmer-government-nhs-b2949499.html",
-      "published_date": "2026-03-31T21:12:30+00:00",
-      "category": "Economy"
+      "title": "MP rejects Palantir’s claims that criticism of NHS England deal is ‘ideologically motivated’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/apr/01/mp-palantir-claims-criticism-nhs-england-deal",
+      "published_date": "2026-04-01T12:55:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "What business cost increases are being introduced in April?",
+      "title": "Boy, 17, among new arrests over suspected arson attack on Jewish charity ambulances",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/01/more-arrested-suspected-arson-attack-ambulances-golders-green",
+      "published_date": "2026-04-01T12:44:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with firearms offences after Dover counter-terror police arrest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/01/man-charged-firearms-offences-dover-counter-terror-police-arrest",
+      "published_date": "2026-04-01T11:54:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BBC knew about police investigation into Scott Mills in 2017",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/what-business-cost-increases-are-being-introduced-in-april-13526551",
-      "published_date": "2026-03-31T17:39:00+00:00",
-      "category": "Economy"
+      "url": "https://news.sky.com/story/bbc-knew-about-police-investigation-into-scott-mills-in-2017-13526088",
+      "published_date": "2026-04-01T11:34:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FTSE stocks up as Donald Trump ‘prioritises diplomatic efforts’ in Iran war",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/donald-trump-unilever-aim-iran-jd-sports-b2949424.html",
-      "published_date": "2026-03-31T16:17:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Centuries-old pottery firm Denby set to call in administrators",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/mar/31/denby-pottery-call-in-administrators",
-      "published_date": "2026-03-31T15:59:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Alexander Dennis to shut Falkirk site and convert another with 115 jobs at risk",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/falkirk-john-swinney-scottish-government-scottish-snp-b2949127.html",
-      "published_date": "2026-03-31T15:48:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bus firm Alexander Dennis to close Falkirk site with loss of 115 jobs",
+      "title": "Dissident groups still have 'capacity and desire' to attack police",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg54v6y1en9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T14:39:46+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cx2rxpegqn0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-01T11:26:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Reform UK vows to scrap tax for short-haul family flights",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9wq8w9q0y1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T14:34:27+00:00",
-      "category": "Economy"
+      "title": "Six police officers under investigation after teenager forced off e-bike",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/six-london-police-officers-investigated-after-boy-16-forced-off-e-bike-and-left-with-fractured-knee-13526789",
+      "published_date": "2026-04-01T10:25:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The best regular savings accounts earning you up to 7% in interest",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/best-regular-savings-accounts-interest-rate-b2949064.html",
-      "published_date": "2026-03-31T13:33:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Marmite maker Unilever agrees $44.8bn deal to combine food arm with McCormick",
+      "title": "Tony Blair says the left is in ‘unholy alliance’ with Islamists. It’s a desperate last ploy to quell the anger over Gaza | Owen Jones",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/mar/31/marmite-maker-unilever-nears-deal-to-combine-food-arm-with-us-condiment-giant",
-      "published_date": "2026-03-31T13:32:32+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/01/tony-blair-left-islamism-israel",
+      "published_date": "2026-04-01T09:00:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Steel bosses warn ‘back door’ loophole in UK trade rules could lead to job cuts and closures",
+      "title": "Two arrested after crowds flood high street in social media craze",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/two-arrested-after-crowds-of-young-people-swarm-london-high-street-in-social-media-flash-mob-13526755",
+      "published_date": "2026-04-01T08:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man appears in court after pedestrians hit by car in Derby city centre",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-appears-in-court-after-seven-pedestrians-hit-by-car-in-derby-city-centre-13526732",
+      "published_date": "2026-04-01T07:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Where’s Wally tattoo and a stick-on Hitler moustache: Non-crime hate incidents now set to be scrapped",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/non-crime-hate-incidents-scrap-labour-b2949010.html",
+      "published_date": "2026-04-01T07:40:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police chiefs failed to tackle racism due to lack of leadership, watchdog finds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/mar/31/steel-bosses-warn-back-door-loophole-lead-to-job-cuts-factory-closures",
-      "published_date": "2026-03-31T13:19:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Unilever strikes £33.8 billion food business tie-up deal with US rival McCormick",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/unilever-marmite-french-dove-b2949243.html",
-      "published_date": "2026-03-31T13:19:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Domino’s appoints boss as pizza giant expands into chicken market",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/dominos-pizza-chicken-nicola-frampton-b2948984.html",
-      "published_date": "2026-03-31T12:41:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Alexander Dennis to shut Falkirk site and convert another with 115 jobs at risk",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/falkirk-scottish-government-john-swinney-scottish-snp-b2949127.html",
-      "published_date": "2026-03-31T12:23:39+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/apr/01/police-chiefs-failed-to-tackle-racism-due-to-lack-of-leadership-watchdog-finds",
+      "published_date": "2026-04-01T06:00:41+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Almost half of primary teachers in England see pupils with eating disorders, survey finds",
@@ -529,136 +690,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Weight-loss jabs will be offered on NHS for people at risk of further heart attacks",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz90595pgzlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-31T23:01:43+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "The Voorhees law of traffic: when overtaken slow cars seem to always catch up at a red light",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/technology/2026/apr/01/traffic-overtaking-slow-cars-catch-up-red-light-driving-research",
       "published_date": "2026-03-31T23:01:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anti-terrorist programme Prevent ‘outdated and inadequately prepared’, report finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/01/prevent-anti-terrorist-programme-outdated-inadequately-prepared-report-finds",
-      "published_date": "2026-03-31T23:00:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GP shocked by bowel cancer diagnosis at 49 urges changes to screening",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c87wpw7d880o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T23:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged after seven people seriously injured by car in Derby",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/31/man-charged-injured-car-derby",
-      "published_date": "2026-03-31T21:59:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New by-law bans camp fires and barbecues in Cairngorms",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgepvp3jyxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T21:53:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged after car hit pedestrians in city centre",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-charged-after-car-hit-pedestrians-in-derby-city-centre-13525748",
-      "published_date": "2026-03-31T21:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager died after asking ChatGPT for ‘most successful’ way to take his life, inquest told",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/mar/31/teenager-asked-chatgpt-most-successful-ways-take-life-inquest-told",
-      "published_date": "2026-03-31T19:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Welsh language learning: cultural shifts can deliver a bright future for Cymraeg | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/31/the-guardian-view-on-welsh-language-learning-cultural-shifts-can-deliver-a-bright-future-for-cymraeg",
-      "published_date": "2026-03-31T18:04:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
-      "published_date": "2026-03-31T18:01:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ben Jennings on changes to bin collections in England – cartoon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/mar/31/ben-jennings-cartoon-bin-collections-england-government-recycling",
-      "published_date": "2026-03-31T17:20:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alleged Scottish crime boss set to be deported to Spain after arrest in Bali",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/alleged-scottish-crime-boss-steven-lyons-set-to-be-deported-to-spain-after-arrest-in-bali-13526581",
-      "published_date": "2026-03-31T16:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man shot dead while sitting in car named",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/family-pay-tribute-to-man-shot-dead-while-sitting-in-car-in-camden-as-met-police-hunt-suspect-13526576",
-      "published_date": "2026-03-31T16:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Does anyone think Matt Goodwin’s book on Britain’s demise is a publishing sensation? I mean, other than him | Marina Hyde",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/mar/31/matt-goodwin-ai-allegations-suicide-nation-book-sales",
-      "published_date": "2026-03-31T16:00:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Met Police detective sacked for hiring sex workers and using drugs on overseas trips",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/met-police-drugs-pervaz-malik-b2949383.html",
-      "published_date": "2026-03-31T15:56:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Deeply loved little girl’ found dead in golf course pond",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/doncaster-nyla-may-bradshaw-death-b2949323.html",
-      "published_date": "2026-03-31T15:12:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New bin rules begin in England but not all councils are ready",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4vwj0yj20o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T15:05:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England cricket star fined for speeding at 93mph",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/england-cricketer-ben-duckett-fined-for-speeding-after-being-caught-driving-at-93mph-13526460",
-      "published_date": "2026-03-31T15:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delivery driver threatened at gunpoint to drive bomb to police station",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2k3vezpwlko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T14:36:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK billionaire Chris Rokos donates record £190m to Cambridge University",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/mar/31/uk-billionaire-chris-rokos-donates-record-190m-to-cambridge",
-      "published_date": "2026-03-31T14:27:50+00:00",
       "category": "Local Events"
     }
   ]
