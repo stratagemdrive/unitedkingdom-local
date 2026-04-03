@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-03T00:03:48.435677+00:00",
+  "last_updated": "2026-04-03T12:06:16.663694+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Marmalades may need to be relabelled under post-Brexit food deal",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0e53x475qjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T11:27:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN chief tells Trump ‘war is not a game show’ after US bombs civilian targets in Iran",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/iran-war-trump-un-us-civilians-b2951408.html",
+      "published_date": "2026-04-03T09:31:50+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Coalition of countries discuss ‘every possible measure’ to pressure Iran into reopening strait of Hormuz",
       "source": "The Guardian",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘What happens in Gaza, will happen everywhere’: Palestinian ambassador to the UK warns Israel will not stop",
+      "title": "Amazon slaps increased charges on third-party sellers as Iran war hits",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-israel-gaza-husam-zomlot-b2936476.html",
-      "published_date": "2026-03-28T09:17:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/business/amazon-surcharge-increase-cost-price-b2951360.html",
+      "published_date": "2026-04-03T10:53:22+00:00",
+      "category": "Military"
     },
     {
-      "title": "End to two-child benefit cap offers £300-a-month lifeline to cash-strapped families",
+      "title": "Starmer’s cost of living adviser urges him to extend fuel duty cut in light of Iran war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/mar/28/end-to-two-child-benefit-cap-offers-300-a-month-lifeline-to-cash-strapped-families",
-      "published_date": "2026-03-28T07:00:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/apr/03/starmer-urged-extend-fuel-duty-cut-iran-war-petrol-prices-cost-of-living",
+      "published_date": "2026-04-03T10:17:41+00:00",
+      "category": "Military"
     },
     {
       "title": "Stocks swing in choppy trade amid war uncertainty",
@@ -270,18 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Drivers urged to drive 10% slower to ‘improve fuel efficiency’ as prices rise amid Iran war",
+      "title": "Energy experts call for Jackdaw gas field to be approved",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fuel-prices-oil-iran-uk-drive-slower-b2950115.html",
-      "published_date": "2026-04-01T13:23:27+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/ed-miliband-north-sea-government-john-swinney-b2951413.html",
+      "published_date": "2026-04-03T11:25:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Starmer holds off from emergency measures but warns storm is coming",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjr9nq94vrwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-01T13:03:10+00:00",
-      "category": "Military"
+      "title": "How the Ministry of Justice knowingly exposed hundreds to cancer-causing gas in Dartmoor prison",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/radon-gas-dartmoor-prison-scandal-b2928858.html",
+      "published_date": "2026-04-03T11:12:08+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Food prices spiked in March as Middle East conflict drove up energy costs, UN says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/03/food-prices-spike-march-middle-east-conflict-drove-energy-prices-up-un-says",
+      "published_date": "2026-04-03T10:57:40+00:00",
+      "category": "Energy"
     },
     {
       "title": "Starmer must call energy summit akin to 2008 crisis response, Labour MP says",
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Warning Iran war 'shock' could push up mortgages for 1.3m homeowners",
+      "title": "Eva Longoria: Role model women meant ‘I always knew I’d be successful’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/eva-longoria-hollywood-lenovo-intel-american-b2951395.html",
+      "published_date": "2026-04-03T08:00:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What I learned from my first few weeks as a Green MP? Most politicians have no clue how tough things are out there | Hannah Spencer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/weeks-green-mp-politicians-clue-cost-living-labour",
+      "published_date": "2026-04-03T07:00:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stormont canteen renovation almost £200k over budget",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c895pqepwv2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-01T10:47:02+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/cpd5482v0pno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T05:15:40+00:00",
+      "category": "Economy"
     },
     {
-      "title": "In The Room | Stockpiling fuel and panic buying loo roll – are we prepped for war?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/in-the-room/iran-war-uk-fuel-crisis-stockpiling-in-the-room-b2946830.html",
-      "published_date": "2026-04-01T10:11:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Food prices to soar by almost 10% due to Iran war, as fuel and energy bills bite",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/food-prices-grocery-inflation-fdf-iran-war-b2949769.html",
-      "published_date": "2026-04-01T10:04:24+00:00",
-      "category": "Energy"
+      "title": "How much economic damage is Trump doing?",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/how-much-economic-damage-is-trump-doing-13527183",
+      "published_date": "2026-04-03T04:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Cooper refuses to say if US is still an ally as she vows to do everything possible to reopen Strait of Hormuz",
@@ -442,6 +470,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/doctors-strike-bma-nhs-wes-streeting-b2950881.html",
       "published_date": "2026-04-02T18:46:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rising costs are changing shopping habits in one of Wales' poorest areas",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cevkewjxpg4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T16:33:02+00:00",
       "category": "Economy"
     },
     {
@@ -529,45 +564,129 @@
       "category": "Economy"
     },
     {
-      "title": "London Pride boss sacked after allegedly spending donations on perfume",
+      "title": "Three arrested after boy, 14, shot dead in Woolwich, London",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/london-woolwich-shooting-dead-ord-warwick-street-b2951482.html",
+      "published_date": "2026-04-03T11:59:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder investigation after teenager stabbed to death in seaside town",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/whitstable-belmont-road-stabbing-murder-b2951462.html",
+      "published_date": "2026-04-03T11:20:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police issue image of man after rape at railway station",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/billy-ormiston-warwickshire-rape-coventry-b2951454.html",
+      "published_date": "2026-04-03T11:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of sheep saved from hay shed fire",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g0xl3enyjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T08:00:27+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cp38lv4g93ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T10:45:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tories pledge to scrap carbon taxes on industry",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c145elk3deeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T07:37:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Top chef reveals the two supermarkets that do great meat and fish - and shares most underrated store cupboard ingredient",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/top-chef-reveals-the-two-supermarkets-that-do-great-meat-and-fish-and-shares-most-underrated-store-cupboard-ingredient-13527110",
-      "published_date": "2026-04-02T07:14:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Kids would rather be down the park’: readers reflect on child-free pubs",
+      "title": "Put away the Aperol and raise a glass to Hugo spritz, the drink of the summer",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/02/readers-reflect-on-child-free-pubs",
-      "published_date": "2026-04-02T06:00:18+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/food/2026/apr/03/put-away-the-aperol-and-raise-a-glass-to-hugo-spritz-the-drink-of-the-summer",
+      "published_date": "2026-04-03T09:54:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Doctors lose new jobs package as strike to go ahead",
+      "title": "M&S calls for crackdown on ‘brazen, organised, aggressive’ retail crime",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/03/marks-spencer-calls-crackdown-retail-crime-clapham",
+      "published_date": "2026-04-03T09:09:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspected burglar found asleep by police in child’s bed",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/newark-robbery-man-asleep-police-b2951383.html",
+      "published_date": "2026-04-03T07:47:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Another teenager arrested over murder of 16-year-old girl",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/boy-14-arrested-on-suspicion-of-murdering-chloe-watson-16-in-leeds-13527473",
+      "published_date": "2026-04-03T07:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "M&S boss calls for more action on crime and abuse of staff",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyj7dwwlq9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-01T23:29:39+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T07:29:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marks & Spencer boss warns crime is getting ‘more brazen’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/marks-and-spencer-clapham-crime-b2951363.html",
+      "published_date": "2026-04-03T06:31:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Traditional farmhouses for sale in England – in pictures",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/gallery/2026/apr/03/traditional-farmhouses-for-sale-in-england-in-pictures",
+      "published_date": "2026-04-03T06:00:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Contractor that cut back ancient oak in London park identified",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/03/contractor-ancient-oak-whitewebbs-park-london-identified",
+      "published_date": "2026-04-03T06:00:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Birmingham city council doubles agency spending during bin strikes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/03/birmingham-city-council-doubles-agency-spending-during-bin-strikes",
+      "published_date": "2026-04-03T05:00:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boy, 14, shot dead in London - as three teenagers arrested on suspicion of murder",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/boy-14-shot-dead-in-london-as-three-teenagers-arrested-on-suspicion-of-murder-13527205",
+      "published_date": "2026-04-03T05:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Major Euston rail disruption across Easter weekend",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz0e18jjkx5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T23:55:09+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Reform treasurer Nick Candy ‘sells London mansion for record-breaking £270m’",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/reform-nick-candy-treasurer-property-sale-b2951196.html",
       "published_date": "2026-04-02T23:35:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police offered support to tackle rising threats against MPs",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T23:24:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crisis staff found 'unforgivable scene' at convicted undertaker's funeral home",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg33l4g88lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-02T23:12:49+00:00",
       "category": "Local Events"
     },
     {
@@ -582,125 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c4g87rlmrnyo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-02T22:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS Wales major repairs backlog nears £1bn",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gx2lrk0zpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T21:46:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CPS considering 13 suspected cases of assisted dying in England and Wales",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/apr/02/cps-considering-13-suspected-cases-of-assisted-dying-in-england-and-wales",
-      "published_date": "2026-04-02T20:00:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/apr/02/uk-drug-exports-to-us-spared-tariffs-under-deal-critics-say-will-cost-nhs-billions",
-      "published_date": "2026-04-02T19:27:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "M&S boss warns crime is getting 'more brazen' after days of unrest",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/marks-and-spencer-boss-warns-crime-is-getting-more-brazen-after-days-of-unrest-13527380",
-      "published_date": "2026-04-02T18:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prolific Easter egg thief who was found by police ‘cowering inside base of divan bed’ jailed",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/easter-egg-thief-daniel-jones-essex-b2951165.html",
-      "published_date": "2026-04-02T18:26:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ben Jennings on the sacking of Reform’s housing spokesperson – cartoon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/apr/02/ben-jennings-on-the-sacking-of-reforms-housing-spokesperson-cartoon",
-      "published_date": "2026-04-02T18:15:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sadiq Khan warns of ‘zero-tolerance approach’ to any repeat of Clapham disorder",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/02/sadiq-khan-warns-of-zero-tolerance-approach-towards-any-repeat-of-clapham-disorder",
-      "published_date": "2026-04-02T18:01:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drip-feed of Reform UK controversies puts party’s policy drive in shade",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/02/reform-uk-drip-feed-controversies-policy",
-      "published_date": "2026-04-02T17:24:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Sheffield and snooker: hope for an overlooked northern giant | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/02/the-guardian-view-on-sheffield-and-snooker-hope-for-an-overlooked-northern-giant",
-      "published_date": "2026-04-02T17:23:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Streeting hits out at BMA ‘delusion’ as talks to avert resident doctors’ strike fail",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/apr/02/wes-streeting-bma-delusion-resident-doctors-strike-nhs",
-      "published_date": "2026-04-02T16:36:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police issue 48-hour dispersal order in Rochdale following anti-social behaviour",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/police-issue-48-hour-dispersal-order-in-rochdale-following-anti-social-behaviour-13527294",
-      "published_date": "2026-04-02T14:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Curated chaos’: Danny Boyle on the ‘pop culture spectacular’ he is bringing to London’s Southbank Centre",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/apr/02/curated-chaos-danny-boyle-pop-culture-spectacular-london-southbank-centre",
-      "published_date": "2026-04-02T14:39:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stellantis recalls 44,000 UK vehicles over fault that could cause fires",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/02/stellantis-recall-44000-uk-vehicles-fault-fires",
-      "published_date": "2026-04-02T13:47:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK flag-raising group leader arrested on suspicion of causing ‘alarm and distress’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/02/uk-flag-raising-group-leader-arrested-alarm-distress-raise-the-colours",
-      "published_date": "2026-04-02T13:18:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform sack housing spokesman over ‘deeply dehumanising’ Grenfell comments",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/reform-grenfell-housing-spokesman-sacked-simon-dudley-farage-b2950722.html",
-      "published_date": "2026-04-02T13:18:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Storm Dave warning for snow and high winds over Easter weekend",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c77mvj2l3z4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T13:11:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform donor Nick Candy sells Chelsea mansion for reported £275m",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/02/reform-donor-nick-candy-sells-chelsea-mansion-providence-house",
-      "published_date": "2026-04-02T12:37:52+00:00",
       "category": "Local Events"
     }
   ]
