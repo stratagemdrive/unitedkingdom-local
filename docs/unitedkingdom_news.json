@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-04T00:01:31.576268+00:00",
+  "last_updated": "2026-04-04T11:57:10.168808+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Fears over more price rises as twice as many haulage companies going bust since Brexit",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-food-prices-shortage-inflation-haulage-b2951547.html",
+      "published_date": "2026-04-04T09:49:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Biometric checks stalled again for cross-Channel travellers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/biometric-checks-stalled-again-for-cross-channel-travellers",
+      "published_date": "2026-04-04T08:00:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marmalade may need to be relabelled as part of post-Brexit deal with EU",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/marmalade-rebranding-post-brexit-deal-uk-eu-b2951755.html",
+      "published_date": "2026-04-04T06:07:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Marmalade may need to be relabelled as part of post-Brexit deal with EU",
       "source": "The Independent",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Apple subsidiary fined by UK government over Moscow sanctions breach",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/mar/30/apple-subsidiary-fine-uk-government-sanctions-russia",
-      "published_date": "2026-03-30T12:49:53+00:00",
-      "category": "Diplomacy"
+      "title": "Met officers taken off duty for misplacing weapons",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjd8y33ze08o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T06:46:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Childminders are a vital, yet overlooked, part of early years care | Letters",
+      "title": "Oats, sardines and crisps: emergency foods to stockpile – and why you should share them",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/mar/29/childminders-are-a-vital-yet-overlooked-part-of-early-years-care",
-      "published_date": "2026-03-29T16:06:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/food/2026/apr/04/foods-to-stockpile-emergency-store",
+      "published_date": "2026-04-04T06:00:15+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU offers UK ‘emergency brake’ on youth mobility scheme numbers",
+      "title": "As a state visit looms … can King Charles tame Trump?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/mar/29/eu-offers-uk-emergency-brake-youth-mobility-scheme-numbers",
-      "published_date": "2026-03-29T15:00:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/04/can-the-king-tame-trump-state-visit",
+      "published_date": "2026-04-04T05:00:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'It beggars belief': UK military reveal locations inside sensitive bases through exercise app",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/it-beggars-belief-uk-military-reveal-locations-inside-sensitive-bases-through-exercise-app-13527801",
+      "published_date": "2026-04-04T02:16:00+00:00",
+      "category": "Military"
     },
     {
       "title": "French-owned ship passes through Strait of Hormuz",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Trump says King would have taken ‘different stand’ on Iran war in fresh dig at Starmer",
+      "title": "The five ways for drivers to save on fuel and beat rising prices",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/trump-king-charles-starmer-iran-war-nato-b2950365.html",
-      "published_date": "2026-04-01T22:32:00+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/petrol-diesel-cost-oil-prices-b2951806.html",
+      "published_date": "2026-04-04T10:36:37+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Rachel Reeves says she's angry at Trump's decision to launch war with Iran",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c625v1l4l29o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-01T19:11:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK is most vulnerable European country to jet fuel shortages, Ryanair boss says",
+      "title": "New North Sea drilling would barely reduce UK gas imports at all, data shows",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/01/uk-is-most-vulnerable-european-country-to-jet-fuel-shortages-ryanair-boss-says",
-      "published_date": "2026-04-01T17:16:02+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/apr/04/new-north-sea-drilling-jackdaw-rosebank-uk-gas-imports",
+      "published_date": "2026-04-04T09:00:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Navy investigated links between nuclear sub commander and MP",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyx62n1dz1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-01T16:44:37+00:00",
-      "category": "Military"
+      "title": "From early birds to emerging butterflies: UK shows signs of earliest spring on record",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/04/birds-butterflies-britain-shows-signs-of-earliest-spring-on-record",
+      "published_date": "2026-04-04T05:00:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ministers deny decision has been taken over North Sea gas field project amid spiralling prices",
@@ -403,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Families struggling to get by due to price rises",
+      "title": "Murder arrests after man hit by car dies",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czx902w50dro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T05:17:55+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c7vqlz2rqepo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T06:56:05+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Record monthly rise in petrol and diesel prices, says RAC",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-01T23:59:00+00:00",
-      "category": "Energy"
+      "title": "Claim sooner rather than later, experts urge, after £7.5bn car loan compensation scheme launched",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/04/mis-sold-car-loans-compensation-scheme-launched",
+      "published_date": "2026-04-04T06:00:15+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Almost 22 million cars set to hit UK roads despite surge in fuel prices as Easter getaway begins",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/easter-holidays-fuel-oil-prices-iran-b2950221.html",
-      "published_date": "2026-04-01T23:01:00+00:00",
-      "category": "Energy"
+      "title": "‘Over the top and fun:’ TGI Fridays boss insists time is right for a UK revival",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/04/tgi-fridays-boss-revival-fun-uk-ray-blanchette",
+      "published_date": "2026-04-04T05:01:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Starmer’s cost of living tsar calls for fuel duty cut to be extended in light of Iran war",
@@ -543,25 +564,109 @@
       "category": "Economy"
     },
     {
-      "title": "Savers warned over last chance to beat the ISA deadline as competition on cash rates rises",
+      "title": "Pupils as young as 7 taking blades to class as shocking figures expose UK’s knife crisis in schools",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/cash-isa-deadline-april-2026-best-interest-rates-b2950587.html",
-      "published_date": "2026-04-02T14:36:02+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/knife-crime-schools-attacks-harvey-willgoose-b2949295.html",
+      "published_date": "2026-04-04T11:14:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Swinton Business offers tailored policies to suit your needs",
+      "title": "My murdered son’s football is still in the garden, his clothes are on the ironing pile – why I’ll never be able to move on",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/swinton-business-tailored-policies-insurance-b2950194.html",
-      "published_date": "2026-04-02T14:25:58+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/harvey-willgoose-knife-crime-sheffield-caroline-b2949812.html",
+      "published_date": "2026-04-04T11:13:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "All the cost of living support Labour is promising as US-Iran war threatens new crisis",
+      "title": "House swaps: why exchanging home could be a ticket to a dream holiday",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/04/house-swaps-exchanging-home-dream-holiday-saving-money",
+      "published_date": "2026-04-04T11:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine officers and child injured in disorder before football match",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62jw8xgv0lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T10:35:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unions privately voice misgivings over BMA pay demands and doctors’ strikes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/04/trade-unions-bma-pay-talks-demands-doctors-strikes",
+      "published_date": "2026-04-04T10:00:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teachers' union warns of 'masculinity crisis brewing' in schools",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpd5j4lnnq0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T09:37:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK food halls buck downbeat hospitality trend: ‘In this impossible climate, they shine hope’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/04/uk-food-halls-buck-downbeat-hospitality-trend",
+      "published_date": "2026-04-04T09:00:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two people arrested on suspicion of murder after collision involving pedestrian",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/two-people-arrested-on-suspicion-of-murder-after-collision-involving-pedestrian-in-barnsley-13527828",
+      "published_date": "2026-04-04T08:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Final support call for businesses affected by Glasgow fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clye237165ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T08:17:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five Met officers taken off duty after police ‘leave bag of guns outside Sadiq Khan’s home’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/cost-of-living-labour-us-iran-war-april-2026-b2950753.html",
-      "published_date": "2026-04-02T14:13:04+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/sadiq-khan-met-police-guns-b2951770.html",
+      "published_date": "2026-04-04T07:44:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bus or Lime bike? New subscription heats up the race for a cheaper commute",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg04839gljo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T07:02:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man and woman arrested on suspicion of murder in Barnsley after pedestrian dies in collision",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/04/man-woman-arrested-barnsley-collision",
+      "published_date": "2026-04-04T06:34:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voters in Wales failed by inaccurate UK media reports on devolved issues, study finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/apr/04/voters-in-wales-failed-by-inaccurate-uk-media-reports-on-devolved-issues-study-finds",
+      "published_date": "2026-04-04T06:00:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Britain's most common crime has been poorly investigated for decades",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/why-britains-most-common-crime-has-been-poorly-investigated-for-decades-13527495",
+      "published_date": "2026-04-04T01:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armed police officers left bag of guns outside Sadiq Khan's home",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/armed-police-officers-left-bag-of-guns-outside-sadiq-khans-home-13527800",
+      "published_date": "2026-04-04T00:28:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Three charged after four Jewish community ambulances set on fire in London",
@@ -596,111 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/iceland-lord-walker-of-broxton-shoplifting-truncheons-pepper-spray-retail-crime-b2951681.html",
       "published_date": "2026-04-03T22:01:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scotland braced for worst of Storm Dave with wind and snow warnings in place",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y80nj5v50o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T21:55:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sadiq Khan protection officers ‘leave bag with guns and Taser on south London street’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/03/sadiq-khan-protection-officers-leave-bag-with-guns-and-taser-on-south-london-street",
-      "published_date": "2026-04-03T21:44:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three people charged over alleged arson attack on Jewish charity ambulances in London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/03/three-people-charged-over-jewish-charity-ambulance-fire-in-north-west-london",
-      "published_date": "2026-04-03T21:40:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "School IT system targeted in cyber attack ahead of exam season",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cnv8mn91drlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T20:19:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy, 14, shot dead in Woolwich named",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj40ekewqrgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T16:56:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on the Women’s Library at 100: a cause for celebration but not complacency | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/the-guardian-view-on-the-womens-library-at-100-a-cause-for-celebration-but-not-complacency",
-      "published_date": "2026-04-03T16:30:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three teenagers arrested after 14-year-old boy shot dead in south-east London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/03/three-teenagers-arrested-after-14-year-old-boy-shot-dead-in-south-east-london",
-      "published_date": "2026-04-03T16:05:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern Ireland leads surge in fuel prices since start of Iran war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/apr/03/fuel-prices-northern-ireland-surge-iran-war-petrol",
-      "published_date": "2026-04-03T14:00:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Son charged with fatal stabbing of 84-year-old mum",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgxdw4520no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T13:45:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged with murder after woman, 84, stabbed to death",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-charged-with-murder-after-woman-84-stabbed-to-death-in-london-13527572",
-      "published_date": "2026-04-03T13:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three arrested after boy, 14, shot dead in Woolwich, London",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/london-woolwich-shooting-dead-ord-warwick-street-b2951482.html",
-      "published_date": "2026-04-03T11:59:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder investigation after teenager stabbed to death in seaside town",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/whitstable-belmont-road-stabbing-murder-b2951462.html",
-      "published_date": "2026-04-03T11:20:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police issue image of man after rape at railway station",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/billy-ormiston-warwickshire-rape-coventry-b2951454.html",
-      "published_date": "2026-04-03T11:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of sheep saved from hay shed fire",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp38lv4g93ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T10:45:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men arrested after girl, 9, killed in crash",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/two-men-arrested-on-suspicion-of-drug-driving-after-girl-9-killed-in-crash-13527519",
-      "published_date": "2026-04-03T10:28:00+00:00",
       "category": "Local Events"
     }
   ]
