@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-04T11:57:10.168808+00:00",
+  "last_updated": "2026-04-05T00:00:00.836154+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Government steps in to clarify post-Brexit marmalade naming rules",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/marmalade-brexit-naming-laws-europe-b2951848.html",
+      "published_date": "2026-04-04T13:02:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Keir Starmalade, anyone? Will marmalade really have to be rebranded in UK?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/breakfast-reset-will-marmalade-really-be-renamed-in-post-brexit-food-deal",
+      "published_date": "2026-04-04T12:58:25+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Fears over more price rises as twice as many haulage companies going bust since Brexit",
       "source": "The Independent",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia’s shadow fleet pass through UK waters after Starmer’s boarding threat",
+      "title": "Trump’s relationship with Starmer ‘significantly damaged’ in Iran war fallout",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/britain-russia-sanctions-english-channel-shadow-fleet-b2949244.html",
-      "published_date": "2026-03-31T13:22:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Climber rips skin off her hands saving partner in 33ft mountain fall",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9d4jxvzdydo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-31T10:40:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/politics/donald-trump-mocks-keir-starmer-us-iran-war-b2951820.html",
+      "published_date": "2026-04-04T14:17:12+00:00",
+      "category": "Military"
     },
     {
       "title": "Met officers taken off duty for misplacing weapons",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "UK drivers hit with record monthly increase in fuel prices sparked by Iran war",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fuel-price-uk-petrol-diesel-iran-record-b2950199.html",
-      "published_date": "2026-04-01T23:01:00+00:00",
-      "category": "Military"
+      "title": "How will rising fuel costs affect driving lessons?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjr9l2p950do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T23:06:16+00:00",
+      "category": "Energy"
     },
     {
       "title": "The five ways for drivers to save on fuel and beat rising prices",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Drivers told to look for cheapest fuel ahead of ‘busiest Easter on UK roads since 2022’",
+      "title": "The best budget-friendly hotels in the Lake District for an affordable trip",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/travel/uk/england/lake-district/best-cheap-hotels-lake-district-b2930245.html",
+      "published_date": "2026-04-04T19:03:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trussonomics still haunts parties’ economic promises in run-up to UK local elections | Phillip Inman",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/02/drivers-told-to-hunt-for-cheapest-fuel-as-easter-set-to-be-busiest-on-uk-roads-since-2022",
-      "published_date": "2026-04-02T11:37:15+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/apr/04/trussonomics-still-haunts-parties-economic-promises-in-run-up-to-uk-local-elections",
+      "published_date": "2026-04-04T15:00:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Rich, indulgent and full of flavour’: the best hot chocolate, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/apr/04/best-supermarket-hot-chocolate-tasted-rated",
+      "published_date": "2026-04-04T12:00:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "Murder arrests after man hit by car dies",
@@ -543,25 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "The best cash ISAs and savings accounts in April paying highest interest rates",
+      "title": "Starmer 'deeply concerned' by Kanye West's UK festival booking",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/keir-starmer-deeply-concerned-by-kanye-wests-wireless-festival-booking-despite-antisemitic-remarks-13528071",
+      "published_date": "2026-04-04T22:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran conflict to forefront of UK religious and political leaders’ Easter messages",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/04/iran-conflict-uk-easter-messages-archbishop-canterbury-keir-starmer",
+      "published_date": "2026-04-04T21:30:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rise in number of girls being identified as victims in county lines exploitation, data shows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/04/county-lines-drugs-girls-exploitation-data",
+      "published_date": "2026-04-04T21:30:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Archbishop of Canterbury uses first Easter sermon to call for Middle East peace",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/best-savings-accounts-cash-isas-interest-rates-april-2026-b2950596.html",
-      "published_date": "2026-04-02T15:21:47+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/archbishop-canterbury-dame-sarah-mullally-b2951899.html",
+      "published_date": "2026-04-04T21:30:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "New laws to make it easier to cancel subscriptions",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cdxklq3kqlro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T15:15:33+00:00",
-      "category": "Economy"
+      "title": "Man arrested at court while attending hearing of Jewish ambulance arson suspects",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/04/fourth-person-arrested-over-arson-attack-on-jewish-ambulances-in-london",
+      "published_date": "2026-04-04T19:58:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "What is the triple lock and how much is the state pension worth?",
+      "title": "Boy, 17, among two more arrested on suspicion of murder after collision",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/boy-17-among-two-more-arrested-on-suspicion-of-murder-after-collision-involving-pedestrian-in-barnsley-13527828",
+      "published_date": "2026-04-04T18:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amber alert for Storm Dave as Scotland to take brunt of wind and snow",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T14:47:27+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/c5y80nj5v50o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T17:00:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two arrested after boy killed and two hurt in crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c86e04l4yneo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T15:20:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Masculinity crisis’ in schools is a ticking time bomb, union says",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/schools-uk-masculinity-crisis-survey-manosphere-b2951821.html",
+      "published_date": "2026-04-04T15:14:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fourth suspect arrested over Jewish charity ambulance arson attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyjrrl17j1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-04T15:10:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We have been profoundly let down’: Voters in one of Labour’s safest seats consider switching sides",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/port-talbot-steelworks-reform-plaid-cymru-b2932407.html",
+      "published_date": "2026-04-04T15:09:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parts of UK braced for heavy snow and gale-force winds as Storm Dave arrives",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/04/uk-weather-storm-dave-travel-easter-england-scotland-wales",
+      "published_date": "2026-04-04T13:52:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arrests made after teenager killed in crash",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/arrests-made-after-teenager-killed-in-crash-in-flitwick-13527890",
+      "published_date": "2026-04-04T13:37:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pupils as young as 7 taking blades to class as shocking figures expose UK’s knife crisis in schools",
@@ -610,97 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/apr/04/uk-food-halls-buck-downbeat-hospitality-trend",
       "published_date": "2026-04-04T09:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two people arrested on suspicion of murder after collision involving pedestrian",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/two-people-arrested-on-suspicion-of-murder-after-collision-involving-pedestrian-in-barnsley-13527828",
-      "published_date": "2026-04-04T08:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Final support call for businesses affected by Glasgow fire",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clye237165ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-04T08:17:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five Met officers taken off duty after police ‘leave bag of guns outside Sadiq Khan’s home’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/sadiq-khan-met-police-guns-b2951770.html",
-      "published_date": "2026-04-04T07:44:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bus or Lime bike? New subscription heats up the race for a cheaper commute",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvg04839gljo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-04T07:02:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man and woman arrested on suspicion of murder in Barnsley after pedestrian dies in collision",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/04/man-woman-arrested-barnsley-collision",
-      "published_date": "2026-04-04T06:34:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voters in Wales failed by inaccurate UK media reports on devolved issues, study finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/apr/04/voters-in-wales-failed-by-inaccurate-uk-media-reports-on-devolved-issues-study-finds",
-      "published_date": "2026-04-04T06:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Britain's most common crime has been poorly investigated for decades",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/why-britains-most-common-crime-has-been-poorly-investigated-for-decades-13527495",
-      "published_date": "2026-04-04T01:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armed police officers left bag of guns outside Sadiq Khan's home",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/armed-police-officers-left-bag-of-guns-outside-sadiq-khans-home-13527800",
-      "published_date": "2026-04-04T00:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three charged after four Jewish community ambulances set on fire in London",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/three-men-charged-jewish-ambulances-arson-attack-b2951682.html",
-      "published_date": "2026-04-03T23:21:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A ‘masculinity crisis’ is brewing in UK schools, union says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/apr/04/masculinity-crisis-brewing-uk-schools-teachers-union",
-      "published_date": "2026-04-03T23:01:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'The most serious issue for schools': What's being done about smartphones in class?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3lnld4lpzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T23:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three charged over Jewish charity ambulance fires",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz0ey7z2jx3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T22:35:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iceland boss: Security guards should carry truncheons and pepper spray to fight retail crime",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/iceland-lord-walker-of-broxton-shoplifting-truncheons-pepper-spray-retail-crime-b2951681.html",
-      "published_date": "2026-04-03T22:01:40+00:00",
       "category": "Local Events"
     }
   ]
