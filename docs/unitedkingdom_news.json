@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-05T00:00:00.836154+00:00",
+  "last_updated": "2026-04-05T11:57:36.232741+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Two arrested after man dies in suspected hit-and-run",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4v3ex0k19o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-05T10:19:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Government steps in to clarify post-Brexit marmalade naming rules",
       "source": "The Independent",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Delayed by EU entry/exit system? Then travel light",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/apr/01/delayed-by-eu-entry-exit-system-then-travel-light",
-      "published_date": "2026-04-01T06:00:40+00:00",
-      "category": "Diplomacy"
+      "title": "German men could require military permission to leave country for more than three months",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/german-men-could-require-military-permission-to-leave-country-for-more-than-three-months-13528140",
+      "published_date": "2026-04-05T08:46:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Trump’s relationship with Starmer ‘significantly damaged’ in Iran war fallout",
@@ -277,11 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "The Papers: 'Trump goes to war on Nato' and 'Scott breaks silence'",
+      "title": "Welcome to the MrBeastification of British politics: the latest trick up Nigel Farage's sleeve | Kirsty Major",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/05/mr-beast-british-politics-nigel-farage-reform-uk-energy-bill-giveaway",
+      "published_date": "2026-04-05T07:00:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "'Elderly couple had to find £1k for home heating oil'",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78l70g124jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-01T23:53:47+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/cql70rlkk27o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-05T06:29:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "How will rising fuel costs affect driving lessons?",
@@ -410,18 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "How scientists will use urine collected from festivalgoers in national park project",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/urine-fertiliser-brecon-beacons-boomtown-b2950736.html",
-      "published_date": "2026-04-02T12:36:19+00:00",
-      "category": "Energy"
+      "title": "Iran war driving up funeral costs in the UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/05/funeral-costs-uk-iran-war",
+      "published_date": "2026-04-05T10:53:19+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Renewables generated record share of UK electricity in 2025, data shows",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/labour-energy-department-iran-ukraine-b2950727.html",
-      "published_date": "2026-04-02T12:35:28+00:00",
-      "category": "Energy"
+      "title": "Former Co-op boss was paid almost £2m before leaving after group’s difficult year",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/05/former-co-op-boss-paid-2m-leave-difficult-year-shirine-khoury-haq",
+      "published_date": "2026-04-05T08:00:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fair Work Agency’s priorities criticised days before its launch",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/05/fair-work-agency-criticised-launch-dead-duck-employment-rights",
+      "published_date": "2026-04-05T06:00:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The nine best bean-to-cup coffee machines in the UK, tried and tested",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/apr/05/best-bean-cup-coffee-machines-tested-uk",
+      "published_date": "2026-04-05T06:00:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "The best budget-friendly hotels in the Lake District for an affordable trip",
@@ -536,32 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Children as young as 12 buying and selling knives and weapons via the internet",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/02/children-as-young-as-12-buying-and-selling-knives-and-weapons-via-the-internet",
-      "published_date": "2026-04-02T18:53:31+00:00",
-      "category": "Economy"
+      "title": "Storm Dave hits road and rail travel but conditions easing",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-05T11:29:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Streeting savages striking doctors for ‘rejecting deal but still wanting benefits’",
+      "title": "Two more people arrested on suspicion of murder after 14-year-old boy shot dead in London",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/two-more-people-arrested-on-suspicion-of-murder-after-14-year-old-boy-shot-dead-in-london-13528157",
+      "published_date": "2026-04-05T10:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Royals put on united front at Easter Service at Windsor Castle in first public family outing since Andrew’s arrest",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/doctors-strike-bma-nhs-wes-streeting-b2950881.html",
-      "published_date": "2026-04-02T18:46:42+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/royal-family-easter-service-king-charles-queen-andrew-b2952048.html",
+      "published_date": "2026-04-05T10:52:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rising costs are changing shopping habits in one of Wales' poorest areas",
+      "title": "Power cuts and travel disruption after Storm Dave hits Scotland",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cevkewjxpg4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T16:33:02+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cje4y50l0x5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-05T09:49:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "National Minimum Wage rises this week",
+      "title": "Storm Dave: thousands of homes in Wales and Northern Ireland left without power",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/05/storm-dave-uk-weather-wales-northern-ireland",
+      "published_date": "2026-04-05T09:43:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The little girl's belongings that tell the story of the Aberfan disaster",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cdxd5kkpz7xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-02T16:11:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/c4glr4670n9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-05T06:07:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Waitrose employee sacked after stopping shoplifter from taking Easter eggs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/05/waitrose-employee-sacked-after-stopping-shoplifter-from-taking-easter-eggs",
+      "published_date": "2026-04-05T05:00:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two more arrested on suspicion of murder after pedestrian dies in Barnsley collision",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/04/man-woman-arrested-barnsley-collision",
+      "published_date": "2026-04-04T22:14:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Starmer 'deeply concerned' by Kanye West's UK festival booking",
@@ -606,6 +662,13 @@
       "category": "Local Events"
     },
     {
+      "title": "'Am I going to go to prison for this?' Man who found guns outside Sadiq's Khan home reveals initial worry",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/armed-police-officers-left-bag-of-guns-outside-sadiq-khans-home-13527800",
+      "published_date": "2026-04-04T17:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Amber alert for Storm Dave as Scotland to take brunt of wind and snow",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c5y80nj5v50o?at_medium=RSS&at_campaign=rss",
@@ -638,69 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/port-talbot-steelworks-reform-plaid-cymru-b2932407.html",
       "published_date": "2026-04-04T15:09:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parts of UK braced for heavy snow and gale-force winds as Storm Dave arrives",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/04/uk-weather-storm-dave-travel-easter-england-scotland-wales",
-      "published_date": "2026-04-04T13:52:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrests made after teenager killed in crash",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/arrests-made-after-teenager-killed-in-crash-in-flitwick-13527890",
-      "published_date": "2026-04-04T13:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pupils as young as 7 taking blades to class as shocking figures expose UK’s knife crisis in schools",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/knife-crime-schools-attacks-harvey-willgoose-b2949295.html",
-      "published_date": "2026-04-04T11:14:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "My murdered son’s football is still in the garden, his clothes are on the ironing pile – why I’ll never be able to move on",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/harvey-willgoose-knife-crime-sheffield-caroline-b2949812.html",
-      "published_date": "2026-04-04T11:13:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "House swaps: why exchanging home could be a ticket to a dream holiday",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/04/house-swaps-exchanging-home-dream-holiday-saving-money",
-      "published_date": "2026-04-04T11:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nine officers and child injured in disorder before football match",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62jw8xgv0lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-04T10:35:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unions privately voice misgivings over BMA pay demands and doctors’ strikes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/04/trade-unions-bma-pay-talks-demands-doctors-strikes",
-      "published_date": "2026-04-04T10:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teachers' union warns of 'masculinity crisis brewing' in schools",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpd5j4lnnq0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-04T09:37:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK food halls buck downbeat hospitality trend: ‘In this impossible climate, they shine hope’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/04/uk-food-halls-buck-downbeat-hospitality-trend",
-      "published_date": "2026-04-04T09:00:17+00:00",
       "category": "Local Events"
     }
   ]
