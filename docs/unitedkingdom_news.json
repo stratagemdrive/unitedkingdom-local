@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-05T11:57:36.232741+00:00",
+  "last_updated": "2026-04-06T00:02:35.460670+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Labour to back down on foie gras and fur bans to ease EU trade deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/05/labour-back-down-foie-gras-fur-bans-eu-trade-deal",
+      "published_date": "2026-04-05T13:00:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Two arrested after man dies in suspected hit-and-run",
       "source": "BBC News",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Voices: ‘An absolutely impossible situation’: Readers clash over King Charles’ US state visit",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/life-style/royal-family/news/king-charles-us-state-visit-trump-b2949874.html",
-      "published_date": "2026-04-01T09:31:49+00:00",
-      "category": "Diplomacy"
+      "title": "Seven arrested over alleged support for Palestine Action at RAF Lakenheath protest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global/2026/apr/05/seven-arrested-over-alleged-support-for-palestine-action-at-raf-lakenheath-protest",
+      "published_date": "2026-04-05T16:08:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK has detained 76 ‘age-disputed’ children under one in, one out scheme",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/05/uk-detained-age-disputed-migrant-children-one-in-one-out-scheme",
+      "published_date": "2026-04-05T14:00:53+00:00",
+      "category": "Military"
     },
     {
       "title": "German men could require military permission to leave country for more than three months",
@@ -267,20 +281,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/travel/news-and-advice/iran-war-holidays-canary-islands-sardinia-lastminute-b2950655.html",
       "published_date": "2026-04-02T09:17:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Unprecedented’ UK fuel price rises surpass 2022 record",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fuel-prices-finder-pump-watch-iran-us-war-hormuz-b2950591.html",
-      "published_date": "2026-04-02T08:23:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Clear market uncertainty despite latest Trump attempt to soothe concerns",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/clear-market-uncertainty-despite-latest-trump-attempt-too-soothe-concerns-13527080",
-      "published_date": "2026-04-02T05:22:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,34 @@
       "category": "Energy"
     },
     {
+      "title": "New UK farm inheritance tax rule will cause ‘significant challenges’, say accountants",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/06/new-uk-farm-inheritance-tax-rule-will-cause-significant-challenges-say-accountants",
+      "published_date": "2026-04-05T23:01:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK supermarkets told to restore worker pay to the real living wage",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/real-living-wage-london-tesco-b2952164.html",
+      "published_date": "2026-04-05T22:59:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Starmer attacks Greens, saying vote for Labour rivals puts new workers’ rights at risk",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/05/starmer-attacks-greens-saying-vote-for-labour-rivals-puts-new-workers-rights-at-risk",
+      "published_date": "2026-04-05T18:51:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Workers, pensioners and children: all better off. Ignore the critics – we really are standing up for working people | Keir Starmer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/05/labour-workers-pensioners-children-all-better-off-working-people-keir-starmer",
+      "published_date": "2026-04-05T17:00:55+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Iran war driving up funeral costs in the UK",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/money/2026/apr/05/funeral-costs-uk-iran-war",
@@ -536,32 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "What I learned from my first few weeks as a Green MP? Most politicians have no clue how tough things are out there | Hannah Spencer",
+      "title": "NHS urges patients not to put off care as doctors in England prepare for strike",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/03/weeks-green-mp-politicians-clue-cost-living-labour",
-      "published_date": "2026-04-03T07:00:46+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
+      "published_date": "2026-04-05T23:02:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Stormont canteen renovation almost £200k over budget",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpd5482v0pno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-03T05:15:40+00:00",
-      "category": "Economy"
+      "title": "Blue badge permits now held by 1 in 15 adults in England",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/06/blue-badge-permits-record-1-20-people-in-england",
+      "published_date": "2026-04-05T23:02:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How much economic damage is Trump doing?",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/how-much-economic-damage-is-trump-doing-13527183",
-      "published_date": "2026-04-03T04:00:00+00:00",
-      "category": "Economy"
+      "title": "Hubs to help young people away from crime and into work to open in England",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/06/hubs-to-help-young-people-away-from-and-into-work-to-open-in-england",
+      "published_date": "2026-04-05T23:01:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Cooper refuses to say if US is still an ally as she vows to do everything possible to reopen Strait of Hormuz",
+      "title": "Call for crime victims’ compensation cap to be lifted as families say current amount is ‘an insult’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/yvette-cooper-us-iran-war-hormuz-b2951036.html",
-      "published_date": "2026-04-02T22:41:56+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/crime-victims-compensation-cap-amount-b2952168.html",
+      "published_date": "2026-04-05T22:55:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Detectives say suspicions on Emma Caldwell’s 2005 killer were ignored by superiors",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/emma-caldwell-iain-packer-biggar-b2952158.html",
+      "published_date": "2026-04-05T22:41:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dad killed after being hit by car named",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yxgveym75o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-05T20:23:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 20, dies in traffic collision near Dervock",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx29jypzrxjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-05T16:33:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on Britain’s religious right: using and abusing faith in the pursuit of power | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/05/the-guardian-view-on-britains-religious-right-using-and-abusing-faith-in-the-pursuit-of-power",
+      "published_date": "2026-04-05T16:30:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beavers thriving after being reintroduced to English wild – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/apr/05/beavers-thriving-after-being-reintroduced-to-english-wild-video",
+      "published_date": "2026-04-05T13:20:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with riotous behaviour after football match disorder",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3v63vwz0x4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-05T11:59:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Storm Dave hits road and rail travel but conditions easing",
@@ -582,6 +652,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/royal-family-easter-service-king-charles-queen-andrew-b2952048.html",
       "published_date": "2026-04-05T10:52:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "William, Kate and children attend royal Easter service for first time since her cancer diagnosis",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/william-kate-and-children-attend-royal-easter-service-for-first-time-since-her-cancer-diagnosis-13528156",
+      "published_date": "2026-04-05T10:51:00+00:00",
       "category": "Local Events"
     },
     {
@@ -624,83 +701,6 @@
       "source": "Sky News",
       "url": "https://news.sky.com/story/keir-starmer-deeply-concerned-by-kanye-wests-wireless-festival-booking-despite-antisemitic-remarks-13528071",
       "published_date": "2026-04-04T22:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran conflict to forefront of UK religious and political leaders’ Easter messages",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/iran-conflict-uk-easter-messages-archbishop-canterbury-keir-starmer",
-      "published_date": "2026-04-04T21:30:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rise in number of girls being identified as victims in county lines exploitation, data shows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/04/county-lines-drugs-girls-exploitation-data",
-      "published_date": "2026-04-04T21:30:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Archbishop of Canterbury uses first Easter sermon to call for Middle East peace",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/archbishop-canterbury-dame-sarah-mullally-b2951899.html",
-      "published_date": "2026-04-04T21:30:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested at court while attending hearing of Jewish ambulance arson suspects",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/04/fourth-person-arrested-over-arson-attack-on-jewish-ambulances-in-london",
-      "published_date": "2026-04-04T19:58:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy, 17, among two more arrested on suspicion of murder after collision",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/boy-17-among-two-more-arrested-on-suspicion-of-murder-after-collision-involving-pedestrian-in-barnsley-13527828",
-      "published_date": "2026-04-04T18:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Am I going to go to prison for this?' Man who found guns outside Sadiq's Khan home reveals initial worry",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/armed-police-officers-left-bag-of-guns-outside-sadiq-khans-home-13527800",
-      "published_date": "2026-04-04T17:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amber alert for Storm Dave as Scotland to take brunt of wind and snow",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y80nj5v50o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-04T17:00:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two arrested after boy killed and two hurt in crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c86e04l4yneo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-04T15:20:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Masculinity crisis’ in schools is a ticking time bomb, union says",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/schools-uk-masculinity-crisis-survey-manosphere-b2951821.html",
-      "published_date": "2026-04-04T15:14:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fourth suspect arrested over Jewish charity ambulance arson attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyjrrl17j1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-04T15:10:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We have been profoundly let down’: Voters in one of Labour’s safest seats consider switching sides",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/port-talbot-steelworks-reform-plaid-cymru-b2932407.html",
-      "published_date": "2026-04-04T15:09:46+00:00",
       "category": "Local Events"
     }
   ]
