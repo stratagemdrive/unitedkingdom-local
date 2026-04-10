@@ -1,8 +1,36 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-10T14:36:41.930791+00:00",
+  "last_updated": "2026-04-10T23:26:31.532517+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘I was told I was going to die’: Woman running half marathon after beating alcoholism",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/i-was-told-i-was-going-to-die-woman-running-half-marathon-after-escaping-alcoholism-b2955475.html",
+      "published_date": "2026-04-10T23:07:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
+      "published_date": "2026-04-10T16:47:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fears of UK and EU flight cancellations as airports warn of jet fuel shortages",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/european-airports-jet-fuel-shortages-flights-iran",
+      "published_date": "2026-04-10T15:59:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T15:12:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Peter Mandelson faces fixed-penalty notice after urinating in public",
       "source": "The Guardian",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Watch: Man pulls out fake gun and threatens to kill chicken shop worker over garlic sauce row",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/man-gun-chicken-shop-garlic-sauce-met-police-video-b2953536.html",
-      "published_date": "2026-04-08T10:34:34+00:00",
-      "category": "Diplomacy"
+      "title": "Airports warn of 'systemic' fuel shortages due to Iran war",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/airports-council-international-warns-of-fuel-shortages-if-strait-of-hormuz-not-reopened-amid-us-iran-war-talks-13530261",
+      "published_date": "2026-04-10T22:05:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Family of one-punch attack victim fear £500k compensation could run out",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy91p4qzn24o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-08T05:12:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Teen with fake gun threatened to kill chicken shop worker over garlic sauce order",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/chicken-shop-wrong-order-attack-london-marwan-khadir-b2953369.html",
-      "published_date": "2026-04-07T23:01:26+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas",
+      "title": "Crispin Odey drops £79m libel claim against FT over sexual misconduct allegations",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
-      "published_date": "2026-04-07T19:26:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/apr/10/crispin-odey-drops-79m-libel-claim-against-ft-over-sexual-misconduct-allegations",
+      "published_date": "2026-04-10T20:10:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Remaining in Nato is in best interests of US, says Keir Starmer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/remaining-in-nato-alliance-us-interests-keir-starmer",
+      "published_date": "2026-04-10T17:53:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK working on major plan to prepare country for war",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/uk-preparing-new-plan-to-ready-nation-for-war-13530181",
+      "published_date": "2026-04-10T16:06:00+00:00",
+      "category": "Military"
     },
     {
       "title": "US inflation jumps to highest level in almost two years",
@@ -176,6 +204,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/tv/in-the-room/trump-starmer-special-relationship-iran-b2955291.html",
       "published_date": "2026-04-10T12:46:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Will UK petrol and diesel prices start going down?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T10:42:48+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "UK navy foiled Russian submarines surveying undersea cables, defence minister says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/09/uk-navy-russian-submarines-undersea-cables-north-atlantic",
-      "published_date": "2026-04-09T15:12:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK says Russia ran submarine operation over cables and pipelines",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T14:49:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK issues stark warning to Putin over Russian spy submarines detected in North Atlantic",
+      "title": "Airports warn of ‘systemic’ jet fuel shortage if Strait of Hormuz stays closed",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/putin-russia-submarines-north-atlantic-john-healey-b2954408.html",
-      "published_date": "2026-04-09T14:49:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Son of British couple detained in Iran calls on Starmer to press for their release",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/09/son-british-couple-detained-iran-calls-starmer-press-for-release",
-      "published_date": "2026-04-09T13:59:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Britons could face higher household bills for years to come – even if fragile ceasefire holds",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/energy-bills-iran-war-heating-food-price-gas-b2953948.html",
-      "published_date": "2026-04-09T13:56:17+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/strait-of-hormuz-airports-keir-starmer-tehran-donald-trump-b2955504.html",
+      "published_date": "2026-04-10T19:10:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "European airports warn of half-term holiday chaos due to jet fuel shortage",
@@ -417,11 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "‘I don’t want Nigel Farage to come to my house’: Unpacking Reform’s energy bills draw",
+      "title": "I shed my dad bod - but a health company stole my photos to promote its business",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c705jy13yp9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T21:55:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Repurposed drug may extend survival in aggressive ovarian cancer, trial shows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/apr/10/drug-extend-survival-aggressive-ovarian-cancer-trial-relacorilant",
+      "published_date": "2026-04-10T19:55:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man arrested over deaths of four people trying to cross Channel",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c208k07em0mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T18:12:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FTSE 100 flatlines ahead of Iran-US peace talks",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/in-the-room/nigel-farage-robert-jenrick-reform-cut-my-bills-b2942689.html",
-      "published_date": "2026-04-09T13:11:23+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/jd-vance-iran-bae-systems-pakistan-washington-b2955513.html",
+      "published_date": "2026-04-10T17:16:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Starbucks’s retail arm gets £13.7m tax credit even as sales increase",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/10/starbucks-retail-tax-credit-despite-sales-rise",
+      "published_date": "2026-04-10T15:23:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tesco issues ‘do not eat’ warning for chocolate dessert over fears it contains plastic",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Some taxpayers may face £180 hit after personal allowance shake-up",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/tax-personal-allowance-changes-freeze-2027-b2954584.html",
-      "published_date": "2026-04-09T16:12:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Weekend students at 15 universities in England told to return loans and grants",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/apr/09/weekend-students-at-15-universities-in-england-told-to-return-loans-and-grants",
-      "published_date": "2026-04-09T15:49:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Jo Malone ‘surprised and sad’ after being sued for £200,000 for using her name on fragrances",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/fashion/2026/apr/09/jo-malone-surprised-sad-sued-for-using-name-on-zara-fragrances",
-      "published_date": "2026-04-09T15:13:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mortgage lenders expect property market boost – but credit wobbles are already emerging",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/credit-defaults-mortgages-iran-war-kpmg-b2954398.html",
-      "published_date": "2026-04-09T14:46:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "OpenAI shelves landmark £31bn UK investment package",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/apr/09/openai-pulls-out-of-landmark-31bn-uk-investment",
-      "published_date": "2026-04-09T14:20:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Man arrested after baby girl dies from dog bite",
+      "title": "Teen charged with murder after shooting of boy, 14",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy915wr1074o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T14:20:49+00:00",
+      "url": "https://www.bbc.com/news/articles/cr41kxz67kko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T19:39:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Greens challenged over ‘crackpot conspiracy theorist’ election candidates as ‘antisemitic’ comments emerge",
+      "title": "One dead and 27 injured after bus with British passengers crashes in Canary Islands",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/10/fatal-bus-crash-british-passengers-canary-islands-san-sebastian-de-la-gomera",
+      "published_date": "2026-04-10T19:35:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teenager charged with murder after boy, 14, shot dead in south London",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/green-party-antisemitism-local-elections-candidates-b2954788.html",
-      "published_date": "2026-04-10T13:59:19+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/eghosa-ogbebor-shot-dead-murder-london-woolwich-b2955570.html",
+      "published_date": "2026-04-10T19:15:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Drug dealer busted after sending picture of new 'Turkey teeth' to friend",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp9vkezmxy0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T13:47:45+00:00",
+      "title": "Romford boy, 16, charged with murder of Eghosa Ogbebor, 14, in south London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/10/romford-boy-charged-murder-eghosa-ogbebor-woolwich-london",
+      "published_date": "2026-04-10T19:00:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Greens win by-election to replace jailed councillor",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxde5e4rngo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T12:49:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Car wash owners jailed for helping smuggle more than 400 people into Europe",
+      "title": "Teenager charged with murder after boy, 14, shot dead in London",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/car-wash-owners-jailed-for-helping-smuggle-more-than-400-people-into-europe-13530088",
-      "published_date": "2026-04-10T12:44:00+00:00",
+      "url": "https://news.sky.com/story/teenager-charged-after-boy-14-shot-dead-in-london-13530233",
+      "published_date": "2026-04-10T18:32:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Three-month-old baby killed in suspected dog attack",
+      "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/10/reform-uk-local-election-candidate-was-twice-disciplined-by-tories-over-alleged-racist-comments",
+      "published_date": "2026-04-10T18:04:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Carer’ murdered disabled man and hid body for weeks after meeting on social media",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/jason-trundle-murder-disabled-man-telford-b2955532.html",
+      "published_date": "2026-04-10T17:52:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour MPs propose specialist sexual offences courts to help trials backlog",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/apr/10/labour-mps-propose-specialist-sexual-offences-courts-to-help-trials-backlog",
+      "published_date": "2026-04-10T17:48:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince Harry sued for defamation by charity he co-founded",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale",
+      "published_date": "2026-04-10T17:41:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after four die trying to cross Channel in small boat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/10/man-arrested-four-die-channel-crossing-small-boat",
+      "published_date": "2026-04-10T17:24:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met PC caught making 'appalling' remarks sacked",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c937w3zj742o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T17:21:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doctors’ leader claims new reduced pay offer killed chances of ending strikes in England",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/apr/10/resident-doctors-leader-reduced-pay-offer-killed-chances-ending-strikes",
+      "published_date": "2026-04-10T17:07:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince Harry sued for defamation by his former charity Sentebale, court record shows",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/three-month-old-baby-killed-in-suspected-dog-attack-13530087",
-      "published_date": "2026-04-10T12:33:00+00:00",
+      "url": "https://news.sky.com/story/prince-harry-sued-for-libel-by-his-former-charity-sentebale-court-record-shows-13530180",
+      "published_date": "2026-04-10T16:12:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Ex-detective who texted rape victim, 14, jailed",
+      "title": "Mandelson faces £300 fine for urinating in street",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn89em3nj2ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T12:01:18+00:00",
+      "url": "https://www.bbc.com/news/articles/czd7gd5m024o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T16:04:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Inverness wages war on seagulls after ‘coordinated attacks on children’ at Easter egg hunt",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/seagulls-inverness-easter-egg-hunt-b2955070.html",
-      "published_date": "2026-04-10T11:12:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tech bosses could face jail for failing to remove revenge porn from websites",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/revenge-porn-law-labour-jail-b2955232.html",
-      "published_date": "2026-04-10T11:12:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police officer bombarded 14-year-old rape victim with inappropriate drunken messages",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/police-john-hamilton-northumbria-jail-b2955237.html",
-      "published_date": "2026-04-10T11:09:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man jailed for killing abused wife who jumped from bridge",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0krdgjy0kko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T10:47:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Domestic abuser jailed in Scotland for killing wife who took her own life",
+      "title": "Reform’s temper tantrum about slavery reparations shows it doesn’t understand Britain’s place in the modern world | Kojo Koram",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/10/lee-milne-domestic-abuser-jailed-killing-wife-kimberly-scotland",
-      "published_date": "2026-04-10T10:36:47+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/10/reform-slavery-reparations-britain-modern-world-visa-ban-geopolitics",
+      "published_date": "2026-04-10T15:40:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "How many ships are crossing the Strait of Hormuz?",
+      "title": "Who can I vote for in my area?",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T10:35:14+00:00",
+      "url": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T15:35:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Labrinth not involved in Euphoria's third season",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj94yxlnx09o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T10:19:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In The Room | Iran-US ceasefire: How can Starmer deal with Trump?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/in-the-room/trump-iran-ceasefire-starmer-in-the-room-podcast-b2955198.html",
-      "published_date": "2026-04-10T10:16:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex Police Federation boss faces misconduct probe",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78r44dve0no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T09:49:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child dies in dog attack, police say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce35zkl9dg3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T09:22:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘An abomination’: the Lancashire town kicking up at stink from reopened landfill",
+      "title": "Met police accused of favouring Tommy Robinson far-right rally over Palestine march",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/10/lancashire-fleetwood-stench-landfill-transwaste",
-      "published_date": "2026-04-10T08:31:10+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/10/met-police-tommy-robinson-far-right-protest-palestine-march-london",
+      "published_date": "2026-04-10T15:08:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "London nightlife crisis sees iconic clubs close as costs soar and drinking habits change",
+      "title": "Sadiq Khan urges social media crackdown over London crime ‘disinformation’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/london-nightlife-clubs-corsica-studios-crisis-b2955048.html",
-      "published_date": "2026-04-10T07:42:42+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/sadiq-khan-social-media-london-disinformation-ai-b2955372.html",
+      "published_date": "2026-04-10T14:43:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Police get extra £5m to patrol places of worship after Golders Green and Manchester attacks",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/golders-green-police-patrols-synagogue-b2955073.html",
-      "published_date": "2026-04-10T07:24:03+00:00",
+      "title": "Former Lioness is fire service's new deputy chief",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd9vz39nz8qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-10T14:42:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anger as swifts’ nesting holes in Derbyshire rail viaduct ‘blocked up’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/10/anger-as-swifts-nesting-holes-in-derbyshire-rail-viaduct-blocked-up",
+      "published_date": "2026-04-10T14:26:46+00:00",
       "category": "Local Events"
     }
   ]
