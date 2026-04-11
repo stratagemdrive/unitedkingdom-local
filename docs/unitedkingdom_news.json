@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-11T11:32:13.910193+00:00",
+  "last_updated": "2026-04-11T23:23:24.862335+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Secret discussions on resettling Chagos Islands after Starmer pauses Mauritius deal",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/chagos-islands-trump-starmer-mauritius-b2955775.html",
+      "published_date": "2026-04-11T15:56:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK shelves Chagos deal after Trump opposition",
       "source": "BBC News",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Teen tried to buy gun for terrorist attack, court told",
+      "title": "Memorial to three soldiers unveiled",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2vdzl9enno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-08T18:39:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/c87wlp9gx5qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-11T19:25:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sending UK ships to police Strait of Hormuz ‘a fantasy’, ex-defence secretary warns",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/iran-war-strait-hormuz-uk-army-navy-ben-wallace-b2955814.html",
+      "published_date": "2026-04-11T17:04:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tories would reinstate two-child benefit cap to fund defence, says Badenoch",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/11/tories-reinstate-two-child-benefit-cap-fund-defence-kemi-badenoch",
+      "published_date": "2026-04-11T13:17:01+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Abhorrent’: the inside story of the Polymarket gamblers betting millions on war",
@@ -263,31 +284,24 @@
       "category": "Military"
     },
     {
-      "title": "‘Nobody’s in charge’: is power sharing still working in Northern Ireland?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/10/power-sharing-northern-ireland-28-years-good-friday-agreement",
-      "published_date": "2026-04-10T04:00:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why a push to transform UK military is a 'fiasco'",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/why-a-push-to-transform-uk-military-is-a-fiasco-13529757",
-      "published_date": "2026-04-10T03:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'We should not be at the mercy of events abroad' - Starmer",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T22:51:51+00:00",
-      "category": "Military"
+      "title": "Police to review complaint over Farage’s free energy bills competition",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/farage-reform-energy-bills-competition-police-b2955848.html",
+      "published_date": "2026-04-11T15:41:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Record number of homes in Great Britain turn to green energy as fuel prices soar",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/apr/11/homes-great-britain-green-energy-fuel-prices",
       "published_date": "2026-04-11T11:00:47+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Police review complaint about Reform UK's free energy bills competition",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/police-review-complaint-about-reform-uks-free-energy-bills-competition-13530419",
+      "published_date": "2026-04-11T10:11:00+00:00",
       "category": "Energy"
     },
     {
@@ -410,18 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T20:36:41+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "OpenAI says energy costs and regulation hold back major UK investment",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/openai-newcastle-chatgpt-conservative-ben-spencer-b2954743.html",
-      "published_date": "2026-04-09T16:47:14+00:00",
-      "category": "Energy"
+      "title": "‘A good, strong squeak’: the best supermarket halloumi, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/apr/11/best-supermarket-halloumi-tasted-rated",
+      "published_date": "2026-04-11T12:00:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "The hill I will die on: Yes, money can buy you happiness – if you spend it right | Eleanor Margolis",
@@ -557,150 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "White House staff told not to place bets on prediction markets",
+      "title": "Golden eagles could be reintroduced to England after more than 150 years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/12/golden-eagles-reintroduced-england-150-years",
+      "published_date": "2026-04-11T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 500 arrests at Palestine Action protest",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T02:32:27+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-11T22:57:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested for allegedly damaging US military aircraft in Shannon airport",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/11/man-arrested-for-allegedly-damaging-us-military-aircraft-in-shannon-airport",
+      "published_date": "2026-04-11T22:51:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens of firefighters tackling large blaze at Corries Meats farm",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c937vxpv4qvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-11T22:35:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The doomsday seed collectors fighting to save Wales' native species",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2d1k0nrwe9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-11T20:55:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man left with serious injuries after ‘falling from back of a plane’ at Manchester Airport",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/man-injured-manchester-airport-jet-2-b2955911.html",
+      "published_date": "2026-04-11T20:41:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NI fuel protesters 'stand in solidarity' with Irish counterparts",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crk1rrnydylo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-11T17:39:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 78, arrested after vandalism of James Bulger's grave",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-78-arrested-after-vandalism-of-james-bulgers-grave-13530724",
+      "published_date": "2026-04-11T17:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 500 people arrested at Palestine Action protest in London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/met-police-make-arrests-at-london-palestine-action-protest",
+      "published_date": "2026-04-11T16:17:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, 19, killed in dog attack at house",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cew78nrdykqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-11T14:14:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British singer among more than 500 arrested at Palestine Action protest",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/more-than-200-arrests-made-at-palestine-action-protest-13530519",
+      "published_date": "2026-04-11T14:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, 19, dies after being attacked by dog at property in Essex",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/11/19-year-old-woman-dies-after-dog-attack-in-essex",
+      "published_date": "2026-04-11T13:54:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British tourist dead and another in serious condition fatal Canary Islands bus crash",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/british-tourist-dead-and-another-in-serious-condition-fatal-canary-islands-bus-crash-13530466",
+      "published_date": "2026-04-11T13:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eamonn Holmes recovering in hospital after stroke",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8r4mvyrdl3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-11T12:40:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested on suspicion of murder after death of 21-year-old in Primrose Hill",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/11/man-arrested-on-suspicion-of-after-death-of-21-year-old-in-primrose-hill",
+      "published_date": "2026-04-11T12:22:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man appears in court after deaths of four migrants trying to cross channel",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy519pv15lyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-11T12:17:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, 19, dies after dog attack",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/woman-19-dies-after-dog-attack-in-essex-13530438",
+      "published_date": "2026-04-11T12:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged over deaths of four people trying to cross Channel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/11/man-charged-over-deaths-of-four-people-trying-to-cross-channel",
+      "published_date": "2026-04-11T11:59:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two men arrested over fatal stabbing of 21-year-old in London's Primrose Hill",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/two-men-arrested-over-fatal-stabbing-of-21-year-old-in-londons-primrose-hill-13530434",
+      "published_date": "2026-04-11T11:28:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Murder arrest over Primrose Hill stabbing",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c17vz9d905qo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-11T11:20:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of murder after Finbar Sullivan stabbed to death in Primrose Hill",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/primrose-hill-stabbing-finbar-sullivan-arrest-latest-b2955784.html",
-      "published_date": "2026-04-11T11:20:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "James Bulger's grave vandalised for second time",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9wqx1w82reo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-11T11:19:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Power in Scotland will be the SNP’s to lose once again",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/scotland-holyrood-elections-may-snp-b2949981.html",
-      "published_date": "2026-04-11T11:08:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager accused of murdering boy, 14, in shooting appears in court",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/eghosa-ogbebor-woolwich-shooting-murder-b2955783.html",
-      "published_date": "2026-04-11T10:32:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two teenagers die in M1 crash as 'car leaves bridge'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdrme3j88k7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-11T10:10:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two teenagers killed after car plunges off bridge and hits minibus on M1",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/m1-crash-lutterworth-junction-21-leicestershire-b2955753.html",
-      "published_date": "2026-04-11T09:00:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS to offer second dose of MenB vaccine after Kent outbreak",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqxlyepd09no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-11T08:35:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He lives on through his work - 16 incredible photos from late Planet Earth cameraman",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crk17eg356eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-11T08:32:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Student loan interest could rise despite cap on rates",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/apr/11/student-loan-interest-rise-despite-uk-cap-rates-inflation",
-      "published_date": "2026-04-11T08:03:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "State failing to learn lessons of Southport attack, say victims’ lawyers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/11/state-failing-lessons-southport-attack-victims-lawyers",
-      "published_date": "2026-04-11T05:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King signs up David Beckham to his Chelsea flower show team",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/11/king-signs-up-david-beckham-to-his-chelsea-flower-show-team",
-      "published_date": "2026-04-11T05:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The war over Omagh’s gold: the £21bn mine plan tearing a community apart",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/11/omagh-northern-ireland-gold-mine-21bn-inquiry",
-      "published_date": "2026-04-11T05:00:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Britain's shadow workforce is paid as little as 65p an hour. Who cares for the carers? | Frances Ryan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/11/carers-allowance-britain-unpaid-workforce",
-      "published_date": "2026-04-11T05:00:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teen charged with murder after shooting of boy, 14",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr41kxz67kko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T19:39:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One dead and 27 injured after bus with British passengers crashes in Canary Islands",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/fatal-bus-crash-british-passengers-canary-islands-san-sebastian-de-la-gomera",
-      "published_date": "2026-04-10T19:35:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager charged with murder after boy, 14, shot dead in south London",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/eghosa-ogbebor-shot-dead-murder-london-woolwich-b2955570.html",
-      "published_date": "2026-04-10T19:15:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Romford boy, 16, charged with murder of Eghosa Ogbebor, 14, in south London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/10/romford-boy-charged-murder-eghosa-ogbebor-woolwich-london",
-      "published_date": "2026-04-10T19:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager charged with murder after boy, 14, shot dead in London",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/teenager-charged-after-boy-14-shot-dead-in-london-13530233",
-      "published_date": "2026-04-10T18:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/10/reform-uk-local-election-candidate-was-twice-disciplined-by-tories-over-alleged-racist-comments",
-      "published_date": "2026-04-10T18:04:34+00:00",
       "category": "Local Events"
     }
   ]
