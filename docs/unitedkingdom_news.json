@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-11T23:23:24.862335+00:00",
+  "last_updated": "2026-04-12T11:35:41.253113+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Wes Streeting attacks Trump’s ‘outrageous’ Iran war rhetoric",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/12/wes-streeting-attacks-trump-outrageous-iran-war-rhetoric",
+      "published_date": "2026-04-12T10:09:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Secret discussions on resettling Chagos Islands after Starmer pauses Mauritius deal",
       "source": "The Independent",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Experts issue mortgage cost warning as buyer demand drops",
+      "title": "‘It’s time for China and India to really start providing foreign aid’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/mortgage-rates-cost-first-time-buyers-iran-b2953903.html",
-      "published_date": "2026-04-08T23:01:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/world/europe/china-us-aid-cuts-india-nrc-b2938942.html",
+      "published_date": "2026-04-12T11:28:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US-Iran talks ending without deal disappointing, Streeting says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-12T10:39:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Memorial to three soldiers unveiled",
@@ -267,20 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-10T10:42:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starmer warns Trump’s war in Iran is proof UK must strengthen European alliance",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-donald-trump-iran-war-britain-europe-b2955061.html",
-      "published_date": "2026-04-10T10:30:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shoppers feel crunch as price of produce climbs",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gxp0mjpl8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T04:31:09+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "‘We’re trapped’: despair for sellers as Iran war knocks confidence in UK housing market",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/12/trapped-despair-sellers-as-iran-war-knocks-uk-housing-market",
+      "published_date": "2026-04-12T06:00:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Low-tax Texas opens London office to lure jobs and investment",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/12/texas-opens-london-office-lure-jobs-investment-low-tax-subsidies",
+      "published_date": "2026-04-12T05:00:08+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "‘A good, strong squeak’: the best supermarket halloumi, tasted and rated",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/thefilter/2026/apr/11/best-supermarket-halloumi-tasted-rated",
@@ -550,18 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Five experts pick their best funds for your ISA in the new 2026 tax year",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/best-funds-stocks-shares-isa-2026-expert-tips-b2947028.html",
-      "published_date": "2026-04-10T10:11:35+00:00",
-      "category": "Economy"
+      "title": "Woman killed in dog attack at house named locally",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c79jr971p5do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-12T11:28:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fuel shortages likely ‘for some time’ and economic growth downgraded due to Iran war, IMF warns",
+      "title": "Eamonn Holmes 'doing OK' after stroke, his son says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gdlg7je4po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-12T11:01:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Remote working tribunal cases in Great Britain fall for first time since Covid",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/12/remote-working-tribunal-cases-great-britain-fall-for-first-time-since-covid-hit",
+      "published_date": "2026-04-12T11:00:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Home Office to announce closure of 11 asylum hotels in next week",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/12/asylum-seeker-hotels-closures-home-office",
+      "published_date": "2026-04-12T11:00:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rapist asks if he can call his mother when arrested",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/fuel-diseal-oil-prices-iran-strait-of-hormuz-b2955063.html",
-      "published_date": "2026-04-10T09:05:08+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/tv/news/crime-leicester-jack-leland-webster-b2956053.html",
+      "published_date": "2026-04-12T10:19:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police appeal after woman raped by several men outside church",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/police-appeal-after-woman-raped-by-several-men-outside-church-in-epsom-13515454",
+      "published_date": "2026-04-12T09:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shoplifting rife, police overwhelmed, an angry public … the trail leads back to one person: Theresa May | Dal Babu",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/12/shoplifting-police-public-theresa-may-home-secretary",
+      "published_date": "2026-04-12T09:00:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scottish election 2026: How tax and welfare are shaping the vote",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8ej9nj9773o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-12T08:42:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘A house of cards’: how did Wireless festival get it so wrong on Kanye West?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/12/a-house-of-cards-how-did-wireless-festival-get-it-so-wrong-on-kanye-west",
+      "published_date": "2026-04-12T05:00:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Messy and unpredictable: What I learned from election tour of the UK",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gxw5dw8vwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-11T23:19:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Golden eagles could be reintroduced to England after more than 150 years",
@@ -631,76 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cew78nrdykqo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-11T14:14:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British singer among more than 500 arrested at Palestine Action protest",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/more-than-200-arrests-made-at-palestine-action-protest-13530519",
-      "published_date": "2026-04-11T14:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 19, dies after being attacked by dog at property in Essex",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/11/19-year-old-woman-dies-after-dog-attack-in-essex",
-      "published_date": "2026-04-11T13:54:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British tourist dead and another in serious condition fatal Canary Islands bus crash",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/british-tourist-dead-and-another-in-serious-condition-fatal-canary-islands-bus-crash-13530466",
-      "published_date": "2026-04-11T13:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eamonn Holmes recovering in hospital after stroke",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8r4mvyrdl3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-11T12:40:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of murder after death of 21-year-old in Primrose Hill",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/11/man-arrested-on-suspicion-of-after-death-of-21-year-old-in-primrose-hill",
-      "published_date": "2026-04-11T12:22:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man appears in court after deaths of four migrants trying to cross channel",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy519pv15lyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-11T12:17:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 19, dies after dog attack",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/woman-19-dies-after-dog-attack-in-essex-13530438",
-      "published_date": "2026-04-11T12:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged over deaths of four people trying to cross Channel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/11/man-charged-over-deaths-of-four-people-trying-to-cross-channel",
-      "published_date": "2026-04-11T11:59:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men arrested over fatal stabbing of 21-year-old in London's Primrose Hill",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/two-men-arrested-over-fatal-stabbing-of-21-year-old-in-londons-primrose-hill-13530434",
-      "published_date": "2026-04-11T11:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder arrest over Primrose Hill stabbing",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c17vz9d905qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-11T11:20:35+00:00",
       "category": "Local Events"
     }
   ]
