@@ -1,8 +1,43 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-12T23:25:10.756484+00:00",
+  "last_updated": "2026-04-13T12:04:35.841196+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK could adopt EU single market rules under new legislation",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T11:18:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PM embraces Brexit divisions as he seeks closer ties with Europe",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0rxj4yygdwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T11:05:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Britain needs closer EU ties, Starmer says as UK prepares to adopt single market rules",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-rules-uk-trade-deal-starmer-b2956364.html",
+      "published_date": "2026-04-13T09:59:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Keir Starmer defends plan for closer alignment with EU rules",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/13/keir-starmer-defends-plan-for-closer-alignment-with-eu-rules",
+      "published_date": "2026-04-13T08:43:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘So beautiful’: Rachel Zegler hails accessibility of Evita’s free balcony scene",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/stage/2026/apr/13/rachel-zegler-evita-free-balcony-scene-olivier-award",
+      "published_date": "2026-04-13T08:35:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Britain could adopt single market rules without MPs’ vote as part of UK-EU reset",
       "source": "The Guardian",
@@ -109,39 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Payments for children and 100 new GPs in Plaid election manifesto",
+      "title": "How the Iran war affects your money and bills",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y70z1q0k3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T14:36:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T11:59:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cooper urges full and toll-free reopening of Strait of Hormuz",
+      "title": "Will UK petrol and diesel prices start going down?",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-09T13:24:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T11:53:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Zack Polanski calls for UK to withdraw trade agreement with Israel after strikes on Lebanon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/09/zack-polanski-uk-trade-agreement-israel-lebanon-strikes",
-      "published_date": "2026-04-09T12:57:46+00:00",
-      "category": "Diplomacy"
+      "title": "Farmers ask Stormont for financial help with fuel costs",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czxr4455p2vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T11:16:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "In The Room | Should Starmer release the Mandelson-Epstein files?",
+      "title": "How many ships are crossing the Strait of Hormuz?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T10:18:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PM to scrap spy chiefs' Hillsborough Law veto",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c77mezv330lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T09:48:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Work begins in Wales on UK's first small modular reactor nuclear power station",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87w5ld0p80o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T09:23:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil prices jump back above $100 a barrel after Trump orders blockade of Strait of Hormuz",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/in-the-room/mandelson-starmer-files-politics-podcast-in-the-room-b2928953.html",
-      "published_date": "2026-04-09T12:55:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/business/oil-prices-strait-of-hormuz-trump-iran-b2956390.html",
+      "published_date": "2026-04-13T08:54:25+00:00",
+      "category": "Military"
     },
     {
-      "title": "Brits facing extra EU border checks, as 'technical difficulties' hamper new system",
+      "title": "Rolls-Royce secures nearly £600m in UK government cash to develop small reactors",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/13/rolls-royce-secures-nearly-600m-in-uk-goverment-cash-to-develop-small-reactors",
+      "published_date": "2026-04-13T08:38:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Government shift on intelligence evidence could revive delayed Hillsborough law",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/apr/13/government-shift-on-intelligence-evidence-could-revive-delayed-hillsborough-law",
+      "published_date": "2026-04-13T07:58:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil back over $100 a barrel after just four days",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/what-you-need-to-know-as-new-eu-entryexit-system-rolls-out-this-week-13529529",
-      "published_date": "2026-04-09T06:05:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://news.sky.com/story/oil-back-over-100-a-barrel-after-just-four-days-13531204",
+      "published_date": "2026-04-13T05:37:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Warnings of UK fuel protests as Iran war sends price of diesel to £2 a litre",
@@ -214,74 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "Sending UK ships to police Strait of Hormuz ‘a fantasy’, ex-defence secretary warns",
+      "title": "DWP reveals exactly who will get winter fuel payment this year after U-turn",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/iran-war-strait-hormuz-uk-army-navy-ben-wallace-b2955474.html",
-      "published_date": "2026-04-11T08:10:20+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/winter-fuel-payment-2026-eligibility-pension-dwp-b2956464.html",
+      "published_date": "2026-04-13T11:50:12+00:00",
+      "category": "Energy"
     },
     {
-      "title": "'Warning lights for a coming war are flashing red &#8211; and Britain is not prepared'",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/warning-lights-for-a-coming-war-are-flashing-red-8211-and-britain-is-not-prepared-13530330",
-      "published_date": "2026-04-10T23:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Airports warn of 'systemic' fuel shortages due to Iran war",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/airports-council-international-warns-of-fuel-shortages-if-strait-of-hormuz-not-reopened-amid-us-iran-war-talks-13530261",
-      "published_date": "2026-04-10T22:05:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Crispin Odey drops £79m libel claim against FT over sexual misconduct allegations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/10/crispin-odey-drops-79m-libel-claim-against-ft-over-sexual-misconduct-allegations",
-      "published_date": "2026-04-10T20:10:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Remaining in Nato is in best interests of US, says Keir Starmer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/remaining-in-nato-alliance-us-interests-keir-starmer",
-      "published_date": "2026-04-10T17:53:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK working on major plan to prepare country for war",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/uk-preparing-new-plan-to-ready-nation-for-war-13530181",
-      "published_date": "2026-04-10T16:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US inflation jumps to highest level in almost two years",
+      "title": "Oil jumps back above $100 after US-Iran peace talks fail",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T13:51:57+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T11:14:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ministers unveil plans for faster approvals for nuclear and aviation fuel plants",
+      "title": "Middle East war will leave UK households £480 worse off this year, says thinktank",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/13/middle-east-war-uk-households-poorer-this-year-resolution-foundation-thinktank",
+      "published_date": "2026-04-13T09:51:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Cost of crude oil races higher as Donald Trump pledges to block Iranian ports",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/sizewell-c-environment-agency-government-natural-england-teesside-b2954124.html",
-      "published_date": "2026-04-10T13:34:02+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/donald-trump-strait-of-hormuz-keir-starmer-airlines-failure-b2956375.html",
+      "published_date": "2026-04-13T07:33:57+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Iran conflict will define us for a generation, says PM",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr71ld371j5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T13:20:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US should judge UK on its actions in Gulf, not on Trump’s social posts, says defence secretary",
+      "title": "We lost £3,000 after collapse of Ikea’s solar panel installer",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/10/us-judge-uk-actions-social-media-defence-secretary-john-healey-iran",
-      "published_date": "2026-04-10T12:50:10+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/money/2026/apr/13/ikea-solar-panels-soly-collapse-lost-3000",
+      "published_date": "2026-04-13T06:00:39+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Rising fuel costs puts strain on transport charity",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyxljjvnj2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T05:27:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "Higher energy prices will leave UK households £480 worse off this year, experts warn",
@@ -382,46 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "What is behind Ireland’s fuel protests?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/ireland-protesters-government-micheal-martin-b2955201.html",
-      "published_date": "2026-04-10T10:19:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "North Sea oil prices hit record high amid Strait of Hormuz row",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/north-sea-oil-prices-iran-b2955125.html",
-      "published_date": "2026-04-10T08:47:40+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Starmer says he is ‘fed up’ with Trump and Putin’s impact on UK energy costs",
+      "title": "Nigel Farage defends Richard Tice over allegations his firm broke law by failing to pay tax – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/10/starmer-fed-up-trump-uk-politics",
-      "published_date": "2026-04-10T07:55:53+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
+      "published_date": "2026-04-13T11:57:12+00:00",
+      "category": "Economy"
     },
     {
-      "title": "OpenAI halts UK data centre project over energy costs and red tape",
+      "title": "Burger King to open 30 new UK restaurants this year despite higher costs",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/openai-stargate-newcastle-data-centre-b2955087.html",
-      "published_date": "2026-04-10T07:47:10+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/burger-king-metro-bank-press-association-b2956502.html",
+      "published_date": "2026-04-13T10:09:52+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Reform UK voters least likely to see social media posts from family and friends, study finds",
+      "title": "April 2026 payment dates for universal credit, benefits and pensions plus cost of living support",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/dwp-payments-april-uc-2026-cost-of-living-b2956409.html",
+      "published_date": "2026-04-13T08:29:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Vistry promotes Adam Daniels to top job after speedy search",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/scottish-holly-williams-b2956428.html",
+      "published_date": "2026-04-13T08:28:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Private firms providing services to NHS made £1.6bn profit in two years, research finds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/apr/10/reform-uk-voters-least-likely-to-see-social-media-posts-from-family-and-friends-study-finds",
-      "published_date": "2026-04-10T04:01:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Tony Blair calls for more North Sea drilling to protect UK from economic shocks exposed by Iran war",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/tony-blair-north-sea-drilling-starmer-iran-b2954664.html",
-      "published_date": "2026-04-09T23:04:57+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/society/2026/apr/13/private-companies-nhs-services-profit-chpi-research",
+      "published_date": "2026-04-13T05:00:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Thousands of unpaid carers to face DWP repayment demands during overhaul",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Man arrested over deaths of four people trying to cross Channel",
+      "title": "Southport attack: ‘catastrophic’ failures by multiple agencies contributed to atrocity, public inquiry finds – live updates",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/live/2026/apr/13/southport-attack-public-inquiry-findings-latest-news-updates",
+      "published_date": "2026-04-13T11:55:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four teens arrested over fatal stabbing of boy, 16",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c208k07em0mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-10T18:12:10+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/c5y8qjdqrdwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T11:54:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FTSE 100 flatlines ahead of Iran-US peace talks",
+      "title": "Southport killer’s parents ‘bear considerable blame’ for ‘preventable’ attack, damning report finds",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/jd-vance-iran-bae-systems-pakistan-washington-b2955513.html",
-      "published_date": "2026-04-10T17:16:38+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/southport-stabbing-attack-inquiry-report-axel-rudakubana-b2956430.html",
+      "published_date": "2026-04-13T11:49:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Starbucks’s retail arm gets £13.7m tax credit even as sales increase",
+      "title": "Asylum seekers removed from UK in waist and leg restraints, report finds",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/10/starbucks-retail-tax-credit-despite-sales-rise",
-      "published_date": "2026-04-10T15:23:05+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/apr/13/asylum-seekers-removed-uk-waist-leg-restraints-one-in-one-out-france",
+      "published_date": "2026-04-13T11:33:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tesco issues ‘do not eat’ warning for chocolate dessert over fears it contains plastic",
+      "title": "Why wasn’t Southport killer Axel Rudakubana given a whole-life order?",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/tesco-recall-safety-issue-plastic-dessert-b2955320.html",
-      "published_date": "2026-04-10T14:25:53+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/southport-inquiry-killer-axel-rudakubana-sentence-life-years-b2956553.html",
+      "published_date": "2026-04-13T11:25:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Fresher than anything in a shop’: the best recipe boxes and meal kits for time-poor foodies, tested",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/apr/10/best-meal-delivery-service-food-recipe-kit-tested-uk",
-      "published_date": "2026-04-10T14:02:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Dutch village at risk of being demolished",
+      "title": "Sarwar puts NHS at heart of Scottish Labour's election pitch",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-12T23:20:52+00:00",
+      "url": "https://www.bbc.com/news/articles/cly9gz585g1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T11:14:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Ex-detective fears Emma Caldwell wasn’t prolific sex offender’s first victim",
+      "title": "‘Most dangerous spider’ in Britain behind rise in hospital admissions",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/emma-caldwell-murder-iain-packer-b2956141.html",
-      "published_date": "2026-04-12T23:01:00+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/spider-bite-false-widow-uk-hospital-b2956341.html",
+      "published_date": "2026-04-13T11:12:12+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Thousands of NHS staff face job cuts across England amid funding crisis",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-job-cuts-unison-ai-b2956145.html",
-      "published_date": "2026-04-12T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deep-fried food banned in new plans for school dinners",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-12T21:55:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fried nuggets and steamed sponges off menu in school food overhaul in England",
+      "title": "Southport attack blamed on ‘catastrophic’ failures by agencies and killer’s ‘irresponsible’ parents",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/apr/12/school-food-overhaul-england-fried-nuggets-steamed-sponges",
-      "published_date": "2026-04-12T21:30:27+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/13/southport-attack-blamed-on-catastrophic-failures-by-agencies-and-killers-irresponsible-parents",
+      "published_date": "2026-04-13T10:59:59+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Swinney says Scottish independence referendum could be held in 2028",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2r89y9n3go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-12T21:07:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Péter Magyar Hungary's new leader?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/peter-magyar-viktor-orban-hungary-elections-b2956151.html",
-      "published_date": "2026-04-12T20:17:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No need for hard stares as Paddington: The Musical triumphs at Olivier awards",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/stage/2026/apr/12/paddington-the-musical-triumphs-at-the-olivier-awards",
-      "published_date": "2026-04-12T19:02:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenage woman killed in dog attack in Essex named by police",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/dog-attack-essex-police-jamie-lea-biscoe-b2956185.html",
-      "published_date": "2026-04-12T18:03:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Touring exhibit showcases royal photography",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8xyr8j2dq5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-12T17:59:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two in hospital after bus crashes down embankment in the Highlands",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyx94488wqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-12T17:55:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police launch appeal after woman raped by several men outside Surrey church",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/12/police-launch-appeal-after-woman-raped-by-several-men-outside-surrey-church",
-      "published_date": "2026-04-12T17:48:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 19, killed in Essex dog attack named as Jamie-Lea Biscoe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/12/woman-19-killed-in-essex-dog-attack-named-as-jamie-lea-biscoe",
-      "published_date": "2026-04-12T17:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies in four-vehicle crash after police chase",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/man-dies-police-chase-robertsbridge-east-sussex-b2956167.html",
-      "published_date": "2026-04-12T16:43:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Votes for populist parties in May elections will put NHS at risk, Streeting says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/12/voting-populist-parties-local-elections-nhs-risk-wes-streeting",
-      "published_date": "2026-04-12T15:55:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 19, who died after dog attack in Essex named by police",
+      "title": "Man accused of murdering student in Primrose Hill appears in court",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/jamie-lea-biscoe-named-as-19-year-old-who-died-after-dog-attack-in-essex-13531011",
-      "published_date": "2026-04-12T15:22:00+00:00",
+      "url": "https://news.sky.com/story/man-accused-of-murdering-student-in-primrose-hill-appears-in-court-13531299",
+      "published_date": "2026-04-13T10:59:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man arrested on suspicion of murder after body found in garden",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/man-arrested-body-found-garden-filton-bristol-b2956108.html",
-      "published_date": "2026-04-12T14:20:48+00:00",
+      "title": "Are spider bites on the rise in England?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyvg1jyry0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T10:55:48+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Government bans deep-fried foods from school menus",
+      "title": "NHS nurse wins settlement over trans patient row",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/high-sugar-and-deep-fried-foods-off-the-menu-in-schools-in-government-bid-to-tackle-childhood-obesity-13530966",
-      "published_date": "2026-04-12T14:07:00+00:00",
+      "url": "https://news.sky.com/story/nhs-nurse-wins-settlement-over-trans-patient-row-13531298",
+      "published_date": "2026-04-13T10:53:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Welsh election not about independence, Plaid Cymru candidate says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyd87y97ewo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-12T14:05:45+00:00",
+      "title": "Boy, 16, stabbed to death",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/four-arrested-after-boy-16-stabbed-to-death-in-peterborough-13531296",
+      "published_date": "2026-04-13T10:33:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Streeting denies changing pay deal for resident doctors",
+      "title": "Plaid Cymru's manifesto explained in a minute",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cddqn72l1n9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-12T13:49:48+00:00",
+      "url": "https://www.bbc.com/news/videos/cy81j5kzjrlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T10:15:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Phone firms should use technology to stop children taking nudes, police chief says",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/children-images-abuse-sextortion-met-police-b2956422.html",
+      "published_date": "2026-04-13T09:10:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI to predict how bowel cancer patients will respond to new NHS drug",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/apr/13/ai-bowel-cancer-patients-nhs-drug",
+      "published_date": "2026-04-13T09:00:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Péter Magyar, Hungary's new leader?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/peter-magyar-hungary-elections-pm-orban-b2956330.html",
+      "published_date": "2026-04-13T05:47:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cold sore virus left mum with brain damage",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0lenp4r70eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T05:12:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'School breakfast club has best toast in the world'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly02z2pe35o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T05:10:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In the UK, Keir Starmer has few fans. I learned that in China it’s a very different story | Martin Rowson",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/13/keir-starmer-uk-china-menu-prime-minister-beijing",
+      "published_date": "2026-04-13T05:00:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mysterious Lake District barn joins national treasures on heritage list",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/apr/13/mysterious-lake-district-barn-national-treasures-heritage",
+      "published_date": "2026-04-13T04:00:36+00:00",
       "category": "Local Events"
     }
   ]
