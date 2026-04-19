@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-18T23:26:09.069902+00:00",
+  "last_updated": "2026-04-19T11:36:33.950856+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Starmer would have blocked Mandelson over vetting failure, ministers say",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c80m2z42pr1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T09:44:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘London Marathon place for sale’: fraudsters chase after runners’ cash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/19/london-marathon-place-for-sale-fraudsters-chase-after-runners-cash",
+      "published_date": "2026-04-19T06:00:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "No way Lammy wasn’t told Mandelson failed vetting, says former foreign secretary",
       "source": "The Independent",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Is Mandelson vetting scandal the final straw for Starmer? – The Latest",
+      "title": "More Britons opt to holiday in UK this summer amid uncertainty over flights",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/apr/17/is-mandelson-vetting-scandal-the-final-straw-for-starmer-the-latest",
-      "published_date": "2026-04-17T17:32:20+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/apr/19/britons-holiday-uk-summer-flights-iran-war",
+      "published_date": "2026-04-19T08:00:36+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Guardian view on Starmer and Mandelson: a story that doesn’t add up | Editorial",
+      "title": "MoD has lost track of veterans on recall list, says defence adviser",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/17/the-guardian-view-on-starmer-and-mandelson-a-story-that-doesnt-add-up",
-      "published_date": "2026-04-17T17:15:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/apr/19/mod-has-lost-track-of-veterans-on-recall-list-defence-adviser",
+      "published_date": "2026-04-19T07:00:35+00:00",
+      "category": "Military"
     },
     {
       "title": "I'm a carer but I can't afford to go to work because of fuel prices",
@@ -267,20 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/apr/16/nhs-patients-write-medical-records-healthcare-workers",
       "published_date": "2026-04-16T17:37:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK prepares for food shortages in worst case scenario as Iran war continues",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-16T16:04:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Streeting risks reigniting Labour civil war in row over benefits cuts to boost defence",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/streeting-benefits-cuts-defence-labour-starmer-war-b2958955.html",
-      "published_date": "2026-04-16T14:52:37+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,55 @@
       "category": "Energy"
     },
     {
+      "title": "Labour’s ‘crabwise’ approach to closer EU ties must address damage of Brexit | Heather Stewart",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/19/labour-approach-closer-eu-ties-address-damage-of-brexit",
+      "published_date": "2026-04-19T10:50:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Vodafone incentivised security staff to fine its own franchisees",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/19/vodafone-staff-franchisees-penalty",
+      "published_date": "2026-04-19T10:00:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Reform UK’s Richard Tice allegedly failed to pay £100,000 in corporation tax",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/19/reform-uk-richard-tice-corporation-tax",
+      "published_date": "2026-04-19T08:56:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Reform's Richard Tice responds to reported failure to pay &#163;100,000 tax",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/reform-deputy-richard-tice-happy-to-put-things-right-over-reported-163100000-tax-error-13533647",
+      "published_date": "2026-04-19T08:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Reform’s Richard Tice ‘happy to put things right’ after ‘he failed to pay £100k in corporation tax’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/richard-tice-reform-uk-corporation-tax-hmrc-b2960447.html",
+      "published_date": "2026-04-19T07:13:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Carmakers scramble to plug £3bn shortfall for UK loan scandal payouts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/19/carmakers-uk-loan-scandal-payouts",
+      "published_date": "2026-04-19T07:00:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Influential soft-left MP to 'unite Labour' in new intervention",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/louise-haigh-to-set-out-economic-polices-that-can-unite-labour-in-new-intervention-13533279",
+      "published_date": "2026-04-18T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Reeves rightly fears the bond market, but she can afford to ditch one unhelpful rule | Phillip Inman",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/apr/18/reeves-rightly-fears-the-bond-market-but-she-can-afford-to-ditch-one-unhelpful-rule",
@@ -515,53 +564,109 @@
       "category": "Economy"
     },
     {
-      "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+      "title": "Chief Rabbi says attacks 'gathering momentum' after new synagogue arson attempt",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-17T10:22:46+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T11:25:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tesco swapping barcodes for QR codes in UK 'first' - here's why",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/tesco-swapping-barcodes-for-qr-codes-in-uk-first-heres-why-13532875",
-      "published_date": "2026-04-17T09:46:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool",
-      "published_date": "2026-04-17T09:45:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sainsbury’s to shed light on Iran war impact amid recent sales growth",
+      "title": "Andy Burnham allies seize on Mandelson crisis to plot path for Manchester mayor to make Westminster comeback",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/sainsbury-iran-shares-food-and-drink-federation-middle-east-b2959614.html",
-      "published_date": "2026-04-17T08:00:32+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-labour-prime-minister-keir-starmer-mandelson-b2960527.html",
+      "published_date": "2026-04-19T11:13:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "A question for those desperate to cut benefits to fund defence: who exactly are you willing to impoverish? | Polly Toynbee",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/17/george-robertson-cutting-welfare-to-fund-defence",
-      "published_date": "2026-04-17T07:00:24+00:00",
-      "category": "Economy"
+      "title": "North London synagogue targeted in another attempted arson attack on Jewish property",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/synagogue-arson-attack-kenton-london-jewish-b2960520.html",
+      "published_date": "2026-04-19T11:10:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Cuts to overseas aid will worsen shocks to global economy, David Miliband says",
+      "title": "Starmer would have blocked Mandelson appointment if he knew about failed vetting, ministers say – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/17/cuts-to-oversea-aid-worsen-shocks-global-economy-david-miliband-iran-war",
-      "published_date": "2026-04-17T05:00:21+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/live/2026/apr/19/keir-starmer-leadership-prime-minister-labour-party-peter-mandelson-vetting-latest-news",
+      "published_date": "2026-04-19T10:55:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Liz Kendall urges UK public to embrace AI as government makes first £500m fund investment",
+      "title": "How Reform is exposing the reality of Scotland’s views on immigration and identity",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/apr/17/liz-kendall-urges-uk-public-to-embrace-ai-as-government-makes-first-500m-fund-investment",
-      "published_date": "2026-04-17T05:00:20+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/2026/apr/19/how-reform-is-exposing-the-reality-of-scotlands-views-on-immigration-and-identity",
+      "published_date": "2026-04-19T10:00:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I’m voting Reform – it can’t get any worse’: Starmer’s nightmare in England’s ‘bellwether’ election seat",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/swindon-labour-reform-local-elections-b2930576.html",
+      "published_date": "2026-04-19T09:57:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police hunt 'dangerous' man last spotted at scene of woman's death",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp84xedr2gno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T09:45:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigate attempted arson attack at north-west London synagogue",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/19/police-investigate-attempted-arson-attack-north-west-london-synagogue",
+      "published_date": "2026-04-19T09:36:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'My school cannot afford free breakfast club'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8x7217vv28o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T08:24:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'With four jobs in London I couldn't afford rent so I'm going to Manchester'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c145v1340xlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T07:01:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rory McIlroy's success is 'priceless' for golf tourism",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c05ddmzzll5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T05:45:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Counter terror police investigate attempted 'firebomb' attack at London synagogue",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/police-respond-to-attempted-arson-attack-at-north-west-london-synagogue-says-charity-13533613",
+      "published_date": "2026-04-19T05:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rude names, railways and a mass trespass - how the Peak District became a tourist attraction",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqxl29wdrppo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-18T23:36:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Public warned not to approach 'dangerous' missing man after woman's 'suspicious' death",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/police-hunt-dangerous-missing-man-last-spotted-at-scene-of-womans-suspicious-death-13533611",
+      "published_date": "2026-04-18T23:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'We're not teaching them to order baguettes' - languages enjoy a renaissance in schools",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c75ex7e6w53o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-18T20:50:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How Wales' most obese area is declaring war on junk food",
@@ -596,111 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/apr/18/two-drivers-killed-motorway-crash-scotland",
       "published_date": "2026-04-18T16:32:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two more Reform local election candidates accused of offensive posts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/18/two-more-reform-local-election-candidates-accused-offensive-posts",
-      "published_date": "2026-04-18T16:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men killed after wrong-way motorway crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2rj8wpjyxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-18T15:42:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Paramedics thought I was having a panic attack, but I was actually paralysed by a stroke’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/health/spinal-stroke-rare-ambulance-london-hospital-b2951569.html",
-      "published_date": "2026-04-18T15:14:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canadian 'online poison seller' to have 'murder charges dropped in plea deal'",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/canadian-online-poison-seller-kenneth-law-to-have-murder-charges-dropped-in-plea-deal-13533378",
-      "published_date": "2026-04-18T15:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents outraged over 'horrendous' new bollards on green used to film Doctor Who",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gx9e9qx4ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-18T14:05:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fourth suspect in London arson attack on Jewish ambulances remanded in custody",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/18/fourth-suspect-in-london-arson-attack-on-jewish-ambulances-remanded-in-custody",
-      "published_date": "2026-04-18T12:21:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Counter terror police launch investigation after business targeted in arson attack in north-west London",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/hendon-arson-attack-terror-police-jewish-charity-brent-london-b2960280.html",
-      "published_date": "2026-04-18T11:22:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Counter-terror police investigate another London arson attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqxl1qr11q2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-18T11:08:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teacher banned from the classroom after taking indecent photos of himself in school",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/teacher-ban-photos-benjamin-lillicrap-abbey-school-kent-b2960275.html",
-      "published_date": "2026-04-18T10:27:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Counter-terror police investigate arson attack in London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/18/counter-terror-police-investigate-arson-attack-in-london",
-      "published_date": "2026-04-18T10:27:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Counter terror police lead investigation into arson attack on business in London",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/counter-terror-police-lead-investigation-into-arson-attack-on-business-in-london-13533250",
-      "published_date": "2026-04-18T10:06:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Britain First march – live: Manchester police brace for clashes during far-right St George’s Day rally",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/britain-first-march-live-updates-manchester-police-protest-b2960256.html",
-      "published_date": "2026-04-18T09:29:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Otter mayhem after 'challenging beast' sneaks into garden centre",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c30ry3y9g92o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-18T08:28:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices: ‘No concept of children’s food’: Readers compare ‘stodgy’ UK school dinners with France, Spain and beyond",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/life-style/food-and-drink/school-dinners-uk-children-food-b2959676.html",
-      "published_date": "2026-04-18T08:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tube strikes: Londoners warned to brace for travel disruption as drivers confirm walkout",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/travel/news-and-advice/london-tube-strikes-tfl-april-dates-b2960243.html",
-      "published_date": "2026-04-18T07:54:31+00:00",
       "category": "Local Events"
     }
   ]
