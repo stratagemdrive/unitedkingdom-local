@@ -1,8 +1,43 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-19T23:27:23.984324+00:00",
+  "last_updated": "2026-04-20T12:06:05.106700+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Cabinet secretary apparently advised Starmer to wait for vetting before appointing Mandelson",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/20/cabinet-secretary-simon-case-keir-starmer-peter-mandelson",
+      "published_date": "2026-04-20T11:48:58+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starmer expected to lead Labour into next election, says minister, but warns there are ‘no certainties’ amid Mandelson scandal – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/apr/20/keir-starmer-peter-mandelson-vetting-reform-immigration-iran-latest-news-updates",
+      "published_date": "2026-04-20T11:35:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Residents of Britain’s most expensive village up in arms about car park near ancient woodland",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/beaulieu-estate-car-park-hampshire-b2960950.html",
+      "published_date": "2026-04-20T10:00:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Naming Mandelson as ambassador before vetting was mistake, minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/20/starmer-mandelson-vetting-douglas-alexander-labour",
+      "published_date": "2026-04-20T07:57:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The key questions Keir Starmer must answer over Mandelson appointment",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/20/the-key-questions-keir-starmer-must-answer-over-mandelson-appointment",
+      "published_date": "2026-04-20T04:00:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Judgment day as Starmer faces Commons showdown over Mandelson scandal",
       "source": "The Guardian",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Starmer accused of ‘cover up’ over Mandelson vetting scandal",
+      "title": "Petrol crime surges by up to 30% since start of US-Iran war",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-mandelson-vetting-epstein-badenoch-b2959968.html",
-      "published_date": "2026-04-17T19:58:10+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/petrol-station-theft-crimes-us-iran-war-campaigner-b2960898.html",
+      "published_date": "2026-04-20T11:49:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "No 10 knew Mandelson failed security vetting seven months ago, as revealed by The Independent",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-mandelson-security-vetting-downing-street-b2959664.html",
-      "published_date": "2026-04-17T19:52:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Key questions facing government over Mandelson vetting",
+      "title": "How the Iran war affects your money and bills",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9qd2gjrv4ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-17T19:24:18+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T10:45:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump tells ‘useless’ Nato to stay away after UK and France vow to protect Strait of Hormuz shipping",
+      "title": "M&C Saatchi predicts hit to sports and entertainment arms from Iran conflict",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-macron-strait-of-hormuz-iran-war-trump-b2959902.html",
-      "published_date": "2026-04-17T19:08:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/business/charles-saatchi-m-c-saatchi-iran-middle-east-london-b2960994.html",
+      "published_date": "2026-04-20T10:29:16+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Embassy drone threat' closes Kensington Gardens",
+      "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-17T19:01:30+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T23:07:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Starmer will not be swayed by Trump’s ‘small and petty’ insults, says Lammy",
@@ -190,6 +218,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c1eq2xvlg9wo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-18T07:11:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Faisal Islam: What people in power think the impact of the Iran war will be",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-18T05:00:15+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "UK in ‘worst-case scenario’ planning for food shortages as a result of Iran war",
+      "title": "Oil prices rise after Trump says Iranian ship seized",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T11:23:04+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Environmental activists stage demonstration at Trump golf course in UK",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/greenpeace-activists-stage-demonstration-at-trump-turnberry-golf-course-in-scotland-13534072",
+      "published_date": "2026-04-20T10:25:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Almost half of British adults worried about paying energy bills",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/food-shortages-uk-iran-war-trump-us-b2959536.html",
-      "published_date": "2026-04-17T05:04:52+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/stepchange-british-wales-england-affinity-water-b2960969.html",
+      "published_date": "2026-04-20T10:22:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "How could the Iran war affect fizzy drinks in the UK?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cly9peevj5yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-16T20:39:15+00:00",
-      "category": "Military"
+      "title": "Oil price back up as fragile US-Iran peace process in disarray",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/brent-crude-oil-price-iran-b2960932.html",
+      "published_date": "2026-04-20T09:21:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Rachel Reeves warns other budgets may be cut to lift defence spending",
+      "title": "Oil prices jump as US-Iran tensions over Strait of Hormuz simmer yet again",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/iran-war-oil-prices-strait-hormuz-trump-b2960818.html",
+      "published_date": "2026-04-20T06:17:39+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘The Moon and The Zoo’: Simon Armitage poem celebrates 200 years of ZSL",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/16/rachel-reeves-warns-other-budgets-may-be-cut-to-lift-defence-spending",
-      "published_date": "2026-04-16T18:51:49+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/science/2026/apr/19/the-moon-and-the-zoo-simon-armitage-poem-celebrates-200-years-of-zsl",
+      "published_date": "2026-04-20T04:01:01+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Labour and Lib Dem MPs demand ‘shameful’ Palantir NHS contract be scrapped",
+      "title": "Ed Miliband to double down on net zero with measures to combat Iran energy shock",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/apr/16/labour-and-lib-dem-mps-demand-shameful-palantir-nhs-contract-be-scrapped",
-      "published_date": "2026-04-16T17:57:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why the UK is preparing for food shortages due to Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cevkp8j91n9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-16T17:41:02+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/apr/20/ed-miliband-to-double-down-on-net-zero-with-measures-to-combat-iran-energy-shock",
+      "published_date": "2026-04-20T04:00:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "Exercise to test response to offshore energy threat involving vessels and drones",
@@ -375,53 +424,60 @@
       "category": "Energy"
     },
     {
-      "title": "Average new UK electric car price is now lower than petrol vehicles",
+      "title": "Stock markets fall again as investors warned over more Iran war volatility",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/stock-markets-iran-war-oil-prices-ftse-100-investors-b2960922.html",
+      "published_date": "2026-04-20T11:56:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Oil prices rise and markets fall after US seizure of ship hits Iran peace deal hopes",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/17/new-uk-electric-car-price-petrol-ev-autotrader",
-      "published_date": "2026-04-17T12:35:28+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/apr/20/oil-prices-rise-markets-fall-us-iran-ftse-100-gas-strait-of-hormuz",
+      "published_date": "2026-04-20T11:28:06+00:00",
+      "category": "Economy"
     },
     {
-      "title": "I’m a renewable energy expert. Here are the best products for slashing your bills",
+      "title": "Labour’s youth unemployment tsar hits out at ‘exam-obsessed’ British schools",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/plug-in-solar-panels-energy-bill-savings-b2959762.html",
-      "published_date": "2026-04-17T11:48:33+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/alan-milburn-neets-schools-exams-careers-labour-b2960931.html",
+      "published_date": "2026-04-20T11:26:59+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Latest £100 home heating oil grant set to be paid out by ‘summer at earliest’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/home-heating-oil-grant-date-b2959685.html",
-      "published_date": "2026-04-17T09:39:00+00:00",
-      "category": "Energy"
+      "title": "Quarter of a million people could lose job by middle of 2027 as UK ‘flirts with recession’, analysis says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/20/250000-could-lose-job-2027-uk-recession-analysis-economy-iran-war",
+      "published_date": "2026-04-20T11:13:54+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Reeves backs further North Sea drilling to boost Britain’s oil and gas supply",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/rachel-reeves-chancellor-increase-taxes-defence-spending-b2959637.html",
-      "published_date": "2026-04-17T08:30:09+00:00",
-      "category": "Energy"
+      "title": "Trustpilot hosts reviews of illegal casinos, raising concern among MPs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/apr/20/trustpilot-reviews-casinos-mps",
+      "published_date": "2026-04-20T08:00:06+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Chinese carmaker patents voice-controlled 'in-vehicle toilet'",
+      "title": "William Hill owner Evoke in talks on £225m takeover by casino group Bally’s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/20/william-hill-evoke-takeover-us-casino-ballys-offer-shares",
+      "published_date": "2026-04-20T07:08:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Debt problems in seaside town among  UK's worst",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1l92yv4mydo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-17T06:35:57+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c3ex27kkq0xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T05:23:30+00:00",
+      "category": "Economy"
     },
     {
-      "title": "More than 15m oysters to be released in the North Sea for UK rewilding project",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/17/more-than-15m-oysters-to-be-released-in-the-north-sea-for-uk-rewilding-project",
-      "published_date": "2026-04-17T06:00:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil prices fall again amid Middle East ceasefire hopes after Wall Street sets another record",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/oil-prices-today-iran-war-asia-stock-markets-wall-street-b2959530.html",
-      "published_date": "2026-04-17T05:51:36+00:00",
-      "category": "Energy"
+      "title": "UK to 'flirt' with recession as Iran war oil shock bites, report warns",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/uk-to-flirt-with-recession-as-iran-war-oil-shock-bites-report-warns-13533971",
+      "published_date": "2026-04-20T04:27:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "The insider trading suspicions looming over Trump's presidency",
@@ -508,199 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Reeves rightly fears the bond market, but she can afford to ditch one unhelpful rule | Phillip Inman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/18/reeves-rightly-fears-the-bond-market-but-she-can-afford-to-ditch-one-unhelpful-rule",
-      "published_date": "2026-04-18T15:00:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "As Franco Manca scales back, is the air going out of the sourdough pizza craze?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/18/franco-manca-sourdough-pizza-craze",
-      "published_date": "2026-04-18T13:00:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The maternity and mortgage struggle of being self-employed: ‘It was overwhelming at times’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/apr/18/maternity-pay-mortgage-struggle-self-employed",
-      "published_date": "2026-04-18T11:00:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Central bank bosses enlist for war game to gauge threat of Lehman-style bust",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/18/central-bank-bosses-enlist-for-war-game-to-gauge-threat-of-lehman-style-bust",
-      "published_date": "2026-04-18T09:00:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Pure shock’: how ministers reacted to revelation of Mandelson vetting failure",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/18/pure-shock-how-ministers-reacted-to-revelation-of-mandelson-vetting-failure",
-      "published_date": "2026-04-18T07:47:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Instead of bonding with my newborn I was fighting for my life – I want change for mothers diagnosed with cancer’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/mother-baby-cancer-reform-maternity-leave-pregnancy-b2957231.html",
-      "published_date": "2026-04-18T07:24:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘It’s a twilight zone’: Iran war casts deep shadows over IMF gathering in Washington",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/18/twilight-zone-iran-war-casts-deep-shadows-rachel-reeves-imf-gathering-washington",
-      "published_date": "2026-04-18T04:00:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mortgage rates show signs of falling after Iran war peak",
+      "title": "London Tube strikes: What you need to know",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-17T23:33:10+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/c0ljyd03n88o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T12:04:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Firefighters battle 'devastating' fire in historical building in Northern Ireland",
+      "title": "Amy Winehouse’s father loses claim against daughter’s friends over sale of singer’s items",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/amy-winehouse-father-court-case-b2960978.html",
+      "published_date": "2026-04-20T11:43:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amy Winehouse’s father Mitch loses high court battle against her friends",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/apr/20/amy-winehouse-father-mitch-loses-high-court-battle-against-her-friends",
+      "published_date": "2026-04-20T11:40:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amy Winehouse's dad loses court case over auction",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr71kp5318vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T11:27:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health visitors call for limits on 'impossible' 1,000-family caseloads",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8lp0pz3y9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T11:08:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fears more than 1,000 toads may have died after Welsh water firm drains reservoir",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/20/fears-1000-toads-may-have-died-after-welsh-water-company-drains-reservoir",
+      "published_date": "2026-04-20T10:47:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to register to vote in local elections with deadline just hours away",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-register-postal-vote-date-b2961011.html",
+      "published_date": "2026-04-20T10:45:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two arrested over Kenton synagogue attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6l9wdpqgdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T10:40:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Home Office could face hundreds of claims over asylum families in single rooms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/20/home-office-asylum-families-single-hotel-rooms-court",
+      "published_date": "2026-04-20T10:23:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Daughter calls for investigation into death of man after police contact at Bristol protest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/20/daughter-investigation-death-nicholas-stone-police-contact-bristol-protest",
+      "published_date": "2026-04-20T10:23:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pensioner convicted after typo on insurance forms",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/firefighters-battle-devastating-fire-in-historical-building-in-northern-ireland-13533954",
-      "published_date": "2026-04-19T21:38:00+00:00",
+      "url": "https://news.sky.com/story/pensioner-convicted-after-one-letter-typo-on-insurance-forms-13534069",
+      "published_date": "2026-04-20T10:09:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Firefighters tackling large blaze at derelict hotel",
+      "title": "How can I register to vote in May's elections before the deadline passes?",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1j715kd728o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-19T21:00:43+00:00",
+      "url": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T09:48:37+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Fake 20mph claims and bogus manifesto among election misinformation",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgrll7d9jeyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-19T20:43:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charges laid after apple crumble and custard thrown at crown jewels",
+      "title": "TfL Tube strikes: When are drivers walking out this week and what lines will be affected?",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/crown-jewels-custard-apple-crumble-charges-b2960622.html",
-      "published_date": "2026-04-19T19:23:07+00:00",
+      "url": "https://www.independent.co.uk/travel/news-and-advice/tfl-tube-strikes-london-underground-dates-times-lines-b2960873.html",
+      "published_date": "2026-04-20T09:15:32+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Murder probe launched after woman, 82, found dead on street",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpwj9zvwx88o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-19T18:23:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Civil resistance activists detained in Manchester over alleged plan to raid high-end stores",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/19/civil-resistance-activists-detained-in-manchester-over-alleged-plan-to-raid-high-end-stores",
-      "published_date": "2026-04-19T18:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A timeline of arson attacks against London Jewish sites amid Iran counter-terror probe",
+      "title": "A timeline of arson attacks against London Jewish sites as pair arrested over synagogue fire",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/synagogue-arson-attack-kenton-london-timeline-b2960656.html",
-      "published_date": "2026-04-19T16:33:47+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/synagogue-arson-attack-kenton-london-timeline-b2960909.html",
+      "published_date": "2026-04-20T08:40:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Attempted murder arrest after car hits pedestrians",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2kgvlrmdeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-19T15:48:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK set to be hotter than Athens next week as sunny weather continues",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-heat-weather-met-office-london-temperature-b2960618.html",
-      "published_date": "2026-04-19T15:48:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman arrested after car driven into pedestrians in central London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/19/woman-arrested-car-pedestrians-westminster-london",
-      "published_date": "2026-04-19T13:29:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman fighting for life after car crashes into pedestrians on central London street",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/soho-car-argyll-street-london-police-latest-updates-b2960582.html",
-      "published_date": "2026-04-19T12:48:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamnet-era mourning jewel from celebrated painting rediscovered after 400 years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/apr/19/hamnet-era-mourning-jewel-from-celebrated-painting-rediscovered-after-400-years",
-      "published_date": "2026-04-19T12:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-Scottish Labour leader Dugdale appointed as Stonewall chairwoman",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgrvz5nxlno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-19T11:58:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chief Rabbi says attacks 'gathering momentum' after new synagogue arson attempt",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-19T11:25:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham allies seize on Mandelson crisis to plot path for Manchester mayor to make Westminster comeback",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-labour-prime-minister-keir-starmer-mandelson-b2960527.html",
-      "published_date": "2026-04-19T11:13:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "North London synagogue targeted in another attempted arson attack on Jewish property",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/synagogue-arson-attack-kenton-london-jewish-b2960520.html",
-      "published_date": "2026-04-19T11:10:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer would have blocked Mandelson appointment if he knew about failed vetting, ministers say – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/apr/19/keir-starmer-leadership-prime-minister-labour-party-peter-mandelson-vetting-latest-news",
-      "published_date": "2026-04-19T10:55:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jesy Nelson's car stolen with children's essential hospital kit inside",
+      "title": "Tube strikes: Full list of dates and lines affected in walkout",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/former-little-mix-star-jesy-nelsons-car-stolen-with-childrens-essential-hospital-kit-inside-13533676",
-      "published_date": "2026-04-19T10:35:00+00:00",
+      "url": "https://news.sky.com/story/tube-strikes-full-list-of-dates-and-lines-affected-in-walkout-13534035",
+      "published_date": "2026-04-20T08:33:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "How Reform is exposing the reality of Scotland’s views on immigration and identity",
+      "title": "Woman arrested after 14-week-old baby girl dies",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cde5w4xrz5ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T08:27:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two teenagers arrested over arson attack on synagogue in north-west London",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/19/how-reform-is-exposing-the-reality-of-scotlands-views-on-immigration-and-identity",
-      "published_date": "2026-04-19T10:00:39+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/20/arrests-arson-attack-synagogue-kenton-north-west-london",
+      "published_date": "2026-04-20T08:21:13+00:00",
       "category": "Local Events"
     },
     {
-      "title": "‘I’m voting Reform – it can’t get any worse’: Starmer’s nightmare in England’s ‘bellwether’ election seat",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/swindon-labour-reform-local-elections-b2930576.html",
-      "published_date": "2026-04-19T09:57:36+00:00",
+      "title": "Amy Winehouse's father loses High Court challenge over daughter's former belongings",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/amy-winehouses-father-loses-high-court-challenge-over-daughters-former-belongings-13534019",
+      "published_date": "2026-04-20T07:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The UK’s radical ‘Preston model’ faces an uncertain future with local elections looming | Andy Beckett",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/20/radical-preston-model-uk-westminster-reform",
+      "published_date": "2026-04-20T07:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two teenagers arrested over attack on synagogue",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/two-teenagers-arrested-over-attack-on-harrow-synagogue-13534009",
+      "published_date": "2026-04-20T06:52:00+00:00",
       "category": "Local Events"
     }
   ]
