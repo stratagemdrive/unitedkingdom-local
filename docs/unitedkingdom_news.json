@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-04-26T11:40:57.477710+00:00",
+  "last_updated": "2026-04-26T23:30:04.371527+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Rival Labour factions understood to be discussing how to remove Keir Starmer as leader",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting",
+      "published_date": "2026-04-26T19:22:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on Starmer’s Mandelson gamble: his political judgment faces scrutiny in pivotal week | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/26/the-guardian-view-on-starmers-mandelson-gamble-his-political-judgment-faces-scrutiny-in-pivotal-week",
+      "published_date": "2026-04-26T17:24:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sawe smashes two-hour mark to 'move goalposts for marathon running'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T12:39:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Key figure in Mandelson vetting scandal will not give evidence before MPs",
       "source": "The Guardian",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Southport dads: 'Running for our girls has made us like brothers'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj37d4gzz4xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-24T00:18:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Former Brexit boss says Britain should rejoin EU after failed ‘heady promises’",
+      "title": "Britain is losing its hybrid war with Russia and is unprepared for conflict, warns top former US aide",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-britain-rejoin-eu-philip-rycroft-b2963962.html",
-      "published_date": "2026-04-23T23:16:44+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Starmer-Mandelson latest: McSweeney denies pressuring civil servants on US ambassador vetting",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-mandelson-live-updates-labour-olly-robbins-b2963237.html",
-      "published_date": "2026-04-23T23:10:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-war-defence-fiona-hill-russia-iran-b2963630.html",
+      "published_date": "2026-04-26T16:39:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Price hikes due to Iran war will be felt for at least eight months after conflict ends, minister warns",
@@ -277,11 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "‘How dare they!’ Ex-military chief brands Trump’s Falklands threat an ‘insult’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/donald-trump-falkland-islands-uk-us-iran-b2964244.html",
-      "published_date": "2026-04-24T11:14:20+00:00",
-      "category": "Military"
+      "title": "How climate change threatens the economic backbone of the Pacific",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq57vxjvdy4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T23:16:41+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Renewable energy will boost national security and protect UK from sabotage, minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/27/renewable-energy-will-boost-national-security-and-protect-uk-from-sabotage-minister-says",
+      "published_date": "2026-04-26T23:01:26+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UK faces higher prices for eight months after war in Iran ends, says minister",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/apr/26/uk-faces-higher-pricesafter-war-iran-ends-darren-jones",
+      "published_date": "2026-04-26T18:33:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "The great energy pivot: US oil and Chinese solar are the winners in Trump’s war on Iran",
@@ -368,6 +389,13 @@
       "category": "Energy"
     },
     {
+      "title": "Which airlines are cancelling flights to the UK - and what can you do?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-24T11:01:58+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Self-checkouts fuelling rise in shoplifting among ‘good, honest people’, M&S chair warns",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/m-s-shoplifting-self-checkouts-supermarkets-theft-b2964114.html",
@@ -396,32 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices reach $105 as Iran and US tighten grip on Strait of Hormuz",
+      "title": "Top ideas for new banknote design revealed: From Paddington Bear to 1966 World Cup",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/brent-crude-prices-today-asian-stocks-iran-war-strait-of-hormuz-b2964086.html",
-      "published_date": "2026-04-24T06:03:06+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/new-uk-bank-notes-design-england-b2965193.html",
+      "published_date": "2026-04-26T23:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Revealed: UK oil refinery owner moved Russian loans to offshore subsidiary where sanctions did not apply",
+      "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
-      "published_date": "2026-04-24T05:00:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Holidaymakers worried as airlines cut flights and jet fuel prices soar",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czd76rvdz83o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-23T22:02:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Badenoch vows to ‘end blanket 20mph schemes’ for drivers as Tories aim to ‘get Britain moving again’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-tories-uk-drivers-speed-limit-20mph-fuel-duty-b2963678.html",
-      "published_date": "2026-04-23T21:00:54+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
+      "published_date": "2026-04-26T21:30:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘A cherry-cola colour and funky, acidic aroma’: the best supermarket balsamic vinegars, tasted and rated",
@@ -550,157 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Rightwing populism is littered with broken promises. Its opponents need to make those failures count | Andy Beckett",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/24/rightwing-populism-littered-broken-promises-trump-farage-immigration",
-      "published_date": "2026-04-24T07:00:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stocks and shares Isas: are they right for me, and where is best to invest?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/apr/24/stocks-and-shares-isa-right-where-to-invest",
-      "published_date": "2026-04-24T05:00:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Babies among those evacuated as car explodes outside police station",
+      "title": "'It lit a fire in me' - the barrister who was told she'd never amount to much",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp846668401o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-26T11:37:06+00:00",
+      "url": "https://www.bbc.com/news/articles/c05d3gqvvv1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T23:02:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Girl, 6, killed after being hit by car in Paisley",
+      "title": "UK's biggest ever environmental pollution claim reaches High Court",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx292mgl47ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-26T11:24:13+00:00",
+      "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T23:01:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NatWest faces AGM showdown over climate backtracking",
+      "title": "UK government move to delay social media ban faces pushback in Lords",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/26/natwest-agm-showdown-climate-backtracking-protest-vote",
-      "published_date": "2026-04-26T11:21:14+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/26/uk-government-move-to-delay-social-media-ban-faces-pushback-in-lords",
+      "published_date": "2026-04-26T21:30:25+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Fire breaks out on ship carrying 1,000 tonnes of scrap metal",
+      "title": "New IRA suspected over car explosion outside Belfast police station",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/26/car-explosion-dunmurry-police-station-belfast-northern-ireland",
+      "published_date": "2026-04-26T21:10:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested for suspected arson after fire at packed LGBT+ club near Milton Keynes",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c20q033z1gwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-26T10:34:06+00:00",
+      "url": "https://www.bbc.com/news/articles/c14548m75vlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T18:17:30+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Britain is undermining the care workers it depends on | Heather Stewart",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/apr/26/britain-undermining-care-workers-depends-on-labour-immigration",
-      "published_date": "2026-04-26T10:27:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two potatoes and seven cubes of tuna: The bad hospital food ‘hampering’ patients’ recovery",
+      "title": "Trump insists King’s state visit will go ahead as security reviewed after Washington shooting",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-hospital-food-waste-nutrition-b2877498.html",
-      "published_date": "2026-04-26T10:22:42+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/donald-trump-shooting-king-charles-state-visit-b2965101.html",
+      "published_date": "2026-04-26T17:53:09+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Higher prices could last for eight months after Iran war, minister says",
+      "title": "Royal Mail investigating claims that postal worker ‘binned Reform UK election leaflets’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/apr/26/royal-mail-investigating-claims-postal-worker-binned-reform-uk-election-leaflets",
+      "published_date": "2026-04-26T17:25:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Starmer insists ‘vast majority’ of Labour MPs support him despite Mandelson scandal",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-peter-mandelson-labour-mps-b2965148.html",
+      "published_date": "2026-04-26T17:05:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "World's longest tiramisu record broken in London",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-26T09:54:53+00:00",
+      "url": "https://www.bbc.com/news/articles/cgmem8n8xego?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T15:23:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "'Explosive device' that detonated outside police station was attempt to 'kill officers', says police board chair",
+      "title": "Woman released on bail after fatal house fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyxy7jy5w6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T15:01:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after 'significant' fire at LGBT+ nightclub",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/explosive-device-that-detonated-outside-police-station-was-attempt-to-kill-officers-says-police-board-chair-13536711",
-      "published_date": "2026-04-26T09:42:00+00:00",
+      "url": "https://news.sky.com/story/pink-punters-man-arrested-after-significant-fire-at-lgbt-nightclub-13536827",
+      "published_date": "2026-04-26T14:33:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
+      "title": "Quickfire questions with Jane Dodds",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cx2v25l4xxeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T14:32:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quickfire questions with Rhun ap Iorwerth",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c2evew149g9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T14:30:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quickfire questions with Eluned Morgan",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cx2620rk76jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T14:30:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quickfire questions with Darren Millar",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cly6y131dplo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T14:30:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quickfire questions with Anthony Slaughter",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cg545qy24nno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T14:29:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lonely at the top: who are Keir Starmer’s allies as daunting May elections loom?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/26/families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
-      "published_date": "2026-04-26T09:00:10+00:00",
+      "url": "https://www.theguardian.com/politics/2026/apr/26/keir-starmer-may-elections-local-elections-labour",
+      "published_date": "2026-04-26T13:00:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Suicide-related callouts to fire services triple in England in a decade",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/apr/24/suicide-related-callouts-fire-services-triple-england-samaritans",
-      "published_date": "2026-04-26T07:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens of MPs oppose Streeting’s new power to say what NHS pays for drugs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/26/mps-oppose-wes-streeting-power-to-say-what-nhs-pays-for-drugs-nice",
-      "published_date": "2026-04-26T07:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We're living in a shed because of river pollution'",
+      "title": "Councillor apologises for telling call handler to speak English",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c6244zv02ero?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-26T06:20:08+00:00",
+      "url": "https://www.bbc.com/news/articles/c5y9y679409o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-26T12:44:09+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Camilla takes missing Winnie-the-Pooh stuffed toy to New York to complete set",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cql7q7xk3d5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-26T00:09:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The crime that never happened - and sparked a rage bait frenzy",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9370jqxy18o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T23:03:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parties target specific postcodes on social media ahead of Senedd election",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly6e903093o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T20:52:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman and child die after getting into difficulty in water at London park",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c79j20z1377o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T20:45:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman and child die after getting into ‘difficulty’ in water in west London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/25/woman-and-child-die-after-getting-into-difficulty-in-water-in-west-london",
-      "published_date": "2026-04-25T19:49:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman arrested after two young children die in Wolverhampton house fire",
+      "title": "Girl, 6, dies after two children hit by car in Scottish town",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/wolverhampton-house-fire-children-deaths-arrests-b2964914.html",
-      "published_date": "2026-04-25T18:22:39+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/paisley-renfrewshire-police-incident-b2965154.html",
+      "published_date": "2026-04-26T12:08:09+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Social media influencer dies six days after car hit her outside London nightclub",
+      "title": "Voters contend with ‘dodgy’ data in party leaflets for English local elections",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/25/social-media-influencer-dies-six-days-after-car-hit-her-outside-london-nightclub",
-      "published_date": "2026-04-25T17:52:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family of murdered woman traumatised after being handed photo of her killer laughing by police",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/julie-butcher-victim-contact-scheme-photo-b2950947.html",
-      "published_date": "2026-04-25T17:50:52+00:00",
+      "url": "https://www.theguardian.com/politics/2026/apr/26/voters-contend-with-grotesque-leaflets-and-dodgy-data-in-english-local-elections-say-analysts",
+      "published_date": "2026-04-26T11:55:31+00:00",
       "category": "Local Events"
     }
   ]
