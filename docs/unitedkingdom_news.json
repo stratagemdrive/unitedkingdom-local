@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-01T23:42:36.588769+00:00",
+  "last_updated": "2026-05-02T11:47:49.308643+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Britain pioneered the comfortable retirement – but that golden age is coming to an end | Helen McCarthy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/02/britain-pioneered-comfortable-retirement-golden-age-end",
+      "published_date": "2026-05-02T07:00:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Scottish Greens vow to examine Donald Trump’s wealth after ‘personal playground’ claim",
       "source": "The Independent",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "King Charles says US ‘lies at the heart of Nato’ in historic Congress speech after Trump’s threats to leave",
+      "title": "Two teenagers stabbed in ‘large scale fight’ involving 30 young people on Essex high street",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/king-trump-speech-royal-visit-white-house-b2966673.html",
-      "published_date": "2026-04-28T20:05:16+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/crime/essex-southend-police-stabbing-high-street-b2969343.html",
+      "published_date": "2026-05-02T07:31:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘There is real danger’: landline phone users voice fears over digital switchover",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/may/02/landline-phone-users-voice-fears-over-digital-switchover",
+      "published_date": "2026-05-02T06:00:17+00:00",
+      "category": "Military"
     },
     {
       "title": "UK on ‘high alert’ to defend Falklands, says RAF chief",
@@ -267,20 +281,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/donald-trump-iran-brent-ukraine-strait-of-hormuz-b2967839.html",
       "published_date": "2026-04-30T08:41:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-29T23:18:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cheaper to rent than buy UK homes after Iran war sparks surge in mortgage rates",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/rightmove-uk-mortage-buy-rent-homes-b2967442.html",
-      "published_date": "2026-04-29T23:01:00+00:00",
       "category": "Military"
     },
     {
@@ -424,10 +424,80 @@
       "category": "Energy"
     },
     {
+      "title": "Tom Kerridge: I don’t know why anyone would open a pub or restaurant any more",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/tom-kerridge-pub-closures-labour-business-rates-b2966547.html",
+      "published_date": "2026-05-02T11:38:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Less financial stability, smaller social safety nets: inside the gen Z investing boom",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/02/gen-z-investors-crypto-boom",
+      "published_date": "2026-05-02T11:00:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Wrexham AFC used taxpayer funds for pitch upgrades not mentioned in initial grant",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/2026/may/02/wrexham-afc-taxpayer-funds-pitch-upgrades",
+      "published_date": "2026-05-02T11:00:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sewage having 'alarming' impact on underwater forests along UK coast",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn0pl9j88gno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-02T10:46:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Samuel Ojo on Starmer and the cost of living crisis – cartoon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/may/02/samuel-ojo-on-starmer-and-the-cost-of-living-crisis-cartoon",
+      "published_date": "2026-05-02T10:00:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Forest winger fined for failing to tax supercar",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3pnzelqgdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-02T07:54:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "New free financial advice plan aims to help Britons build savings",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/may/02/new-free-financial-advice-plan-aims-to-help-britons-build-savings",
+      "published_date": "2026-05-02T07:00:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BBC News to bear deepest cuts amid 2,000 planned job losses",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/may/02/bbc-news-to-bear-deepest-cuts-amid-2000-planned-job-losses",
+      "published_date": "2026-05-02T06:00:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘People can see it – but can’t use it’: mystery of completed East-West Rail line that has no passenger trains",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/02/east-west-rail-oxford-milton-keynes-chiltern-railways-delays",
+      "published_date": "2026-05-02T06:00:17+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Woman says second home tax turned dream into 'nightmare' but others say rules are vital",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c93xpwk4l8vo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-01T22:00:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mortgages, jobs and energy bills - how the Iran war will affect your money",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-01T21:16:44+00:00",
       "category": "Economy"
     },
     {
@@ -466,6 +536,13 @@
       "category": "Economy"
     },
     {
+      "title": "The best pressure washers in the UK for cleaning garden furniture and patios – tested",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2025/apr/18/best-pressure-washers-cleaners-uk",
+      "published_date": "2026-05-01T14:01:32+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Greens pledge £15 minimum wage for all workers",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cdjp338ydlgo?at_medium=RSS&at_campaign=rss",
@@ -487,81 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "Czech energy group hints at combined bid for British Steel and Speciality Steel UK",
+      "title": "Only 3% of suicides linked to domestic abuse result in prosecution, data shows",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/01/seven-energy-group-hints-bid-british-steel-speciality-steel-uk",
-      "published_date": "2026-05-01T13:00:04+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/may/02/domestic-abuse-deaths-suicide-justice-england-wales",
+      "published_date": "2026-05-02T11:00:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FCA faces four lawsuits over £9.1bn compensation scheme for car loan victims",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/01/fca-legal-challenges-compensation-scheme-car-loan-motor-finance",
-      "published_date": "2026-05-01T12:38:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Watchdog warns millions face ‘fresh uncertainty’ over car finance compensation",
+      "title": "Starmer urges ban on some protests in antisemitism crackdown",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/financial-conduct-authority-credit-agricole-volkswagen-mercedesbenz-french-b2968860.html",
-      "published_date": "2026-05-01T12:02:03+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-ban-protest-antisemitism-palestine-b2969129.html",
+      "published_date": "2026-05-02T10:30:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Virgin Media O2 sales and earnings drop in ‘turbulent market’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/virgin-media-lancashire-europe-holly-williams-b2968686.html",
-      "published_date": "2026-05-01T11:27:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How will car finance compensation payments work?",
+      "title": "Police station car bomb accused appears in court",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T11:21:40+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/c4g4x38dpdjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-02T10:27:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Drivers take fewer trips to cut back on fuel and adjust spending, bank suggests",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/natwest-iran-consumers-middle-east-bank-of-england-b2968826.html",
-      "published_date": "2026-05-01T11:17:27+00:00",
-      "category": "Economy"
+      "title": "Protests may need to be stopped in some cases, PM suggests",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-02T10:25:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK factory production rebounds but firms report more delays and inflation",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/middle-east-israeli-pmi-press-association-b2968755.html",
-      "published_date": "2026-05-01T09:43:37+00:00",
-      "category": "Economy"
+      "title": "Teen charged with terror offences appears in court",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9v3nm47002o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-02T10:20:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "NatWest faces £140m hit from Iran war as UK growth slows and inflation rises",
+      "title": "Some pro-Palestinian protests could be banned amid attacks on British Jews",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises",
-      "published_date": "2026-05-01T09:31:08+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/2026/may/02/keir-starmer-calls-for-ban-on-some-pro-palestian-protests-british-jews",
+      "published_date": "2026-05-02T09:29:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "NatWest earnings boosted despite gloomier outlook for UK economy",
+      "title": "New portrait released to mark Princess Charlotte's 11th birthday",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/kensington-palace-releases-portrait-of-princess-charlotte-to-mark-11th-birthday-13539119",
+      "published_date": "2026-05-02T09:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rayner, Streeting or Burnham? The favourites to replace Starmer – plus have your say",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/natwest-royal-bank-of-scotland-middle-east-barclays-b2968634.html",
-      "published_date": "2026-05-01T08:59:31+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-rayner-streeting-starmer-prime-minister-labour-leader-b2969357.html",
+      "published_date": "2026-05-02T09:01:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK house prices jump despite impact of Middle East conflict",
+      "title": "Letters and photos from Beatles’ early days to go on show in Hamburg",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/01/uk-house-prices-jump-despite-impact-of-middle-east-conflict",
-      "published_date": "2026-05-01T08:41:31+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/music/2026/may/02/beatles-early-days-letters-photos-hamburg-exhibition",
+      "published_date": "2026-05-02T09:00:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "MPs accuse South East Water leaders of incompetence over repeated outages",
+      "title": "Man, 19, arrested on suspicion of bomb hoax after Peter Kay gig evacuated in Birmingham",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/peter-kay-gig-birmingham-bomb-hoax-police-b2969362.html",
+      "published_date": "2026-05-02T08:58:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It’s not the old Labour we had’: Voters feel abandoned in red wall town eyed up by Nigel Farage",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-st-helens-merseyside-liverpool-b2955322.html",
+      "published_date": "2026-05-02T08:51:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK Bank Holiday weather: Live tracker maps for your local forecast",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-weather-bank-holiday-forecast-live-maps-b2969347.html",
+      "published_date": "2026-05-02T08:06:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bomb hoax arrest after Peter Kay show evacuated",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/teenager-arrested-on-suspicion-of-bomb-hoax-after-peter-kay-arena-evacuation-13539107",
+      "published_date": "2026-05-02T07:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform candidate ‘attacked’ while campaigning in Glasgow",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/reform-candidate-attacked-glasgow-shettleston-b2969344.html",
+      "published_date": "2026-05-02T07:34:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The battle to take political control of Birmingham",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g057lg11no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-02T06:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Momentum building for Scottish-style land access rights in England, says film",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/01/mps-accuse-south-east-water-leaders-of-incompetence-over-repeated-outages",
-      "published_date": "2026-05-01T07:26:13+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/environment/2026/may/02/momentum-building-for-scottish-style-land-access-rights-in-england-says-film",
+      "published_date": "2026-05-02T06:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tension and dissent: inside the Green party’s antisemitism struggle",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/02/inside-green-party-antisemitism-struggle-israel-palestine",
+      "published_date": "2026-05-02T05:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Large-scale' street brawl leaves two teenagers in hospital with knife wounds",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/large-scale-brawl-in-southend-leaves-two-teenagers-in-hospital-with-knife-wounds-13539084",
+      "published_date": "2026-05-02T03:06:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Heroic’ coastguards rescue dog from ‘crashing’ waves after it slipped and fell into the sea",
@@ -575,132 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/work-health-and-safety-executive-bristol-magistrates-court-electricity-press-association-b2969260.html",
       "published_date": "2026-05-01T22:38:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Graham Linehan hits out at police after having conviction for damaging trans activist’s phone overturned",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/graham-linehan-transgender-phone-police-southwark-b2969159.html",
-      "published_date": "2026-05-01T22:35:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham planning return to Westminster ‘within weeks to challenge Starmer for Labour leadership’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-westminster-return-plan-b2969220.html",
-      "published_date": "2026-05-01T22:33:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peter Kay show evacuated after 'suspicious bag' found",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T22:06:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The big issues and key flashpoints from Scotland's election campaign",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cddqdvdeqrlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T21:57:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peter Kay show stopped and 19-year-old in custody after ‘suspicious bag’ found",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/may/01/peter-kay-show-stopped-and-19-year-old-in-custody-after-suspicious-bag-found",
-      "published_date": "2026-05-01T21:54:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peter Kay show in Birmingham evacuated after potential ‘suspicious bag’ found",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/peter-kay-show-evacuated-birmingham-b2969218.html",
-      "published_date": "2026-05-01T21:29:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boats, dancing and cake-cutting: Bermuda welcomes King Charles",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz08k04jeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T21:24:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peter Kay 'bundled off' arena stage as audience evacuated",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/peter-kay-show-in-birmingham-halted-after-suspicious-bag-forces-evacuation-13539033",
-      "published_date": "2026-05-01T20:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Golders Green terror attack suspect was living in home for people who leave secure hospital before stabbings",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/golders-green-stabbings-essa-suleiman-charged-terror-b2968708.html",
-      "published_date": "2026-05-01T19:58:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moment armed failed asylum seeker tries to break into Israeli embassy to commit terror attack",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/london-israel-embassy-attack-video-b2969086.html",
-      "published_date": "2026-05-01T19:32:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged after car bomb explosion at police station near Belfast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/01/man-charged-after-car-bomb-explosion-at-police-station-in-northern-ireland",
-      "published_date": "2026-05-01T18:55:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zack Polanski apologises after sharing criticism of police response to Golders Green terror attack",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/zack-polanski-golders-green-party-b2968965.html",
-      "published_date": "2026-05-01T18:53:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer says Polanski ‘is not fit to lead a political party’ after Golders Green police criticism",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/01/keir-starmer-condemns-zack-polanski-sharing-post-criticising-police-golders-green-stabbings",
-      "published_date": "2026-05-01T18:09:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polanski apologises for sharing post criticising police",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8p7k4k8xno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T17:15:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged after explosion at NI police station",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce9pg8k4lrdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T17:09:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘No other plan comes close’: how Labour MPs turned to Burnham with Starmer on the brink",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/01/no-other-plan-comes-close-labour-mps-turn-to-burnham-as-pressure-mounts-on-starmer",
-      "published_date": "2026-05-01T17:08:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham has plan to return to Westminster ‘within weeks’, allies say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/01/andy-burnham-westminster-return-plan-within-weeks",
-      "published_date": "2026-05-01T17:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged after car bomb attack outside police station",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-66-charged-after-car-bomb-attack-outside-police-station-in-northern-ireland-13538984",
-      "published_date": "2026-05-01T16:50:00+00:00",
       "category": "Local Events"
     }
   ]
