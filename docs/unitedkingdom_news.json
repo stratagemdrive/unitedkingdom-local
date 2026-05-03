@@ -1,8 +1,36 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-03T11:43:56.614095+00:00",
+  "last_updated": "2026-05-03T23:34:51.088369+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK to enter talks to join £78bn EU loan scheme for Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T21:30:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Badenoch accuses Farage of ducking TV interview to avoid questions about £5m ‘gift’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/badenoch-farage-reform-donation-bbc-harborne-b2969706.html",
+      "published_date": "2026-05-03T14:50:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starmer adviser held 16 undisclosed meetings with top US tech bosses",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/03/starmer-adviser-varun-chandra-undisclosed-meetings-us-tech-bosses",
+      "published_date": "2026-05-03T13:00:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sudanese woman and 16-year-old girl reportedly die trying to cross Channel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/03/female-sudanese-asylum-seekers-die-trying-to-cross-channel",
+      "published_date": "2026-05-03T12:30:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King's speech was a 'high stakes' moment of US visit, Palace says",
       "source": "BBC News",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "A timeline of recent attacks on the UK’s Jewish community as man arrested over Golders Green stabbing",
+      "title": "UK to enter talks on joining  European Union’s £78bn loan for Ukraine",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/golders-green-stabbing-shomrim-london-b2967340.html",
-      "published_date": "2026-04-29T16:44:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The gift of a shiny gold bell from the King did not make Trump listen on Iran",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/trump-king-charles-us-iran-advice-b2967209.html",
-      "published_date": "2026-04-29T14:28:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian ambassador summoned to Foreign Office over embassy’s ‘unacceptable’ social media post",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/iranian-ambassador-summoned-london-foreign-office-b2967300.html",
-      "published_date": "2026-04-29T13:59:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK ‘must take more risks to stay ahead of our enemies’ as Russian ships in British waters soar",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/russia-putin-navy-gwyn-jenkins-starmer-b2967198.html",
-      "published_date": "2026-04-29T12:08:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/ue-loan-ukraine-war-russia-b2969774.html",
+      "published_date": "2026-05-03T21:30:07+00:00",
+      "category": "Military"
     },
     {
       "title": "UK airlines given green light to cancel or consolidate flights to conserve jet fuel",
@@ -270,18 +277,32 @@
       "category": "Military"
     },
     {
-      "title": "How the Iran war affects your money and bills",
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T11:49:20+00:00",
+      "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-01T13:12:10+00:00",
       "category": "Military"
     },
     {
-      "title": "Trump and Netanyahu’s wars in the Middle East have elevated threat to British Jews, MI5 warns",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/iran-war-middle-east-trump-british-jews-mi5-b2968741.html",
-      "published_date": "2026-05-01T11:31:20+00:00",
-      "category": "Military"
+      "title": "Amsterdam bans public adverts for meat and fossil fuels",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T23:07:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The threat to summer holidays looming from jet fuel shortages",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T23:03:41+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "In five charts: How UAE's exit could affect Opec's influence over the oil price",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T12:06:34+00:00",
+      "category": "Energy"
     },
     {
       "title": "Can higher oil prices negate damage to Qatari gas plant for Shell?",
@@ -403,25 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Traditional tumble dryers ‘phased out’ under Labour in favour of green alternatives",
+      "title": "Food prices set to rise by 50% on start of cost-of-living crisis by November",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/tumble-dryers-ed-miliband-labour-net-zero-b2967975.html",
-      "published_date": "2026-04-30T11:42:00+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/nhs-scientists-middle-east-government-three-b2969880.html",
+      "published_date": "2026-05-03T23:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Cost of Iran oil crisis on millions of UK drivers reaches ‘unwelcome milestone’",
+      "title": "Heineken to invest £44.5m in hundreds of pubs creating 850 jobs",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/iran-war-oil-fuel-prices-rac-b2967943.html",
-      "published_date": "2026-04-30T11:28:51+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/heineken-dutch-government-b2969881.html",
+      "published_date": "2026-05-03T23:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "title": "Heineken plans huge investment in hundreds of UK pubs ahead of World Cup",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/heineken-star-pubs-investment-london-b2969779.html",
+      "published_date": "2026-05-03T22:45:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tourist hotspot with UK's worst phone signal 'frustrating' locals and visitors",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-30T10:50:19+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c98k8xky27wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T20:52:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘We don’t want to make the same mistakes’: Jamie’s Italian reopens in London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/food/2026/may/03/jamies-italian-reopens-jamie-oliver-london",
+      "published_date": "2026-05-03T12:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "More farming co-operatives could ‘unleash growth’ in UK, finds report",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "‘People can see it – but can’t use it’: mystery of completed East-West Rail line that has no passenger trains",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/02/east-west-rail-oxford-milton-keynes-chiltern-railways-delays",
-      "published_date": "2026-05-02T06:00:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Woman says second home tax turned dream into 'nightmare' but others say rules are vital",
+      "title": "NHS cancer jab could mean patients spend hours less in hospital",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c93xpwk4l8vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T22:00:07+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cx214vld41ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T23:10:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Mortgages, jobs and energy bills - how the Iran war will affect your money",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T21:16:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Santander completes £3bn takeover of TSB in ‘biggest investment in UK banking sector for 15 years’",
+      "title": "Woman and man killed and three others injured in ‘suspicious’ blast",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/santander-bank-tsb-uk-bank-takeover-b2969122.html",
-      "published_date": "2026-05-01T17:33:44+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/woman-man-three-injured-bristol-explosion-b2969802.html",
+      "published_date": "2026-05-03T22:45:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Real Greek to shut nine restaurants and axe 151 jobs after administration",
+      "title": "Serious injuries as man falls 'number of floors'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn0p89zgeyno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T20:00:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parties gear up for final week of campaigning ahead of election",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0m2v44v9pjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T18:52:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Price of a pint crosses £10 in London for the first time",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/franco-manca-japanese-fulham-shore-greek-cva-b2969106.html",
-      "published_date": "2026-05-01T17:00:45+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/pint-cost-ps10-london-first-time-b2969796.html",
+      "published_date": "2026-05-03T17:41:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Polanski says he would ‘discourage’ the use of ‘globalise the intifada’ chant on marches – UK politics live",
+      "title": "Green candidate seen canvassing in London after arrest over alleged antisemitism",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/03/local-elections-greens-polanksi-labour-starmer-conservatives-badenoch-reform-latest-news-updates",
-      "published_date": "2026-05-03T11:34:40+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/may/03/green-candidate-sabine-mairey-social-media-posts-canvassing-london",
+      "published_date": "2026-05-03T17:39:40+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Belfast Marathon champ wins race by under a second",
+      "title": "Police conclude search at religious group's HQ",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn8pg5zvxd8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T11:33:39+00:00",
+      "url": "https://www.bbc.com/news/articles/c87q8ygj5l4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T17:31:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Bristol house explosion latest: Major incident declared after two killed in ‘suspicious’ blast",
+      "title": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+      "published_date": "2026-05-03T16:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guilty until proven innocent: shoppers falsely identified by facial recognition system struggle to clear their names",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name",
+      "published_date": "2026-05-03T16:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How does live facial recognition work and how many UK police forces use it?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
+      "published_date": "2026-05-03T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘My son was torn from my arms and I was sent back to prison for crime I didn’t commit’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/bristol-house-explosion-frenchay-latest-deaths-b2969684.html",
-      "published_date": "2026-05-03T11:26:54+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/ipp-sentence-family-court-recall-toddler-b2954286.html",
+      "published_date": "2026-05-03T15:57:41+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Greens’ Polanski says he would discourage ‘globalise the intifada’ chant but warns against march bans",
+      "title": "'Urgent action' needed on lack of social housing",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1d23nzlklvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T15:30:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform candidate brands Banks' comment racist",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypnwljxl2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T15:12:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sir Alex Ferguson taken to hospital as precaution before Man Utd v Liverpool",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c0r2nvpvylxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T14:56:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police probe link between drive-by shooting and stabbing",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6267xve17xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T14:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman and man die in explosion after 'domestic-related incident'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/woman-and-man-die-in-bristol-explosion-after-domestic-related-incident-13539720",
+      "published_date": "2026-05-03T14:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sir Alex Ferguson taken to hospital",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/sir-alex-ferguson-taken-to-hospital-after-feeling-unwell-before-manchester-united-vs-liverpool-game-13539711",
+      "published_date": "2026-05-03T14:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heathrow in talks with airlines to end row that could delay third runway",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/03/zack-polanski-warns-against-banning-london-pro-palestine-protest-green-party",
-      "published_date": "2026-05-03T11:26:18+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/may/03/heathrow-talks-deal-airlines-row-third-runway-expansion-delay",
+      "published_date": "2026-05-03T14:00:02+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Zack Polanski suggests he shared ‘inaccurate’ criticism of Golders Green officers because he was traumatised",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/zack-polanski-golders-green-police-terror-b2969680.html",
-      "published_date": "2026-05-03T11:26:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polanski stands by concerns over police response to Golders Green attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78q6w1vzz7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T11:24:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two people dead after explosion at house in Bristol",
+      "title": "Lost ‘cloud’ of artist who wrapped the Reichstag to be created in UK gallery",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/03/explosion-house-bristol-major-incident",
-      "published_date": "2026-05-03T11:20:43+00:00",
+      "url": "https://www.theguardian.com/artanddesign/2026/may/03/lost-cloud-of-artist-who-wrapped-the-reichstag-christo-to-be-created-in-uk-gallery",
+      "published_date": "2026-05-03T13:00:03+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two killed and major incident declared after explosion",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202w3lzdvjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T11:12:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lucy Powell says Labour has ‘no magic bullet’ as MPs brace for heavy losses in local elections",
+      "title": "Jewish Londoners deserve to live without fear – we are taking action to ensure their safety | Sadiq Khan",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/03/lucy-powell-no-magic-bullet-labour-britain-problems-local-elections",
-      "published_date": "2026-05-03T11:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We have let them come on to our ground’: Labour fights off Green gains in Leeds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/03/labour-fights-off-greens-leeds-roundhay",
-      "published_date": "2026-05-03T11:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investment or waste? How the M4 relief road plan for Newport sums up Wales’s economic quandary",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/03/m4-relief-road-newport-wales-economy-senedd-elections",
-      "published_date": "2026-05-03T11:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tributes after teen killed by falling tree",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy02ley5jxeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T10:54:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK council backs release of beavers amid party row over rewilding",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/03/reform-uk-leicestershire-council-backs-release-wild-beavers-row-rewilding",
-      "published_date": "2026-05-03T10:50:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zack Polanski explains his response to Golders Green arrest and admits it ‘wasn’t appropriate’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/zack-polanski-golders-green-police-arrest-video-b2969678.html",
-      "published_date": "2026-05-03T10:47:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former marines hired to protect synagogues and Jewish schools in wake of Golders Green attack",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/synagogues-jewish-schools-marines-golders-green-b2969675.html",
-      "published_date": "2026-05-03T10:30:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Welsh election is a two-horse race – and Labour is nowhere to be seen",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/wales-election-plaid-cymru-reform-senedd-b2932544.html",
-      "published_date": "2026-05-03T07:19:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can you pronounce your constituency?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cj3pmn80720o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T07:05:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will an M4 relief road ever be given the green light?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdrm7gep306o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T06:45:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Election tram talk: Midlands Metro passengers on homelessness and shops",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cx21kewyygwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T06:05:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What would it cost England and Scotland fans to go to World Cup?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cpwp81jz7vdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T05:54:25+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/03/jewish-community-london-safety-sadiq-khan",
+      "published_date": "2026-05-03T12:48:43+00:00",
       "category": "Local Events"
     }
   ]
