@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-04T12:21:48.585242+00:00",
+  "last_updated": "2026-05-04T23:43:10.276240+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Thousands of Just Eat couriers launch legal action to improve workers’ rights",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/04/just-eat-couriers-launch-legal-action-improve-workers-rights",
+      "published_date": "2026-05-04T15:00:27+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Starmer accused of ‘unpicking Brexit’ as UK faces paying EU £1bn a year after ‘reset’",
       "source": "The Independent",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Labour calls on Jenrick to give £37,500 campaign donation to charity amid electoral law investigation",
+      "title": "Royal Navy warship HMS Iron Duke ‘quietly withdrawn’ to leave Britain with just five active frigates",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/hms-iron-duke-royal-navy-warship-withdrawn-b2970257.html",
+      "published_date": "2026-05-04T19:10:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer lauds £78bn EU loan for Ukraine amid increased Trump tensions",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/apr/30/labour-robert-jenrick-give-campaign-donation-charity-allegation",
-      "published_date": "2026-04-30T13:08:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/may/04/europe-must-face-up-to-tensions-with-trump-keir-starmer-says",
+      "published_date": "2026-05-04T18:37:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Shipping firms question safety in strait of Hormuz despite Trump plan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/04/strait-of-hormuz-donald-trump-us-navy-iran-shipping",
+      "published_date": "2026-05-04T16:10:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British Gaza flotilla activists say they needed hospital care after Israeli forces’ abuse",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/04/gaza-flotilla-britons-say-they-needed-hospital-care-after-israeli-forces-abuse",
+      "published_date": "2026-05-04T16:00:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Germany’s military power is on the rise. This time it must be firmly embedded in Europe | Timothy Garton Ash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/04/germany-military-power-rise-embedded-europe-us-trump",
+      "published_date": "2026-05-04T14:39:02+00:00",
+      "category": "Military"
     },
     {
       "title": "US denies Iranian report warship was struck by missiles",
@@ -249,39 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Pentagon says US military to be an 'AI-first' fighting force",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T21:09:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Use of Bloody Sunday footage in now-deleted Kemi Badenoch video branded ‘disgusting’",
+      "title": "Cheap, plentiful energy is more important than climate-first strategy, says Tony Blair",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-bloody-sunday-video-b2968866.html",
-      "published_date": "2026-05-01T18:10:04+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/politics/tony-blair-net-zero-eu-b2970081.html",
+      "published_date": "2026-05-04T23:01:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UK defence firm Ultra Electronics to pay £15m after SFO bribery investigation",
+      "title": "The Guardian view on the green transition: politicians should speed it up – and households too | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/may/01/uk-defence-firm-ultra-electronics-bribery-settlement-sfo",
-      "published_date": "2026-05-01T17:27:14+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/commentisfree/2026/may/04/the-guardian-view-on-the-green-transition-politicians-should-speed-it-up-and-households-too",
+      "published_date": "2026-05-04T17:31:05+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Plymouth residents allowed to return home after WWII device disarmed by bomb squad",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/plymouth-bomb-detonation-explosion-wwii-device-b2969093.html",
-      "published_date": "2026-05-01T16:42:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Firm bookings, fast refunds: easyJet and On The Beach aim to reassure jittery travellers with holiday pledges",
+      "title": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/01/fastest-refund-guaranteed-uk-travel-firms-compete-for-custom",
-      "published_date": "2026-05-01T16:09:59+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
+      "published_date": "2026-05-04T15:58:29+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Reform government could cause Truss-style chaos, says renewables industry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/04/reform-uk-government-truss-renewable-energy-policy",
+      "published_date": "2026-05-04T13:00:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK food prices on track to rise by 50% since start of cost of living crisis",
@@ -396,32 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "No evidence of widespread fuel price-gouging, watchdog says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62djjj0z09o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T11:47:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fuel price rises caused by cost of oil rather than retail margins – watchdog",
+      "title": "Growth Kitchen eyes £100m in sales as unique concept taps into delivery boom",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/donald-trump-middle-east-brent-strait-of-hormuz-iran-b2968799.html",
-      "published_date": "2026-05-01T10:50:22+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/press-association-airbnb-vat-deliveroo-b2970353.html",
+      "published_date": "2026-05-04T23:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Heavy traffic expected as RAC predicts busiest bank holiday for motorists in years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/01/heavy-traffic-expected-as-rac-predicts-busiest-bank-holiday-for-motorists-in-years",
-      "published_date": "2026-05-01T08:00:41+00:00",
-      "category": "Energy"
+      "title": "Two British pubs closing every day as tax and cost pressures devastate hospitality sector",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/british-pubs-closing-tax-hospitality-b2970058.html",
+      "published_date": "2026-05-04T23:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Heating oil prices reached record high in NI",
+      "title": "Economic growth forecast for island of Ireland despite fuel supply turbulence",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/middle-east-consumer-spending-northern-ireland-israel-sullivan-b2970351.html",
+      "published_date": "2026-05-04T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Around two pubs in Britain closing each day after tax hikes, figures suggest",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/great-britain-british-beer-and-pub-association-government-b2970352.html",
+      "published_date": "2026-05-04T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AI firms should face 'minimum wage for robots' to limit job cuts, says tech boss",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crlp818ppp1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-30T23:03:08+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/cjep33w1q7wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-04T20:46:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Heineken to boost British pubs with £44 million investment before World Cup",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/heineken-uk-pubs-investment-2026-world-cup-b2970153.html",
+      "published_date": "2026-05-04T15:35:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "Food price inflation still rising, as lower income households feel the squeeze, study says",
@@ -522,46 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "All supermarket opening times for the Early May Bank Holiday Monday, from Tesco to Aldi",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/supermarket-opening-times-may-bank-holiday-monday-aldi-b2969444.html",
-      "published_date": "2026-05-02T13:21:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Humungous, plump and ultra-creamy’: the best jarred butter beans, tasted and rated",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/may/02/best-supermarket-jarred-butter-beans-tasted-rated",
-      "published_date": "2026-05-02T12:00:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tom Kerridge: I don’t know why anyone would open a pub or restaurant any more",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/tom-kerridge-pub-closures-labour-business-rates-b2966547.html",
-      "published_date": "2026-05-02T11:38:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Less financial stability, smaller social safety nets: inside the gen Z investing boom",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/02/gen-z-investors-crypto-boom",
-      "published_date": "2026-05-02T11:00:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Wrexham AFC used taxpayer funds for pitch upgrades not mentioned in initial grant",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/may/02/wrexham-afc-taxpayer-funds-pitch-upgrades",
-      "published_date": "2026-05-02T11:00:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sewage having 'alarming' impact on underwater forests along UK coast",
+      "title": "Potholes fuel voter frustration before elections - so what can be done?",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn0pl9j88gno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-02T10:46:54+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cx21l5lg8gzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-04T23:07:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police attacked with bottles and masonry in west Belfast",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8pje4y66go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-04T22:08:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scotland's vape capital - what's behind the boom?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgp8vkr02do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-04T21:47:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘A test of our values’: Starmer to call for whole-society response to rising antisemitism",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/04/starmer-call-society-response-rising-antisemitism",
+      "published_date": "2026-05-04T21:30:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family pay tribute to ‘wonderful’ teenager killed by fallen tree in park",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/teenager-brodan-dubickas-tree-park-family-tribute-b2970293.html",
+      "published_date": "2026-05-04T20:52:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform plan to open migrant detention centres in Green-voting areas branded ‘grotesque’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/reform-green-migrant-detention-centre-nigel-farage-b2970026.html",
+      "published_date": "2026-05-04T19:08:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cabinet ministers warn mutinous MPs about trying to oust Keir Starmer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/04/cabinet-ministers-warn-mutinous-mps-over-ousting-keir-starmer",
+      "published_date": "2026-05-04T18:59:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two arrested over arson attack at Golders Green memorial",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9v3kvjxr4mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-04T17:21:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police probe over 'antisemitic' post of Jewish actress with devil horns",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3w286e64zdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-04T17:09:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man and woman arrested on suspicion of arson after fire at Golders Green memorial wall",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/golders-green-memorial-wall-fire-arrest-latest-b2970149.html",
+      "published_date": "2026-05-04T16:37:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ben Jennings on Reform UK and this week’s local elections – cartoon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/may/04/ben-jennings-reform-uk-local-elections-cartoon",
+      "published_date": "2026-05-04T16:35:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro-Palestine protest organisers slam Met Police chief over ‘defamatory’ synagogue march route claims",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/palestine-coalition-met-police-mark-rowley-synagogues-b2970176.html",
+      "published_date": "2026-05-04T16:13:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Starmer will be forced out of No 10 – it’s just a matter of when and how, top pollster warns",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-john-curtice-local-elections-b2967994.html",
+      "published_date": "2026-05-04T16:13:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boy killed by falling tree was playing with friends",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8xwjk55k20o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-04T15:44:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of fans cheer Coventry City's return to the Premier League after 25 years",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/thousands-of-fans-cheer-coventry-citys-open-top-bus-parade-after-return-to-the-premier-league-13540121",
+      "published_date": "2026-05-04T15:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schools using VR headsets to help pupils with stress, says report",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/schools-london-vr-pupils-anxiety-b2970010.html",
+      "published_date": "2026-05-04T13:15:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kirsty, 11, seeks more Kirstys to help raise money for brain tumour research",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/04/kirsty-cancer-fundraising-kent-paediatric-brain-tumour",
+      "published_date": "2026-05-04T13:00:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More unbridled nastiness from Reform – but would it really create migrant detention centres in Green-voting areas? | Zoe Williams",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/04/more-unbridled-nastiness-reform-would-it-really-create-migrant-detention-centres-green-voting-areas",
+      "published_date": "2026-05-04T12:58:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hundreds more prisoners released early but jails still full",
@@ -575,132 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
       "published_date": "2026-05-04T12:05:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A European lawmaker is sentenced in a fraud case involving Czech populist leader Andrej Babiš",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andrej-babis-european-parliament-nest-european-union-prague-b2970037.html",
-      "published_date": "2026-05-04T11:41:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager accused of bomb hoax at Peter Kay show is remanded in custody after courtroom outbursts",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/omar-majed-peter-kay-bomb-hoax-birmingham-arena-b2970018.html",
-      "published_date": "2026-05-04T11:06:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peter Kay show bomb hoax suspect removed from court after outbursts during hearing",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/peter-kay-show-bomb-hoax-suspect-removed-from-court-after-outbursts-during-hearing-13540053",
-      "published_date": "2026-05-04T10:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Revolutionary' new cancer jab not yet available in Northern Ireland",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8p3x9w1z4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-04T09:35:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police continue search after 'suspicious explosion'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceqpld09l7yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-04T09:30:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform’s toxic thinking has infected Scottish politics – this week’s Holyrood elections will tell us how badly | Jasmeen Kanwal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/04/scotland-election-reform-threat",
-      "published_date": "2026-05-04T09:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London schools trialling VR to relieve pupils’ stress",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/may/04/london-schools-trialling-vr-to-relieve-pupils-stress",
-      "published_date": "2026-05-04T08:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’d be nice to get a clear out and start again’: Labour facing battle on both fronts in the city where it was born",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/bradford-local-elections-labour-reform-b2967377.html",
-      "published_date": "2026-05-04T07:28:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Price of a pint crosses £10 in London for the first time",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/london-beer-pint-cost-how-much-b2969941.html",
-      "published_date": "2026-05-04T05:24:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of cancer patients in England to benefit from new immunotherapy jab",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/may/04/thousands-of-cancer-patients-in-england-to-benefit-from-new-immunotherapy-jab",
-      "published_date": "2026-05-04T04:00:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can the Greens and Reform win big in London? podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/may/04/can-the-greens-and-reform-win-big-in-london-podcast",
-      "published_date": "2026-05-04T04:00:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Voting Green will stop Reform’: party eyes kingmaker role in Wales",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/04/wales-election-green-party-reform-senedd",
-      "published_date": "2026-05-04T04:00:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chris Mason: Elections this week set to show how politics is changing",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202wg747qpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-04T01:08:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS cancer jab could mean patients spend hours less in hospital",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx214vld41ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T23:10:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tens of thousands of cancer patients to benefit from one-minute NHS jab",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/tens-of-thousands-of-cancer-patients-to-benefit-from-one-minute-nhs-jab-13539698",
-      "published_date": "2026-05-03T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman and man killed and three others injured in ‘suspicious’ blast",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/woman-man-three-injured-bristol-explosion-b2969802.html",
-      "published_date": "2026-05-03T22:45:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serious injuries as man falls 'number of floors'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn0p89zgeyno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T20:00:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parties gear up for final week of campaigning ahead of election",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0m2v44v9pjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T18:52:03+00:00",
       "category": "Local Events"
     }
   ]
