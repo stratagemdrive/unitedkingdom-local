@@ -1,13 +1,34 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-07T12:58:24.816886+00:00",
+  "last_updated": "2026-05-07T23:43:36.117317+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T23:11:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Google faces £3 billion lawsuit over advertising monopoly claims",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tech/google-ads-lawsuit-competition-appeal-tribunal-b2972345.html",
+      "published_date": "2026-05-07T14:31:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Airlines still have to pay compensation if flights cancelled due to fuel crisis, EU says",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/may/07/airlines-still-have-to-pay-compensation-if-flights-cancelled-due-to-fuel-crisis-eu-says",
       "published_date": "2026-05-07T11:12:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU waters down landmark AI regulation amid industry pressure",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/eu-waters-down-landmark-ai-regulation-amid-industry-pressure-13541012",
+      "published_date": "2026-05-07T10:08:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How can care homes charge fees after a death?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/may/04/how-can-care-homes-charge-fees-after-a-death",
-      "published_date": "2026-05-04T06:00:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK to enter talks to join £78bn EU loan scheme for Ukraine",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-03T21:30:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Badenoch accuses Farage of ducking TV interview to avoid questions about £5m ‘gift’",
+      "title": "Shopping visits fall as Middle East conflict takes toll on consumer confidence",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/badenoch-farage-reform-donation-bbc-harborne-b2969706.html",
-      "published_date": "2026-05-03T14:50:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/business/middle-east-consumers-helen-dickinson-british-retail-consortium-b2972683.html",
+      "published_date": "2026-05-07T23:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer pays tribute to ‘courage and selflessness’ of armed forces on VE Day anniversary",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-ve-day-second-world-war-europe-b2972393.html",
+      "published_date": "2026-05-07T21:30:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK immigration officer among two men guilty of working for Chinese intelligence",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0m2wjlkzplo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T17:09:29+00:00",
+      "category": "Military"
     },
     {
       "title": "UK construction firms face sharpest rise in costs in nearly 30 years",
@@ -263,25 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Retailer Next warns of clothing and homeware price hikes as costs increase due to Iran war",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/next-losses-prices-iran-war-b2971278.html",
-      "published_date": "2026-05-06T08:20:57+00:00",
-      "category": "Military"
+      "title": "How sunburn inspired a new way to store energy",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T23:03:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Supermarkets warn food costs due to Iran war will keep soaring unless ministers take action",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/food-prices-iran-war-supermarkets-reeves-b2970595.html",
-      "published_date": "2026-05-06T06:16:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Four in five Britons worried Iran war will make food more expensive, poll finds",
+      "title": "Royal Navy tracks Russian frigate for one month off UK coast",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/06/iran-war-food-prices-expensive-inflation-poll",
-      "published_date": "2026-05-06T04:00:01+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/uk-news/2026/may/07/royal-navy-tracks-russian-frigate-one-month-uk-coast",
+      "published_date": "2026-05-07T17:09:20+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Blue chips falter amid wait for Middle East deal",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/iran-middle-east-donald-trump-london-shell-b2972451.html",
+      "published_date": "2026-05-07T16:19:21+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Boost for electric car market as petrol costs soar due to Iran war",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/electric-car-petrol-prices-autotrader-iran-war-b2972282.html",
+      "published_date": "2026-05-07T16:00:12+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "BP plans to sell shares in flagship carbon projects as it pulls back from green agenda",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/07/bp-sell-shares-carbon-projects-green-agenda",
+      "published_date": "2026-05-07T15:35:36+00:00",
+      "category": "Energy"
     },
     {
       "title": "Barclays shareholder meeting targeted by Palestine and climate activists",
@@ -389,39 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Which airlines are cancelling flights to the UK - and what can you do?",
+      "title": "Man charged with allegedly threatening Andrew Mountbatten-Windsor",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-06T11:48:01+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c4g0d1wp6g8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T22:39:19+00:00",
+      "category": "Economy"
     },
     {
-      "title": "A reason to vote Labour tomorrow: we are the only party taking the climate crisis seriously | Katie White",
+      "title": "Morrisons supermarket in Wales fined £750k for dirty bakery",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgpz878kp9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T19:18:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The best face moisturisers in the UK for every budget, season and skin type, tested",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/06/vote-labour-climate-crisis-climate-action-infrastructure-electrify-britain",
-      "published_date": "2026-05-06T10:21:55+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/thefilter/2026/may/07/best-face-moisturisers-tested-uk",
+      "published_date": "2026-05-07T14:00:36+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil prices fall as Trump pauses Project Freedom to seek final peace deal with Iran",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/oil-prices-trump-iran-deal-asian-stocks-b2971162.html",
-      "published_date": "2026-05-06T04:19:19+00:00",
-      "category": "Energy"
+      "title": "Revealed: owner of former WH Smith stores is charging fee to use fictitious ‘family’ brand",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/07/revealed-owner-of-former-wh-smith-stores-is-charging-fee-to-use-fictitious-family-brand",
+      "published_date": "2026-05-07T13:36:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Ineos boss Jim Ratcliffe criticises UK and Europe amid new US oil and gas investment with Shell",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/jim-ratcliffe-ineos-shell-oil-trump-b2970614.html",
-      "published_date": "2026-05-05T11:05:02+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK is ‘most exposed’ to jet fuel shortage and is vulnerable to rationing, Goldman Sachs warns",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/iran-war-jet-fuel-shortage-britain-holidays-oil-prices-b2970505.html",
-      "published_date": "2026-05-05T10:45:01+00:00",
-      "category": "Energy"
+      "title": "Doctors’ union drops opposition to Cass review of NHS gender healthcare",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/07/doctors-union-cass-review-nhs-gender-healthcare",
+      "published_date": "2026-05-07T13:15:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Poundstretcher restructuring plan needed to avoid administration, court told",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "The best blenders in the UK for smoothies, soups and frozen desserts, tested",
+      "title": "Elections 2026 live: counting under way after votes in England, Scotland and Wales",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2025/jan/07/best-blenders",
-      "published_date": "2026-05-06T09:00:06+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
+      "published_date": "2026-05-07T23:33:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK regulator launches review of ‘aggressive’ claims management firms amid compensation concerns",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/06/uk-regulator-launches-review-of-aggressive-claims-management-firms-amid-compensation-concerns",
-      "published_date": "2026-05-06T08:49:35+00:00",
-      "category": "Economy"
+      "title": "Car allegedly ‘driven at Jewish schoolboys’ investigated as religiously aggravated assault, police say",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/car-jewish-schoolboys-antisemitism-barnet-b2972549.html",
+      "published_date": "2026-05-07T23:32:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Next plans 'moderate' price hikes as rising costs hit businesses",
+      "title": "2026 election results: latest from local, Scottish and Welsh votes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2026/may/07/local-elections-2026-may-full-results-england-scotland-wales",
+      "published_date": "2026-05-07T23:13:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged after allegedly threatening Andrew Mountbatten-Windsor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/07/man-arrested-near-home-of-andrew-mountbatten-windsor",
+      "published_date": "2026-05-07T23:03:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'We were strangers until we helped bring a paedophile to justice'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czj2e18z2vjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T23:03:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sir John Curtice delivers blunt verdict on Starmer as Labour braces for election losses",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/election-results-keir-starmer-prime-minister-john-curtice-b2972679.html",
+      "published_date": "2026-05-07T23:01:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK schools should remove pupils’ online photos as AI blackmail threat grows, say experts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/08/uk-schools-remove-pupils-photos-online-ai-blackmail-threat-grows",
+      "published_date": "2026-05-07T23:00:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged after allegedly threatening Andrew Mountbatten Windsor near home on Sandringham Estate",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/andrew-mountbatten-windsor-threatened-charged-sandringham-b2972649.html",
+      "published_date": "2026-05-07T22:24:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six things to watch out for in the Scottish election",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4pyrnmplgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T22:15:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local election results live: Polls close across UK in major test of Starmer’s leadership",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-2026-uk-live-updates-results-b2972615.html",
+      "published_date": "2026-05-07T22:12:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What's the result in my area?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T21:43:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Burnham pulls out of speech amid speculation over Labour leadership challenge against Starmer",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-starmer-labour-leadership-streeting-rayner-b2972419.html",
+      "published_date": "2026-05-07T21:42:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour could lose up to 1,850 councillors in local elections, polling expert predicts",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/local-election-results-2026-labour-polling-starmer-b2972636.html",
+      "published_date": "2026-05-07T21:30:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government wins legacy case at UK Supreme Court",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn7pv5gj4xxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T21:15:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour expected to lose Senedd after century of winning elections in Wales",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T21:00:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polls close in elections across England, Scotland and Wales",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/07/polls-close-elections-england-scotland-wales-labour-reform-greens-lib-dems-conservatives",
+      "published_date": "2026-05-07T21:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with attempted murder over police station car bomb",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/next-plans-moderate-price-hikes-as-rising-costs-hit-businesses-13540630",
-      "published_date": "2026-05-06T08:39:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Boss of B&Q owner Kingfisher quits after seven years to join European supermarket giant",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/bq-thierry-garnier-kingfisher-ahold-delhaize-b2971267.html",
-      "published_date": "2026-05-06T08:30:37+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "AI has a management problem, not a data problem",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/business-reporter/ai-management-data-cost-spending-b2970289.html",
-      "published_date": "2026-05-06T07:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Major rail disruption expected in southern England until end of day",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgp8yjllx1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T12:43:24+00:00",
+      "url": "https://news.sky.com/story/man-charged-with-attempted-murder-over-police-station-car-bomb-13541244",
+      "published_date": "2026-05-07T20:25:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Widow of acclaimed football manager Matt Beard claims club ‘bullied’ him before his death",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/sport/football/matt-beard-death-burnley-fc-b2972255.html",
-      "published_date": "2026-05-07T12:32:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chief Constable doing 'everything' to 'root out' misogyny in PSNI",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgqp9gqlwkjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T12:31:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police arrest man over Morgan McSweeney phone theft",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/morgan-mcsweeney-phone-theft-suspect-arrested-london-met-police-b2972225.html",
-      "published_date": "2026-05-07T12:26:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local elections 2026 live: Starmer faces make-or-break test as millions head to the polls",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-2026-live-updates-uk-scotland-wales-labour-reform-greens-b2971610.html",
-      "published_date": "2026-05-07T12:25:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested for selling Morgan McSweeney's stolen phone",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpvp48x2d70o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T12:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of handling Morgan McSweeney’s stolen phone",
+      "title": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/07/man-arrested-morgan-mcsweeney-stolen-phone",
-      "published_date": "2026-05-07T12:20:18+00:00",
+      "url": "https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital",
+      "published_date": "2026-05-07T19:20:55+00:00",
       "category": "Local Events"
     },
     {
-      "title": "May elections live: Badenoch rows back on Reform pacts as millions cast their votes",
+      "title": "Woman killed by partner at home in London feared ‘he was on the warpath’, court hears",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/07/may-local-elections-polls-open-england-scotland-wales-uk-politics-latest-news-updates",
-      "published_date": "2026-05-07T12:19:07+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/may/07/annabel-rook-london-stoke-newington-murder-trial-court",
+      "published_date": "2026-05-07T18:21:10+00:00",
       "category": "Local Events"
     },
     {
-      "title": "German tourist awarded €1,000 after losing out on sunloungers at Greek hotel",
+      "title": "Sir David Attenborough 'overwhelmed' by 100th birthday greetings – audio",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/07/german-tourist-awarded-after-losing-out-sunloungers-greek-hotel",
-      "published_date": "2026-05-07T12:14:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trains in southern England disrupted after fault in radio system",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/07/trains-southern-england-disrupted-fault-radio-system",
-      "published_date": "2026-05-07T12:12:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paddy Power owner Flutter mulls ditching London listing after shift to US",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/london-stock-exchange-paddy-power-london-city-betfair-b2972241.html",
-      "published_date": "2026-05-07T12:07:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What you need to know about the 7 May elections in England, Scotland and Wales",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T11:53:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "STV’s Scotland election coverage to be hit by strike action over pay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/may/07/stv-scotland-election-coverage-hit-strike-action-pay",
-      "published_date": "2026-05-07T11:46:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Retired pastor guilty of abortion buffer zone breach",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cewpk8er8e5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T11:39:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman and teen arrested for murder after two die in BMW and motorbike crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3e24dyzvk9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T11:33:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local elections 2026: Everything you need to know about today’s crucial vote",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-2026-vote-polls-time-where-when-starmer-b2971970.html",
-      "published_date": "2026-05-07T11:26:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local elections 2026: What is each party offering voters?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-2026-manifesto-labour-reform-greens-b2971971.html",
-      "published_date": "2026-05-07T11:19:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keir Starmer ‘to unveil plans for closer ties to EU’ to stave off leadership challenge",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-starmer-leadership-challenge-local-elections-b2972087.html",
-      "published_date": "2026-05-07T11:12:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Postal vote error leaves some people without ballot papers ahead of Senedd election",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-cardiff-senedd-postal-vote-error-b2972080.html",
-      "published_date": "2026-05-07T11:11:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New species named in honour of Sir David Attenborough’s 100th birthday",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/sir-david-attenborough-birthday-chilean-wasp-natural-history-museum-b2972188.html",
-      "published_date": "2026-05-07T11:09:38+00:00",
+      "url": "https://www.theguardian.com/tv-and-radio/video/2026/may/07/sir-david-attenborough-overwhelmed-by-100th-birthday-greetings-audio",
+      "published_date": "2026-05-07T18:06:01+00:00",
       "category": "Local Events"
     }
   ]
