@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-08T12:09:26.193438+00:00",
+  "last_updated": "2026-05-08T23:45:29.435127+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "How David Attenborough transformed film and TV for ever – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/video/2026/may/08/how-david-attenborough-transformed-film-and-tv-for-ever-video",
+      "published_date": "2026-05-08T16:37:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Great Western Railway to be nationalised in December",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/08/great-western-railway-nationalised-december",
+      "published_date": "2026-05-08T15:32:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Future of UK lies in the EU after Brexit ‘failure’, say European Greens",
       "source": "The Guardian",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Inciting antisemitism will not be tolerated, Starmer warns Iran",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czd2l55d1e7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-05T11:49:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK sanctions Russian networks suspected of trafficking migrants to fight in Ukraine",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-russia-ukraine-migrants-sanctions-b2970607.html",
-      "published_date": "2026-05-05T10:52:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "British Airways fares to rise in attempt to offset £1.7bn fuel cost hit",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/may/08/british-airways-owner-issues-profit-warning-over-soaring-jet-fuel-costs",
@@ -263,6 +263,20 @@
       "category": "Military"
     },
     {
+      "title": "People urged not to cancel flights over fuel shortage fears",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-06T16:11:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-06T16:11:44+00:00",
+      "category": "Military"
+    },
+    {
       "title": "An extraordinary watershed moment passed below the radar - and helped make Trump's war possible",
       "source": "Sky News",
       "url": "https://news.sky.com/story/the-slice-of-desert-that-helped-make-trumps-middle-east-war-possible-13540767",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "'Incel' teenager who terrorised two girls and threatened to attack prom jailed",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/incel-teenager-who-collected-bomb-making-videos-and-threatened-school-shooting-is-jailed-13540752",
-      "published_date": "2026-05-06T13:42:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New supermarket war as three big names call out Aldi and Lidl loophole",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/new-supermarket-war-as-three-big-names-call-out-aldi-and-lidl-loophole-13540702",
-      "published_date": "2026-05-06T11:32:00+00:00",
-      "category": "Military"
+      "title": "HSBC sees shareholder pushback against chair at AGM amid climate action concerns",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/hsbc-agm-mark-tucker-shareaction-london-b2973167.html",
+      "published_date": "2026-05-08T15:53:17+00:00",
+      "category": "Energy"
     },
     {
       "title": "US jet fuel could be used in Europe to ease possible shortages",
@@ -309,6 +316,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/international-airlines-group-british-airways-iran-british-hargreaves-lansdown-b2972817.html",
       "published_date": "2026-05-08T09:31:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The best lawnmowers in the UK to keep your grass in check, tested",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2025/jul/03/best-electric-lawn-mowers-uk",
+      "published_date": "2026-05-08T09:00:05+00:00",
       "category": "Energy"
     },
     {
@@ -410,18 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
+      "title": "US jobs data beats expectations for second month in a row",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-06T23:52:48+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/cx21664lp32o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T20:41:19+00:00",
+      "category": "Economy"
     },
     {
-      "title": "How cameras are being used to tackle abuse in nurseries",
+      "title": "FCA issues warning over car finance redress scheme as legal battle could see UK drivers denied compensation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/fca-car-finance-compensation-review-legal-battle-b2973329.html",
+      "published_date": "2026-05-08T19:40:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "London stocks drift lower as Middle East tension simmers",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/russ-mould-middle-east-marco-rubio-iran-london-b2973215.html",
+      "published_date": "2026-05-08T16:08:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Prolonged uncertainty’ of Brexit sent waves of financial volatility across Europe, research finds",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-impact-economics-financial-volatility-europe-markets-b2973110.html",
+      "published_date": "2026-05-08T15:30:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Housing market 'fragile due to global unrest'",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czx2kn4n5wxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-06T22:59:03+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c2k25pvnq03o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T13:40:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "Brazen shoplifter swipes entire Mini Eggs display from supermarket",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Up to 150 former WHSmith stores to close in company restructure with hundreds of jobs at risk",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/tg-jones-company-restructure-stores-closing-wh-smith-b2971782.html",
-      "published_date": "2026-05-06T18:28:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "As Labour heads for a wipeout, a lesson: never fall for the 'adults in the room’ line again | Aditya Chakrabortty",
+      "title": "Labour suffers historic defeat in Wales as Reform surges in English council elections and Greens make gains – as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/06/labour-wipeout-adults-in-the-room-con-job-keir-starmer-elections",
-      "published_date": "2026-05-06T17:20:29+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
+      "published_date": "2026-05-08T23:07:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Hedge fund founder hits back at Mamdani's 'creepy' wealth tax video",
+      "title": "Local election results live: Farage hails ‘truly historic day’ for Reform after Labour suffers huge losses",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-2026-uk-live-updates-results-b2972615.html",
+      "published_date": "2026-05-08T23:06:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sir John Curtice: Election results show politics in the UK has fragmented",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9wepldnl7po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-06T16:35:39+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/ce8p4yn448vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T23:04:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Up to 150 former WH Smith stores face closure, putting thousands of jobs at risk",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/06/dozens-of-former-wh-smith-stores-face-closure-putting-thousands-of-jobs-at-risk",
-      "published_date": "2026-05-06T13:43:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Polanski says he is not ready to be PM, but might be in two years’ time – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/06/local-elections-labour-starmer-greens-polanski-red-cross-reform-tories-conservatives-lib-dems-latest-news-updates",
-      "published_date": "2026-05-06T12:03:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "King and Queen lead tributes for David Attenborough's 100th birthday",
+      "title": "The Papers: 'Labour's historic battering' and 'Vernon and Tess split'",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-08T11:52:06+00:00",
+      "url": "https://www.bbc.com/news/articles/cp8pvj9mzjdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T23:00:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Voters have not only rejected Starmer but the leadership challengers to his Labour crown",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-starmer-labour-leadership-rayner-burnham-b2972951.html",
-      "published_date": "2026-05-08T11:50:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scottish election 2026: Live results map for every seat in race for Holyrood",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/scottish-election-2026-holyrood-parliament-live-results-map-snp-b2972034.html",
-      "published_date": "2026-05-08T11:48:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tough election results hurt but don't weaken my resolve, says PM",
+      "title": "The Scottish election results - in one minute",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-08T11:36:52+00:00",
+      "url": "https://www.bbc.com/news/videos/c2d2er0wrzeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T22:46:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Greens unseat Labour to win mayoral election in Hackney",
+      "title": "John Swinney urges Starmer to show Scotland ‘greater respect’ after SNP victory",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/08/greens-unseat-labour-to-win-mayoral-election-in-hackney-zoe-garbett",
-      "published_date": "2026-05-08T11:36:14+00:00",
+      "url": "https://www.theguardian.com/politics/2026/may/08/john-swinney-declares-victory-for-snp-in-holyrood-elections",
+      "published_date": "2026-05-08T22:44:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "London local elections 2026: Live results map for every mayoralty and council in the capital",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/london-mayor-council-elections-2026-live-results-map-b2972032.html",
-      "published_date": "2026-05-08T11:33:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local elections results in full: Live map for every seat across England, Wales and Scotland",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-2026-live-results-map-uk-today-b2972031.html",
-      "published_date": "2026-05-08T11:31:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chris Mason: What the early results tell us so far",
+      "title": "Reform election gains show historic shift in British politics, says Farage",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz8d556zpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-08T11:29:08+00:00",
+      "url": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T22:34:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "What is the turnout in this election?",
+      "title": "Nigel Farage hails ‘historic shift in politics’ after Reform UK election gains",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/08/nigel-farage-reform-uk-election-gains-essex-sunderland",
+      "published_date": "2026-05-08T21:47:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Keir Starmer under pressure to agree exit plan after election mauling",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/08/keir-starmer-under-pressure-to-agree-exit-plan-after-election-mauling",
+      "published_date": "2026-05-08T21:35:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "These election results don’t mean tacking left or right, but delivering for the whole country | Keir Starmer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/08/election-results-left-right-uk-keir-starmer",
+      "published_date": "2026-05-08T21:30:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Rob hasn't spoken to me': Watch awkward reunion of former Tory ministers",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cx21w0egvy1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-08T11:26:12+00:00",
+      "url": "https://www.bbc.com/news/videos/c8097g373npo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T21:24:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Nigel Farage hails 'truly historic shift' as Reform UK surges in local elections – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/may/08/nigel-farage-historic-shift-reform-uk-local-elections-video",
-      "published_date": "2026-05-08T11:14:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wales election 2026: Live results map as Senedd elected by new voting system",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/wales-senedd-election-2026-live-results-map-seats-b2972896.html",
-      "published_date": "2026-05-08T11:11:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "STV staff walk out on strike on day of Holyrood election count",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/holyrood-nuj-scotland-glasgow-aberdeen-b2972906.html",
-      "published_date": "2026-05-08T10:56:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Big wins for Reform but some relief for Labour: a few early trends in England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/08/may-council-elections-england-scotland-wales-trends-labour-reform-uk",
-      "published_date": "2026-05-08T10:53:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Election results at a glance – and what's still to come",
+      "title": "Plaid Cymru ready to run Wales, leader says, after party wins Senedd vote",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz155y9exo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-08T10:52:29+00:00",
+      "url": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T21:24:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Six arrested as police target TikTok livestreamers pushing counterfeit goods",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/rotherham-tiktok-livestream-arrests-police-b2972975.html",
-      "published_date": "2026-05-08T10:31:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rebecca Long-Bailey slams ‘out of touch’ Keir Starmer for ‘soul-destroying’ local election results",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/england-election-results-starmer-rebecca-long-bailey-b2972939.html",
-      "published_date": "2026-05-08T10:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy who went on £100,000 shoplifting spree banned from entering Holland and Barrett and Boots",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/boy-shoplifting-boots-kensington-chelsea-b2972945.html",
-      "published_date": "2026-05-08T09:50:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour group leader calls for Keir Starmer to resign",
+      "title": "What latest election results show us in maps and charts",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/czx248gyj8ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-08T09:40:44+00:00",
+      "url": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T21:00:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Pink hair and red herrings: viral quiz invites you to guess politicians’ stripes from their photos",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/08/pink-hair-and-red-herrings-viral-quiz-invites-you-to-guess-politicians-stripes-from-their-photos",
-      "published_date": "2026-05-08T09:30:28+00:00",
+      "title": "The Conservatives become Swindon's biggest party",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c7943vdg823o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T20:58:03+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Early England election results make it clear: we are in an era of five-party politics",
+      "title": "Analysis: Many Labour MPs are blaming the boss for elections body blow",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T20:54:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour loses its birthplace and heartlands in Wales",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/labour-loses-its-birthplace-and-heartlands-in-wales-13541738",
+      "published_date": "2026-05-08T20:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Celebrities send well wishes to Bonnie Tyler as singer in induced coma after surgery",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c707edw539ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T20:34:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Seismic shift at Leeds City Council after local elections'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cwy2n059qx8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-08T20:13:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour loses control of Birmingham city council after 14 years of leadership",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/08/early-england-election-results-make-it-clear-we-are-in-an-era-of-five-party-politics",
-      "published_date": "2026-05-08T09:28:03+00:00",
+      "url": "https://www.theguardian.com/politics/2026/may/08/labour-loses-control-of-birmingham-city-council-after-14-years-of-leadership",
+      "published_date": "2026-05-08T20:01:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "King Charles features in surprise birthday tribute to David Attenborough",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/08/king-charles-birthday-tribute-film-david-attenborough-100",
+      "published_date": "2026-05-08T19:50:36+00:00",
       "category": "Local Events"
     }
   ]
