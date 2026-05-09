@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-09T11:52:33.739738+00:00",
+  "last_updated": "2026-05-09T23:37:13.554940+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "What does Plaid Cymru's Rhun ap Iorwerth do next after election victory?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78k72858xxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T20:52:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Plaid Cymru wants to run Welsh government on its own, leader says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T13:53:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Plaid Cymru's Rhun ap Iorwerth: From party disarray to brink of power",
       "source": "BBC News",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cathedral to help run food share scheme in city",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98ryq1r3mno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-06T05:09:14+00:00",
-      "category": "Diplomacy"
+      "title": "British government sends warning to China over spying in the UK",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/british-government-sends-warning-to-china-after-two-men-caught-spying-on-dissidents-in-the-uk-13542117",
+      "published_date": "2026-05-09T19:20:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Palestinian ambassador protests to Foreign Office over ’erasure’ by British Museum",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/06/palestinian-ambassador-protest-foreign-office-british-museum",
-      "published_date": "2026-05-06T05:00:04+00:00",
-      "category": "Diplomacy"
+      "title": "HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T14:03:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Southampton FC charged over alleged spying on Middlesbrough training session",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/southampton-fc-charged-over-alleged-spying-on-middlesbrough-training-session-13541828",
+      "published_date": "2026-05-09T10:18:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Worried Britons ‘prepping’ for major disruption with stash of tins and cash, survey shows",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Fertiliser shortages will have ‘dramatic’ effect on global food prices, warns farming boss",
+      "title": "Reward of £20k offered for police station bomb information",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceqpgnd781do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T23:12:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
-      "published_date": "2026-05-06T21:30:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "People urged not to cancel flights over fuel shortage fears",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-06T16:11:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-06T16:11:44+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
+      "published_date": "2026-05-09T16:00:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Home batteries: a ‘gamechanger’ for cutting energy bills?",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "British Gas owner buys gas-fired power station for £370m for energy ‘security’",
+      "title": "Soham murderer Ian Huntley cremated in £265 eco-friendly coffin as taxpayers pick up funeral tab",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/centrica-british-gas-wales-middle-east-cardiff-b2972084.html",
-      "published_date": "2026-05-07T09:38:36+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/crime/ian-huntley-soham-funeral-costs-attack-prison-b2972978.html",
+      "published_date": "2026-05-09T16:51:51+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Shell latest oil giant to see profits surge due to Iran war impact",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T09:38:04+00:00",
-      "category": "Energy"
+      "title": "‘Dull and musty’: the best (and worst) supermarket breakfast teabags, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/may/09/best-supermarket-breakfast-teabags-tasted-rated",
+      "published_date": "2026-05-09T12:00:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "Starmer gives Brown and Harman new roles as pressure grows over election mauling – UK politics live",
@@ -550,157 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Serving Met officer and four ex-officers investigated for handling of Al Fayed allegations",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crepwqzppqgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T05:01:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lower speed limits could help stop Iran war damaging UK economy, think tank says",
+      "title": "Starmer turns to attacking Brexit again as he shares fightback plan after election rout",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/iran-us-war-speed-limit-labour-ippr-b2971724.html",
-      "published_date": "2026-05-06T23:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-labour-leadership-brexit-b2973666.html",
+      "published_date": "2026-05-09T23:11:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How do you pronounce Rhun ap Iorwerth?",
+      "title": "The Papers: 'Plot to oust Starmer' and 'Gord help us all'",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c5y84r34wd0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-09T11:47:59+00:00",
+      "url": "https://www.bbc.com/news/articles/c5yrx3dl9vqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T23:02:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Local election results live: Starmer turns to Gordon Brown and Harriet Harman as pressure mounts over losses",
+      "title": "Religious leaders unite to fight antisemitism crisis in Britain ahead of Downing Street rally",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-2026-live-updates-uk-results-b2973465.html",
-      "published_date": "2026-05-09T11:42:25+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/antisemitism-downing-street-rally-brendan-cox-b2973574.html",
+      "published_date": "2026-05-09T23:01:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Reform’s London mayor candidate criticises Farage’s ‘mass deportation’ election pitch",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/farage-election-reform-london-mass-deportation-b2973510.html",
-      "published_date": "2026-05-09T11:28:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM turns to old Labour hands after election losses but some MPs left baffled",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2k2vyw88n8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-09T11:24:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We welcome scrutiny, Reform UK says after major election gains",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz62d2482x1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-09T11:22:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police charge two men over filming antisemitic TikToks in London",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yegzd6zz3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-09T11:16:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rayner, Streeting or Burnham? Who could replace Starmer as PM if he’s forced to resign",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-resign-prime-minister-elections-labour-burnham-rayner-streeting-b2973491.html",
-      "published_date": "2026-05-09T11:15:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Trump congratulates John Swinney after SNP defeat Labour in Scotland",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/trump-starmer-labour-scotland-john-swinney-b2973478.html",
-      "published_date": "2026-05-09T11:09:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British leader Keir Starmer under pressure after heavy election losses",
+      "title": "Man arrested after five people were hit by car in Nottinghamshire town",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/09/british-leader-keir-starmer-under-pressure-after-heavy-election-losses",
-      "published_date": "2026-05-09T10:15:16+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/may/09/man-arrested-after-five-people-were-hit-by-car-in-nottinghamshire-town",
+      "published_date": "2026-05-09T20:49:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man left with life-threatening injuries after car crashes into ‘multiple pedestrians’ in town centre",
+      "title": "The towns and cities that show politics in England is splintering from two-party system",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/arnold-car-crash-pedestrians-hit-police-search-b2973495.html",
-      "published_date": "2026-05-09T09:39:07+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/labour-reform-local-elections-starmer-b2973642.html",
+      "published_date": "2026-05-09T20:41:02+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A new political landscape for London sets in",
+      "title": "Green gains see Labour lose control of Lewisham and Lambeth",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzp49gglno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-09T09:32:33+00:00",
+      "url": "https://www.bbc.com/news/articles/cj9pe9dmm3xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T20:35:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man left with life-threatening injuries after car hits pedestrians",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-with-life-threatening-injuries-after-car-hits-pedestrians-in-arnold-nottingham-13541812",
-      "published_date": "2026-05-09T09:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local elections results in full: Live map for every seat across England, Wales and Scotland",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-2026-live-results-uk-map-today-b2973466.html",
-      "published_date": "2026-05-09T08:19:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The records broken in historic local elections that rocked Labour as Reform surges",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-records-labour-reform-starmer-farage-b2973476.html",
-      "published_date": "2026-05-09T08:15:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London local elections 2026: Live results map for every mayoralty and council in the capital",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/london-mayor-council-elections-2026-live-map-results-b2973469.html",
-      "published_date": "2026-05-09T07:51:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scottish election 2026: Results map for every seat in Holyrood",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/scottish-election-2026-live-holyrood-parliament-results-map-snp-b2973471.html",
-      "published_date": "2026-05-09T07:50:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wales election 2026: Results map as Labour loses control of Senedd for first time",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/wales-senedd-election-2026-results-live-map-seats-b2973468.html",
-      "published_date": "2026-05-09T07:49:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Historic win for SNP but change and challenges ahead at Holyrood",
+      "title": "Britons on virus-hit cruise ship to isolate at hospital site",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9364lvpz2lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-09T07:41:40+00:00",
+      "url": "https://www.bbc.com/news/articles/c2029r42w8wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T20:29:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "SNP is Scotland's biggest winner with pressure for independence likely to follow",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/snp-is-scotlands-biggest-winner-with-pressure-for-independence-vote-likely-to-follow-13541795",
-      "published_date": "2026-05-09T07:06:00+00:00",
+      "title": "Starmer could face a Labour leadership challenge — how do they work?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-labour-leadership-challenge-rules-b2973653.html",
+      "published_date": "2026-05-09T19:47:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The SNP may have won again but Scottish politics has been upended",
+      "title": "What the election results show us in maps and charts",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T19:08:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Election results at a glance",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz155y9exo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T18:57:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MPs from Labour’s left to urge Ed Miliband to consider leadership bid",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/09/starmers-unpopularity-was-insurmountable-for-scottish-labour-and-a-boon-for-reform",
-      "published_date": "2026-05-09T06:50:54+00:00",
+      "url": "https://www.theguardian.com/politics/2026/may/09/mps-from-labours-left-to-urge-ed-miliband-to-consider-leadership-bid",
+      "published_date": "2026-05-09T17:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two men convicted over filming of antisemitic TikTok videos in London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/09/two-men-charged-over-alleged-filming-of-antisemitic-tiktok-videos-in-london",
+      "published_date": "2026-05-09T17:39:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farage tears apart Starmer’s red wall brick by brick as Labour heartlands decimated",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/labour-red-wall-local-elections-2026-keir-starmer-reform-uk-b2972884.html",
+      "published_date": "2026-05-09T17:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Do Reform or the Greens pose the biggest threat to Labour? Here’s what the numbers say",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-labour-reform-green-local-election-b2973581.html",
+      "published_date": "2026-05-09T17:04:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I’ll talk to work on Monday’: what happens when a ‘paper candidate’ actually wins?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/09/tyrone-scott-hackney-council-greens-paper-candidate",
+      "published_date": "2026-05-09T16:38:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Welsh voters turned their backs on the Labour party",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/09/why-welsh-voters-turned-their-backs-on-the-labour-party",
+      "published_date": "2026-05-09T16:31:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "SNP leader John Swinney rules out Holyrood talks with Reform UK",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cddpevvv97jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T16:30:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British passengers on hantavirus-hit cruise ship to isolate at UK Covid-quarantine hospital",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/hantavirus-cruise-ship-outbreak-arrowe-park-hospital-b2973609.html",
+      "published_date": "2026-05-09T16:28:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swinney keen to work with fellow nationalist devolved leaders in UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/09/swinney-keen-to-work-with-fellow-nationalist-devolved-leaders-in-uk",
+      "published_date": "2026-05-09T16:24:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man critically injured after car hits pedestrians",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgrpgp91rwwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T16:12:43+00:00",
       "category": "Local Events"
     }
   ]
