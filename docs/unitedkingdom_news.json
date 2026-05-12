@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-11T23:46:48.362217+00:00",
+  "last_updated": "2026-05-12T13:04:19.791493+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Carillion finance directors fined and banned by accountancy watchdog",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/carillion-financial-reporting-council-financial-conduct-authority-holly-williams-kpmg-b2974971.html",
+      "published_date": "2026-05-12T11:59:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Youth mobility scheme disagreement hampering reset of UK-EU relations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/12/youth-mobility-scheme-disagreement-hampering-reset-uk-eu-relations",
+      "published_date": "2026-05-12T10:28:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Archibald retires from cycling after falling 'in love' with nursing",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/cycling/articles/c142eny2lneo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T07:11:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Guardian view on Labour’s rebellion: Starmer faces a crisis of legitimacy | Editorial",
       "source": "The Guardian",
@@ -123,25 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How do you pronounce Rhun ap Iorwerth's name?",
+      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cn4pwrle97eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-09T09:50:12+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T12:55:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "How David Attenborough transformed film and TV for ever – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/video/2026/may/08/how-david-attenborough-transformed-film-and-tv-for-ever-video",
-      "published_date": "2026-05-08T16:37:36+00:00",
-      "category": "Diplomacy"
+      "title": "Holiday bookings improving but Iran war still putting people off – travel agent",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/iran-middle-east-consumers-shares-united-arab-emirates-b2975000.html",
+      "published_date": "2026-05-12T12:33:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "Great Western Railway to be nationalised in December",
+      "title": "Scottish military instructor who spied for Russia jailed in Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c775vze3r4do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T11:53:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Getting rid of Starmer will make things worse for government, Labour MP warns",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-labour-leader-patrick-hurley-b2974861.html",
+      "published_date": "2026-05-12T10:52:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Texas accuses Netflix of spying on users, including children",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T10:01:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Greggs ups prices of meal deals again and cautions over Iran war cost hit",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/iran-middle-east-press-association-sales-b2974808.html",
+      "published_date": "2026-05-12T08:23:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘There’s too much risk’: Britons on changing holiday plans amid Iran war",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/08/great-western-railway-nationalised-december",
-      "published_date": "2026-05-08T15:32:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/may/12/britons-changing-holiday-plans-iran-war-flight-cancellations-petrol-shortages",
+      "published_date": "2026-05-12T08:00:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Snack giant switches to black and white packaging as Iran war hits ink supplies",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T07:46:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Boer War Cadbury bar expected to bring sweet payday",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c77517y375ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T05:53:18+00:00",
+      "category": "Military"
     },
     {
       "title": "Private jet travel should be restricted amid fuel shortage fears, majority of Brits say",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Sadiq Khan accuses Trump of having ‘absurd obsession’ with him as he reignites war of words",
+      "title": "UK borrowing costs hit decades-long high",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/uk-borrowing-costs-hit-decades-long-high-as-pressure-mounts-on-starmer-13542996",
+      "published_date": "2026-05-12T07:51:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Greggs thanks menu changes as it serves up stronger sales",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/sadiq-khan-trump-obsessed-london-mayor-b2973834.html",
-      "published_date": "2026-05-10T23:01:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starmer faces fight to survive as Streeting and Rayner eye leadership bids",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/10/starmer-faces-perilous-24-hours-streeting-readying-leadership-bid",
-      "published_date": "2026-05-10T21:36:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British paratroopers land on Tristan da Cunha for suspected hantavirus case",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/10/paratroopers-britain-overseas-territory-suspected-hantavirus-case",
-      "published_date": "2026-05-10T17:26:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Army parachutes on to Tristan da Cunha to attend suspected hantavirus case – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/may/10/army-parachutes-onto-tristan-da-cunha-to-attend-suspected-hantavirus-case-video",
-      "published_date": "2026-05-10T15:12:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sarwar says he will 'absolutely' stay on as Labour leader",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypgg10p83o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-10T11:50:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-10T10:45:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How could Labour remove Keir Starmer? Four possible routes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/10/how-labour-remove-keir-starmer-four-routes-replace-leader-mps",
-      "published_date": "2026-05-10T10:17:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Army parachutes team onto remote island to help British suspected hantavirus case",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/hantavirus-army-tristan-da-cunha-parachute-b2973754.html",
-      "published_date": "2026-05-10T09:54:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The small team taking on war criminals with a laptop and the help of AI",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/war-crimes-human-rights-technology-iran-b2963474.html",
-      "published_date": "2026-05-10T09:16:51+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/tenerife-greggs-new-menu-shares-b2974751.html",
+      "published_date": "2026-05-12T07:00:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "Mixed day for stocks as oil prices climb amid ongoing Iran-US deadlock",
@@ -410,18 +424,81 @@
       "category": "Energy"
     },
     {
-      "title": "Home batteries: a ‘gamechanger’ for cutting energy bills?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/may/09/home-batteries-cutting-energy-bills-fuel-prices-electricity-costs",
-      "published_date": "2026-05-09T06:00:49+00:00",
-      "category": "Energy"
+      "title": "Vodafone predicts further earnings growth over year ahead in ‘new chapter’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/vodafone-germany-iran-africa-hong-kong-b2974763.html",
+      "published_date": "2026-05-12T12:54:13+00:00",
+      "category": "Economy"
     },
     {
-      "title": "HSBC sees shareholder pushback against chair at AGM amid climate action concerns",
+      "title": "Chasing Utopia review – renegade Google exec Mo Gawdat searches for ethical AI in alarming insider warning",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/12/chasing-utopia-review-renegade-google-exec-mo-gawdat-searches-for-ethical-ai-in-alarming-insider-warning",
+      "published_date": "2026-05-12T12:00:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK borrowing costs hit highest since 1998 amid Starmer uncertainty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour",
+      "published_date": "2026-05-12T11:28:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lotus boss calls for UK government support as it commits to Norfolk plant",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/12/lotus-uk-government-norfolk-plant-car-firm-emira-us",
+      "published_date": "2026-05-12T10:56:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK seizes thousands from former FBI Most Wanted US gangster",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/uk-seizes-thousands-from-former-fbi-most-wanted-us-gangster-james-whitey-bulger-13543057",
+      "published_date": "2026-05-12T10:28:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rachel Reeves pulls out of event hours after Starmer rejects calls to resign",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/hsbc-agm-mark-tucker-shareaction-london-b2973167.html",
-      "published_date": "2026-05-08T15:53:17+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/rachel-reeves-starmer-quit-next-pm-b2974850.html",
+      "published_date": "2026-05-12T09:33:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lloyds to give first-time buyers a lifeline with new £5,000 deposit mortgage",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/mortgage-rates-uk-first-time-buyers-deposit-lloyds-b2974829.html",
+      "published_date": "2026-05-12T09:07:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Labour must offer more than ‘better managed decline’ on economy, MPs urge",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer",
+      "published_date": "2026-05-12T08:00:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Five former Carillion executives banned by accountancy regulator",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/12/carillion-finance-directors-banned-frc",
+      "published_date": "2026-05-12T08:00:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Buyers of Liza Minnelli memoir claim it was not signed by hand",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen",
+      "published_date": "2026-05-12T07:00:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Manufacturer Victrex to cut 10th of jobs after plunging to loss",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/victrex-shares-jobs-cut-loss-b2974720.html",
+      "published_date": "2026-05-12T05:32:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Cut employee national insurance to win back voters, Labour report says",
@@ -449,6 +526,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c4g9eg0xn50o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-11T14:27:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "I thought I didn’t shop much … until I counted my clothes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/may/08/i-thought-i-didnt-shop-much-until-i-counted-clothes",
+      "published_date": "2026-05-11T14:00:56+00:00",
       "category": "Economy"
     },
     {
@@ -480,227 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "How first-time buyers could be hardest hit by Iran war mortgage turmoil",
+      "title": "Will there be a general election? Here’s how – and what could happen next if Starmer leaves office",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/mortgage-rates-nationwide-first-time-buyers-b2974148.html",
-      "published_date": "2026-05-11T09:21:30+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-general-election-uk-replace-pm-b2974837.html",
+      "published_date": "2026-05-12T12:52:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK households bracing for new cost of living crisis, report finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/11/uk-households-brace-cost-of-living-crisis-pwc-survey-consumer-confidence",
-      "published_date": "2026-05-11T06:00:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "My sister was spending £1,000 a month on drink from delivery apps",
+      "title": "What is happening with Keir Starmer’s leadership: At a glance",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd9pn581xzwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-10T23:38:30+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T12:29:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Britain set to lose 163,000 jobs in 2026 as Iran war sparks economic crisis",
+      "title": "Jess Phillips becomes second minister to resign from Starmer government",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/12/darren-jones-keir-starmer-future-labour-leader",
+      "published_date": "2026-05-12T12:03:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Could Andy Burnham become prime minister? Five steps to replace Starmer",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/britain-job-losses-iran-war-economy-crisis-b2973830.html",
-      "published_date": "2026-05-10T23:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-resign-labour-leadership-andy-burnham-b2974950.html",
+      "published_date": "2026-05-12T11:47:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK set to shed 163,000 jobs amid Iran war fallout – report",
+      "title": "Burnham allies warn against quick ‘coronation’ of Streeting if Starmer quits",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/12/labour-mp-seat-burnham-allies-not-stand-aside-marie-rimmer",
+      "published_date": "2026-05-12T11:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Burnham can save Labour and defeat Reform. He should be the next prime minister | Neal Lawson",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/12/andy-burnham-labour-reform-prime-minister-greater-manchester-mayor-westminster",
+      "published_date": "2026-05-12T11:31:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform councillor suspended for anti-Islam posts",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9v3r1lr07ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T11:26:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestine Action trial lawyer wins appeal against contempt of court charge",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/may/12/palestine-action-trial-lawyer-wins-appeal-contempt-court-charge",
+      "published_date": "2026-05-12T11:24:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farage faces questions over failure to declare use of donor’s helicopter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/12/farage-faces-questions-over-failure-to-declare-use-of-donors-helicopter",
+      "published_date": "2026-05-12T11:00:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who could replace Starmer as prime minister? Here are the top contenders for a Labour leadership battle",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/iran-south-wales-humber-households-middle-east-b2973987.html",
-      "published_date": "2026-05-10T23:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-replacement-next-uk-prime-minister-burnham-streeting-rayner-b2974744.html",
+      "published_date": "2026-05-12T10:45:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Haggling prices and chasing debts - tradespeople hit with cost of living headache",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gd4nl23rro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-10T19:50:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Full nationalisation of British Steel expected in king’s speech",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/10/full-nationalisation-of-british-steel-expected-in-kings-speech",
-      "published_date": "2026-05-10T16:45:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Degree of complacency’: are supply chains prepared for impact of ongoing Iran war?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/10/degree-complacency-supply-chains-prepared-impact-iran-war",
-      "published_date": "2026-05-10T14:00:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "From fringe issue to the heart of politics: the UK Living Wage campaign marks 25 years of success | Heather Stewart",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/10/uk-living-wage-campaign-marks-25-years-of-success",
-      "published_date": "2026-05-10T10:08:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Woman left in £13k debt after spray foam removal",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9q3wlrq4yno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-10T07:08:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pension scams: Britons warned over criminals offering inheritance tax loopholes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/may/10/pension-scams-inheritance-tax-loopholes-iht-rules-savings",
-      "published_date": "2026-05-10T06:00:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Soham murderer Ian Huntley cremated in £265 eco-friendly coffin as taxpayers pick up funeral tab",
+      "title": "Chancellor pulls out of City of London event as Starmer under pressure",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/ian-huntley-soham-funeral-costs-attack-prison-b2972978.html",
-      "published_date": "2026-05-09T16:51:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Papers: 'Cabinet turns on Starmer' and 'You have been murdered'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62d8z4m582o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T23:42:36+00:00",
+      "url": "https://www.independent.co.uk/news/business/rachel-reeves-keir-starmer-chancellor-city-of-london-mayor-b2974922.html",
+      "published_date": "2026-05-12T10:40:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Baby loss couple: We were told we'd picked a bad day to give birth",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cedexdjjx94o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T23:13:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Major shake up as new practical driving test booking rules come into force amid record waiting times",
+      "title": "What learner drivers need to know about changes to driving test booking",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/driving-test-booking-changes-dvla-b2974395.html",
-      "published_date": "2026-05-11T23:02:00+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/dvsa-driving-test-booking-changes-b2974842.html",
+      "published_date": "2026-05-12T10:21:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Birmingham City University urged not to axe Black studies MA",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/may/12/birmingham-city-university-urged-not-to-axe-black-studies-ma",
-      "published_date": "2026-05-11T23:01:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why a slice of Edinburgh is being bought up by overseas owners",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj0v65mj978o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T22:01:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stars come out for 50th anniversary of the King's Trust",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp85ll0pno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T21:57:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "My dad's abuse was uncovered after a burglar stole his laptop and found indecent images",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62dg75m51po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T21:29:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer on the brink as cabinet ministers urge him to quit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit",
-      "published_date": "2026-05-11T21:09:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer arson accused tells court he didn’t know who PM was: ‘I just knew Boris Johnson’",
+      "title": "The Latest: Starmer fights for political survival as calls for his resignation grow in UK",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/starmer-arson-accused-roman-lavrynovych-el-money-old-bailey-b2974548.html",
-      "published_date": "2026-05-11T20:49:18+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-labour-party-cabinet-housing-b2974859.html",
+      "published_date": "2026-05-12T09:32:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Child abductor freed by mistake went to pub before fleeing UK, court told",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/child-abductor-freed-by-mistake-strolled-around-london-and-went-to-pub-then-fled-uk-court-told-13542885",
-      "published_date": "2026-05-11T20:12:00+00:00",
+      "title": "Starmer facing mounting pressure to resign as he meets UK Cabinet in crunch talks",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-labour-party-london-cabinet-peter-mandelson-b2974849.html",
+      "published_date": "2026-05-12T09:23:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
+      "title": "Green Party admits Polanski may have failed to pay council tax",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T20:00:28+00:00",
+      "url": "https://www.bbc.com/news/articles/cy02wdzrg6jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T09:18:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man admits assaulting three Jewish people",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yrpgg5zxxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T19:08:03+00:00",
+      "title": "Will Starmer resign? Timeline of PM’s tumultuous time at No 10 since landslide 2024 election",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/keir-starmer-resign-labour-party-timeline-b2974791.html",
+      "published_date": "2026-05-12T08:59:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Starmer began the day damaged and then things got worse",
+      "title": "Starmer’s on the brink and who knows what will happen next: hope for the best, Britain, and prep for the worst | Frances Ryan",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/11/starmer-began-the-day-damaged-and-then-things-got-worse",
-      "published_date": "2026-05-11T19:06:44+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/12/keir-starmer-britain-senior-cabinet-ministers-prime-minister",
+      "published_date": "2026-05-12T08:11:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Newly elected Reform councillor resigns after social media claims",
+      "title": "Suspect charged with arson after reports of fire at former synagogue set to become mosque",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/moses-edwards-wanstead-synagogue-fire-b2974770.html",
+      "published_date": "2026-05-12T07:42:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2026 UK elections: full results from local, Scottish and Welsh votes",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/11/newly-elected-reform-councillor-resigns-stuart-prior-social-media",
-      "published_date": "2026-05-11T17:23:57+00:00",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2026/may/07/local-elections-2026-may-full-results-england-scotland-wales",
+      "published_date": "2026-05-12T07:35:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Starmer arson attacks accused did not intend to endanger life, court hears",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3325n0054no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T17:09:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Catherine West became a stalking horse – then reined herself in",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/11/catherine-west-stalking-horse-reined-in",
-      "published_date": "2026-05-11T17:09:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British Steel: more questions than answers on the future | Nils Pratley",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/11/british-steel-future-sale-subsidies-nationalisation",
-      "published_date": "2026-05-11T16:41:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drought fears in central and southern England as dry April leaves rivers low",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/11/low-rivers-after-dry-april-raises-drought-fears-in-central-and-southern-england",
-      "published_date": "2026-05-11T16:35:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver filmed with football net on top of car",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/hertfordshire-driver-fined-after-own-goal-football-net-on-car-police-say-13542792",
-      "published_date": "2026-05-11T16:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "This Reform UK councillor is a real person, not AI",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cp8p618kyp3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T16:13:12+00:00",
+      "title": "Universities across England face ‘real risk’ of closure due to insolvency for first time",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/university-closure-insolvency-england-ofs-b2974762.html",
+      "published_date": "2026-05-12T07:27:37+00:00",
       "category": "Local Events"
     }
   ]
