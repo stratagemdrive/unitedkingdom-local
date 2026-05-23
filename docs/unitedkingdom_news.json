@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-23T12:01:17.757781+00:00",
+  "last_updated": "2026-05-23T23:47:07.846725+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU could fast-track Britain’s membership if UK decided to reverse Brexit",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-rejoin-referendum-wes-streeting-b2981880.html",
+      "published_date": "2026-05-23T17:24:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Extra EU border checks suspended at Dover as travellers face delays in heat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/23/extra-eu-border-checks-ees-suspended-dover-travel-delays-hot-weather",
+      "published_date": "2026-05-23T14:10:54+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "France suspends extra EU border checks at Dover after hours-long queues",
       "source": "BBC News",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK agrees £3.7bn trade deal with six Gulf states",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-20T22:34:23+00:00",
-      "category": "Diplomacy"
+      "title": "Death of British national confirmed in Ukraine",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/death-of-british-national-confirmed-in-ukraine-13547417",
+      "published_date": "2026-05-23T20:31:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "This is why easing Russia’s oil sanctions is a gut punch to Ukraine",
+      "title": "Brit, 23, killed in action in Ukraine after joining specialist unit supporting army",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-oil-sanctions-starmer-kremlin-b2980471.html",
-      "published_date": "2026-05-20T20:49:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/ayrton-redfearn-brit-killed-ukraine-war-donetsk-b2982583.html",
+      "published_date": "2026-05-23T20:14:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tributes to 'brave, strong' man killed in Ukraine",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp8y0zm3mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T13:53:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine war briefing: Putin promises revenge after blaming Kyiv for Luhansk attack he says killed six",
@@ -260,27 +281,6 @@
       "source": "Sky News",
       "url": "https://news.sky.com/story/southampton-spygate-football-association-launches-investigation-after-club-expelled-from-championship-play-off-final-13546519",
       "published_date": "2026-05-21T11:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "EasyJet summer holiday bookings down on last year amid Iran war uncertainty",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/21/easyjet-summer-holiday-bookings-down-on-last-year-amid-iran-war-uncertainty",
-      "published_date": "2026-05-21T10:49:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Jess Phillips says Keir Starmer has ‘resilience of a cockroach in a nuclear war’ in first interview since resignation",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/jess-phillips-mp-starmer-labour-resignation-video-b2980971.html",
-      "published_date": "2026-05-21T08:49:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Army squadron commander sues MoD for over £200k over cold hands",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/darren-stoddart-ary-mod-mittens-b2980929.html",
-      "published_date": "2026-05-21T07:56:10+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,41 @@
       "category": "Energy"
     },
     {
+      "title": "Police investigation into Scottish National Party finances costs over £2 million",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/police-scotland-snp-finances-investigation-b2982517.html",
+      "published_date": "2026-05-23T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Keir Starmer defiant as Labour leadership challenge mounts from rivals: ‘Our plan is working’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-labour-leadership-challenge-b2982511.html",
+      "published_date": "2026-05-23T21:30:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Scrap tax on overtime hours, says Reform UK",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn7p1ee447xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T19:29:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T12:00:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Elaborately awful and all but inedible’: the best (and worst) supermarket ham and cheese sandwiches, tested and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/may/23/best-worst-supermarket-ham-cheese-sandwiches-tested-rated",
+      "published_date": "2026-05-23T12:00:27+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "UK’s ‘anxious generation’ of young people struggling to adapt to workplace",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/society/2026/may/23/uk-young-people-workplace-anxiety-alan-milburn",
@@ -529,39 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "Farage faces demands to ‘come clean’ over ‘murky’ finances following new revelations",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-finances-county-court-judgements-b2981762.html",
-      "published_date": "2026-05-22T15:20:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Migrants make first English Channel crossing in nearly two weeks",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/small-boat-migrants-english-channel-crossing-dover-may-today-b2982077.html",
-      "published_date": "2026-05-22T15:02:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "GPS trackers fitted to sausages, steak, and beef in supermarkets due to shoplifting fears",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/co-op-gps-tracker-sausages-supermarket-theft-b2981931.html",
-      "published_date": "2026-05-22T14:33:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Why are unpaid debt court cases rising?",
+      "title": "Woman abused by babysitter as a child says compensation can't fix injustice done by police",
       "source": "BBC News",
-      "url": "https://www.bbc.com/videos/c86dy4448x4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T14:06:11+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cvg02w7y09qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T20:54:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Farage was issued with court judgement for £9,400 debt",
+      "title": "Police cordon after 'serious' cyclist crash at Hyde Park Corner",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c072jp9310mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T12:16:29+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cy5213wn7qxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T18:58:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man dies after falling from city centre building",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgpe90g3n0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T18:47:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makerfield by-election candidates announced",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgrp1z8n4w2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T18:38:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New breed of political prisoner arises in Britain as anti-protest sentences rise",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/may/23/anti-protest-sentences-rise-england-wales-political-prisoners",
+      "published_date": "2026-05-23T16:00:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dramatic stoppage-time winner fires Hull back into Premier League",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/hull-promoted-to-premier-league-after-dramatic-stoppage-time-winner-against-middlesbrough-in-play-off-final-13547327",
+      "published_date": "2026-05-23T15:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GLA considering investigation into Zack Polanski over houseboat council tax",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/23/zack-polanski-greens-houseboat-council-tax-gla-investigation",
+      "published_date": "2026-05-23T15:36:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sexism, Covid conspiracies and trans slurs: Reform candidate’s ‘appalling’ social media condemned",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/reform-robert-kenyon-makerfield-byelection-burnham-b2982418.html",
+      "published_date": "2026-05-23T15:30:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Van driver prosecuted for tooting horn at friend",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdep4ey536xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T14:06:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Newly elected Reform councillor admits she doesn’t understand how council works",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/reform-uk-kirklees-council-sarah-wood-video-b2982471.html",
+      "published_date": "2026-05-23T13:11:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Cornwall’s newest high street an inspiring model, or a threat to nearby Newquay?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/may/23/cornwall-nansledan-newquay-high-street-threat",
+      "published_date": "2026-05-23T13:00:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform UK in row with community cafe after Farage asked to apologise for ‘intimidating’ visit",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-nigel-farage-wigan-cafe-b2982443.html",
+      "published_date": "2026-05-23T12:47:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EasyJet diverts mid-flight after passenger alerts crew to power bank in luggage",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/easyjet-diverts-flight-after-passenger-alerts-crew-to-power-bank-in-luggage-13547286",
+      "published_date": "2026-05-23T12:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after five 'assaulted and stabbed' in west London",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-arrested-after-five-assaulted-and-stabbed-in-acton-west-london-police-say-13547283",
+      "published_date": "2026-05-23T12:05:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The Leeds designer outlet that's 15 miles from Leeds",
@@ -603,104 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/may/23/fraudster-trying-to-sell-fake-ancient-statues-to-sothebys-foiled-over-bogus-invoices",
       "published_date": "2026-05-23T07:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Multimedia arts project wins Sycamore Gap tree commission after public vote",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/may/23/peoples-tree-wins-sycamore-gap-art-vote",
-      "published_date": "2026-05-23T05:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The pothole puzzle: the bumpy ride to fixing Britain’s broken roads",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/may/23/politics-potholes-bristol-britain-no-quick-fix",
-      "published_date": "2026-05-23T05:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hot weather to intensify in UK over bank holiday weekend",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/weather/articles/crmp8dlyz3ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T23:04:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How hot will it get in London this bank holiday heatwave?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/weather-london-heatwave-temperature-forecast-bank-holiday-b2981777.html",
-      "published_date": "2026-05-22T23:03:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK heat health alerts upgraded to amber as country braces for bank holiday heatwave",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-weather-heatwave-bank-holiday-weekend-hot-b2981659.html",
-      "published_date": "2026-05-22T22:38:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weeks of disruption for passengers on one of UK's busiest rail lines",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8r838el4yzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T22:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wes Streeting reveals when he will trigger his Labour leadership bid amid Andy Burnham by-election campaign",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/wes-streeting-labour-leadership-bid-burnham-starmer-b2982262.html",
-      "published_date": "2026-05-22T22:00:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Motorist shot by police after ‘driving directly at officers’ in bid to evade arrest",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/greater-manchester-police-shot-driver-bury-b2982289.html",
-      "published_date": "2026-05-22T21:56:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charmain 'was on a mission' to find out who her prophet husband was. Then she died.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1d2xgvgy9yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T21:52:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven men charged with rape and child sexual abuse offences in Norwich",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/22/seven-men-charged-with-and-child-sexual-abuse-offences-in-norwich",
-      "published_date": "2026-05-22T19:54:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teen boys' racist murder sentences to be referred to Court of Appeal",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yej4m190po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T17:55:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Department for Education workers could strike over job losses just days after bizarre Gemma Collins video",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/dfe-strike-industrial-action-gemma-collins-b2982202.html",
-      "published_date": "2026-05-22T17:47:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman jailed for assisting offender over murder of Kathryn Parton",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g4qpj7q0jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T17:44:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Primary schools to lose out as Labour scraps 2012 Olympic legacy sports grant",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/may/22/primary-schools-lose-out-as-labour-slashes-sport-funding",
-      "published_date": "2026-05-22T17:27:48+00:00",
       "category": "Local Events"
     }
   ]
