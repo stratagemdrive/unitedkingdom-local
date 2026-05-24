@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-23T23:47:07.846725+00:00",
+  "last_updated": "2026-05-24T12:01:05.059206+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -102,6 +102,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "UK agrees £3.7bn trade deal with six Gulf states",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-21T08:19:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "The story behind Britain's 'sanctions blunder'",
       "source": "Sky News",
       "url": "https://news.sky.com/story/the-story-behind-britains-sanctions-blunder-13546494",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Warning England’s taps could run dry amid growing drought threat",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/water-supply-drought-england-taps-dry-b2980579.html",
-      "published_date": "2026-05-20T23:01:00+00:00",
-      "category": "Diplomacy"
+      "title": "UK supply chain unprepared for major shocks such as war, report warns",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/24/uk-supply-chain-unprepared-for-major-shocks-war-report-warns",
+      "published_date": "2026-05-24T10:00:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘AI washing’: firms are scrambling to rebrand themselves as tech-focused",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "published_date": "2026-05-24T06:00:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New James Bond game shows more vulnerable side to iconic British spy",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzdr177mvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-24T01:07:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Death of British national confirmed in Ukraine",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "HS2 is the wildest white elephant in British history. Please put it out of its misery | Simon Jenkins",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/21/hs2-white-elephant-british-history-sunk-cost-fallacy",
-      "published_date": "2026-05-21T16:59:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "BT warns of smartphone price rises due to chip shortages from AI boom",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/21/bt-smartphone-price-rises-chip-shortages-ai-boom",
-      "published_date": "2026-05-21T14:05:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Football Association launches investigation into Southampton 'spygate'",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/southampton-spygate-football-association-launches-investigation-after-club-expelled-from-championship-play-off-final-13546519",
-      "published_date": "2026-05-21T11:48:00+00:00",
-      "category": "Military"
+      "title": "Midnight Sun-derland: Zara Larsson electrifies the crowd at Big Weekend",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g07gdzneno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-23T22:34:14+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK bets on private investors to fill climate aid gaps after cuts",
@@ -417,11 +424,60 @@
       "category": "Energy"
     },
     {
-      "title": "Fuel duty freeze extended until the end of the year",
+      "title": "Nationwide pressed to address ‘emerging governance issues’ as AGM looms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/24/nationwide-governance-agm-building-societies-boards",
+      "published_date": "2026-05-24T11:00:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament",
+      "published_date": "2026-05-24T09:41:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Treasury rejected ministers’ plan to cut VAT on public EV charging to 5%",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/24/treasury-block-vat-cut-public-ev-charging-department-transport-dft",
+      "published_date": "2026-05-24T07:00:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Scottish Government will be ‘bold, innovative and ambitious’ on industry – Flynn",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/scottish-government-grangemouth-exxonmobil-unite-fife-b2982652.html",
+      "published_date": "2026-05-24T06:37:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "City's living costs drive workers to food banks",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3021md6jq6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-20T13:21:45+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/cj4pzwg2ddlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-24T06:06:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Papers: 'We'll axe tax on overtime' and 'Brolly hot, isn't it'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpwpjxelwd5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-24T06:05:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Squeals of horror over price caps – but how are we going to fix our broken food system?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/24/horror-price-caps-fix-broken-food-system-analysis",
+      "published_date": "2026-05-24T05:00:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-24T01:02:55+00:00",
+      "category": "Economy"
     },
     {
       "title": "Police investigation into Scottish National Party finances costs over £2 million",
@@ -508,60 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "UK faces 'economic catastrophe' unless it adapts to young people 'rewired by smartphones'",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/uk-faces-economic-catastrophe-unless-it-adapts-to-young-people-rewired-by-smartphones-13547229",
-      "published_date": "2026-05-23T02:20:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK faces ‘economic catastrophe’ as young people are ‘rewired’ by smartphones, warns government’s jobs tsar",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-economic-catastrophe-young-people-smartphones-b2982272.html",
-      "published_date": "2026-05-22T23:09:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
+      "title": "UK judge’s decision not to jail boys for rape like a ‘rock in my face’, says victim, 16",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
-      "published_date": "2026-05-22T21:51:48+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/may/24/uk-judge-decision-rape-girls-hampshire",
+      "published_date": "2026-05-24T11:09:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trump wants new Fed chair to be 'totally independent'",
+      "title": "Burnham beats Reform in first Makerfield by-election poll - but only just",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-reform-makerfield-poll-by-election-b2982698.html",
+      "published_date": "2026-05-24T10:35:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘My dad might still be alive if doctors had gone to his home – we need more mental health support’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/mental-health-support-nhs-funding-b2976692.html",
+      "published_date": "2026-05-24T08:06:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How hot will it get in London this bank holiday heatwave?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/weather-london-heatwave-temperature-forecast-bank-holiday-b2982665.html",
+      "published_date": "2026-05-24T08:02:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Race Across the World's Jo and Kush made Liverpool proud",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz311dq3ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T18:16:58+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cddpnr4v765o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-24T07:16:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Guardian view on Britain’s coming energy shock: mini-measures won’t suffice | Editorial",
+      "title": "How an Essex valley became one of the UK’s most exciting new wine regions",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/22/the-guardian-view-on-britains-coming-energy-shock-mini-measures-wont-suffice",
-      "published_date": "2026-05-22T16:59:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Soft power sell-off: anger as British Council announces sale of historic Madrid building",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/22/soft-power-sell-off-anger-british-council-sale-historic-madrid-building",
-      "published_date": "2026-05-22T16:25:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Wes Streeting insists he can win Labour leadership race despite ‘underdog’ status",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/22/wes-streeting-insists-he-can-win-labour-leadership-race-despite-underdog-status",
-      "published_date": "2026-05-22T16:06:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Labour urged to ‘go further’ on cost of living crisis – here’s what the experts want",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/labour-cost-of-living-plan-energy-rents-food-prices-b2981238.html",
-      "published_date": "2026-05-22T15:33:06+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/may/24/essex-valley-chelmsford-english-wine",
+      "published_date": "2026-05-24T07:00:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Woman abused by babysitter as a child says compensation can't fix injustice done by police",
@@ -659,48 +701,6 @@
       "source": "Sky News",
       "url": "https://news.sky.com/story/man-arrested-after-five-assaulted-and-stabbed-in-acton-west-london-police-say-13547283",
       "published_date": "2026-05-23T12:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Leeds designer outlet that's 15 miles from Leeds",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c707n28z3xjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-23T09:37:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Final frontier for meds? UK startup sends drug-making into space",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/23/meds-uk-startup-drug-making-space-bioorbit-cancer",
-      "published_date": "2026-05-23T09:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who are Andy Burnham’s key aides and allies?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/23/who-are-andy-burnhams-key-aides-and-allies",
-      "published_date": "2026-05-23T09:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder investigation launched after man, 60, dies following assault",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/murder-investigation-launched-after-man-60-dies-more-than-a-week-after-assault-13547260",
-      "published_date": "2026-05-23T08:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform councillor assaulted woman while working pub doors",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8p4xgn0mvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-23T08:19:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fraudster trying to sell fake ancient statues to Sotheby’s foiled over bogus invoices",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/23/fraudster-trying-to-sell-fake-ancient-statues-to-sothebys-foiled-over-bogus-invoices",
-      "published_date": "2026-05-23T07:00:23+00:00",
       "category": "Local Events"
     }
   ]
