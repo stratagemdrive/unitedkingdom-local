@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-26T13:55:13.963875+00:00",
+  "last_updated": "2026-05-26T23:57:09.083954+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Blair: Labour is playing with fire over UK’s future – and is too weak to rejoin EU",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/tony-blair-labour-leadership-starmer-brexit-b2983713.html",
+      "published_date": "2026-05-26T21:33:28+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK targets Putin’s cryptocurrency networks in latest sanctions",
       "source": "The Independent",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Prepare for half term queues at Dover due to EU border process, port says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-21T23:05:13+00:00",
-      "category": "Diplomacy"
+      "title": "Spy chief to warn of ‘relentless’ Russian cyber attacks on UK and Europe",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/russia-cyber-attacks-gchq-anne-keast-butler-b2983729.html",
+      "published_date": "2026-05-26T23:09:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia is targeting UK’s infrastructure and democracy, GCHQ head to say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/27/russia-targeting-uk-infrastructure-democracy-gchq-head-anne-keast-butler",
+      "published_date": "2026-05-26T23:02:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK and Poland to sign defence treaty amid Russian threats",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/uk-poland-security-treaty-starmer-tusk-b2984026.html",
+      "published_date": "2026-05-26T22:41:32+00:00",
+      "category": "Military"
     },
     {
       "title": "UK petrol prices hit fresh Iran war high",
@@ -263,25 +284,60 @@
       "category": "Military"
     },
     {
-      "title": "UK supply chain unprepared for major shocks such as war, report warns",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/24/uk-supply-chain-unprepared-for-major-shocks-war-report-warns",
-      "published_date": "2026-05-24T10:00:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘AI washing’: firms are scrambling to rebrand themselves as tech-focused",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
-      "published_date": "2026-05-24T06:00:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New James Bond game shows more vulnerable side to iconic British spy",
+      "title": "Iran war impact to hit household energy bills for the first time",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzdr177mvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-24T01:07:40+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T23:28:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Baked beans, gum and olive oil could get cheaper under tariff cut plan",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/reeves-cost-living-plan-tariff-cut-essentials-list-b2984029.html",
+      "published_date": "2026-05-26T23:01:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Four-fifths of UK firms impacted by Iran war fallout – report",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/barclays-iran-middle-east-barclays-uk-cabinet-b2984035.html",
+      "published_date": "2026-05-26T23:01:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Tony Blair tells Starmer and rivals: abandon net zero and move closer to Trump",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/26/tony-blair-labour-abandon-net-zero-support-donald-trump",
+      "published_date": "2026-05-26T21:00:08+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Tony Blair’s essay on Labour failings gets full marks for being unhelpful",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/26/tony-blair-essay-labour-failings-unhelpful",
+      "published_date": "2026-05-26T21:00:08+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Why temperature records are being not only broken but smashed",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T17:57:28+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "BP’s latest scandal exposes serious mismanagement at heart of energy giant: ‘It’s total chaos’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/bp-scandal-ceo-chairman-oil-iran-albert-manifold-b2983701.html",
+      "published_date": "2026-05-26T16:11:30+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UK heatwave has ‘fingerprints of climate change all over it’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/climate-change/uk-heatwave-record-temperatures-climate-change-b2983742.html",
+      "published_date": "2026-05-26T15:49:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Huge rise in factory-style dairy farming of ‘battery cows’ in UK as costs rise",
@@ -368,60 +424,81 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices slide on hopes of US-Iran deal",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-24T23:38:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Thousands enjoy final day of Radio 1's Big Weekend",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3w23zwpj78o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-24T16:01:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Midnight Sun-derland: Zara Larsson electrifies the crowd at Big Weekend",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g07gdzneno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-23T22:34:14+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK bets on private investors to fill climate aid gaps after cuts",
+      "title": "Eight in 10 UK firms suffering hit from Iran war: ‘Uncertainty has become the norm’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/climate-change/uk-climate-crisis-aid-cuts-africa-b2981979.html",
-      "published_date": "2026-05-23T09:50:18+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/uk-business-iran-war-barclays-b2983781.html",
+      "published_date": "2026-05-26T23:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "FTSE 100 edges up amid cautious US-Iran optimism",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/office-for-national-statistics-middle-east-marco-rubio-iran-ubs-b2982151.html",
-      "published_date": "2026-05-22T16:20:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fraudster who tried to sell grandfather’s ancient statues to Sotheby’s foiled by fake invoices",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/andrew-crowley-fraud-sothebys-statues-b2982103.html",
-      "published_date": "2026-05-22T15:34:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "'Ancient' statues fraud foiled by fake paperwork",
+      "title": "Green jobs contributing £10.2bn to Scotland's economy, says CBI",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3w2l5xgelqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T15:24:55+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c7599zez4rxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T21:44:59+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The best fans to keep you cool: 14 tried and tested favourites to beat the heat",
+      "title": "Inquiry into Post Office Horizon scandal faces five-year delay without extra funding",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
-      "published_date": "2026-05-22T14:05:19+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/uk-news/2026/may/26/post-office-horizon-scandal-inquiry-five-year-delay-funding",
+      "published_date": "2026-05-26T19:01:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Police issue warning over Post Office scandal probe",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/horizon-post-office-scandal-victims-dont-have-luxury-of-time-inquiry-commander-warns-13548233",
+      "published_date": "2026-05-26T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ministers urged to press ahead with UK ban on zero-hours contracts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/26/ministers-urged-ban-zero-hours-contracts",
+      "published_date": "2026-05-26T18:13:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Yusuf in clash with Jenrick over Reform deportation policy",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx211m18gy7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T17:38:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Guardian view on Britain’s economy: to profit politically a recovery must be felt in people’s pockets | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/26/the-guardian-view-on-britains-economy-to-profit-politically-a-recovery-must-be-felt-in-peoples-pockets",
+      "published_date": "2026-05-26T17:19:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Scottish Parliament endorses SNP call for independence referendum",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y77gp9elyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T17:10:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A pension system that is unfair and unaffordable | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/may/26/a-pension-system-that-is-unfair-and-unaffordable",
+      "published_date": "2026-05-26T17:01:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stocks climb but BP knocked by chairman’s sudden exit",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/marco-rubio-iran-london-kingfisher-barclays-b2983852.html",
+      "published_date": "2026-05-26T16:11:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘This can be a group project’: a podcaster’s plan to make her daughter a millionaire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/may/26/podcaster-money-daughter",
+      "published_date": "2026-05-26T16:00:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "Welfare bill should be brought down by boosting employment – not cutting benefits, Labour told",
@@ -452,6 +529,20 @@
       "category": "Economy"
     },
     {
+      "title": "B&Q blames sales dip on wet Easter but predicts heatwave gain",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/26/bq-sales-easter-heatwave-kingfisher-diy-ftse-100-profit",
+      "published_date": "2026-05-26T09:36:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'I live in survival mode': The rise of the multi-job workforce",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T08:57:35+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "B&Q owner says sales slow as ‘late start’ to spring holds back shoppers",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/screwfix-kingfisher-london-b-q-ecommerce-b2983433.html",
@@ -473,234 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "'An £8,000 debt pushed me to breaking point'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21pryz3xlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T05:18:00+00:00",
-      "category": "Economy"
+      "title": "Rare birds of prey being shot, trapped and poisoned in crimes ‘linked’ to gamebird estate shoots",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/bird-of-prey-rspb-raptor-persecution-crime-b2983850.html",
+      "published_date": "2026-05-26T23:30:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Starbucks Korea boss apologises after advert sparks big backlash",
+      "title": "Labour has 'no coherent plan' for country, says Blair",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T22:26:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Luke Littler offers Prince William World Darts Championship tickets at Alexandra Palace after receiving MBE",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/sport/darts/prince-william-luke-littler-mbe-darts-tickets-alexandra-palace-b2984020.html",
+      "published_date": "2026-05-26T22:02:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested in connection with Manchester synagogue attack",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/starbucks-korea-boss-apologises-after-advert-sparks-big-backlash-13548037",
-      "published_date": "2026-05-26T01:52:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Next boss warns of 'dramatic' fall in entry-level jobs",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-25T23:51:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nurseries in England charging extra fees to cover funding gap, campaigners say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/may/25/nursery-extra-fees-charges-england-funding-free-childcare-hours",
-      "published_date": "2026-05-25T21:30:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rachel Reeves tells ministers to ‘buy British’ in four key industries",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries",
-      "published_date": "2026-05-25T18:43:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "This beach hut costs the same as a three-bedroom house",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cg4pp1xdyk2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-25T17:17:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Labour needs ‘system reset’ to tackle youth unemployment, report to say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/may/25/labour-needs-system-reset-to-tackle-youth-unemployment-report-to-say",
-      "published_date": "2026-05-25T13:00:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A Britain where people cannot afford to raise children? We see that risk, and won’t let it happen | Bridget Phillipson",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/25/britain-children-billions-families-childcare-nurseries",
-      "published_date": "2026-05-25T11:07:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rise in shoplifting and theft in UK finds nine in 10 retailers in rural areas targeted",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/25/rise-in-shoplifting-and-theft-in-uk-finds-nine-in-10-retailers-in-rural-areas-targeted",
-      "published_date": "2026-05-25T11:00:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Metro Bank investors urged to reject executive pay report",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/25/metro-bank-investors-reject-executive-pay-report-bonus",
-      "published_date": "2026-05-25T09:46:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Focus on jobs, not benefits, to cut welfare bill, says thinktank",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/may/25/jobs-not-benefits-cut-welfare-bill-joseph-rowntree-foundation",
-      "published_date": "2026-05-25T08:00:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "HMRC made us wait a year for £150,000 tax rebate",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/may/25/hmrc-inheritance-tax-iht-rebate-refund-delay-late",
-      "published_date": "2026-05-25T06:00:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'I don't think I'll ever be able to retire'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd6pn9y36p8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-25T05:58:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Dig begins for remains of Troubles victim 50 years after disappearance",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/26/dig-begins-troubles-victim-seamus-maguire-disappeared-county-antrim",
-      "published_date": "2026-05-26T13:37:42+00:00",
+      "url": "https://news.sky.com/story/man-arrested-in-connection-with-manchester-synagogue-attack-13548321",
+      "published_date": "2026-05-26T22:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "UK may be ‘tipped into a general election’ if Burnham replaces Starmer, says Harman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/26/uk-general-election-andy-burnham-replaces-keir-starmer-harriet-harman",
-      "published_date": "2026-05-26T13:36:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stepmother who killed girl in bath detailed long life of crime as drug dealer ‘Mama J’ in memoir",
+      "title": "Body recovered from River Ribble after search for missing 12-year-old boy",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/janice-nix-breaking-out-mama-j-b2983690.html",
-      "published_date": "2026-05-26T13:33:23+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/ribchester-river-ribble-lancashire-police-swimming-b2983995.html",
+      "published_date": "2026-05-26T21:53:03+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Three teens dead after being in water at beauty spots",
+      "title": "Body found in search for boy, 12, missing in river",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyppw0q54no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T13:32:07+00:00",
+      "url": "https://www.bbc.com/news/articles/cx211k9rl5lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T21:30:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Stepmum guilty of 1978 scalding killing of girl, 5",
+      "title": "UK's hottest May day record broken for second day in a row",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4p2dd5z97o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T13:13:33+00:00",
+      "url": "https://www.bbc.com/news/articles/clypp7ljvpvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T21:25:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sentences of boys spared custody over rape referred to Court of Appeal",
+      "title": "'We knew somebody would die': Teenage patients 'ignored' before fatal NHS trust failures",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y779yeq0eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T13:03:36+00:00",
+      "url": "https://www.bbc.com/news/articles/c995yr1520ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T21:18:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Crackdown on teenagers’ social media use to come ‘very quickly’ after consultation ends tonight, says Starmer – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/26/wes-streeting-keir-starmer-social-media-ban-labour-uk-politics-live",
-      "published_date": "2026-05-26T12:54:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ferry frustrations and housing concerns in Gorey",
+      "title": "Man arrested over Manchester synagogue attack",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g000d4l45o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T12:44:12+00:00",
+      "url": "https://www.bbc.com/news/articles/cwy228069plo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T20:58:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Teenage rapists’ sentences to be reviewed by Court of Appeal after backlash, Starmer says",
+      "title": "Man arrested on suspicion of failing to disclose information about Manchester synagogue attack",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/rape-case-teenagers-boy-sentencing-b2983601.html",
-      "published_date": "2026-05-26T12:22:20+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/manchester-synagogue-attack-heaton-park-arrests-b2983983.html",
+      "published_date": "2026-05-26T20:58:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Hunting supporters say ban leaves dog owners at risk of prosecution",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzzz2pzgpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T12:20:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy with Tourette's refused flight for bomb remark",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg5pp4gjejgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T11:56:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court of appeal to review rape sentences of three teenage boys",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/may/26/court-of-appeal-to-review-sentences-of-teenage-boys",
-      "published_date": "2026-05-26T11:13:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer says ‘questions need to be answered’ over Murrell embezzlement as SNP urged to launch inquiry",
+      "title": "Brit hospitalised with hantavirus in the Netherlands after cruise ship outbreak returns to UK",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/snp-embezzlement-sturgeon-murrell-swinney-b2983508.html",
-      "published_date": "2026-05-26T11:02:01+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/hantavirus-uk-netherlands-mv-hondius-who-b2983969.html",
+      "published_date": "2026-05-26T19:59:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two people receive specialist care after TT crash",
+      "title": "Post Office investigation could be delayed by five years, police warn",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj9pp4dd1rwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T10:59:38+00:00",
+      "url": "https://www.bbc.com/news/articles/c2422y4ldymo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T19:38:56+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Teenage rapists' sentences to be reviewed after backlash",
+      "title": "Reform UK civil service plan ‘would sack more planning officers than exist’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/26/reform-civil-service-plan-would-sack-more-planning-officers-than-exist",
+      "published_date": "2026-05-26T19:00:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Warning issued as police investigation into Post Office Horizon scandal could face five-year delay",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/post-office-horizon-scandal-delay-stephen-clayman-funding-b2983704.html",
+      "published_date": "2026-05-26T19:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman shot dead outside Sheffield bar was innocent bystander, police say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/26/woman-shot-dead-outside-sheffield-bar-was-innocent-bystander-police-say",
+      "published_date": "2026-05-26T18:57:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform UK’s Makerfield candidate appeared to doubt seriousness of Covid on X",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/26/reform-makerfield-byelection-candidate-covid-x",
+      "published_date": "2026-05-26T18:08:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salem witch trials help explain why Faithfuls fail to spot real Traitors, says David Olusoga",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/26/salem-witch-trials-help-explain-why-faithfuls-fail-to-spot-real-traitors-says-david-olusoga",
+      "published_date": "2026-05-26T18:06:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family pay tribute to woman found dead in suspected murder",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/sentences-of-teenage-rapists-who-avoided-jail-referred-to-court-of-appeal-13548062",
-      "published_date": "2026-05-26T10:18:00+00:00",
+      "url": "https://news.sky.com/story/family-pay-tribute-to-woman-found-dead-in-suspected-murder-13548263",
+      "published_date": "2026-05-26T17:44:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Green Party names new candidate for Makerfield by-election after antisemitism row",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/sarah-wakefield-greens-makerfield-byelection-candidate-b2983510.html",
-      "published_date": "2026-05-26T10:08:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carol Vorderman demands apology from Reform candidate over ‘disgusting comments’",
+      "title": "Manchester University to offer work placements to all undergraduates",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/26/carol-vorderman-demands-apology-reform-candidate-robert-kenyon",
-      "published_date": "2026-05-26T09:46:11+00:00",
+      "url": "https://www.theguardian.com/business/2026/may/26/manchester-university-to-offer-work-placements-to-all-undergraduates",
+      "published_date": "2026-05-26T17:25:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Lights at police centre to cost 'disturbing' £500k to replace",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21wj4dy2no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T09:28:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire breaks out near Arthur's Seat in Edinburgh - video",
+      "title": "Labour set to announce crackdown on social media for children within weeks",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/video/2026/may/26/fire-arthurs-seat-edinburgh-video",
-      "published_date": "2026-05-26T08:55:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Green party announce new candidate for Makerfield byelection",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/26/green-party-announce-new-candidate-makerfield-byelection-sarah-wakefield",
-      "published_date": "2026-05-26T08:29:04+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/may/26/labour-crackdown-social-media-children",
+      "published_date": "2026-05-26T16:58:27+00:00",
       "category": "Local Events"
     }
   ]
