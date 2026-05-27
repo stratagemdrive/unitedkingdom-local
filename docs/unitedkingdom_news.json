@@ -1,8 +1,50 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-26T23:57:09.083954+00:00",
+  "last_updated": "2026-05-27T14:27:55.211614+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Revealed: Mandelson vetting warned of ties to senior figures in China, Russia and Israel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/27/mandelson-vetting-warned-ties-senior-figures-china-russia-israel",
+      "published_date": "2026-05-27T13:35:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Key questions over Mandelson vetting: did ‘mitigations’ cover links to China and Russia?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/27/peter-mandelson-questions-vetting-clearance-mitigations",
+      "published_date": "2026-05-27T13:35:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Swap paddling pools for water blasters to keep cool in heatwave, Britons urged",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/paddling-pool-heatwave-water-supply-b2984446.html",
+      "published_date": "2026-05-27T13:27:55+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Backrooms review – Kane Parsons’ icily disturbing horror rewrites the genre rulebook",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/may/27/backrooms-review-kane-parsons-icily-disturbing-horror-rewrites-the-genre-rulebook",
+      "published_date": "2026-05-27T11:14:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Voices: ‘Reversing Brexit is not possible – new membership is’: Readers on reality of Britain rejoining the EU",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit/rejoin-eu-britain-brexit-reverse-referendum-b2983605.html",
+      "published_date": "2026-05-27T10:27:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Consumers prioritising affordable fun over shopping, says Hollywood Bowl",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/consumers-hollywood-bowl-canada-b2984165.html",
+      "published_date": "2026-05-27T07:13:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Blair: Labour is playing with fire over UK’s future – and is too weak to rejoin EU",
       "source": "The Independent",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/23/uk-eu-european-union-reset-david-miliband-single-market-goods",
-      "published_date": "2026-05-23T10:26:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Inside the Brexit-voting Labour stronghold that looks set to determine our next prime minister",
+      "title": "Muslim war memorial to bring forgotten soldiers’ stories ‘out of the shadows’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-farage-labour-reform-makerfield-b2979556.html",
-      "published_date": "2026-05-23T08:14:43+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/muslim-war-memorial-england-funding-b2984403.html",
+      "published_date": "2026-05-27T12:04:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK officials suggested single market for goods with Europe",
+      "title": "Grocery price inflation eases as shoppers worry over Iran war cost rises",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/iran-war-inflation-food-prices-b2984157.html",
+      "published_date": "2026-05-27T07:27:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-23T03:47:28+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Community cafe demands apology from Farage for ‘intimidating’ uninvited visit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/22/charity-demands-apology-from-farage-for-intimidating-uninvited-visit",
-      "published_date": "2026-05-22T17:20:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Electoral reform and reversing Brexit: they’re more connected than you might think | Tom Baldwin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/22/electoral-reform-reverse-brexit-labour-leadership-eu-debate",
-      "published_date": "2026-05-22T10:33:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mike Tindall jokes he knew Prince Harry ‘when he was fun’ in swipe at royal",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/mike-tindall-prince-harry-zara-phillips-andrew-mountbatten-windsor-b2981702.html",
-      "published_date": "2026-05-22T10:18:32+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-26T23:42:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Spy chief to warn of ‘relentless’ Russian cyber attacks on UK and Europe",
@@ -263,25 +284,130 @@
       "category": "Military"
     },
     {
-      "title": "Riz Ahmed says UK spies tried to recruit him on three occasions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/may/24/riz-ahmed-says-uk-spies-tried-to-recruit-him-on-three-occasions",
-      "published_date": "2026-05-24T17:54:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Army runs secret wargames under central London",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2e2vjl2ry8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-24T12:15:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia ‘jams GPS signals’ of RAF jet carrying defence secretary John Healey",
+      "title": "How UK households are paying the cost of Trump’s Iran war – with big energy bill increases on the horizon",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/russia-jams-raf-jet-signal-john-healey-b2982948.html",
-      "published_date": "2026-05-24T10:14:00+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/energy-bill-price-cap-ofgem-inflation-petrol-iran-b2984163.html",
+      "published_date": "2026-05-27T14:25:06+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Treasury ministers hit back at Blair over claims on tax and energy – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/may/27/tony-blair-keir-starmer-wes-streeting-andy-burnham-mahmood-labour-leadership-latest-news-updates",
+      "published_date": "2026-05-27T13:57:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy bills hike has already made Reeves’ cost of living package look meaningless",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/energy-bills-hike-reeves-cost-of-living-b2984336.html",
+      "published_date": "2026-05-27T13:45:07+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "What is happening to my energy bill and what can I do?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/ofgem-conservatives-households-wales-scotland-b2984183.html",
+      "published_date": "2026-05-27T13:21:36+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How a rise in energy bills will affect you from July",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c8xw2g7485zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T13:14:50+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Customers asked to boil tap water during heatwave after pipe burst to be compensated",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87qqveeew2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T12:51:02+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Rachel Reeves urged to ‘act now’ to save poorest from pain of rocketing winter energy bills",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/energy-bills-price-cap-reeves-iran-trump-b2984364.html",
+      "published_date": "2026-05-27T11:35:41+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Power to the people: how ‘balcony solar’ could help fight rising US utility costs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/27/balcony-solar-panels-rising-utility-costs",
+      "published_date": "2026-05-27T11:30:17+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy price cap in Great Britain to rise by 13% from July",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/may/27/energy-price-cap-great-britain-rise-july-gas-electricity-iran-war",
+      "published_date": "2026-05-27T11:23:04+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "What will the energy cap changes mean for my bills?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T11:13:34+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "'I've given up eating hot meals to pay energy bills to keep my son alive'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0j2ep13le2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T11:12:29+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Ousted BP chief Albert Manifold hits out at ‘false narrative’ after sacking",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/bp-sacked-albert-manifold-false-narrative-b2984212.html",
+      "published_date": "2026-05-27T08:53:21+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Ofgem energy price cap: Everything you need to know as bills rise by 13%",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/energy-bills-price-cap-ofgem-iran-war-b2984136.html",
+      "published_date": "2026-05-27T08:53:10+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "From AI to net zero and migration: Tony Blair’s 10-point-plan to fix Britain",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/tony-blair-keir-starmer-labour-ai-b2984227.html",
+      "published_date": "2026-05-27T08:49:33+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Typical energy bill set to soar by £221 a year from July as new price cap announced",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/energy-price-cap-bills-ofgem-july-b2984122.html",
+      "published_date": "2026-05-27T08:43:21+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Kiln-free recycled tile startup agrees pilot deal with major UK supplier",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/27/recycled-tile-startup-pilot-deal-dekiln-johnson-tiles",
+      "published_date": "2026-05-27T06:00:19+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UK heatwave has ‘fingerprints of climate change all over it’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/climate-change/uk-heatwave-climate-change-temperature-records-b2984094.html",
+      "published_date": "2026-05-27T05:03:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Households set to learn of energy bills hike from July amid Iran war impact",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/households-rachel-reeves-iran-scotland-simon-francis-b2984062.html",
+      "published_date": "2026-05-27T01:45:51+00:00",
+      "category": "Energy"
     },
     {
       "title": "Iran war impact to hit household energy bills for the first time",
@@ -298,130 +424,88 @@
       "category": "Energy"
     },
     {
-      "title": "Four-fifths of UK firms impacted by Iran war fallout – report",
+      "title": "Tony Blair is strong on diagnosis, deluded on prescription: Britain’s ills can’t be fixed by him | Larry Elliott",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/27/tony-blair-strong-diagnosis-deluded-prescription-britain-artificial-intelligence",
+      "published_date": "2026-05-27T13:26:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hiring people in first jobs no longer cost-effective, Hollywood Bowl boss says",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/barclays-iran-middle-east-barclays-uk-cabinet-b2984035.html",
-      "published_date": "2026-05-26T23:01:00+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/hollywood-bowl-people-government-b2984408.html",
+      "published_date": "2026-05-27T11:42:46+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Tony Blair tells Starmer and rivals: abandon net zero and move closer to Trump",
+      "title": "Flying Tiger snapped up by Modella Capital amid fears for its future",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/26/tony-blair-labour-abandon-net-zero-support-donald-trump",
-      "published_date": "2026-05-26T21:00:08+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/may/27/flying-tiger-acquisition-modella-capital-private-equity-tg-jones",
+      "published_date": "2026-05-27T11:19:21+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Tony Blair’s essay on Labour failings gets full marks for being unhelpful",
+      "title": "Reform UK spending on Facebook ads surged before May elections",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/26/tony-blair-essay-labour-failings-unhelpful",
-      "published_date": "2026-05-26T21:00:08+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/2026/may/27/reform-uk-spending-facebook-ads-surged-before-may-elections",
+      "published_date": "2026-05-27T11:00:17+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Why temperature records are being not only broken but smashed",
+      "title": "Student loans inquiry finds many did not understand terms",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T17:57:28+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/cn9pejwj0xxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T10:54:56+00:00",
+      "category": "Economy"
     },
     {
-      "title": "BP’s latest scandal exposes serious mismanagement at heart of energy giant: ‘It’s total chaos’",
+      "title": "Amazon’s annual UK tax bill rises to top £1.3 billion",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/bp-scandal-ceo-chairman-oil-iran-albert-manifold-b2983701.html",
-      "published_date": "2026-05-26T16:11:30+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/amazon-rishi-sunak-conservative-london-vat-b2984190.html",
+      "published_date": "2026-05-27T10:53:12+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK heatwave has ‘fingerprints of climate change all over it’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/climate-change/uk-heatwave-record-temperatures-climate-change-b2983742.html",
-      "published_date": "2026-05-26T15:49:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Huge rise in factory-style dairy farming of ‘battery cows’ in UK as costs rise",
+      "title": "Fired BP chair disputes oil company’s claims of poor conduct",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/26/uk-sees-huge-rise-in-battery-cow-dairy-farms-investigation-reveals",
-      "published_date": "2026-05-26T11:56:35+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/may/27/fired-bp-chair-albert-manifold-disputes-oil-companys-claims-of-poor-conduct",
+      "published_date": "2026-05-27T10:41:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "BP shares plunge after chairman ousted",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/bp-chairman-removed-from-role-after-serious-concerns-over-conduct-oversight-and-governance-13548169",
-      "published_date": "2026-05-26T11:41:00+00:00",
-      "category": "Energy"
+      "title": "Lidl overtakes Morrisons as one of UK’s five biggest supermarkets",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/lidl-morrisons-uk-biggest-supermarkets-tesco-sainsburys-b2984311.html",
+      "published_date": "2026-05-27T10:34:16+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Ferrari shares fall after launch of first EV as Jony Ive design proves divisive",
+      "title": "Lidl overtakes Morrisons to become fifth largest supermarket in Great Britain",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/26/ferrari-luce-ev-jony-ive-design-sports-car",
-      "published_date": "2026-05-26T11:36:21+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/may/27/lidl-overtakes-morrisons-to-become-fifth-largest-supermarket-in-uk",
+      "published_date": "2026-05-27T09:30:06+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The ‘silent killer’: what you need to know about heatwaves",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/jun/27/the-silent-killer-what-you-need-to-know-about-heatwaves",
-      "published_date": "2026-05-26T11:17:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil and gas has long-term future if UK Government backs industry, report says",
+      "title": "Speed up plans to close import tax loophole on small parcels, British firms say",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/government-north-sea-aberdeen-scottish-government-uk-government-b2983317.html",
-      "published_date": "2026-05-26T10:45:07+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/british-chancellor-government-prime-minister-rachel-reeves-b2984237.html",
+      "published_date": "2026-05-27T08:58:49+00:00",
+      "category": "Economy"
     },
     {
-      "title": "What the Warm Homes Plan means to you as UK government aims to cut energy bills and upgrade homes",
+      "title": "Amazon UK tax bill soars to over £1.3 billion amid rising costs",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/warm-homes-plan-energy-efficiency-b2983439.html",
-      "published_date": "2026-05-26T07:58:13+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/amazon-uk-tax-prime-national-insurance-b2984178.html",
+      "published_date": "2026-05-27T08:00:51+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Ferrari unveils first fully electric car",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy22rddy5no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T02:48:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil and gas has long-term future if UK Government backs industry, report says",
+      "title": "How AI features can protect your website, according to business experts",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/government-north-sea-scottish-government-aberdeen-uk-government-b2983317.html",
-      "published_date": "2026-05-25T23:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK records its highest ever May temperature",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/25/uk-heat-may-temperature-record-weather",
-      "published_date": "2026-05-25T12:16:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK households set to face £200 energy bill rise thanks to Iran war",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/energy-bills-iran-war-rachel-reeves-b2983040.html",
-      "published_date": "2026-05-25T09:21:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK households set to face £200 energy bill rise thanks to Iran war",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-household-energy-bill-increase-iran-war-b2983438.html",
-      "published_date": "2026-05-25T09:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ministers urged to act as households in Great Britain face energy bill ‘anxiety’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/may/25/ministers-urged-act-energy-bill-anxiety-price-cap-great-britain",
-      "published_date": "2026-05-25T06:00:17+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/how-ai-features-can-protect-your-website-b2963989.html",
+      "published_date": "2026-05-27T07:30:44+00:00",
+      "category": "Economy"
     },
     {
       "title": "Eight in 10 UK firms suffering hit from Iran war: ‘Uncertainty has become the norm’",
@@ -480,227 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "A pension system that is unfair and unaffordable | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/may/26/a-pension-system-that-is-unfair-and-unaffordable",
-      "published_date": "2026-05-26T17:01:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stocks climb but BP knocked by chairman’s sudden exit",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/marco-rubio-iran-london-kingfisher-barclays-b2983852.html",
-      "published_date": "2026-05-26T16:11:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘This can be a group project’: a podcaster’s plan to make her daughter a millionaire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/26/podcaster-money-daughter",
-      "published_date": "2026-05-26T16:00:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Welfare bill should be brought down by boosting employment – not cutting benefits, Labour told",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/labour-welfare-spending-benefit-cuts-jrf-milburn-b2983583.html",
-      "published_date": "2026-05-26T13:25:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Government policy is causing a ‘crisis’ in youth unemployment, Next boss warns",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/next-minimum-wage-youth-unemployment-simon-wolfson-b2983485.html",
-      "published_date": "2026-05-26T13:04:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BP removes chair Albert Manifold over ‘serious’ governance and conduct concerns",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/26/bp-chair-albert-manifold-ian-tyler",
-      "published_date": "2026-05-26T11:58:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Next boss warns over ‘dramatic fall’ in UK entry-level jobs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/26/next-boss-entry-level-jobs-lord-wolfson-youth-unemployment",
-      "published_date": "2026-05-26T09:58:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "B&Q blames sales dip on wet Easter but predicts heatwave gain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/26/bq-sales-easter-heatwave-kingfisher-diy-ftse-100-profit",
-      "published_date": "2026-05-26T09:36:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'I live in survival mode': The rise of the multi-job workforce",
+      "title": "Resident doctors to strike for 16th time over pay",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T08:57:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "B&Q owner says sales slow as ‘late start’ to spring holds back shoppers",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/screwfix-kingfisher-london-b-q-ecommerce-b2983433.html",
-      "published_date": "2026-05-26T07:14:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "NS&I failures pile on the agony for bereaved families chasing missing premium bonds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/may/26/nsi-bereaved-families-missing-premium-bonds-savings",
-      "published_date": "2026-05-26T06:00:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Family of missing woman hope raid on UK-based sect will bring answers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/26/family-of-missing-woman-hope-raid-on-uk-based-sect-will-bring-answers",
-      "published_date": "2026-05-26T06:00:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rare birds of prey being shot, trapped and poisoned in crimes ‘linked’ to gamebird estate shoots",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/bird-of-prey-rspb-raptor-persecution-crime-b2983850.html",
-      "published_date": "2026-05-26T23:30:09+00:00",
+      "url": "https://www.bbc.com/news/articles/c8xw2vvlxeko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T14:16:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Labour has 'no coherent plan' for country, says Blair",
+      "title": "Resident doctors to walk out yet again in fresh strikes next month",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/doctors-strike-nhs-bma-june-dates-b2984496.html",
+      "published_date": "2026-05-27T14:04:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London Night Tube predator who sexually assaulted sleeping women is jailed",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/salman-yousaf-london-night-tube-sexual-assaults-b2984392.html",
+      "published_date": "2026-05-27T13:30:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Widow wins High Court battle with brother-in-law over late husband’s £5m fortune",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/gabriela-teixeira-abbas-moaven-amir-b2984211.html",
+      "published_date": "2026-05-27T13:20:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young asylum seekers far more likely to be assessed as adults by immigration officers than by social workers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/27/young-asylum-seekers-more-likely-assessed-adults-by-immigration-officers-than-social-workers",
+      "published_date": "2026-05-27T13:17:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Golders Green fire – latest: Blaze at Kosher supermarket in north London caused by electrical fault, police believe",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/london-golders-green-road-fire-supermarket-latest-b2984146.html",
+      "published_date": "2026-05-27T12:39:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Around 100 firefighters tackle Golders Green blaze",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T22:26:59+00:00",
+      "url": "https://www.bbc.com/news/articles/ceqpd9vezrdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T12:19:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Luke Littler offers Prince William World Darts Championship tickets at Alexandra Palace after receiving MBE",
+      "title": "Government rejects proposal to allocate funds for domestic homicide reviews",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/27/government-rejects-funding-proposal-domestic-homicide-reviews",
+      "published_date": "2026-05-27T12:14:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A9 closed in both directions after lorry bursts into flames",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c392y1m2nplo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T12:00:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Everything I do has climate at its centre’: Hackney’s first Green mayor gets to work",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/27/climate-hackney-first-green-mayor-zoe-garbett-interview",
+      "published_date": "2026-05-27T12:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man accused of Starmer arson attacks told friend plan to set PM’s car on fire was ‘stupid’, court hears",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/sport/darts/prince-william-luke-littler-mbe-darts-tickets-alexandra-palace-b2984020.html",
-      "published_date": "2026-05-26T22:02:03+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/stanislav-carpiuc-roman-lavrynovych-petro-pochynok-starmer-arson-attacks-london-b2984386.html",
+      "published_date": "2026-05-27T11:35:38+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man arrested in connection with Manchester synagogue attack",
+      "title": "Body found in search for teenage boy, 17, last seen in Cheshire lake",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/cheshire-lake-body-found-teenager-heatwave-b2984346.html",
+      "published_date": "2026-05-27T11:27:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-police officer denies GBH during ‘citizens arrest’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/lorne-castle-police-bournemouth-court-b2984375.html",
+      "published_date": "2026-05-27T11:24:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thunderstorms warning issued for parts of England and Wales",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/man-arrested-in-connection-with-manchester-synagogue-attack-13548321",
-      "published_date": "2026-05-26T22:00:00+00:00",
+      "url": "https://news.sky.com/story/thunderstorms-warning-issued-for-parts-of-england-and-wales-13548426",
+      "published_date": "2026-05-27T11:06:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Body recovered from River Ribble after search for missing 12-year-old boy",
+      "title": "Russia ‘within their rights’ to take Crimea, Reform’s Makerfield candidate said as he compared it to Falklands",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ribchester-river-ribble-lancashire-police-swimming-b2983995.html",
-      "published_date": "2026-05-26T21:53:03+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/makerfield-byelection-reform-robert-kenyon-russia-ukraine-war-b2984181.html",
+      "published_date": "2026-05-27T11:01:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Body found in search for boy, 12, missing in river",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx211k9rl5lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T21:30:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK's hottest May day record broken for second day in a row",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypp7ljvpvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T21:25:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We knew somebody would die': Teenage patients 'ignored' before fatal NHS trust failures",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c995yr1520ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T21:18:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested over Manchester synagogue attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy228069plo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T20:58:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of failing to disclose information about Manchester synagogue attack",
+      "title": "Girl, 15, in critical condition after getting into difficulty in water at Merseyside beach during heatwave",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/manchester-synagogue-attack-heaton-park-arrests-b2983983.html",
-      "published_date": "2026-05-26T20:58:06+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/teenager-critical-condition-formby-beach-merseyside-heatwave-b2984325.html",
+      "published_date": "2026-05-27T10:52:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Brit hospitalised with hantavirus in the Netherlands after cruise ship outbreak returns to UK",
+      "title": "Woman pleads guilty after XL bully killed teenager in Bristol",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/hantavirus-uk-netherlands-mv-hondius-who-b2983969.html",
-      "published_date": "2026-05-26T19:59:20+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/xl-bully-kelcie-reed-bristol-guilty-b2984304.html",
+      "published_date": "2026-05-27T10:28:28+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Post Office investigation could be delayed by five years, police warn",
+      "title": "Woman admits guilt in fatal XL bully attack",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2422y4ldymo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-26T19:38:56+00:00",
+      "url": "https://www.bbc.com/news/articles/c0k2yxx1l6do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T10:28:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Reform UK civil service plan ‘would sack more planning officers than exist’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/26/reform-civil-service-plan-would-sack-more-planning-officers-than-exist",
-      "published_date": "2026-05-26T19:00:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Warning issued as police investigation into Post Office Horizon scandal could face five-year delay",
+      "title": "Met Police officer moves three hours away – then sues for discrimination after being denied right to work from home",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/post-office-horizon-scandal-delay-stephen-clayman-funding-b2983704.html",
-      "published_date": "2026-05-26T19:00:05+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/met-police-jobs-discrimination-paul-heard-b2984307.html",
+      "published_date": "2026-05-27T10:26:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Woman shot dead outside Sheffield bar was innocent bystander, police say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/26/woman-shot-dead-outside-sheffield-bar-was-innocent-bystander-police-say",
-      "published_date": "2026-05-26T18:57:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK’s Makerfield candidate appeared to doubt seriousness of Covid on X",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/26/reform-makerfield-byelection-candidate-covid-x",
-      "published_date": "2026-05-26T18:08:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salem witch trials help explain why Faithfuls fail to spot real Traitors, says David Olusoga",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/26/salem-witch-trials-help-explain-why-faithfuls-fail-to-spot-real-traitors-says-david-olusoga",
-      "published_date": "2026-05-26T18:06:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family pay tribute to woman found dead in suspected murder",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/family-pay-tribute-to-woman-found-dead-in-suspected-murder-13548263",
-      "published_date": "2026-05-26T17:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester University to offer work placements to all undergraduates",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/26/manchester-university-to-offer-work-placements-to-all-undergraduates",
-      "published_date": "2026-05-26T17:25:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour set to announce crackdown on social media for children within weeks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/26/labour-crackdown-social-media-children",
-      "published_date": "2026-05-26T16:58:27+00:00",
+      "title": "Sturgeon defends 'no comment' police interview after SNP funds probe arrest",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2kww2jzpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-27T10:15:14+00:00",
       "category": "Local Events"
     }
   ]
