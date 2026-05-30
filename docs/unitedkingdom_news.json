@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-30T00:02:54.621362+00:00",
+  "last_updated": "2026-05-30T12:05:42.398035+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Britons travelling home via EU airports ‘should allow three hours’ before flights",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/may/30/britons-travelling-home-via-eu-airports-should-allow-three-hours-before-flights-eu-ees",
+      "published_date": "2026-05-30T09:17:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Arrive three hours early for flights to beat post-Brexit visa queues, Britons warned",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/wizz-air-boss-flights-warning-entry-exit-system-brexit-b2986378.html",
+      "published_date": "2026-05-30T09:10:52+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Dartford warbler stages a comeback 60 years after almost vanishing",
       "source": "The Guardian",
@@ -127,20 +141,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/may/27/peter-mandelson-questions-vetting-clearance-mitigations",
       "published_date": "2026-05-27T13:35:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Swap paddling pools for water blasters to keep cool in heatwave, Britons urged",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/paddling-pool-heatwave-water-supply-b2984446.html",
-      "published_date": "2026-05-27T13:27:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Backrooms review – Kane Parsons’ icily disturbing horror rewrites the genre rulebook",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/may/27/backrooms-review-kane-parsons-icily-disturbing-horror-rewrites-the-genre-rulebook",
-      "published_date": "2026-05-27T11:14:44+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "On-street EV charging in UK is postcode lottery as drivers face council objections",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/30/on-street-ev-charging-uk-postcode-lottery-council-objections-gullies-safety-legal-parking",
+      "published_date": "2026-05-30T07:00:12+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Poor sleep linked to rising cancer risk in under-50s",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/society/2026/may/30/poor-sleep-linked-rising-cancer-risk-under-50s",
@@ -417,11 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "To reverse the ‘greenlash’, Europe’s Green parties should embrace Polanski’s boldness | Tarik Abou-Chadi",
+      "title": "Victims of sexual abuse forced to ‘suck it up’ for sake of child perpetrators, warns Jess Phillips",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/28/greenlash-green-parties-europe-uk-zack-polanski",
-      "published_date": "2026-05-28T04:00:56+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/society/2026/may/30/sexual-abuse-victims-children-jess-phillips-sentencing-guidelines",
+      "published_date": "2026-05-30T11:37:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ex-England footballer Raheem Sterling arrested on suspicion of drug driving after crashing Lamborghini",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/raheem-sterling-arrested-drug-driving-lamborghini-b2986413.html",
+      "published_date": "2026-05-30T11:19:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ex-England star Raheem Sterling arrested on suspicion of drug driving",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/ex-england-star-raheem-sterling-arrested-on-suspicion-of-drug-driving-sky-news-understands-13549226",
+      "published_date": "2026-05-30T09:08:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘That’s why we work in finance – so one day we can afford air-con’: Britain’s unequal heatwave",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/30/britain-heatwave-unequal-air-con-london",
+      "published_date": "2026-05-30T09:00:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gluten-free basics ‘now a luxury’ as price of a small branded loaf nears £4",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/30/gluten-free-basics-luxury-bread-prices-coeliac-diseasae",
+      "published_date": "2026-05-30T06:00:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How a borough in Merseyside is bucking the UK's youth unemployment trend",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6p9yyg64vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T00:50:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "Universal rejects billionaire Bill Ackman's takeover bid",
@@ -522,185 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "We know what former SNP chief Peter Murrell bought with £400,000 of embezzled funds. What I’d like to know is why | Gaby Hinsliff",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/snp-chief-peter-murrell-embezzled-funds-guilty",
-      "published_date": "2026-05-29T05:00:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘It feels unfair’: the Britons struggling to get a mortgage since Iran war began",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/may/29/britons-struggling-mortgage-since-iran-war-began",
-      "published_date": "2026-05-29T05:00:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "If you’re serious about growth – you need to be serious about women",
+      "title": "Trains resume after major travel disruption to and from Heathrow airport due to burst pipe",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/trinny-woodall-women-powered-business-uk-growth-b2985413.html",
-      "published_date": "2026-05-29T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "When trade soured, this American liquor maker moved to Canada",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-28T23:29:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘I was groomed and abused by a taxi driver. Why was it so hard to get justice?’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/victim-support-criminal-justice-system-b2985225.html",
-      "published_date": "2026-05-28T23:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sturgeon says she was ‘deceived, misled and betrayed’ by ex-husband Murrell",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/28/sturgeon-says-she-was-deceived-misled-and-betrayed-by-ex-husband-murrell",
-      "published_date": "2026-05-28T20:54:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Heatwave brings traffic chaos and litter 'horror'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8r8nyyj2ejo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-29T21:10:17+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/heathrow-airport-trains-elizabeth-line-burst-pipe-b2986407.html",
+      "published_date": "2026-05-30T12:02:41+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Mother of Archie Battersbee jailed for driving motorist off road",
+      "title": "Liverpool sack head coach Slot",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T11:30:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No trains running to and from Heathrow Airport",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crrpvrgje21o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T11:08:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Maybe it’s because we love the sesh’: how Wales is bucking Britain’s pub-closing trend",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/30/wales-is-bucking-pub-closing-trend",
+      "published_date": "2026-05-30T11:00:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rise in youth unemployment driving more to homelessness, UK charities say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/may/30/young-people-neets-jobs-housing-crisis-homelessness",
+      "published_date": "2026-05-30T10:52:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One in three voters saw deepfakes of politicians ahead of local elections, poll shows",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/elections-ai-deepfakes-politics-b2986017.html",
+      "published_date": "2026-05-30T10:25:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham as prime minister would be beaten by Farage at general election, poll shows",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-nigel-farage-labour-general-election-polling-b2986385.html",
+      "published_date": "2026-05-30T10:24:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teenager charged with murder after boy, 15, dies in London stabbing",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/murder-charge-hackney-stabbing-brayan-saldarriaga-b2986379.html",
+      "published_date": "2026-05-30T10:22:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chinese dissident says he was berated by ‘pro-regime’ interpreter for UK police",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/30/chinese-dissident-says-he-was-berated-by-pro-regime-interpreter-for-uk-police",
+      "published_date": "2026-05-30T09:00:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministers urge City of London to act over swimmers in Hampstead Heath wildlife ponds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/30/ministers-urge-city-of-london-to-act-over-swimmers-in-hampstead-heath-wildlife-ponds",
+      "published_date": "2026-05-30T09:00:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voices: ‘Nobody would have believed me’: Furious readers on why rape trials keep failing women",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/life-style/women/rape-trials-sentence-teenagers-rapists-b2985938.html",
+      "published_date": "2026-05-30T08:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Andy Burnham Labour’s version of Boris Johnson?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-boris-johnson-labour-makerfield-b2985905.html",
+      "published_date": "2026-05-30T07:57:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 79 UK victims linked to online poison seller Kenneth Law",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/kenneth-law-uk-victims-suicide-b2986359.html",
+      "published_date": "2026-05-30T07:42:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thames Water asks millions to stop using hosepipes to save water during heatwave",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/hosepipe-thames-water-heatwave-london-b2986363.html",
+      "published_date": "2026-05-30T07:33:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teenager charged with murder after 15-year-old boy fatally stabbed in London",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/mother-of-archie-battersbee-jailed-for-driving-motorist-off-road-13549161",
-      "published_date": "2026-05-29T19:00:00+00:00",
+      "url": "https://news.sky.com/story/teenager-charged-with-murder-after-15-year-old-boy-fatally-stabbed-in-london-13549211",
+      "published_date": "2026-05-30T07:18:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Drones, 500 officers and Tube closures: Inside one of the Met’s largest policing operations for Arsenal trophy parade",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/arsenal-trophy-parade-football-met-police-operation-b2986118.html",
-      "published_date": "2026-05-29T18:50:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nicola Sturgeon: ‘I should not be held responsible for the wrongdoing of men’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/29/nicola-sturgeon-i-should-not-be-held-responsible-for-the-wrongdoing-of-men",
-      "published_date": "2026-05-29T18:41:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greek man appears in court charged with spying on Iranian journalist in London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/29/greek-man-ioannis-aidinidis-court-charged-spying-iranian-journalist-london",
-      "published_date": "2026-05-29T18:32:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour reports Farage's alleged Russian phone hack to police",
+      "title": "Man wrongly Tasered by police gets £30k payout",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj9pdy1x2plo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-29T17:02:02+00:00",
+      "url": "https://www.bbc.com/news/articles/cy9gnl33y7zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T07:17:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Jeffrey Donaldson’s letter to alleged victim had ‘nothing to do’ with abuse claims, trial hears",
+      "title": "Manchester cafe owner says police tried to recruit him to spy on Palestine Action",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/29/jeffrey-donaldson-trial-newry-crown-court-day-four",
-      "published_date": "2026-05-29T17:01:55+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/may/30/manchester-police-tried-recruit-spy-palestine-action",
+      "published_date": "2026-05-30T07:00:12+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Junior doctor told NHS she was on training day – but got married instead",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-doctor-wedding-preethi-suresh-b2985858.html",
-      "published_date": "2026-05-29T16:52:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tony Blair says he is all about the future – but his vision is woefully stuck in the past | Jonathan Freedland",
+      "title": "Resident group’s objections to bar and restaurant licences ‘destroying Soho’s reputation’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/may/29/tony-blair-says-he-is-all-about-the-future-but-his-vision-is-woefully-stuck-in-the-past",
-      "published_date": "2026-05-29T16:46:53+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/may/30/bar-restaurant-licence-challenges-destroying-soho-reputation",
+      "published_date": "2026-05-30T06:00:12+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Nationwide customer seeking election to board hits out at lender for ‘unfair’ treatment",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/29/nationwide-customer-seeking-election-board-slams-lender-unfair-treatment",
-      "published_date": "2026-05-29T15:10:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stalker jailed for murdering ex-girlfriend",
+      "title": "Rise in rural crime costs a 'serious wake-up call' for farmers - union",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c93x4d0p30vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-29T14:24:25+00:00",
+      "url": "https://www.bbc.com/news/articles/cx213j58p82o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T05:13:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "London tube strikes to go ahead on Tuesday and Thursday, RMT says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/29/london-tube-strikes-to-go-ahead-tuesday-thursday-rmt",
-      "published_date": "2026-05-29T14:07:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Yorkers irritated by proliferation of London members’ clubs on their doorsteps",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/29/new-york-upper-east-side-london-members-clubs",
-      "published_date": "2026-05-29T14:04:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour reports alleged Farage hack to security officials after Reform leader fails to",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/29/labour-inquiry-nigel-farage-russia-phone-hack-donation-reform-uk",
-      "published_date": "2026-05-29T13:46:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man remanded in custody on Sheffield bystander murder charge",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/29/man-woman-charged-sheffield-bar-bystander-shooting-shanice-brookes",
-      "published_date": "2026-05-29T13:27:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder accused fails to appear in court",
+      "title": "Tickets for festivals are getting more expensive - we compared them",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0j2lddl4j4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-29T13:27:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, woman and child dead after falling from high-rise London tower block",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/elephant-and-castle-tower-block-fall-london-b2985954.html",
-      "published_date": "2026-05-29T13:09:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two adults and a child die after fall from London high-rise building",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/29/two-adults-child-die-fall-high-rise-flats-elephant-and-castle-london",
-      "published_date": "2026-05-29T13:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asda reveals sales recovery as it strikes partnership deal with Ocado",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/asda-ocado-tim-steiner-b2985966.html",
-      "published_date": "2026-05-29T13:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No second retrial for men accused of airport brawl",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd0px74kznxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-29T12:50:09+00:00",
+      "url": "https://www.bbc.com/news/articles/cj9pgmw3yz2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T01:26:52+00:00",
       "category": "Local Events"
     }
   ]
