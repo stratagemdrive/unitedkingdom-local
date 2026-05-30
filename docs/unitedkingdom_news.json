@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-05-30T12:05:42.398035+00:00",
+  "last_updated": "2026-05-30T23:52:16.695126+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "UK special relationship with US ‘meaningless’ unless it boosts defence, Hegseth warns",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/pete-hegseth-uk-defence-spending-trump-b2986425.html",
+      "published_date": "2026-05-30T15:06:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, UK and Australia to develop underwater drones through defence pact",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/aukus-nations-to-develop-underwater-drones-through-defence-pact-13549241",
+      "published_date": "2026-05-30T14:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T12:16:26+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Man accused of using hidden camera to spy on UK-based Iranian journalist",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c5yx6lyr53wo?at_medium=RSS&at_campaign=rss",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "GCHQ unveils new world-first AI cyber defence system to fend off Russian threat",
+      "title": "British Museum evacuated after ‘suspicious device’ discovered in toilet",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/gchq-ai-defence-russia-putin-b2984936.html",
-      "published_date": "2026-05-28T06:53:42+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/british-museum-london-evacuated-police-london-b2986541.html",
+      "published_date": "2026-05-30T21:23:41+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Almost 500,000 Russian soldiers have been killed in Putin’s war on Ukraine, says GCHQ",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/europe/russia-soldiers-killed-ukraine-war-casualties-gchq-b2984889.html",
-      "published_date": "2026-05-28T05:13:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+      "title": "Evacuated residents will not return until 'at least Thursday'",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-28T02:47:19+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/c4g4vz51pnlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T16:53:29+00:00",
+      "category": "Energy"
     },
     {
       "title": "On-street EV charging in UK is postcode lottery as drivers face council objections",
@@ -410,18 +424,67 @@
       "category": "Energy"
     },
     {
-      "title": "Rechalking beloved Cerne Giant is a sticky process – and climate crisis is making it worse",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/28/rechalking-cerne-giant-dorset-national-trust-climate-emergency",
-      "published_date": "2026-05-28T04:00:56+00:00",
-      "category": "Energy"
+      "title": "Starmer hires ex-M&S chief to tackle youth unemployment crisis",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/unemployment-neet-marc-bolland-m-and-s-milburn-b2986479.html",
+      "published_date": "2026-05-30T21:37:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Loss of manual jobs could be driving toxic masculinity, says Sting",
+      "title": "Ex-M&S chief to help government tackle youth unemployment",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg5p9y25qj1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T21:30:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Former M&S chief appointed to tackle UK youth unemployment crisis",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/may/28/loss-of-manual-jobs-could-be-driving-toxic-masculinity-says-sting",
-      "published_date": "2026-05-28T04:00:56+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/society/2026/may/30/former-ms-chief-appointed-to-tackle-uk-youth-unemployment-crisis",
+      "published_date": "2026-05-30T21:30:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Green leaders warn party it must listen to Reform voters’ concerns to confront inequality",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/30/green-leaders-warn-party-it-must-listen-to-reform-voters-concerns-to-tackle-inequality",
+      "published_date": "2026-05-30T18:20:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Buckingham Palace was given Andrew Mountbatten-Windsor trade envoy emails six years ago",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/buckingham-palace-andrew-mountbatten-windsor-trade-envoy-emails-b2986424.html",
+      "published_date": "2026-05-30T17:47:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sterling arrested on suspicion of drug-driving",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c1l212ez1m0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T16:25:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sajid Javid says backing Liz Truss to lead Tories was his ‘biggest political mistake’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/30/sajid-javid-says-backing-liz-truss-to-lead-tories-was-his-biggest-political-mistake",
+      "published_date": "2026-05-30T14:03:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Future of first Bramley apple tree in doubt as cottage where it stands is sold",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/30/first-bramley-apple-tree-cottage-sold-nottingham-southwell",
+      "published_date": "2026-05-30T13:15:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Smoky, rich and umami-filled’: the best supermarket veggie burgers, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/may/30/best-supermarket-veggie-burgers-tasted-rated",
+      "published_date": "2026-05-30T12:00:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Victims of sexual abuse forced to ‘suck it up’ for sake of child perpetrators, warns Jess Phillips",
@@ -501,73 +564,94 @@
       "category": "Economy"
     },
     {
-      "title": "Labour faces union backlash after minister suggests living wage will not be extended to over-18s before election – UK politics live",
+      "title": "Britain's onboard train wi-fi is one of Europe's worst. This is how people manage",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn8pn4l03r7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T23:02:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drones, 500 officers and Tube closures: Inside one of the Met’s largest policing operations for Arsenal trophy parade",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/arsenal-trophy-parade-football-met-police-operation-b2986118.html",
+      "published_date": "2026-05-30T21:48:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family pays tribute to girl, 15, who died after swimming at Merseyside beach",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates",
-      "published_date": "2026-05-29T14:04:00+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/may/30/family-pays-tribute-chiedza-nyanjowa-15-died-swimming-merseyside-beach",
+      "published_date": "2026-05-30T20:56:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Asda strikes deal to use Ocado software for home deliveries from next year",
+      "title": "Police find hundreds of cannabis plants worth &#163;174,000 in raid",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/police-find-290-cannabis-plants-worth-163174000-in-glasgow-raid-13549397",
+      "published_date": "2026-05-30T19:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder investigation launched after woman in her 80s found dead",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/murder-investigation-launched-after-woman-in-her-80s-found-dead-in-cornwall-13549336",
+      "published_date": "2026-05-30T16:40:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man becomes first in world to complete 1,000 parkruns",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpvpenlv21vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T16:16:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Raheem Sterling made to feel ‘worthless’, says close source amid player’s arrest",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/29/ocado-to-take-over-all-asda-home-deliveries-from-next-year",
-      "published_date": "2026-05-29T13:01:34+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/football/2026/may/30/raheem-sterling-suffered-immeasurable-psychological-strain-close-source-says",
+      "published_date": "2026-05-30T15:57:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Scottish business confidence rose in May, figures show",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/scottish-lloyds-bank-bank-of-scotland-west-midlands-northern-ireland-b2985967.html",
-      "published_date": "2026-05-29T12:58:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank of England’s Bailey says no rush to raise interest rates amid Iran war uncertainty",
+      "title": "Ian McKellen joins march for LGBTQ+ equality in Commonwealth countries",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/may/29/bank-of-england-bailey-says-no-rush-to-raise-interest-rates-amid-iran-war-uncertainty",
-      "published_date": "2026-05-29T12:49:20+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/culture/2026/may/30/ian-mckellen-march-lgbtq-equality-commonwealth-countries",
+      "published_date": "2026-05-30T14:58:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "She criticizes capitalism - and also gives investing advice: ‘It’s better to participate than working until we die’",
+      "title": "Almost 100 homes evacuated in former mining village after ground movement detected",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/almost-100-homes-evacuated-in-former-mining-village-after-ground-movement-detected-13549253",
+      "published_date": "2026-05-30T14:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What’s gone wrong at Everyman and can the luxury cinema chain regain its magic?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/29/how-to-build-wealth",
-      "published_date": "2026-05-29T12:00:50+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/business/2026/may/30/everyman-luxury-cinema-whats-gone-wrong-regain-magic",
+      "published_date": "2026-05-30T13:00:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Royal Mail misses annual delivery targets but hails progress amid £500m plan",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/royal-mail-ofcom-communication-workers-union-b2985926.html",
-      "published_date": "2026-05-29T11:47:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK house sales surge as experts warn of stamp duty market distortion",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/uk-home-sales-hmrc-stamp-duty-b2985872.html",
-      "published_date": "2026-05-29T10:56:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank of England can tolerate inflation above 2% target, says Bailey",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/bank-of-england-reykjavik-iceland-government-city-of-london-b2985896.html",
-      "published_date": "2026-05-29T10:52:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK supermarket giant teams up with Ocado to overhaul home deliveries",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/asda-ocado-delivery-stores-allan-leighton-b2985728.html",
-      "published_date": "2026-05-29T07:24:44+00:00",
-      "category": "Economy"
+      "title": "Trial of multi-cancer blood test among 142,000 NHS patients fails to meet main aim",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/may/30/trial-of-multi-cancer-blood-test-among-142000-nhs-patients-fails-to-meet-main-aim",
+      "published_date": "2026-05-30T12:16:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trains resume after major travel disruption to and from Heathrow airport due to burst pipe",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/heathrow-airport-trains-elizabeth-line-burst-pipe-b2986407.html",
       "published_date": "2026-05-30T12:02:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police mount investigation after rare miniature horses stolen",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/police-mount-investigation-after-rare-miniature-horses-stolen-13549277",
+      "published_date": "2026-05-30T11:56:00+00:00",
       "category": "Local Events"
     },
     {
@@ -617,90 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/crime/murder-charge-hackney-stabbing-brayan-saldarriaga-b2986379.html",
       "published_date": "2026-05-30T10:22:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chinese dissident says he was berated by ‘pro-regime’ interpreter for UK police",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/30/chinese-dissident-says-he-was-berated-by-pro-regime-interpreter-for-uk-police",
-      "published_date": "2026-05-30T09:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ministers urge City of London to act over swimmers in Hampstead Heath wildlife ponds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/may/30/ministers-urge-city-of-london-to-act-over-swimmers-in-hampstead-heath-wildlife-ponds",
-      "published_date": "2026-05-30T09:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices: ‘Nobody would have believed me’: Furious readers on why rape trials keep failing women",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/life-style/women/rape-trials-sentence-teenagers-rapists-b2985938.html",
-      "published_date": "2026-05-30T08:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Andy Burnham Labour’s version of Boris Johnson?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-boris-johnson-labour-makerfield-b2985905.html",
-      "published_date": "2026-05-30T07:57:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The 79 UK victims linked to online poison seller Kenneth Law",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/kenneth-law-uk-victims-suicide-b2986359.html",
-      "published_date": "2026-05-30T07:42:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thames Water asks millions to stop using hosepipes to save water during heatwave",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/hosepipe-thames-water-heatwave-london-b2986363.html",
-      "published_date": "2026-05-30T07:33:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager charged with murder after 15-year-old boy fatally stabbed in London",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/teenager-charged-with-murder-after-15-year-old-boy-fatally-stabbed-in-london-13549211",
-      "published_date": "2026-05-30T07:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man wrongly Tasered by police gets £30k payout",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy9gnl33y7zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-30T07:17:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester cafe owner says police tried to recruit him to spy on Palestine Action",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/30/manchester-police-tried-recruit-spy-palestine-action",
-      "published_date": "2026-05-30T07:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resident group’s objections to bar and restaurant licences ‘destroying Soho’s reputation’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/may/30/bar-restaurant-licence-challenges-destroying-soho-reputation",
-      "published_date": "2026-05-30T06:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rise in rural crime costs a 'serious wake-up call' for farmers - union",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx213j58p82o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-30T05:13:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tickets for festivals are getting more expensive - we compared them",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj9pgmw3yz2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-30T01:26:52+00:00",
       "category": "Local Events"
     }
   ]
