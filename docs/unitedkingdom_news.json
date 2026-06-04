@@ -1,8 +1,36 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-04T13:58:16.423446+00:00",
+  "last_updated": "2026-06-04T23:59:44.036156+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Burnham confirms he will run to replace Starmer as Prime Minister if he wins Makerfield by-election",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-starmer-labour-reform-kenyon-pm-b2990095.html",
+      "published_date": "2026-06-04T22:33:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "15,000 sign petition demanding review into A-Level Maths exam over claims it was harder than previous papers",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/a-level-maths-exam-petition-pearson-edexcel-ofqual-b2990002.html",
+      "published_date": "2026-06-04T19:19:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Voices: ‘We are so polarised post-Brexit’: Readers on rebuilding Britain’s future in Europe",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/europe-the-way-back-brexit-eu-b2989639.html",
+      "published_date": "2026-06-04T15:11:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Labour row breaks out as prime minister's top aide meets female MPs over Mandelson messages",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/labour-row-breaks-out-as-prime-ministers-top-aide-meets-female-mps-over-mandelson-messages-13550795",
+      "published_date": "2026-06-04T15:08:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Darren Jones told Mandelson he was ‘so sorry’ after sacking over Epstein ties",
       "source": "The Independent",
@@ -74,6 +102,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Brothers jailed after teenage boy run down and killed",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/driver-who-used-car-as-weapon-to-murder-innocent-teenage-boy-jailed-13550413",
+      "published_date": "2026-06-03T11:37:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Starmer defends using vanishing WhatsApp messages after Mandelson files revelation",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-whatsapp-messages-mandelson-files-b2988199.html",
-      "published_date": "2026-06-02T16:49:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What’s missing from ‘embarrassing’ Mandelson files? – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jun/02/whats-missing-from-embarrassing-mandelson-files-the-latest",
-      "published_date": "2026-06-02T16:33:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Streeting says raising concerns over Gaza in government like ‘hitting up against a brick wall’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/02/wes-streeting-gaza-concerns-government-hitting-brick-wall",
-      "published_date": "2026-06-02T15:48:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘We’re not making it up’: UK political chaos is not media’s fault, say journalists",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/jun/02/uk-political-chaos-not-medias-fault-say-journalists",
-      "published_date": "2026-06-02T14:00:25+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Five questions left unanswered by the Mandelson files",
+      "title": "Conflict over identity politics could lead to civil war in long term, says Badenoch",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4p9pv13kdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-02T12:50:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/ce9pll8943no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T21:48:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "<a href=\"https://news.sky.com/story/politics-latest-keir-starmer-peter-mandelson-files-defence-investment-kemi-badenoch-12593360?postid=11813061#liveblog-body\">Andy Burnham says for the first time that he would join Labour leadership contest</a>",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/andy-burnham-says-for-the-first-time-that-he-would-join-labour-leadership-contest-13550949",
+      "published_date": "2026-06-04T21:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Devon helicopter crash: Three Royal Navy service members who died in training exercise named",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/helicopter-crash-royal-navy-lily-mae-fisher-chris-grayson-owen-green-b2989877.html",
+      "published_date": "2026-06-04T20:00:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Royal Navy crew killed in helicopter crash named",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg4p69gzd4po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T18:01:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Britain’s only female naval commando among victims of Devon helicopter crash",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/04/britain-only-female-naval-commando-victims-devon-helicopter-crash",
+      "published_date": "2026-06-04T17:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Royal Navy personnel who died in helicopter crash in Devon named",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/three-royal-navy-members-who-died-in-helicopter-crash-in-devon-named-13550822",
+      "published_date": "2026-06-04T16:07:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Royal Navy helicopter crash investigations continue",
@@ -239,48 +281,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/jun/03/kemi-badenoch-improving-conservative-leader",
       "published_date": "2026-06-03T16:16:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three members of Royal Navy killed in Devon helicopter crash",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/devon-helicopter-crash-royal-navy-sourton-down-b2988771.html",
-      "published_date": "2026-06-03T15:00:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three dead in Royal Navy helicopter crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T14:17:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three Royal Navy members killed in Devon helicopter crash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/03/royal-navy-helicopter-crash-devon",
-      "published_date": "2026-06-03T13:35:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British soldier who died in Iraq training accident is named",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/british-soldier-death-iraq-training-james-freeman-b2988677.html",
-      "published_date": "2026-06-03T12:16:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British soldier killed in Iraq training exercise was 'devoted family man'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c232jg2pz2po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T11:55:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British soldier killed in training accident in Iraq named",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/british-soldier-killed-in-training-accident-in-iraq-named-as-lance-corporal-james-stewart-freeman-13550408",
-      "published_date": "2026-06-03T11:19:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,62 @@
       "category": "Energy"
     },
     {
+      "title": "Kombucha company and e-bike firm Volt named among UK’s top small businesses",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/uk-businesses-sme-awards-hsbc-volt-hip-pop-b2989753.html",
+      "published_date": "2026-06-04T23:10:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T23:05:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "I've got epilepsy and I've been rejected from 300 jobs in a year",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c145m2km24xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T21:54:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘It is unsustainable’: Reform’s billionaire donors inspire panic in Westminster",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/04/it-is-unsustainable-reforms-billionaire-donors-inspire-panic-in-westminster",
+      "published_date": "2026-06-04T18:19:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business secretary attacks ‘entitlement’ of Starmer leadership rivals",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/04/business-secretary-attacks-entitlement-of-starmer-leadership-rivals",
+      "published_date": "2026-06-04T17:40:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "HMRC issues warning to TikTok users as two arrested over suspected £153m tax scam",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/tiktok-hmrc-tax-fraud-scam-b2989914.html",
+      "published_date": "2026-06-04T17:11:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FTSE 100 up despite Asia-focused financials falls",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/aim-asia-aj-bell-london-lebanon-b2989879.html",
+      "published_date": "2026-06-04T16:18:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why are US consumers so angry? It’s not just high prices",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
+      "published_date": "2026-06-04T11:00:05+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Major business group accuses Labour of sending firms to ‘tipping point’ after taking billions extra in tax",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/labour-rachel-reeves-cbi-profits-tax-b2989307.html",
@@ -466,6 +522,13 @@
       "category": "Economy"
     },
     {
+      "title": "Why is government spending £1.3bn on Universal UK?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1e2wdzn751o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T04:00:23+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "SpaceX stock market debut set to make Elon Musk a trillionaire",
       "source": "Sky News",
       "url": "https://news.sky.com/story/spacex-stock-market-debut-set-to-make-elon-musk-a-trillionaire-13550607",
@@ -501,206 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Government does not rule out further aid cuts in letter to parliamentary committee",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/labour-uk-aid-cuts-parliament-yvette-cooper-b2988976.html",
-      "published_date": "2026-06-03T16:50:11+00:00",
-      "category": "Economy"
+      "title": "One in four births in England is now emergency caesarean, BBC analysis shows",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqxpxjrqd1po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T23:41:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Experts warn of ‘potentially harmful’ beauty products sold on major online marketplaces",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/harmful-beauty-products-china-online-b2988989.html",
-      "published_date": "2026-06-03T16:41:42+00:00",
-      "category": "Economy"
+      "title": "Burnham says he would seek to enter any Labour leadership contest",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T23:26:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "City & Guilds faces legal and industrial action over plans to cut hundreds of jobs",
+      "title": "Trump administration weighs in on Henry Nowak murder with call to ‘end two-tier policing’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/henry-nowak-murder-trump-administration-two-tier-policing-b2990102.html",
+      "published_date": "2026-06-04T23:20:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘My murdered daughter’s bedroom has laid untouched since she vanished 30 years ago’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/melanie-hall-police-search-appeal-bath-b2989669.html",
+      "published_date": "2026-06-04T23:07:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Major high street bank rolls out defibrillators and bleed control kits across 605 branches",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/health/nationwide-bank-defibrillators-bleed-control-kits-b2989802.html",
+      "published_date": "2026-06-04T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dumped animal carcasses in rivers 'shameful' say litter pickers",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crkpkm55yj4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T23:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Betfair ‘failed to adequately protect’ gambler who took own life after losing thousands, court told",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/betfair-luke-ashton-gambling-high-court-b2989936.html",
+      "published_date": "2026-06-04T22:17:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I wouldn’t flinch’: Burnham on social care, markets, Brexit – and the prospect of a general election",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/03/city-guilds-faces-legal-and-industrial-action-over-plans-to-cut-hundreds-of-jobs",
-      "published_date": "2026-06-03T16:17:24+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/2026/jun/04/i-wouldnt-flinch-burnham-on-social-care-markets-brexit-and-the-prospect-of-a-general-election",
+      "published_date": "2026-06-04T21:25:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Nissan maps out deal to build cars for Chery at its Sunderland plant",
+      "title": "Labour failing to learn from Tories over leadership change calls, says Kyle",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz626j5qlpdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T20:28:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder investigation after boy dies following Saturday stabbing",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/murder-investigation-after-boy-dies-following-saturday-stabbing-13550921",
+      "published_date": "2026-06-04T20:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kate hugs mum ringing 'end of cancer treatment' bell",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq5p52l2xjjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T19:37:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man shot with crossbow on university campus",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/crossbow-man-shot-surrey-university-police-b2989832.html",
+      "published_date": "2026-06-04T19:34:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Henry Nowak: How misinformation sent two people into hiding",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cg4p4lr9v35o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T19:24:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hampstead Heath ponds to remain trans-inclusive after public back existing rules",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/03/nissan-chery-car-building-deal-sunderland-factory",
-      "published_date": "2026-06-03T15:10:24+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/jun/04/hampstead-heath-ponds-trans-inclusive-public-consultation",
+      "published_date": "2026-06-04T19:05:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Councillor told to rearrange cancer appointment to attend a budget meeting quits Labour",
+      "title": "Tube strike usage higher than Tuesday, TfL says",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21zknz67vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T14:32:12+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/c7595wl2eq3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T18:58:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK government to pay £1.3bn to help fund Universal Studios theme park in Bedfordshire",
+      "title": "Family of girl left brain-damaged at birth accept £28m NHS payout",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/03/uk-government-help-fund-universal-studios-theme-park-bedfordshire",
-      "published_date": "2026-06-03T14:04:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Turnaround plan drives Debenhams back to growth",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/pretty-little-thing-inditex-spanish-iran-zara-b2988725.html",
-      "published_date": "2026-06-03T11:59:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Barclays to give around 20,000 UK staff a 5.35% pay rise",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/unite-barclays-barclays-uk-b2988716.html",
-      "published_date": "2026-06-03T11:47:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK economy to grow 0.9% this year but outlook cut for 2027 – OECD",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/oecd-iran-gdp-chancellor-of-the-exchequer-middle-east-b2988499.html",
-      "published_date": "2026-06-03T10:46:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Starmer accuses Musk of trying to whip up division over Henry Nowak murder",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1e2ww900zno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T13:54:10+00:00",
+      "url": "https://www.theguardian.com/society/2026/jun/04/girl-brain-damaged-at-birth-28m-nhs-payout-romford",
+      "published_date": "2026-06-04T18:38:38+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Stormzy fined after police catch him using phone while driving £400,000 Ferrari",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/stormzy-fined-using-phone-driving-ferrari-b2989676.html",
-      "published_date": "2026-06-04T13:36:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Henry Nowak’s family say UK needs to rebuild trust in police after son’s murder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/henry-nowak-starmer-badenoch-police-murder-b2989581.html",
-      "published_date": "2026-06-04T13:27:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man admits violent disorder at Henry Nowak protest",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz2xq7ykvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T13:19:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer accuses Musk of trying to ‘whip up division’ in UK over Henry Nowak murder",
+      "title": "Reform’s Andrea Jenkyns storms out of meeting after discussion of Henry Nowak murder",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/04/keir-starmer-elon-musk-division-henry-nowak",
-      "published_date": "2026-06-04T13:17:12+00:00",
+      "url": "https://www.theguardian.com/politics/2026/jun/04/reform-andrea-jenkyns-storms-out-of-meeting-henry-nowak",
+      "published_date": "2026-06-04T18:31:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Southampton man admits violent disorder and dog lead weapon charges after Henry Nowak protest",
+      "title": "Murder investigation launched after boy dies in hospital following London stabbing",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/henry-nowak-southampton-protest-daniel-frost-b2989634.html",
-      "published_date": "2026-06-04T13:06:41+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/jamal-ringrose-stabbing-dollis-hill-london-b2989957.html",
+      "published_date": "2026-06-04T18:02:32+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Vickrum Digwa 999 call in full as he lies to police about racial attack from Henry Nowak",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/henry-nowak-999-call-vickrum-digwa-b2988887.html",
-      "published_date": "2026-06-04T13:06:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boom Box documentary casts spotlight on unethical tactics of undercover policing",
+      "title": "The Guardian view on NHS records: patients are not raw material for big tech | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/04/boom-box-documentary-unethical-tactics-undercover-policing",
-      "published_date": "2026-06-04T12:49:46+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/04/the-guardian-view-on-nhs-records-patients-are-not-raw-material-for-big-tech",
+      "published_date": "2026-06-04T17:54:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Nine children sent to hospital after eating seeds",
+      "title": "Jones praised Mandelson for 'great job' after sacking",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq6pe074r9po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T12:41:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Apocalyptic' Tata Steel fire sees 'substantial' damage to production line",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy826zjxdgvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T12:27:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amazon expands ultra-fast deliveries in UK and adds same-day fruit and veg",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jun/04/amazon-uk-ultra-fast-deliveries-same-day-fruit-veg",
-      "published_date": "2026-06-04T12:24:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England’s poorest areas face deepest cuts to green space under planning law changes, report finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/04/englands-poorest-communities-face-deepest-cuts-green-space-planning-law-changes-report-warns",
-      "published_date": "2026-06-04T12:22:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man in court charged with attempted murder of police officer",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98r7851p00o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T12:06:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Morally unreasonable’ to tackle childhood obesity with weight loss jabs, Chris Whitty says",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/health/chris-whitty-obesity-weight-loss-jabs-b2989578.html",
-      "published_date": "2026-06-04T12:00:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer to meet family of murdered student Henry Nowak after hitting out at Musk amid political row",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/henry-nowak-family-starmer-downing-street-musk-b2989557.html",
-      "published_date": "2026-06-04T11:54:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "By-election win-win for me, Reform candidate says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce3p963rgn9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T11:50:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Henry Nowak protests: ‘Rioters smashed cars as our kids slept upstairs – we were terrified’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/henry-nowak-southampton-riots-protests-disorder-b2989273.html",
-      "published_date": "2026-06-04T11:44:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager given life sentence for knife murder while on bail for slashing",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjepq5qej50o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T11:33:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keir Starmer hits out at Elon Musk for ‘trying to whip up division’ in UK over Henry Nowak’s murder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-elon-musk-henry-nowak-murder-uk-b2989455.html",
-      "published_date": "2026-06-04T11:30:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Henry Nowak’s inquest to probe whether police response to his stabbing contributed to his death",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/henry-nowak-murder-death-inquest-southampton-b2989504.html",
-      "published_date": "2026-06-04T11:18:49+00:00",
+      "url": "https://www.bbc.com/news/articles/c1w2rvn8nqyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T17:49:11+00:00",
       "category": "Local Events"
     }
   ]
