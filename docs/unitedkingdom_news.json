@@ -1,8 +1,43 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-03T15:28:14.116174+00:00",
+  "last_updated": "2026-06-04T00:25:16.019650+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Briton jailed in India after his wedding asks Foreign Secretary to help secure release",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/jagtar-singh-johal-india-prison-yvette-cooper-b2989107.html",
+      "published_date": "2026-06-03T21:30:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit book reveals explosive secrets behind UK decision to leave the EU",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-europe-book-b2988868.html",
+      "published_date": "2026-06-03T18:50:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MPs raise doubts over missing Mandelson vetting documents",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/03/mps-raise-doubts-over-missing-mandelson-vetting-documents",
+      "published_date": "2026-06-03T18:35:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU pushes through migration overhaul with more deportations and detention centres abroad",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/europe/eu-migration-law-changes-trump-b2988763.html",
+      "published_date": "2026-06-03T18:03:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Henry Nowak was failed in the last moments of his life – and then again by Britain’s disgraceful political class | Jason Okundaye",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/03/henry-nowak-britain-political-class-policing",
+      "published_date": "2026-06-03T15:26:16+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU pushes through migration overhaul with more deportations and detention centres abroad",
       "source": "The Independent",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Britain rejoining the EU in future is ‘an inevitability’, says minister",
+      "title": "Chinese spies using job websites to target UK government staff, MI5 warns",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/britain-eu-rejoin-brexit-lord-livermore-b2987576.html",
-      "published_date": "2026-06-01T22:52:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/politics/chinese-spies-uk-government-military-staff-job-websites-b2989162.html",
+      "published_date": "2026-06-03T22:02:51+00:00",
+      "category": "Military"
     },
     {
-      "title": "New Mandelson files: how embarrassing are they? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/jun/01/new-mandelson-files-how-embarrassing-are-they-podcast",
-      "published_date": "2026-06-01T21:54:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mandelson received sensitive Foreign Office briefings before vetting finished",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/01/mandelson-received-sensitive-foreign-office-briefings-before-vetting-finished",
-      "published_date": "2026-06-01T20:54:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mandelson files: What you need to know",
+      "title": "MI5 warns Chinese spies using job websites to target government staff",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp3gvvxkyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-01T18:46:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/cq6peqrnzpro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-03T21:26:03+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mandelson files reveal Labour party is riddled with doubts and infighting",
+      "title": "Chinese spies use LinkedIn to target UK officials and military staff",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/01/mandelson-files-reveal-labour-party-riddled-with-doubts-infighting",
-      "published_date": "2026-06-01T18:23:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/jun/03/chinese-spies-linkedin-uk-officials",
+      "published_date": "2026-06-03T21:21:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former MI6 chief Sir Alex Younger dies aged 62",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/alex-younger-mi6-death-b2988995.html",
+      "published_date": "2026-06-03T18:36:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Alex Younger, former head of MI6, dies aged 62",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/03/alex-younger-former-head-of-mi6-dies-aged-62",
+      "published_date": "2026-06-03T18:30:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "<a href=\"https://news.sky.com/story/politics-latest-keir-starmer-peter-mandelson-files-defence-investment-kemi-badenoch-12593360?postid=11807132#liveblog-body\">Sir Alex Younger, former head of MI6, dies</a>",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/pm-leads-tributes-to-former-mi6-chief-sir-alex-younger-13550529",
+      "published_date": "2026-06-03T17:16:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Cooper defends UK-France’s Strait of Hormuz plan amid Rubio ‘catch-22’ claim",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/iran-war-strait-hormuz-france-uk-rubio-b2989003.html",
+      "published_date": "2026-06-03T17:01:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is Kemi Badenoch getting better at being Conservative leader?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/03/kemi-badenoch-improving-conservative-leader",
+      "published_date": "2026-06-03T16:16:54+00:00",
+      "category": "Military"
     },
     {
       "title": "Three members of Royal Navy killed in Devon helicopter crash",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "British couple jailed for 10 years over ‘spying on Iran’ lose appeal, family confirms",
+      "title": "Students using phones, smart watches and glasses to cheat in exams, regulator warns",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/craig-lindsay-foreman-iran-spying-court-b2988079.html",
-      "published_date": "2026-06-02T15:44:34+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/gcse-a-level-exams-cheating-phones-watches-ofqual-b2988968.html",
+      "published_date": "2026-06-03T23:01:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Henry Nowak murderer Vickrum Digwa faces new weapons charges alongside brother and father",
+      "title": "Oil price climbs as Middle East tensions flare",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/henry-nowak-vickrum-digwa-brother-father-weapons-b2988027.html",
-      "published_date": "2026-06-02T14:17:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "An horrific murder – and a civil war threatening to tear apart the British right | Joe Mulhall",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/02/civil-war-british-right-rupert-lowe-nigel-farage-henry-nowak",
-      "published_date": "2026-06-02T13:57:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Southampton owner will not sack head coach after club spied on rival teams",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cq6pn58pmn4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-02T09:13:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Southampton boss posts apology video after 'Spygate' scandal",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/southampton-boss-posts-apology-video-after-spygate-scandal-13550014",
-      "published_date": "2026-06-02T08:17:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mandelson files show Labour at war over Starmer",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/mandelson-files-starmer-labour-whatsapp-b2987378.html",
-      "published_date": "2026-06-02T06:09:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Weapons‑obsessed killer jailed as body cam footage shows victim being handcuffed",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1d2w411rgro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-01T22:54:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Britain was told to rearm. A year later, there's no sign of the cash",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/uk-firms-suffering-financially-as-government-drags-heels-on-defence-investment-plan-13549960",
-      "published_date": "2026-06-01T22:14:00+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/middle-east-development-aim-us-central-command-europe-b2988983.html",
+      "published_date": "2026-06-03T16:21:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Ovo to pay out more than £10m to customers over prepayment meter rule breaches",
@@ -410,18 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Heatwave could fuel invasion of Asian hornets in the UK",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/asian-hornets-uk-heatwave-b2986982.html",
-      "published_date": "2026-06-01T13:31:23+00:00",
-      "category": "Energy"
+      "title": "SpaceX says its worth $1.75tn as it nears stock market debut",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-03T23:09:03+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK and France intercept suspected Russian oil tanker in Atlantic, Macron says",
+      "title": "Starmer’s chief secretary consoled Mandelson after dismissal as US ambassador, undisclosed texts show",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/04/starmer-darren-jones-peter-mandelson-us-ambassador-texts",
+      "published_date": "2026-06-03T23:00:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What do UK watchdog’s new rules on Google AI results mean for publishers?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/03/what-does-uk-watchdog-new-google-ai-results-rule-means-publishers",
+      "published_date": "2026-06-03T17:17:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Government does not rule out further aid cuts in letter to parliamentary committee",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/uk-france-russia-tanker-tagor-atlantic-b2986942.html",
-      "published_date": "2026-06-01T11:45:49+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/labour-uk-aid-cuts-parliament-yvette-cooper-b2988976.html",
+      "published_date": "2026-06-03T16:50:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Experts warn of ‘potentially harmful’ beauty products sold on major online marketplaces",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/harmful-beauty-products-china-online-b2988989.html",
+      "published_date": "2026-06-03T16:41:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "City & Guilds faces legal and industrial action over plans to cut hundreds of jobs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/03/city-guilds-faces-legal-and-industrial-action-over-plans-to-cut-hundreds-of-jobs",
+      "published_date": "2026-06-03T16:17:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Nissan maps out deal to build cars for Chery at its Sunderland plant",
@@ -522,185 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Publishers in UK can opt out of Google AI search results",
+      "title": "NHS staff should be banned from wearing pro-Palestinian badges, report recommends",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T05:18:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cn0plkd4wdno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-03T23:07:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes",
+      "title": "Life-prolonging drug for advanced ovarian cancer gets go-ahead in England",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jun/04/elahere-ovarian-cancer-drug-nhs-england",
+      "published_date": "2026-06-03T23:01:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHS to tackle antisemitism after report finds Jewish staff and patients ‘routinely ostracised’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jun/04/nhs-to-tackle-antisemitism-after-report-finds-jewish-staff-and-patients-routinely-ostracised",
+      "published_date": "2026-06-03T23:01:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hospitals in England ranking highly for empathy ‘have better patient outcomes’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jun/04/hospitals-nhs-trusts-england-empathy-patient-outcomes-staff-wellbeing",
+      "published_date": "2026-06-03T23:01:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One in three employers set to make staff redundancies by early 2027, new survey finds",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/redundancy-uk-employers-survey-acas-b2988911.html",
+      "published_date": "2026-06-03T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Human composting and water cremation could be introduced in England and Wales",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/human-composting-water-cremation-funeral-burials-b2988944.html",
+      "published_date": "2026-06-03T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Young people with SEN treated as 'price tag', says mum",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-02T23:02:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Puffins, dolphins and bumblebees in running to feature on new UK banknotes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/03/puffins-dolphins-bumblebees-new-uk-banknotes-shortlist",
-      "published_date": "2026-06-02T23:01:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Miners lift FTSE 100 while oil price heads lower",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/middle-east-donald-trump-nasdaq-composite-aim-iran-b2988184.html",
-      "published_date": "2026-06-02T16:22:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Debt-ridden graduates seen as ‘cash cows’ to fund older people’s lifestyles, MPs told",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jun/02/debt-ridden-graduates-seen-as-cash-cows-to-fund-older-peoples-lifestyles-mps-told",
-      "published_date": "2026-06-02T15:02:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Zero-hours contracts: ministers’ detailed plans for UK ban criticised by firms and unions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/02/zero-hours-contracts-ban-firms-unions",
-      "published_date": "2026-06-02T14:02:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Farage exploiting Henry Nowak’s murder against wishes of his family, says Starmer – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/03/henry-nowak-southampton-riot-labour-keir-starmer-police-uk-politics-latest-news",
-      "published_date": "2026-06-03T15:19:12+00:00",
+      "url": "https://www.bbc.com/news/articles/cx21wpjk8kpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-03T23:00:40+00:00",
       "category": "Local Events"
     },
     {
-      "title": "London Tube strikes live: Commuters braced for second walkout as Khan urges last-minute talks",
+      "title": "Nine rushed to hospital after ‘medical emergency’ at primary school in Nottinghamshire",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/london-tube-strikes-latest-updates-tfl-june-b2988888.html",
-      "published_date": "2026-06-03T15:13:17+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/west-bridgford-primary-school-medical-incident-hospital-b2989172.html",
+      "published_date": "2026-06-03T22:57:10+00:00",
       "category": "Local Events"
     },
     {
-      "title": "US announces new tariffs over forced labour concerns",
+      "title": "Prince William:&#160;I love pubs - we must protect them",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/prince-william160i-love-pubs-we-must-protect-them-13550605",
+      "published_date": "2026-06-03T22:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stop speculating about Henry Nowak murder, warns police watchdog",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/henry-nowak-police-watchdog-chief-urges-people-not-to-speculate-about-teenagers-murder-13550604",
+      "published_date": "2026-06-03T22:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crime boss Steven Lyons to challenge Spain extradition bid",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T15:12:28+00:00",
+      "url": "https://www.bbc.com/news/articles/c7v9201l1r2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-03T21:58:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two arrests as 11 officers hurt in Nowak protests",
+      "title": "Scooter crash in India left student in coma and unable to remember her own name",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czd29nm161mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T15:04:41+00:00",
+      "url": "https://www.bbc.com/news/articles/c4g91vyldyno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-03T21:57:10+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Henry Nowak latest: Southampton MPs tell rioters ‘you are not wanted here’ as Farage accused of exploiting tragedy",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/henry-nowak-southampton-protests-starmer-farage-live-updates-b2988492.html",
-      "published_date": "2026-06-03T15:03:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norwegian teen recruited by Iran-backed Swedish gang to carry out ‘hit’ in UK, court told",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/johannes-kongsnes-natland-norway-iran-b2988826.html",
-      "published_date": "2026-06-03T15:01:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz23p8117o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T14:56:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chief constable warns online abusers targeting officers and families face prosecution amid Henry Nowak case",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/henry-nowak-southampton-alexis-boon-b2988878.html",
-      "published_date": "2026-06-03T14:50:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "20mph ‘should be default speed limit England for built-up areas’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/20mph-speed-limit-change-england-b2988870.html",
-      "published_date": "2026-06-03T14:43:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lloyds customers unable to make payments due to IT glitch",
+      "title": "Police chief warns anti-white bias claims could drive UK policing ‘back to 60s’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/03/lloyds-customers-unable-to-make-payments-due-to-it-glitch",
-      "published_date": "2026-06-03T14:43:14+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/03/police-chief-warns-anti-white-bias-claims-could-drive-uk-policing-back-to-60s",
+      "published_date": "2026-06-03T21:09:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sikhs scared to leave their homes over ‘politicisation’ of Nowak killing: ‘The whole community is being put in the dock’",
+      "title": "Former police officer in hiding after AI falsely linked her to Henry Nowak arrest",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/henry-nowak-sikh-community-southampton-b2988661.html",
-      "published_date": "2026-06-03T14:23:31+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/henry-nowak-murder-police-officer-grok-ai-b2989079.html",
+      "published_date": "2026-06-03T20:52:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "South East Water’s greatest failure was not contacting customers during winter outages, report finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/03/south-east-water-not-contacting-customers-winter-outages-report",
-      "published_date": "2026-06-03T14:19:16+00:00",
+      "title": "Nigel Farage condemned for ‘exploiting’ murder of Henry Nowak",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-henry-nowak-murder-pmqs-riots-b2988966.html",
+      "published_date": "2026-06-03T20:46:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
+      "title": "Stephen Lawrence mother hits out at Badenoch over comments about her son following Henry Nowak murder",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/henry-nowak-murder-stephen-lawrence-doreen-racial-equality-b2989056.html",
+      "published_date": "2026-06-03T19:30:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Henry Nowak protests: ‘Rioters smashed cars as our kids slept upstairs – we were terrified’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/henry-nowak-southampton-protests-riot-disorder-b2988907.html",
+      "published_date": "2026-06-03T19:28:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police chief apologises to Henry Nowak's family over handcuffing and arrest",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T14:16:52+00:00",
+      "url": "https://www.bbc.com/news/articles/crlpg54wgpxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-03T18:58:12+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Thousands sign petition against cuts to tech support for disabled students in England",
+      "title": "Did police anti-racism policies lead to appalling treatment of Henry Nowak and if not, what did?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/03/petition-tech-support-cuts-disabled-students-england-dsa",
-      "published_date": "2026-06-03T14:12:41+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/03/police-anti-racism-policies-henry-nowak-explainer",
+      "published_date": "2026-06-03T18:19:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The real reason Farage has seized on the murder of Henry Nowak",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-henry-nowak-makerfield-by-election-b2988777.html",
-      "published_date": "2026-06-03T14:05:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London council confiscates 2,500 rental e-bikes in crackdown on bad parking",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ebikes-london-crackdown-lime-forest-bolt-parking-b2988816.html",
-      "published_date": "2026-06-03T14:04:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swinney ‘has no plans’ to meet Trump during US visit for World Cup",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/swinney-us-visit-world-cup-trump-tariffs-b2988810.html",
-      "published_date": "2026-06-03T14:04:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scottish government found in contempt over Salmond files",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9we9djzdkqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T14:03:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pleas for calm after far right seeks to exploit Henry Nowak murder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/henry-nowak-murder-riots-southampton-b2988527.html",
-      "published_date": "2026-06-03T13:59:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices: ‘Sober reflection, not pure cold rage’: Readers slam Farage for ‘culture war’ response to Henry Nowak murder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/henry-nowak-nigel-farage-police-protests-b2988692.html",
-      "published_date": "2026-06-03T13:58:02+00:00",
+      "title": "Labour MP sues Elon Musk’s xAI company over fake sexualised images",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images",
+      "published_date": "2026-06-03T17:48:06+00:00",
       "category": "Local Events"
     }
   ]
