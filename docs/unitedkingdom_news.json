@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-07T12:21:58.591081+00:00",
+  "last_updated": "2026-06-07T23:58:26.642008+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK readies sanctions against Israel to deter proposed illegal West Bank settlement",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/uk-sanctions-israel-deter-proposed-west-bank-settlement-palestine",
+      "published_date": "2026-06-07T16:43:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mix of heavy rain and sun expected next week ahead of warmer temperatures",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/mix-of-heavy-rain-and-sun-expected-next-week-ahead-of-warmer-temperatures-13551674",
+      "published_date": "2026-06-07T14:02:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Brexit ‘sabotage’ has cost Britain up to £30bn every year, says David Miliband",
       "source": "The Independent",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Labour row breaks out as prime minister's top aide meets female MPs over Mandelson messages",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/labour-row-breaks-out-as-prime-ministers-top-aide-meets-female-mps-over-mandelson-messages-13550795",
-      "published_date": "2026-06-04T15:08:00+00:00",
-      "category": "Diplomacy"
+      "title": "Europe to ramp up defence against Putin’s hypersonic missiles after Ukraine strike",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-ukraine-russia-hypersonic-missile-zelensky-b2991442.html",
+      "published_date": "2026-06-07T23:05:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Darren Jones told Mandelson he was ‘so sorry’ after sacking over Epstein ties",
+      "title": "Zelenskyy discusses ‘urgent need to scale up’ air defences with key allies in London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
+      "published_date": "2026-06-07T21:50:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer to unveil artificial intelligence plan to help jobseekers find work",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/darren-jones-peter-mandelson-texts-epstein-b2989306.html",
-      "published_date": "2026-06-04T11:46:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/ai-starmer-job-seekers-search-tool-b2991315.html",
+      "published_date": "2026-06-07T21:30:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Delays to defence investment plan have damaged UK’s credibility, say MPs",
@@ -260,27 +281,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/gdp-ons-iran-investec-deutsche-bank-b2990576.html",
       "published_date": "2026-06-05T14:55:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "King 'profoundly shocked' by navy helicopter deaths",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9q3qyqr5nno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-05T13:12:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man who stabbed ex-partner 17 times at office in Hampshire jailed for 26 years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/05/man-who-stabbed-ex-partner-17-times-whiteley-hampshire-office-jailed-26-years",
-      "published_date": "2026-06-05T12:56:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK in most dangerous period I've known, military chief says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1m2mryg0k7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-05T12:51:47+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T23:03:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Labour urges Farage to stop evading scrutiny over £5m gift from crypto billionaire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/07/labour-farage-evading-scrutiny-crypto-billionaire-gift",
+      "published_date": "2026-06-07T21:30:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cancelled Cornwall show costs traders thousands",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3vyx2gnwv3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T14:58:10+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Rachel Reeves may be unpopular, but she is quietly rebalancing UK plc | Heather Stewart",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/jun/07/rachel-reeves-unpopular-quietly-rebalancing-uk-plc",
@@ -529,6 +550,13 @@
       "category": "Economy"
     },
     {
+      "title": "Hospitality jobs boom as US prepares for World Cup",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-05T16:02:17+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Inside one man’s botched deportation: seven flights, two swallowed batteries and a staggering bill for the UK taxpayer",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jun/05/botched-deportation-home-office-taxpayer-bill",
@@ -536,32 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "HMRC claims power to take money from bank accounts has saved £13m through side-effect",
+      "title": "Survivors of abuse by Mohamed Al Fayed call for trafficking investigation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/08/survivors-abuse-mohamed-al-fayed-harrods-trafficking-investigation",
+      "published_date": "2026-06-07T23:01:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gloves left inside patients and accidental organ removal among 403 'never' mistakes in NHS last year",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/gloves-left-inside-patients-and-accidental-organ-removal-among-403-never-mistakes-in-nhs-last-year-13551651",
+      "published_date": "2026-06-07T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Betting giants reveal how many England fans think Three Lions will win World Cup",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/hmrc-direct-recovery-bank-powers-tax-fraud-b2990500.html",
-      "published_date": "2026-06-05T14:27:20+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/sport/football/world-cup-england-betting-odds-betfair-coral-b2991346.html",
+      "published_date": "2026-06-07T23:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The best electric toothbrushes in the UK for every budget",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2024/dec/29/best-electric-toothbrushes",
-      "published_date": "2026-06-05T14:00:19+00:00",
-      "category": "Economy"
+      "title": "England fans less patriotic than rivals on World Cup win, betting stakes show",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/portugal-england-coral-ladbrokes-b2991457.html",
+      "published_date": "2026-06-07T23:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘It’s not inevitable’: Asda chair on how his turnaround will hold off Aldi threat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/05/asda-chair-allan-leighton-aldi-supermarkets-sainsburys",
-      "published_date": "2026-06-05T14:00:02+00:00",
-      "category": "Economy"
+      "title": "Shipyard worker strikes will risk further delays to Clyde warships – union",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/bae-systems-lanarkshire-b2991459.html",
+      "published_date": "2026-06-07T23:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Downing Street rejects US claim of ‘two-tiered policing’ over Henry Nowak death - UK politics live",
+      "title": "The Papers:  'Iran fires missile barrage' and 'New Eriksen hell'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgl3gx9y32o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T22:53:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MP rejects criticism for standing near masked men in Scarva",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy736lpl34lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T19:41:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Election Jersey 2026",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l0058f0t?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T18:51:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Record number of people waiting for NHS diagnostic tests in England",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/05/keir-starmer-andy-burnham-labour-leadership-rivals-makerfield-byelection-latest-news-updates",
-      "published_date": "2026-06-05T13:34:45+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/jun/07/record-number-of-people-waiting-for-nhs-diagnostic-tests-in-england",
+      "published_date": "2026-06-07T18:39:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Author of Home Office report on China reveals attempts to compromise him",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/07/home-office-china-report-honey-traps-compromise-attempts",
+      "published_date": "2026-06-07T17:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested 22 years after teen murdered in Leeds",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6218r2nnj4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T16:31:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Escaped Capybara becomes village celebrity after evading capture for ten weeks",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/brambridge-escaped-capybara-marwell-zoo-b2991352.html",
+      "published_date": "2026-06-07T16:27:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vulnerable families illegally ‘dumped’ hundreds of miles away by London councils",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jun/07/vulnerable-families-illegally-dumped-hundreds-miles-away-london-councils",
+      "published_date": "2026-06-07T16:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Campaigner tells of daily attacks on Sikhs in wake of Henry Nowak murder case",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/sikh-attacks-dabinderjit-singh-amritsar-b2991357.html",
+      "published_date": "2026-06-07T15:59:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Terror attack response tested as emergency services conduct 'largest exercise of its kind'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/terror-attack-response-tested-as-emergency-services-conduct-largest-exercise-of-its-kind-13551692",
+      "published_date": "2026-06-07T14:50:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHS hospitals adopt faster, more accurate at-home bladder cancer test",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jun/07/nhs-hospitals-adopt-faster-accurate-bladder-cancer-test",
+      "published_date": "2026-06-07T14:12:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London’s Canary Wharf hosts largest ever terror attack training exercise",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/canary-wharf-terror-attack-training-b2991326.html",
+      "published_date": "2026-06-07T13:59:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London council faces backlash for promoting new e-bikes to help women ‘stay looking nice’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/ebikes-kingston-council-women-london-b2991273.html",
+      "published_date": "2026-06-07T12:50:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The London school that has screen-free days for pupils, teachers – and parents",
@@ -575,132 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c07ye0zx1dzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-07T11:48:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "White storks are returning to the UK. But why is their reintroduction so controversial?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/white-storks-uk-natural-england-migration-b2991270.html",
-      "published_date": "2026-06-07T11:42:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister would consider 'knife amnesty' after teenagers guilty of murders",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1ly5720vzdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T11:39:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lammy called Vance to tell him ‘you’re wrong’ after he blamed Henry Nowak murder on migration",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/henry-nowak-jd-vance-migration-david-lammy-b2991217.html",
-      "published_date": "2026-06-07T11:26:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is NHS nurse and newest royal Harriet Sperling?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1jylk8wxgno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T11:23:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lammy told JD Vance his remarks about Henry Nowak were ‘wrong’ – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/07/henry-nowak-trial-vickrum-digwa-police-reform-latest-news-updates",
-      "published_date": "2026-06-07T11:20:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour doesn't seem to like Send schools for kids like mine – but here's what we'll lose if these precious places are forgotten  | John Harris",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/07/labour-send-schools-autism-education-children",
-      "published_date": "2026-06-07T11:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "My 50-mile bus trip to the doctor four miles away",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpvpv7z10z1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T10:46:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Harriet Sperling? The NHS nurse turned royal who wed ‘Queen’s favourite grandson’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/harriet-sperling-peter-phillips-royal-wedding-b2991239.html",
-      "published_date": "2026-06-07T10:28:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three more charged over Southampton protests after Henry Nowak murder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/southampton-riot-protest-arrests-court-b2991245.html",
-      "published_date": "2026-06-07T09:53:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "David Lammy: I told JD Vance he was wrong about Henry Nowak murder",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/07/david-lammy-jd-vance-wrong-henry-nowak-murder",
-      "published_date": "2026-06-07T09:47:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘So rogue’: country superstar Shania Twain turns London pub into saloon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/jun/07/shania-twain-gig-turns-london-pub-into-saloon",
-      "published_date": "2026-06-07T08:43:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Should smacking children be illegal? Proposal to change law dropped",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxp37w6e6go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T08:34:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'You're ghosted or told there's a better candidate': The suburbs where one in three adults is jobless",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1k2kndjy7xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T07:42:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘OK, I need to call work’: Meet the new councillors who never expected to get elected",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-paper-candidates-reform-green-england-b2983757.html",
-      "published_date": "2026-06-07T07:12:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fisher with a mission: first woman to chair Grayling Society wants to protect ‘lady of the stream’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/07/fisher-mission-first-woman-chair-grayling-society-protect-rivers",
-      "published_date": "2026-06-07T07:00:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hampshire Police planned intervention during trial of Henry Nowak's killer",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/hampshire-police-planned-intervention-during-trial-of-henry-nowaks-killer-13551571",
-      "published_date": "2026-06-07T07:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'My great-grandad saved your life' - Aberfan survivor left stunned on school visit",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp3kmjy3no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T06:21:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Social housing lists ‘would take 119 years to clear at current building rate’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jun/07/social-housing-119-years-waitlist-current-building-rate",
-      "published_date": "2026-06-07T06:00:26+00:00",
       "category": "Local Events"
     }
   ]
