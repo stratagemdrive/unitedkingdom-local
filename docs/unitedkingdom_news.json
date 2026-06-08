@@ -1,8 +1,36 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-07T23:58:26.642008+00:00",
+  "last_updated": "2026-06-08T14:49:33.688267+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Is Keir Starmer in his ‘legacy’ era? – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/jun/08/is-keir-starmer-in-his-legacy-era-podcast",
+      "published_date": "2026-06-08T14:13:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "British travellers told to prepare for six-hour airport queues due to EU entry-exit checks",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/travel/news-and-advice/eu-entry-exit-border-wait-times-queues-uk-summer-b2991548.html",
+      "published_date": "2026-06-08T13:13:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Labour may reconsider Brexit red lines, Britain’s top EU negotiator suggests",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-red-lines-nick-thomas-symonds-b2991543.html",
+      "published_date": "2026-06-08T11:38:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Obama’s four-letter outburst on hearing Brexit decision",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/barack-obama-brexit-reaction-b2979623.html",
+      "published_date": "2026-06-08T11:34:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK readies sanctions against Israel to deter proposed illegal West Bank settlement",
       "source": "The Guardian",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Water firm faces &#163;44.7m 'enforcement package' for sewage failings",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/water-firm-faces-163447m-enforcement-package-for-sewage-failings-13550989",
-      "published_date": "2026-06-05T06:02:00+00:00",
-      "category": "Diplomacy"
+      "title": "Minister says Hegseth ‘lacking in class’ over migration comments at D-Day memorial",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/pete-hegseth-d-day-jacqui-smith-b2991691.html",
+      "published_date": "2026-06-08T10:59:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "Burnham confirms he will run to replace Starmer as Prime Minister if he wins Makerfield by-election",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-starmer-labour-reform-kenyon-pm-b2990095.html",
-      "published_date": "2026-06-04T22:33:49+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "15,000 sign petition demanding review into A-Level Maths exam over claims it was harder than previous papers",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/a-level-maths-exam-petition-pearson-edexcel-ofqual-b2990002.html",
-      "published_date": "2026-06-04T19:19:07+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Voices: ‘We are so polarised post-Brexit’: Readers on rebuilding Britain’s future in Europe",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/europe-the-way-back-brexit-eu-b2989639.html",
-      "published_date": "2026-06-04T15:11:30+00:00",
-      "category": "Diplomacy"
+      "title": "Aviva detects record £230m in bogus insurance claims as use of AI rises",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/08/aviva-ai-bogus-insurance-claims-rocket",
+      "published_date": "2026-06-08T05:00:17+00:00",
+      "category": "Military"
     },
     {
       "title": "Europe to ramp up defence against Putin’s hypersonic missiles after Ukraine strike",
@@ -155,6 +169,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
       "published_date": "2026-06-07T21:50:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky's close European allies set out five conditions for peace talks",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T21:39:43+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "Labour will make AI ‘work for the workers’, says Liz Kendall",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jun/05/labour-will-make-ai-work-for-workers-liz-kendall",
-      "published_date": "2026-06-05T17:00:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Violence is a red line’: could Nigel Farage’s ‘pure, cold rage’ rhetoric damage his brand?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/05/nigel-farage-reform-uk-brand-pure-cold-rage",
-      "published_date": "2026-06-05T16:13:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How will soaring fuel prices impact April’s GDP data?",
+      "title": "Social media groups are fuelling misinformation in local communities, think tank warns",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/gdp-ons-iran-investec-deutsche-bank-b2990576.html",
-      "published_date": "2026-06-05T14:55:06+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/social-media-misinformation-fake-news-report-b2991550.html",
+      "published_date": "2026-06-08T14:33:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Stock market jitters remain amid tech fears and renewed Middle East attacks",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T14:14:11+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Lib Dems propose energy price discounts for all households",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg49qn38ezo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T12:27:28+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "BP says it paid £1.2bn in UK taxes last year amid Government plans to raise more",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/government-rachel-reeves-ed-miliband-claire-coutinho-north-sea-b2991721.html",
+      "published_date": "2026-06-08T11:12:04+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "ScottishPower sent six cheques addressed to my late brother",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jun/08/scottishpower-cheques-late-brother-relatives",
+      "published_date": "2026-06-08T06:00:20+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘Killer of trust’: social media groups fuel misinformation in UK, report finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report",
+      "published_date": "2026-06-08T05:00:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Triple-action diabetes jab shown to reduce blood sugar and body weight",
@@ -382,46 +424,74 @@
       "category": "Energy"
     },
     {
-      "title": "Energy firm OVO to hand out &#163;3.4m in goodwill payments",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/energy-firm-ovo-to-hand-out-16334m-in-goodwill-payments-after-watchdog-investigation-13550673",
-      "published_date": "2026-06-04T08:52:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Sales target for electric vehicles remains distant despite fuel price spike",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/car-sales-ev-target-remains-in-distance-despite-fuel-price-spike-13550643",
-      "published_date": "2026-06-04T06:28:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Costly fuel pushes more Indians to buy electric cars but challenges remain",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-03T23:28:31+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Students using phones, smart watches and glasses to cheat in exams, regulator warns",
+      "title": "FCA seeks injunction against Neil Woodford and investment platform",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/gcse-a-level-exams-cheating-phones-watches-ofqual-b2988968.html",
-      "published_date": "2026-06-03T23:01:00+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/neil-woodford-fca-city-press-association-b2991856.html",
+      "published_date": "2026-06-08T14:34:05+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil price climbs as Middle East tensions flare",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/middle-east-development-aim-us-central-command-europe-b2988983.html",
-      "published_date": "2026-06-03T16:21:48+00:00",
-      "category": "Energy"
+      "title": "Unions attack ‘year-long delay’ for Tata Steel furnace’s grid connection in south Wales",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/08/unions-attack-delay-tata-steel-furnaces-grid-connection-south-wales",
+      "published_date": "2026-06-08T11:45:35+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Ovo to pay out more than £10m to customers over prepayment meter rule breaches",
+      "title": "Uber and Wayve join forces to launch self-driving robotaxis in London this summer",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/ovo-energy-smart-meters-compensation-readings-b2988555.html",
-      "published_date": "2026-06-03T14:03:40+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/uber-wayve-robotaxi-taxi-london-uk-b2991640.html",
+      "published_date": "2026-06-08T11:00:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tate & Lyle agrees £2.7bn US takeover in latest blow to London market",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/london-tate-shares-sweetener-b2991696.html",
+      "published_date": "2026-06-08T10:37:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "June 2026 payment dates for universal credit, benefits and pensions plus cost of living support",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/dwp-cost-of-living-payment-dates-pensions-benefits-june-2026-b2991636.html",
+      "published_date": "2026-06-08T09:20:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "M&S launches training scheme for 1,000 young adults to tackle unemployment",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/marks-and-spencer-ms-neet-youth-unemployment-scheme-b2991546.html",
+      "published_date": "2026-06-08T09:15:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tate & Lyle agrees £2.7bn takeover by US rival in new blow to London market",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/08/tate-lyle-agrees-takeover-ingredion-us-rival-ftse",
+      "published_date": "2026-06-08T09:14:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘I moved abroad for a higher salary’: Britons emigrating to escape rising cost of living",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/britons-emigrating-uk-salary-cost-of-living-b2991569.html",
+      "published_date": "2026-06-08T08:51:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Top chefs back Andy Burnham for prime minister to cut VAT on hospitality",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/08/chefs-back-andy-burnham-vat-cut-hospitality",
+      "published_date": "2026-06-08T05:00:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK companies opting to hire temporary workers over permanent staff, recruitment firms say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jun/08/uk-companies-opting-to-hire-temporary-workers-over-permanent-staff-recruitment-firms-say",
+      "published_date": "2026-06-08T05:00:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
@@ -494,213 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "‘Underfilled and underwhelming’: the best (and worst) supermarket sushi, tasted and rated",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/jun/06/best-worst-supermarket-sushi-tasted-rated",
-      "published_date": "2026-06-06T10:00:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Man jailed for murder after stabbing 32-year-old to death over debt",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/fawaz-abdulkareem-daniel-manuel-court-b2990956.html",
-      "published_date": "2026-06-06T09:53:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Advice service demand rises amid housing crisis",
+      "title": "Six admit violent disorder after Henry Nowak protest",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj3pkkjl4x4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-06T06:25:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump to meet AI leaders to discuss US investment in their companies",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-05T19:36:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Andy Burnham pledges to slash taxes on pubs if he becomes prime minister",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-pubs-business-rates-cuts-makerfield-byelection-labour-b2990670.html",
-      "published_date": "2026-06-05T19:35:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "DVLA worker who doctored car paperwork in 'sophisticated' million-pound fraud plan jailed",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8p8w0jgl2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-05T17:37:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Calls for inquiry into all royal finances after Andrew subletting revelations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/05/calls-for-public-inquiry-all-royal-finances-andrew-subletting-royal-lodge-properties",
-      "published_date": "2026-06-05T17:22:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FTSE 100 makes modest gains despite struggle for mining companies",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/fomc-nasdaq-composite-dow-jones-industrial-average-new-york-aim-b2990657.html",
-      "published_date": "2026-06-05T16:20:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hospitality jobs boom as US prepares for World Cup",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-05T16:02:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Inside one man’s botched deportation: seven flights, two swallowed batteries and a staggering bill for the UK taxpayer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/05/botched-deportation-home-office-taxpayer-bill",
-      "published_date": "2026-06-05T15:03:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Survivors of abuse by Mohamed Al Fayed call for trafficking investigation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/08/survivors-abuse-mohamed-al-fayed-harrods-trafficking-investigation",
-      "published_date": "2026-06-07T23:01:10+00:00",
+      "url": "https://www.bbc.com/news/articles/c77yx83jdk4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T14:34:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Gloves left inside patients and accidental organ removal among 403 'never' mistakes in NHS last year",
+      "title": "Nottingham attacks inquiry revealed miscarriage of justice, victim's mother says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy8d932zl27o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T14:33:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Banned fund manager Neil Woodford facing City watchdog injunction",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/gloves-left-inside-patients-and-accidental-organ-removal-among-403-never-mistakes-in-nhs-last-year-13551651",
-      "published_date": "2026-06-07T23:01:00+00:00",
+      "url": "https://news.sky.com/story/neil-woodford-facing-city-watchdog-injunction-13552003",
+      "published_date": "2026-06-08T13:45:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Betting giants reveal how many England fans think Three Lions will win World Cup",
+      "title": "Footage shows Henry Nowak killer ‘holding firearm’ years before stabbing",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/sport/football/world-cup-england-betting-odds-betfair-coral-b2991346.html",
-      "published_date": "2026-06-07T23:01:00+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/henry-nowak-vickrum-digwa-murder-firearm-b2991750.html",
+      "published_date": "2026-06-08T13:38:17+00:00",
       "category": "Local Events"
     },
     {
-      "title": "England fans less patriotic than rivals on World Cup win, betting stakes show",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/portugal-england-coral-ladbrokes-b2991457.html",
-      "published_date": "2026-06-07T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shipyard worker strikes will risk further delays to Clyde warships – union",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/bae-systems-lanarkshire-b2991459.html",
-      "published_date": "2026-06-07T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Papers:  'Iran fires missile barrage' and 'New Eriksen hell'",
+      "title": "Senior member of Kinahan crime group sentenced to 24 years in prison",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgl3gx9y32o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T22:53:44+00:00",
+      "url": "https://www.bbc.com/news/articles/c5yzj4l3y48o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T13:02:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "MP rejects criticism for standing near masked men in Scarva",
+      "title": "Makerfield by-election candidates' short manifestos",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy736lpl34lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T19:41:22+00:00",
+      "url": "https://www.bbc.com/news/articles/cgrp1z8n4w2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T12:31:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Election Jersey 2026",
+      "title": "Woman, 19, dies after gunshots heard at house",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/iplayer/episode/l0058f0t?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T18:51:33+00:00",
+      "url": "https://www.bbc.com/news/articles/crlw8xle9rlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T12:28:55+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Record number of people waiting for NHS diagnostic tests in England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jun/07/record-number-of-people-waiting-for-nhs-diagnostic-tests-in-england",
-      "published_date": "2026-06-07T18:39:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Author of Home Office report on China reveals attempts to compromise him",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/07/home-office-china-report-honey-traps-compromise-attempts",
-      "published_date": "2026-06-07T17:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested 22 years after teen murdered in Leeds",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c6218r2nnj4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T16:31:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Escaped Capybara becomes village celebrity after evading capture for ten weeks",
+      "title": "Entrepreneur loses court battle over £1m fortune after judge rules late partner’s family ‘mattered more’ to him",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/brambridge-escaped-capybara-marwell-zoo-b2991352.html",
-      "published_date": "2026-06-07T16:27:17+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/chris-liu-tibor-matyas-will-b2991586.html",
+      "published_date": "2026-06-08T12:28:09+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Vulnerable families illegally ‘dumped’ hundreds of miles away by London councils",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jun/07/vulnerable-families-illegally-dumped-hundreds-miles-away-london-councils",
-      "published_date": "2026-06-07T16:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Campaigner tells of daily attacks on Sikhs in wake of Henry Nowak murder case",
+      "title": "Tate & Lyle timeline: From historic roots in Liverpool to £2.7bn US takeover",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/sikh-attacks-dabinderjit-singh-amritsar-b2991357.html",
-      "published_date": "2026-06-07T15:59:24+00:00",
+      "url": "https://www.independent.co.uk/news/business/liverpool-london-scottish-united-belgium-b2991758.html",
+      "published_date": "2026-06-08T12:14:48+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Terror attack response tested as emergency services conduct 'largest exercise of its kind'",
+      "title": "Fishing boss fined for breaching human trafficking court order",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp36dwep7w5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T12:04:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Warning after almost 6,000 counterfeit 'squishy' toys seized",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/terror-attack-response-tested-as-emergency-services-conduct-largest-exercise-of-its-kind-13551692",
-      "published_date": "2026-06-07T14:50:00+00:00",
+      "url": "https://news.sky.com/story/warning-after-almost-6000-counterfeit-squishy-toys-seized-in-glasgow-13551966",
+      "published_date": "2026-06-08T12:01:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NHS hospitals adopt faster, more accurate at-home bladder cancer test",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jun/07/nhs-hospitals-adopt-faster-accurate-bladder-cancer-test",
-      "published_date": "2026-06-07T14:12:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London’s Canary Wharf hosts largest ever terror attack training exercise",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/canary-wharf-terror-attack-training-b2991326.html",
-      "published_date": "2026-06-07T13:59:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London council faces backlash for promoting new e-bikes to help women ‘stay looking nice’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ebikes-kingston-council-women-london-b2991273.html",
-      "published_date": "2026-06-07T12:50:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The London school that has screen-free days for pupils, teachers – and parents",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/jun/07/london-school-screen-free-mondays-for-pupils-teachers-and-parents",
-      "published_date": "2026-06-07T12:00:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Girl, 16, among Nowak protest arrests as three charged",
+      "title": "DUP leader defends MP who attended Palestine solidarity counter-demonstration",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c07ye0zx1dzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T11:48:35+00:00",
+      "url": "https://www.bbc.com/news/articles/cg536yql056o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-08T11:39:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stormzy and Oritsé Williams join tributes to musician stabbed to death in east London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/08/stormzy-oritse-williams-tribute-talay-riley-stabbed-east-london",
+      "published_date": "2026-06-08T11:20:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Swinney won't say whether Sturgeon should hand back Murrell gifts",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/john-swinney-wont-say-whether-nicola-sturgeon-should-hand-back-peter-murrell-gifts-13551941",
+      "published_date": "2026-06-08T11:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voices: ‘Sober reflection, not pure cold rage’: Readers slam Farage for ‘culture war’ response to Henry Nowak murder",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/henry-nowak-nigel-farage-police-protests-b2988692.html",
+      "published_date": "2026-06-08T10:46:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family of grandmother killed by illegal e-bike rider says judge ‘failed to send message’ in teen’s lenient sentencing",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/ebike-billy-stokoe-gloria-stephenson-newcastle-b2991660.html",
+      "published_date": "2026-06-08T10:08:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHS nurse struck off for racist Facebook posts claiming immigrants are ‘invading our streets’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-nurse-racism-migrants-tracy-ellis-b2991652.html",
+      "published_date": "2026-06-08T10:08:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Burnham shares footage of man tearing down campaign posters ahead of Makerfield by-election",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/andy-burnham-makerfield-by-election-posters-video-b2991542.html",
+      "published_date": "2026-06-08T09:28:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, 19, dies after gunshots heard at London home",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/finchley-london-shooting-dale-grove-police-latest-updates-b2991629.html",
+      "published_date": "2026-06-08T09:02:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tate & Lyle acquired by US rival Ingredion in £2.7 billion takeover deal",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/tate-and-lyle-ingredion-b2991541.html",
+      "published_date": "2026-06-08T08:01:42+00:00",
       "category": "Local Events"
     }
   ]
