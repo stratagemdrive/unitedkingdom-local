@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-10T00:04:52.147994+00:00",
+  "last_updated": "2026-06-10T14:23:59.054740+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "BBC abandons plans for Doctor Who Christmas special",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/10/bbc-abandons-plans-for-doctor-who-christmas-special",
+      "published_date": "2026-06-10T12:17:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Stranger Things: The First Shadow announces final curtain in London and New York",
       "source": "The Guardian",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Obama’s four-letter outburst on hearing Brexit decision",
+      "title": "US inflation surges to three-year high of 4.2%",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T14:08:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WH Smith raises £100m as it warns on profits due to Iran war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/10/wh-smith-shut-stories-profit-warning-iran-war-airport-middle-east",
+      "published_date": "2026-06-10T13:57:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer dithering over defence spending, says Badenoch",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg4rknndjeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T13:25:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Americans are paying a growing financial price for Iran war",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/americans-are-paying-a-growing-financial-price-for-iran-war-13552690",
+      "published_date": "2026-06-10T12:11:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WH Smith asks investors to raise £100m as Iran war and falling passenger numbers hit profits",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/barack-obama-brexit-reaction-b2979623.html",
-      "published_date": "2026-06-08T11:34:09+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/business/wh-smith-iran-war-profits-stores-b2993148.html",
+      "published_date": "2026-06-10T11:59:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK ‘missing in action’ as Iran war hits farmers around the world",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/climate-change/iran-war-uk-trade-food-farmers-aid-b2992647.html",
+      "published_date": "2026-06-10T10:42:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Growing unease over UK's stuttering efforts to rearm",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/growing-unease-over-uks-stuttering-efforts-to-rearm-13552541",
+      "published_date": "2026-06-09T23:39:00+00:00",
+      "category": "Military"
     },
     {
       "title": "FTSE 100 down as Asia-focused financials struggle",
@@ -235,53 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "Aviva detects record £230m in bogus insurance claims as use of AI rises",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/08/aviva-ai-bogus-insurance-claims-rocket",
-      "published_date": "2026-06-08T05:00:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Europe to ramp up defence against Putin’s hypersonic missiles after Ukraine strike",
+      "title": "DCC ‘minded’ to agree deal with consortium after higher £5.7bn approach",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-ukraine-russia-hypersonic-missile-zelensky-b2991442.html",
-      "published_date": "2026-06-07T23:05:52+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/london-ftse-ireland-dublin-zurich-b2993273.html",
+      "published_date": "2026-06-10T13:56:42+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Zelenskyy discusses ‘urgent need to scale up’ air defences with key allies in London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
-      "published_date": "2026-06-07T21:50:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky's close European allies set out five conditions for peace talks",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T21:39:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starmer to unveil artificial intelligence plan to help jobseekers find work",
+      "title": "Belfast riots latest: Stabbing victim’s family defend migrants and warn tragedy shouldn’t ‘fuel hostility’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ai-starmer-job-seekers-search-tool-b2991315.html",
-      "published_date": "2026-06-07T21:30:01+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/crime/belfast-attack-protests-riots-latest-updates-stabbing-court-b2992939.html",
+      "published_date": "2026-06-10T13:34:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Delays to defence investment plan have damaged UK’s credibility, say MPs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/07/uk-defence-investment-delays-damage-credibility-mps",
-      "published_date": "2026-06-07T09:29:48+00:00",
-      "category": "Military"
+      "title": "Only way to keep British energy prices down is closer ties with Europe, says Starmer’s top negotiator",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-uk-energy-bills-nick-thomas-symonds-b2992607.html",
+      "published_date": "2026-06-10T11:44:20+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites",
+      "title": "China’s BYD aims to be world’s biggest car firm within five years",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
-      "published_date": "2026-06-07T06:00:26+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/jun/10/china-byd-car-firm-ev-maker-toyota",
+      "published_date": "2026-06-10T09:59:19+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nothing says stupidity like Reform's obsession with destroying British jobs | George Monbiot",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/reform-obsession-british-jobs-net-zero-oil-and-gas-fossil-fuel",
+      "published_date": "2026-06-10T07:00:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "More than half of clean energy schemes needed for Labour’s 2030 target offered grid connection",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/10/labour-renewable-energy-projects-halfway-long-delay",
+      "published_date": "2026-06-10T06:00:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Bycatch has ‘shocking’ toll on British marine life, first-ever analysis reveals",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/10/bycatch-toll-british-marine-life-analysis",
+      "published_date": "2026-06-10T04:00:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Warning millions of UK households missing out on energy bill support as debt climbs to £7bn",
@@ -375,53 +424,130 @@
       "category": "Energy"
     },
     {
-      "title": "Triple-action diabetes jab shown to reduce blood sugar and body weight",
+      "title": "Peter Kyle’s quest for UK’s first $1tn firm is worthwhile, but he is overselling state activism",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jun/07/weekly-diabetes-jab-reduce-blood-sugar-levels-body-weight",
-      "published_date": "2026-06-07T09:16:06+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/jun/10/peter-kyle-uk-state-activism-bbb-nwf",
+      "published_date": "2026-06-10T14:03:40+00:00",
+      "category": "Economy"
     },
     {
-      "title": "‘I moved house to ditch my car and escape the fuel price surge’",
+      "title": "US inflation hits 4.2% in May as Trump’s Middle East conflict drives up prices - business live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/live/2026/jun/10/asian-stocks-fall-us-iran-exchange-fire-middle-east-strait-of-hormuz-oil-prices-latest-news-updates",
+      "published_date": "2026-06-10T13:40:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Family ‘traumatised’ after rioters tried to burn down house as children slept in their beds",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/cycling-cars-fuel-prices-b2987806.html",
-      "published_date": "2026-06-07T08:02:56+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/crime/belfast-stabbing-riots-protests-attacks-b2993190.html",
+      "published_date": "2026-06-10T13:33:19+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Cosmeticorexia: How girls are falling down a skincare rabbit hole",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx212x41evwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-06T23:06:33+00:00",
-      "category": "Energy"
+      "title": "Surge in use of weight loss jabs hitting supermarket sales",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/weight-loss-jabs-mounjaro-ozempic-supermaket-sales-b2993119.html",
+      "published_date": "2026-06-10T13:31:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Pass the chakalaka! The best World Cup drinks and snacks – inspired by all 48 teams",
+      "title": "Weight-loss drug users save more than £400 a year on food as take-up triples",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/jun/06/what-to-eat-watching-world-cup-2026",
-      "published_date": "2026-06-06T14:00:07+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jun/10/weight-loss-drugs-grocery-bills-glp-1s",
+      "published_date": "2026-06-10T13:29:38+00:00",
+      "category": "Economy"
     },
     {
-      "title": "‘Immediate national priority’: ministers accused of complacency over UK food supply",
+      "title": "UK poised to ease steel tariffs as manufacturers warn of costs",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
-      "published_date": "2026-06-06T12:00:27+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jun/10/uk-ease-steel-tariffs-manufacturers-warn-costs",
+      "published_date": "2026-06-10T13:11:57+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK urged not to further weaken EV rules as CO2 impact revealed",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/06/uk-weaken-ev-rules-co2-impact-phevs",
-      "published_date": "2026-06-06T10:00:02+00:00",
-      "category": "Energy"
+      "title": "‘I’m 37 and ready to start a family, but my crippling student loan debt is holding me back’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/student-loan-uk-finance-plan-2-b2985437.html",
+      "published_date": "2026-06-10T12:55:57+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Vance leads charge of US officials using Henry Nowak murder to push anti-immigration agenda",
+      "title": "Revealed: How much you need to earn in top UK cities to get on the housing ladder",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/salary-housing-mortgage-first-time-buyers-banks-b2992611.html",
+      "published_date": "2026-06-10T12:02:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Labour urged to ‘call time’ on the triple lock to cut welfare spending",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/triple-lock-labour-scrap-state-pension-increase-b2993147.html",
+      "published_date": "2026-06-10T12:01:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "No incentive for hospitality to hire inexperienced under-21s, pub boss warns",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/fuller-government-policy-pub-press-association-england-b2993181.html",
+      "published_date": "2026-06-10T11:43:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rachel Reeves opens door to tax rises to pay for defence",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/tax-rises-rachel-reeves-defence-spending-military-b2993008.html",
+      "published_date": "2026-06-10T11:16:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "South West Water owner admits firm must ‘learn lessons’ from parasite outbreak",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/south-west-water-pennon-brixham-parasite-b2993144.html",
+      "published_date": "2026-06-10T11:00:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pub chain Fuller’s hopes for bumper summer of World Cup and staycations",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/us-diplomats-response-to-henry-nowak-incendiary",
-      "published_date": "2026-06-05T21:06:18+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jun/10/pub-chain-fullers-hopes-world-cup-england-matches",
+      "published_date": "2026-06-10T09:10:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "HMRC releases new details on inheritance tax changes for pensions",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/hmrc-releases-new-details-on-inheritance-tax-changes-for-pensions-13552586",
+      "published_date": "2026-06-10T07:36:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nike charges World Cup fans the most for replica shirts after price surge",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/10/nike-charges-world-cup-fans-most-replica-shirts-prices-surge",
+      "published_date": "2026-06-10T07:00:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Salary sacrifice: max out this pension tax break while you can",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jun/10/salary-sacrifice-pension-tax-break-uk-scheme",
+      "published_date": "2026-06-10T06:00:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Most Makerfield voters say offensive posts would put them off candidate, poll finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/10/makerfield-byelection-voters-poll-social-media-posts-water-wealth-tax",
+      "published_date": "2026-06-10T05:00:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "World-leading UK science facilities at risk amid £162m funding crisis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/jun/10/world-leading-uk-science-facilities-funding-crisis",
+      "published_date": "2026-06-10T05:00:12+00:00",
+      "category": "Economy"
     },
     {
       "title": "Bill debt soars but many don't know help is available",
@@ -438,269 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Version of AI tool 'too powerful for public' released to public",
+      "title": "What we know about Belfast attack and disorder",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T18:35:59+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cly0d13e4geo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T14:18:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
+      "title": "Man jailed for bringing dog lead ‘knuckleduster’ to Henry Nowak police protest",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/henry-nowak-protest-daniel-frost-reece-robinson-b2993178.html",
+      "published_date": "2026-06-10T14:17:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manhunt after prisoner escapes van in Woolwich",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T16:45:12+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cy8d7jxepr2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T14:12:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Former Burberry boss leads rescue mission for Burleigh Pottery",
+      "title": "Family of Belfast victim appeals for calm and stresses ‘deeply valuable contribution’ of many migrants – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/09/ex-burberry-boss-christopher-bailey-burleigh-pottery-stoke-on-trent",
-      "published_date": "2026-06-09T15:24:19+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
+      "published_date": "2026-06-10T14:09:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "New BP boss overhauls structure to simplify operations",
+      "title": "Why pint prices have jumped by almost a quarter since last World Cup",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/press-association-b2992570.html",
-      "published_date": "2026-06-09T15:00:36+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/business/world-cup-england-scotland-pint-price-pubs-b2993030.html",
+      "published_date": "2026-06-10T13:59:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK watchdog to look at Paramount’s $110bn takeover of Warner Bros Discovery",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/09/uk-watchdog-paramount-110bn-takeover-warner-bros-discover",
-      "published_date": "2026-06-09T14:53:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Farage’s call for unions to affiliate with Reform sparks furious backlash",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-trade-unions-reform-unison-b2992538.html",
-      "published_date": "2026-06-09T14:28:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Neil Woodford’s W4.0 platform ‘rejects’ FCA characterisation amid legal threat",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/neil-woodford-fca-press-association-b2992481.html",
-      "published_date": "2026-06-09T13:17:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Car finance payouts could be delayed by years over legal challenges, says FCA",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/09/car-finance-payouts-delayed-legal-challenges-fca-complaints",
-      "published_date": "2026-06-09T13:15:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Unions rebuff Farage and say Reform ‘cosplaying’ as workers’ champions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/09/unions-rebuff-nigel-farage-reform-cosplaying-workers-rights",
-      "published_date": "2026-06-09T12:52:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "GSK makes biggest ever acquisition with $10.6bn for US cancer drug firm",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/09/gsk-buy-us-cancer-treatment-firm-nuvalent-luke-miels",
-      "published_date": "2026-06-09T12:49:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Amazon’s main UK arm handed £7.6m tax credit as profits soar to £355m",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jun/09/amazon-uk-arm-tax-credit-profits-tech-company",
-      "published_date": "2026-06-09T12:15:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PwC under investigation by accounting watchdog over WH Smith audit",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/wh-smith-financial-reporting-council-balfour-beatty-financial-conduct-authority-deloitte-b2992413.html",
-      "published_date": "2026-06-09T11:39:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Britain has spent almost £1m of taxpayers’ cash holding stalker at centre of Iran prisoner swap plea",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/iran-richard-jan-craig-lindsay-foreman-b2991930.html",
-      "published_date": "2026-06-09T11:16:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pret ‘encouraged’ by start to 2026 despite pressure on customer finances",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/sandwich-warrington-press-association-b2992396.html",
-      "published_date": "2026-06-09T11:16:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
-      "published_date": "2026-06-09T11:01:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigel Farage speaks out over deepfake X adverts featuring him fighting Bank of England governor Andrew Bailey",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-ai-ads-x-andrew-bailey-b2992301.html",
-      "published_date": "2026-06-09T09:52:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Homebuyer interest dipped after mortgage rates rise, builder Bellway says",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/newcastle-middle-east-iran-israel-b2992249.html",
-      "published_date": "2026-06-09T08:17:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "US tech race to go public in full swing as OpenAI plots stock market float",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/anthropic-chatgpt-openai-us-securities-and-exchange-commission-spacex-b2992222.html",
-      "published_date": "2026-06-09T07:24:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Disorder breaks out in Belfast after man charged with knife attack",
+      "title": "Three arrested over Glasgow disorder and racist assaults after Belfast knife attack",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c992rvpyj99o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T23:37:17+00:00",
+      "url": "https://www.bbc.com/news/articles/cr5jme6ld54o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T13:57:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Calls for calm as violence erupts in Belfast after knife attack",
+      "title": "Will there be another heatwave this weekend? Temperatures set to rise above 30C again in latest Met Office forecast",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/north-belfast-stabbing-kinnaird-avenue-man-injured-b2992284.html",
-      "published_date": "2026-06-09T23:05:27+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/heatwave-uk-met-office-weather-forecast-b2993024.html",
+      "published_date": "2026-06-10T13:36:21+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Staff at immigration detention centre wore England flags, report finds",
+      "title": "Westminster leaders call for calm as they condemn 'horrific' Belfast attack – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jun/10/staff-immigration-detention-centre-england-flags",
-      "published_date": "2026-06-09T23:02:04+00:00",
+      "url": "https://www.theguardian.com/global/video/2026/jun/10/westminster-leaders-call-for-calm-condemn-horrific-belfast-attack-video",
+      "published_date": "2026-06-10T13:22:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Lammy’s cuts to jury trials could have ‘far-reaching’ effect on race relations, say MPs",
+      "title": "Do not use our tragedy to fuel violence, family of Belfast attack victim say",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/jun/10/lammy-jury-trials-race-relations",
-      "published_date": "2026-06-09T23:02:04+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/10/do-not-use-our-tragedy-to-fuel-violence-family-of-belfast-attack-victim-say",
+      "published_date": "2026-06-10T12:58:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Grim reality of prison conditions laid bare in damning report",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jun/10/grim-reality-of-prison-conditions-laid-bare-in-damning-report",
-      "published_date": "2026-06-09T23:02:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Phone chargers sold by Amazon, B&Q and eBay pose fire and electric shock risks, investigation finds",
+      "title": "Belfast stabbing victim’s family condemn riots and say ‘unrest is unwelcome’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/amazon-b-q-ebay-phone-charger-fire-electric-shock-b2992573.html",
-      "published_date": "2026-06-09T23:01:00+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/belfast-stabbing-victim-stephen-ogilvie-riots-b2993196.html",
+      "published_date": "2026-06-10T12:52:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Belfast stabbing latest: Homes and cars set ablaze as protesters accused of ‘thuggery’ after knife attack",
+      "title": "Belfast attack suspect named as he appears in court charged with attempted murder",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/belfast-protests-riots-latest-updates-stabbing-attack-b2992750.html",
-      "published_date": "2026-06-09T22:57:51+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/belfast-knife-attack-suspect-hadi-alodid-court-b2993082.html",
+      "published_date": "2026-06-10T12:10:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Protests across Scotland follow Belfast knife attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crkv44yx7e5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T21:53:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘There’s wee girls inside’: panic as masked men storm house in Belfast",
+      "title": "Sentencing Palestine Action protesters as terrorists would be ‘constitutional threat’, says lawyer",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/09/theres-wee-girls-inside-panic-as-masked-men-storm-house-in-belfast",
-      "published_date": "2026-06-09T21:31:51+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/10/four-palestine-action-protesters-terrorists-constitutional-threat",
+      "published_date": "2026-06-10T11:58:05+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Bus set on fire as disorder flares up in Belfast – video",
+      "title": "Cars burn in Belfast, bricks fly in Southampton – and the ubiquitous cry of ‘civil war’ goes up again | John Harris",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/video/2026/jun/09/bus-set-on-fire-as-disorder-flares-up-in-belfast-video",
-      "published_date": "2026-06-09T21:20:58+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/belfast-southampton-civil-war-anti-immigrant-online",
+      "published_date": "2026-06-10T11:25:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Suspect in Belfast stabbing was asylum seeker who came to UK from Sudan",
+      "title": "Manhunt for prisoner who escaped from van as police release image",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/manhunt-for-prisoner-who-escaped-from-van-as-police-release-image-13552672",
+      "published_date": "2026-06-10T11:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hadi Alodid: Man charged over Belfast stabbing was asylum seeker who came to UK from Sudan",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/stabbing-belfast-asylum-seeker-uk-sudan-b2992648.html",
-      "published_date": "2026-06-09T21:10:51+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/belfast-stabbing-suspect-hadi-alodid-asylum-seeker-uk-sudan-b2993152.html",
+      "published_date": "2026-06-10T11:09:43+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two men jailed for violence at protest over police treatment of Henry Nowak",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/09/leon-o-leary-connor-bishop-jailed-violence-protest-police-treatment-henry-nowak",
-      "published_date": "2026-06-09T18:53:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘You can never be safe’: Belfast’s Sudanese community hunkers down after grisly attack",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/09/belfast-sudanese-community-attack-northern-ireland",
-      "published_date": "2026-06-09T18:53:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passenger on train to London given first sentence for harassment under new law",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/09/passenger-david-stroud-london-train-harassment-sentence",
-      "published_date": "2026-06-09T18:46:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Politicians try to calm tensions inflamed by social media after stabbing in Belfast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/09/politicians-tensions-musk-social-media-stabbing-belfast",
-      "published_date": "2026-06-09T18:45:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can common sense replace Equality Act protections, as Kemi Badenoch suggests?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/jun/09/equality-act-protections-common-sense-kemi-badenoch",
-      "published_date": "2026-06-09T18:04:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Men jailed for violence at Henry Nowak police protest",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c982y5n0nlno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T17:33:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men jailed for violent disorder at Henry Nowak police protest in Southampton",
+      "title": "NHS doctor who admitted hating British weather chat fired for lack of communication skills",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/southampton-henry-nowak-protests-jailed-connor-bishop-leon-oleary-b2992656.html",
-      "published_date": "2026-06-09T17:27:47+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-doctor-weather-belarus-maryna-anatolyeva-b2993151.html",
+      "published_date": "2026-06-10T11:08:10+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Guardian view on the care system: support for teens must go beyond reunions with old friends | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/09/the-guardian-view-on-the-care-system-support-for-teens-must-go-beyond-reunions-with-old-friends",
-      "published_date": "2026-06-09T17:25:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "E-bike hire firms face council fines over abandoned bikes on pavements",
+      "title": "London Pride 2026: Parade route, stage line-ups and performers in full",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ebikes-escooters-hire-abandoned-england-b2992663.html",
-      "published_date": "2026-06-09T17:03:33+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/london-pride-2026-parade-route-date-performers-stages-b2992442.html",
+      "published_date": "2026-06-10T11:06:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "King Charles approves extra World Cup bank holiday for Scotland this month – but England could miss out",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/bank-holiday-world-cup-scotland-king-charles-england-uk-b2993020.html",
+      "published_date": "2026-06-10T10:30:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belfast residents run from burning homes as violence erupts after protests – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/video/2026/jun/10/belfast-residents-flee-burning-homes-protests-violence-video",
+      "published_date": "2026-06-10T10:25:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "We’re ‘garden-ready’ for World Cup and summer stays, says pub chain Fuller’s",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/fuller-england-scotland-b2993068.html",
+      "published_date": "2026-06-10T09:17:09+00:00",
       "category": "Local Events"
     }
   ]
