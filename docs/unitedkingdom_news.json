@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-10T14:23:59.054740+00:00",
+  "last_updated": "2026-06-11T00:08:33.159320+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Rapist released in error fled UK on Eurostar",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c07y9py101yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T14:56:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "BBC abandons plans for Doctor Who Christmas special",
       "source": "The Guardian",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Labour may reconsider Brexit red lines, Britain’s top EU negotiator suggests",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-red-lines-nick-thomas-symonds-b2991543.html",
-      "published_date": "2026-06-08T11:38:08+00:00",
-      "category": "Diplomacy"
+      "title": "Scotland fans arrive in the US as World Cup anticipation builds",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1jyd680yrgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T22:21:29+00:00",
+      "category": "Military"
     },
     {
       "title": "US inflation surges to three-year high of 4.2%",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Minister says Hegseth ‘lacking in class’ over migration comments at D-Day memorial",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/pete-hegseth-d-day-jacqui-smith-b2991691.html",
-      "published_date": "2026-06-08T10:59:42+00:00",
-      "category": "Military"
+      "title": "Trump: 'I love the inflation'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c0rygjggl7zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T17:05:20+00:00",
+      "category": "Energy"
     },
     {
       "title": "DCC ‘minded’ to agree deal with consortium after higher £5.7bn approach",
@@ -417,11 +424,67 @@
       "category": "Energy"
     },
     {
-      "title": "‘Killer of trust’: social media groups fuel misinformation in UK, report finds",
+      "title": "'A little goes a long way': New York's candy stores sweeten economic gloom",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c30ylzlygngo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T23:01:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T23:01:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mike Ashley’s Frasers makes €1.98bn takeover bid for Hugo Boss",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/jun/08/social-media-groups-fuel-misinfomation-uk-news-deserts-report",
-      "published_date": "2026-06-08T05:00:19+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/uk-news/2026/jun/10/mike-ashley-frasers-198bn-takeover-offer-hugo-boss",
+      "published_date": "2026-06-10T18:18:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sports Direct owner launches €2 billion takeover bid for Hugo Boss",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/fraser-group-hugo-boss-takeover-mike-ashley-b2993482.html",
+      "published_date": "2026-06-10T18:07:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Princess Diana barrister accused of setting up ‘elaborate’ system to avoid paying £2m in tax",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/princess-diana-hmrc-robert-venables-tax-southwark-b2993481.html",
+      "published_date": "2026-06-10T17:52:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK minister defends changes to student loans as criticism mounts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jun/10/uk-minister-defends-changes-to-student-loans-as-pressure-grows-for-reforms",
+      "published_date": "2026-06-10T17:25:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FTSE 100 rises but profit warning rocks WH Smith",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/donald-trump-iran-aim-middle-east-local-government-b2993424.html",
+      "published_date": "2026-06-10T16:24:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK retail bosses warn government taxes ‘making it harder to hire young people’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/government-taxes-tesco-sainsburys-jobs-unemployment-b2993376.html",
+      "published_date": "2026-06-10T15:35:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "No incentive for hospitality to hire inexperienced under-21s, pub boss warns",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/fuller-government-policy-pub-press-association-government-b2993181.html",
+      "published_date": "2026-06-10T15:07:42+00:00",
+      "category": "Economy"
     },
     {
       "title": "Peter Kyle’s quest for UK’s first $1tn firm is worthwhile, but he is overselling state activism",
@@ -501,206 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "South West Water owner admits firm must ‘learn lessons’ from parasite outbreak",
+      "title": "Rioting breaks out for second night near Belfast as masked protesters clash with police",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/south-west-water-pennon-brixham-parasite-b2993144.html",
-      "published_date": "2026-06-10T11:00:10+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/belfast-riot-attack-police-newtownabbey-b2993645.html",
+      "published_date": "2026-06-10T23:53:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pub chain Fuller’s hopes for bumper summer of World Cup and staycations",
+      "title": "Police use water cannon against rioters in Northern Ireland",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/10/pub-chain-fullers-hopes-world-cup-england-matches",
-      "published_date": "2026-06-10T09:10:05+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/jun/10/police-use-water-cannon-against-rioters-in-northern-ireland",
+      "published_date": "2026-06-10T23:39:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "HMRC releases new details on inheritance tax changes for pensions",
+      "title": "Water cannon fired in latest disorder after Belfast knife attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1dypzw1d29o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T23:02:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brunel’s SS Great Britain site drops historical name in ‘cool’ rebrand",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/11/ss-great-britain-maritime-landmark-rebrand-bristol-dockyards",
+      "published_date": "2026-06-10T23:01:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First time buyers can buy four homes in this northern town for the price of one in St Albans, new study shows",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/money/first-time-buyers-house-prices-uk-north-south-rightmove-b2993332.html",
+      "published_date": "2026-06-10T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sole Air India crash survivor ‘struggling financially’ after receiving just £21k to support young family",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/air-india-plane-crash-vishwash-kumar-ramesh-b2993366.html",
+      "published_date": "2026-06-10T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elon Musk’s X not facing action from UK government over posts inciting violence in Belfast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/10/elon-musk-x-not-face-action-uk-government-posts-inciting-violence-belfast",
+      "published_date": "2026-06-10T19:54:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farage suddenly returns to political stage – but dodges questions about £5m gift",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/10/farage-suddenly-returns-to-political-stage-but-dodges-questions-about-5m-gift",
+      "published_date": "2026-06-10T19:32:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Keir Starmer aides ‘war-gaming’ leadership contest with Andy Burnham",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/10/keir-starmer-aides-war-gaming-over-leadership-contest-with-andy-burnham",
+      "published_date": "2026-06-10T18:49:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A&E patients with non-urgent ailments may be told to come back later under NHS plans",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jun/10/patients-accident-emergency-non-urgent-ailments-nhs-plans-overcrowding",
+      "published_date": "2026-06-10T18:32:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T18:20:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "School knife attack suspect girl detained under Mental Health Act",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/manchester-coop-academy-school-stabbing-b2993479.html",
+      "published_date": "2026-06-10T18:08:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Laurence Olivier honoured with blue plaque unveiled by Ian McKellen",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/stage/2026/jun/10/laurence-olivier-honoured-with-blue-plaque-unveiled-by-ian-mckellen",
+      "published_date": "2026-06-10T18:01:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Girl, 14, sectioned after three stabbed in school knife attack",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/hmrc-releases-new-details-on-inheritance-tax-changes-for-pensions-13552586",
-      "published_date": "2026-06-10T07:36:00+00:00",
-      "category": "Economy"
+      "url": "https://news.sky.com/story/girl-14-sectioned-after-two-pupils-and-staff-member-stabbed-at-school-13552816",
+      "published_date": "2026-06-10T17:50:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Nike charges World Cup fans the most for replica shirts after price surge",
+      "title": "Ben Jennings on Britain’s anti-immigration protests – cartoon",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/10/nike-charges-world-cup-fans-most-replica-shirts-prices-surge",
-      "published_date": "2026-06-10T07:00:13+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/jun/10/ben-jennings-britain-anti-immigration-protests-cartoon",
+      "published_date": "2026-06-10T17:39:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Salary sacrifice: max out this pension tax break while you can",
+      "title": "The Guardian view on far-right violence: digital radicalisation is threatening democracy | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jun/10/salary-sacrifice-pension-tax-break-uk-scheme",
-      "published_date": "2026-06-10T06:00:13+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/the-guardian-view-on-far-right-violence-digital-radicalisation-is-threatening-democracy",
+      "published_date": "2026-06-10T17:30:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Most Makerfield voters say offensive posts would put them off candidate, poll finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/10/makerfield-byelection-voters-poll-social-media-posts-water-wealth-tax",
-      "published_date": "2026-06-10T05:00:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "World-leading UK science facilities at risk amid £162m funding crisis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/jun/10/world-leading-uk-science-facilities-funding-crisis",
-      "published_date": "2026-06-10T05:00:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bill debt soars but many don't know help is available",
+      "title": "Sara Sharif's siblings to stay in Pakistan",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T23:03:32+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/ckg5zxng4lyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T17:26:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Cattle in England to get tuberculosis vaccine from 2030 as badger cull to end",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/10/cattle-tuberculosis-vaccine-badger-cull-england",
-      "published_date": "2026-06-09T23:01:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "What we know about Belfast attack and disorder",
+      "title": "Alleged hitman mimed shooting police during arrest",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly0d13e4geo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-10T14:18:16+00:00",
+      "url": "https://www.bbc.com/news/articles/c1lygry7n0qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T16:58:13+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man jailed for bringing dog lead ‘knuckleduster’ to Henry Nowak police protest",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/henry-nowak-protest-daniel-frost-reece-robinson-b2993178.html",
-      "published_date": "2026-06-10T14:17:27+00:00",
+      "title": "The view from Belfast after a night of violent protests - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/jun/10/belfast-protests-homes-cars-torched-violence-the-latest-podcast",
+      "published_date": "2026-06-10T16:11:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Manhunt after prisoner escapes van in Woolwich",
+      "title": "Five jailed for violence at Henry Nowak police protest",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy8d7jxepr2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-10T14:12:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family of Belfast victim appeals for calm and stresses ‘deeply valuable contribution’ of many migrants – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
-      "published_date": "2026-06-10T14:09:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why pint prices have jumped by almost a quarter since last World Cup",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/world-cup-england-scotland-pint-price-pubs-b2993030.html",
-      "published_date": "2026-06-10T13:59:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three arrested over Glasgow disorder and racist assaults after Belfast knife attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr5jme6ld54o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-10T13:57:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will there be another heatwave this weekend? Temperatures set to rise above 30C again in latest Met Office forecast",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/heatwave-uk-met-office-weather-forecast-b2993024.html",
-      "published_date": "2026-06-10T13:36:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Westminster leaders call for calm as they condemn 'horrific' Belfast attack – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global/video/2026/jun/10/westminster-leaders-call-for-calm-condemn-horrific-belfast-attack-video",
-      "published_date": "2026-06-10T13:22:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do not use our tragedy to fuel violence, family of Belfast attack victim say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/10/do-not-use-our-tragedy-to-fuel-violence-family-of-belfast-attack-victim-say",
-      "published_date": "2026-06-10T12:58:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belfast stabbing victim’s family condemn riots and say ‘unrest is unwelcome’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/belfast-stabbing-victim-stephen-ogilvie-riots-b2993196.html",
-      "published_date": "2026-06-10T12:52:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belfast attack suspect named as he appears in court charged with attempted murder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/belfast-knife-attack-suspect-hadi-alodid-court-b2993082.html",
-      "published_date": "2026-06-10T12:10:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sentencing Palestine Action protesters as terrorists would be ‘constitutional threat’, says lawyer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/10/four-palestine-action-protesters-terrorists-constitutional-threat",
-      "published_date": "2026-06-10T11:58:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cars burn in Belfast, bricks fly in Southampton – and the ubiquitous cry of ‘civil war’ goes up again | John Harris",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/belfast-southampton-civil-war-anti-immigrant-online",
-      "published_date": "2026-06-10T11:25:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manhunt for prisoner who escaped from van as police release image",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/manhunt-for-prisoner-who-escaped-from-van-as-police-release-image-13552672",
-      "published_date": "2026-06-10T11:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hadi Alodid: Man charged over Belfast stabbing was asylum seeker who came to UK from Sudan",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/belfast-stabbing-suspect-hadi-alodid-asylum-seeker-uk-sudan-b2993152.html",
-      "published_date": "2026-06-10T11:09:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS doctor who admitted hating British weather chat fired for lack of communication skills",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-doctor-weather-belarus-maryna-anatolyeva-b2993151.html",
-      "published_date": "2026-06-10T11:08:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London Pride 2026: Parade route, stage line-ups and performers in full",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/london-pride-2026-parade-route-date-performers-stages-b2992442.html",
-      "published_date": "2026-06-10T11:06:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King Charles approves extra World Cup bank holiday for Scotland this month – but England could miss out",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/bank-holiday-world-cup-scotland-king-charles-england-uk-b2993020.html",
-      "published_date": "2026-06-10T10:30:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belfast residents run from burning homes as violence erupts after protests – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/video/2026/jun/10/belfast-residents-flee-burning-homes-protests-violence-video",
-      "published_date": "2026-06-10T10:25:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We’re ‘garden-ready’ for World Cup and summer stays, says pub chain Fuller’s",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/fuller-england-scotland-b2993068.html",
-      "published_date": "2026-06-10T09:17:09+00:00",
+      "url": "https://www.bbc.com/news/articles/cwye9v0dy3yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-10T16:06:53+00:00",
       "category": "Local Events"
     }
   ]
