@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-11T14:38:40.415584+00:00",
+  "last_updated": "2026-06-12T00:15:10.175307+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Half of Britons want a second vote on Brexit – including a fifth of Reform voters, major poll finds",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-uk-second-referendum-b2993826.html",
+      "published_date": "2026-06-11T23:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "John Healey quitting defence puts a time bomb under No 10. He is a loyalist: this is no ordinary departure",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/john-healey-quits-defence-secretary",
+      "published_date": "2026-06-11T17:08:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'I haven't left my house, I'm scared' says Mean Girls actor as Belfast shows cancelled over violence",
       "source": "BBC News",
@@ -130,18 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "British travellers told to prepare for six-hour airport queues due to EU entry-exit checks",
+      "title": "Starmer ‘not listening’ says Al Carns who becomes second defence minister to resign in 24 hours - live updates",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/travel/news-and-advice/entry-exit-system-eu-wait-times-queues-uk-summer-b2992170.html",
-      "published_date": "2026-06-09T05:47:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/politics/al-carns-resigns-starmer-john-healey-live-updates-b2994289.html",
+      "published_date": "2026-06-11T23:46:17+00:00",
+      "category": "Military"
     },
     {
-      "title": "Zelenskyy: Ukraine and UK need each other in the battle against Russia – video",
+      "title": "Armed forces minister quits after Healey exit as defence funding row deepens",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gyp8n7g3go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T21:50:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Massive body blow' as PM loses his defence secretary - and another resignation follows",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/john-healey-resigns-massive-body-blow-as-pm-loses-his-defence-secretary-and-another-departure-follows-13553207",
+      "published_date": "2026-06-11T21:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two men convicted in UK of trying to send weapons to conflict zones",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly8vjvzrnjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T21:13:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Keir Starmer faces endgame as John Healey and Al Carns resign over defence spending plans",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/john-healey-quits-defence-secretary-starmer-b2994020.html",
+      "published_date": "2026-06-11T20:32:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK defence funding crisis has been a long time coming",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/video/2026/jun/08/zelenskyy-ukraine-uk-need-each-other-battle-against-russia-video",
-      "published_date": "2026-06-08T19:00:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/jun/11/uk-defence-funding-john-healey-keir-starmer-offer",
+      "published_date": "2026-06-11T19:14:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer stands firm on defence funding plan after John Healey quits",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-defence-funding-plan-john-healey-resigns-b2994242.html",
+      "published_date": "2026-06-11T18:28:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Power games in a pub garden as MPs seek Burnham’s favour in Makerfield",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/11/andy-burnham-makerfield-byelection-labour",
+      "published_date": "2026-06-11T17:12:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Global wars, a depleted military and stubborn Labour MPs: Healey exposes Starmer’s perfect storm",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/11/global-wars-depleted-military-stubborn-labour-john-healey-keir-starmer",
+      "published_date": "2026-06-11T17:09:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why defence funding deal offered to Healey wasn't enough to keep him",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0myvvxk878o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T16:42:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The defence secretary quits with ‘blistering’ criticism of Starmer – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/jun/11/the-defence-secretary-quits-with-blistering-criticism-of-starmer-podcast",
+      "published_date": "2026-06-11T16:39:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defence secretary quits with ‘blistering’ swipe at Starmer - The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/jun/11/defence-secretary-quits-with-blistering-swipe-at-starmer-the-latest",
+      "published_date": "2026-06-11T16:24:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Polite but deadly: John Healey skewers Keir Starmer as he heads for the door | John Crace",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/11/john-healey-resignation-worst-possible-time-keir-starmer",
+      "published_date": "2026-06-11T16:00:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "All the politicians who have left Keir Starmer’s government since 2024 election",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/labour-starmer-john-healey-resigns-b2994120.html",
+      "published_date": "2026-06-11T15:54:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "John Healey’s departure shows even the most sturdy MPs have a breaking point",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/11/john-healey-defence-secretary-departure-less-surprise-than-might-seem",
+      "published_date": "2026-06-11T14:56:59+00:00",
+      "category": "Military"
     },
     {
       "title": "Who could replace John Healey as defence secretary?",
@@ -179,109 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "What is Keir Starmer’s plan to increase UK defence spending and is it affordable?",
+      "title": "They were driven from their homelands by violence – now Belfast riots have placed refugees under fresh attack",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/john-healey-resigns-defence-spending-plan-uk-army-b2993973.html",
-      "published_date": "2026-06-11T13:11:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "John Healey resignation letter: what it said and what he meant",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/11/john-healey-defence-secretary-resignation-letter-what-it-said-meant",
-      "published_date": "2026-06-11T13:04:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK economy expected to show signs of Iran war impact as fuel prices soar",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-economy-iran-war-fuel-prices-b2993969.html",
-      "published_date": "2026-06-11T12:46:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defence Secretary John Healey's resignation letter in full",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgjx64yl7z9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-11T11:55:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defence secretary John Healey’s resignation letter in full",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/john-healey-resignation-letter-in-full-defence-secretary-b2993931.html",
-      "published_date": "2026-06-11T11:48:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Heathrow passenger numbers dip as Iran war impact lingers on",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/travel/news-and-advice/heathrow-airport-flights-passengers-middle-east-b2993860.html",
-      "published_date": "2026-06-11T10:23:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wizz Air sees earnings drop after £43 million hit from Iran war",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/wizz-air-iran-middle-east-tel-aviv-cyprus-b2993776.html",
-      "published_date": "2026-06-11T07:15:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK military chief writes to PM amid worry over defence spending plan",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/military-chief-writes-to-pm-in-unusual-move-as-hopes-of-major-announcement-this-week-dashed-13552902",
-      "published_date": "2026-06-11T00:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Scotland fans arrive in the US as World Cup anticipation builds",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1jyd680yrgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-10T22:21:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US inflation surges to three-year high of 4.2%",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-10T14:08:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WH Smith raises £100m as it warns on profits due to Iran war",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/10/wh-smith-shut-stories-profit-warning-iran-war-airport-middle-east",
-      "published_date": "2026-06-10T13:57:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starmer dithering over defence spending, says Badenoch",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckg4rknndjeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-10T13:25:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Americans are paying a growing financial price for Iran war",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/americans-are-paying-a-growing-financial-price-for-iran-war-13552690",
-      "published_date": "2026-06-10T12:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WH Smith asks investors to raise £100m as Iran war and falling passenger numbers hit profits",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/wh-smith-iran-war-profits-stores-b2993148.html",
-      "published_date": "2026-06-10T11:59:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK ‘missing in action’ as Iran war hits farmers around the world",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/climate-change/iran-war-uk-trade-food-farmers-aid-b2992647.html",
-      "published_date": "2026-06-10T10:42:17+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/belfast-riots-protest-stabbing-ogilvie-alodid-b2994126.html",
+      "published_date": "2026-06-11T20:42:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Dozens of crisis payments handed out by council",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "UK's last outstanding coal mine plan rejected",
+      "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c992vzv0595o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T11:19:49+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T23:30:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why the economics makes this the craziest world cup ever",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T23:07:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Record number of young people fear long-term unemployment",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jun/12/young-people-fear-long-term-unemployment-work",
+      "published_date": "2026-06-11T23:01:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The UK defence minister's shock resignation is a warning for all of Europe | Paul Taylor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/uk-defence-minister-shock-resignation-warning-europe",
+      "published_date": "2026-06-11T17:20:50+00:00",
+      "category": "Economy"
     },
     {
       "title": "Andy Burnham rules out paying compensation to Waspi women",
@@ -536,171 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Princess Diana barrister accused of setting up ‘elaborate’ system to avoid paying £2m in tax",
+      "title": "Girl charged with attempted murder after Manchester school stabbing",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/princess-diana-hmrc-robert-venables-tax-southwark-b2993481.html",
-      "published_date": "2026-06-10T17:52:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK minister defends changes to student loans as criticism mounts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jun/10/uk-minister-defends-changes-to-student-loans-as-pressure-grows-for-reforms",
-      "published_date": "2026-06-10T17:25:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FTSE 100 rises but profit warning rocks WH Smith",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/donald-trump-iran-aim-middle-east-local-government-b2993424.html",
-      "published_date": "2026-06-10T16:24:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK retail bosses warn government taxes ‘making it harder to hire young people’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/government-taxes-tesco-sainsburys-jobs-unemployment-b2993376.html",
-      "published_date": "2026-06-10T15:35:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nearly 3,000 NHS patients a day receiving corridor care in England, figures show",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jun/11/nhs-patients-receiving-corridor-care-england-official-figures",
-      "published_date": "2026-06-11T14:28:01+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/coop-academy-knife-attack-blackley-manchester-b2994384.html",
+      "published_date": "2026-06-11T23:45:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Nurses ‘terrified’ as migrant workers targeted in racist attacks during Belfast disorder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/belfast-riots-nurses-healthcare-racist-attack-b2994040.html",
-      "published_date": "2026-06-11T14:23:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "John Healey resigns as defence secretary in disagreement with Starmer over spending – UK politics live",
+      "title": "CBS News to hire Sky News presenter Trevor Phillips as global correspondent",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
-      "published_date": "2026-06-11T14:19:03+00:00",
+      "url": "https://www.theguardian.com/media/2026/jun/11/cbs-news-trevor-phillips-sky-news",
+      "published_date": "2026-06-11T23:30:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two arrests and three police officers injured in protest at asylum hotel",
+      "title": "UK school leavers and new students to be offered meningitis B vaccine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jun/12/uk-school-leavers-and-new-students-to-be-offered-meningitis-b-vaccine",
+      "published_date": "2026-06-11T23:01:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lupus patients in England in remission after pioneering NHS trial of GM therapy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/jun/12/lupus-patients-in-remission-england-nhs-trial-genentically-modified-t-cell-therapy",
+      "published_date": "2026-06-11T23:01:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Girl, 14, charged in connection with triple stabbing at school in Manchester",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/11/counter-terror-unit-investigates-triple-stabbing-at-school-in-manchester",
+      "published_date": "2026-06-11T22:35:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farage accused of sinking to ‘new low’ after reinstating Reform councillor behind racist social media post",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/reform-sunderland-councillor-racist-post-glenn-gibbins-farage-b2994127.html",
+      "published_date": "2026-06-11T22:08:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tartan Army feels the heat in Boston as World Cup kicks off",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2dyxgzgj86o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-11T14:18:51+00:00",
+      "url": "https://www.bbc.com/news/articles/cj9g02g399mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T21:56:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Belfast riots latest: Police warn rioters ‘the stakes are high’ as UK officers sent to Northern Ireland",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/belfast-attack-riots-stabbing-latest-updates-protests-hadi-alodid-b2993733.html",
-      "published_date": "2026-06-11T14:07:26+00:00",
+      "title": "Natural history GCSE to teach teenagers to plant wildflower-friendly gardens",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/jun/11/natural-history-gcse-to-teach-teenagers-to-plant-wildflower-friendly-gardens",
+      "published_date": "2026-06-11T21:30:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Paper plant closure fears spark community protest",
+      "title": "Protests pass off without major incident after two nights of unrest",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gyl04ek7mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-11T13:22:27+00:00",
+      "url": "https://www.bbc.com/news/articles/c4gyl9v02y5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T21:25:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Police officer, 19, dies after being hit by vehicle while responding to car crash",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/jess-turnbull-northumbria-police-cramlington-crash-b2993922.html",
-      "published_date": "2026-06-11T13:04:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brothers who were racing home guilty of killing man and seriously injuring son",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c802ve5xvp1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-11T12:44:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police fire plastic bullets in effort to contain race riots in Northern Ireland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/11/police-psni-plastic-bullets-race-riots-northern-ireland",
-      "published_date": "2026-06-11T12:31:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Care worker fears being parted from unborn child and family after Home Office ‘go home’ letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/11/woman-fears-separated-unborn-baby-home-office-sends-go-home-letters-husband-daughter",
-      "published_date": "2026-06-11T12:31:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why pint prices have jumped by almost a quarter since last World Cup",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/world-cup-england-scotland-pint-price-pubs-b2993030.html",
-      "published_date": "2026-06-11T11:55:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police officer, 19, dies from crash injuries",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c621l2nkz4ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-11T11:54:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cleanup footage shows aftermath of Belfast anti-immigration violence – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/video/2026/jun/11/cleanup-footage-aftermath-belfast-anti-immigration-violence-video",
-      "published_date": "2026-06-11T11:47:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northumbria police officer, 19, dies after being struck by car",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/11/northumbria-police-officer-19-dies-after-being-struck-by-car",
-      "published_date": "2026-06-11T11:46:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'I'm no cold-blooded professional hitman', says Norwegian teen accused of UK assassination plot",
+      "title": "Counter-terror police lead school stabbing probe as girl, 14, charged with attempted murder",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/norwegian-teen-accused-of-uk-assassination-plot-says-im-no-cold-blooded-professional-hitman-13553012",
-      "published_date": "2026-06-11T11:18:00+00:00",
+      "url": "https://news.sky.com/story/girl-charged-with-attempted-murder-over-school-stabbing-that-left-three-injured-as-counter-terror-police-lead-probe-13553198",
+      "published_date": "2026-06-11T21:08:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Police push tech firms to make stolen phones unusable for thieves",
+      "title": "Child killer 'looked asleep' after stabbing, prison officer tells murder trial",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/police-push-tech-firms-to-make-stolen-phones-unusable-for-thieves-13552918",
-      "published_date": "2026-06-11T11:12:00+00:00",
+      "url": "https://news.sky.com/story/child-killer-kyle-bevan-looked-asleep-after-stabbing-at-hmp-wakefield-prison-officer-tells-murder-trial-13553163",
+      "published_date": "2026-06-11T20:42:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Essex Police receive new information after David Sullivan allegations",
+      "title": "Counter-terrorism police leading probe into school stabbing in Manchester",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/essex-police-david-sullivan-allegations-b2993789.html",
-      "published_date": "2026-06-11T10:55:31+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/blackley-school-stabbing-manchester-counter-terrorism-police-b2994323.html",
+      "published_date": "2026-06-11T20:31:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Three Manchester United players prosecuted for speeding",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/manchester-united-stars-harry-maguire-and-matheus-cunha-prosecuted-for-speeding-13552994",
-      "published_date": "2026-06-11T10:35:00+00:00",
+      "title": "‘My kids are crying’: list of targeted addresses stokes fears across Belfast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/11/belfast-northern-ireland-list-addresses-social-media-riots-violence",
+      "published_date": "2026-06-11T20:20:05+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The northern town where you can buy four homes for the price of one in St Albans",
+      "title": "London Stadium and West Ham women's team not aware of David Sullivan contact ban",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c862wpn8e4xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T20:03:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Counter-terrorism police leading school stabbing inquiry",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czxq5711xlgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T18:37:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Villagers take fight against Lidl store plans to Welsh government",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78y55dkny3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T18:07:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asylum seekers moved out of Epping hotel targeted by far-right protesters",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/middlesbrough-st-albans-house-prices-buyers-b2993878.html",
-      "published_date": "2026-06-11T10:28:08+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/epping-bell-hotel-essex-protest-kebatu-b2994173.html",
+      "published_date": "2026-06-11T18:07:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Millions of homes in London, Essex and Kent at risk of sinking as UK heats up",
+      "title": "Asylum hotel vacated after fire safety concerns",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c24ynn0nzp9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T17:49:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "All residents removed from Epping asylum seeker hotel after protests",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/london-essex-kent-subsidence-risk-climate-change-b2993781.html",
-      "published_date": "2026-06-11T10:19:33+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/asylum-seekers-epping-the-bell-hotel-essex-b2994219.html",
+      "published_date": "2026-06-11T17:49:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Helen Mirren speaks out about being called ‘evil Zionist’ on the street in London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/jun/11/helen-mirren-called-evil-zionist-london-response-tom-hardy-mobland",
+      "published_date": "2026-06-11T16:57:08+00:00",
       "category": "Local Events"
     }
   ]
