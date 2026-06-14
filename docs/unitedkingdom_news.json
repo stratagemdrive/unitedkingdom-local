@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-13T23:58:03.677992+00:00",
+  "last_updated": "2026-06-14T13:00:02.531051+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Jo Cox’s sister: ‘Brexit campaign made us see each other as enemies. We’ve never recovered’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/jo-cox-kim-leadbeater-murder-brexit-anniversary-b2994905.html",
+      "published_date": "2026-06-14T12:42:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK and Japan set to agree investment deal worth £18bn",
       "source": "The Guardian",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK’s biggest retailers urge government to act on youth unemployment",
+      "title": "Ministers to look again at defence investment plan after Healey’s resignation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/nandy-defence-spending-healey-resignation-dan-jarvis-b2995402.html",
+      "published_date": "2026-06-14T11:57:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British forces intercept Russian shadow fleet vessel – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/09/uk-top-retailers-government-jobless-young-people",
-      "published_date": "2026-06-09T15:50:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/video/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-video",
+      "published_date": "2026-06-14T11:49:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Labour had their chance – they flopped.’ Two days in Makerfield show me the scale of Burnham’s task | John Harris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/14/makerfield-labour-andy-burnham-reform",
+      "published_date": "2026-06-14T10:46:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tommy Robinson says he has been detained under counter-terror laws at Heathrow airport",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/tommy-robinson-heathrow-aiport-detained-b2995387.html",
+      "published_date": "2026-06-14T10:42:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British armed forces intercept Russian shadow fleet oil tanker in Channel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel",
+      "published_date": "2026-06-14T10:23:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Watch: MOD video shows Russian shadow fleet tanker interception",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/ce8k5kj64lgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T09:40:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defence spending discussions ongoing, says Nandy",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gyx962pepo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T00:42:14+00:00",
+      "category": "Military"
     },
     {
       "title": "New defence secretary Dan Jarvis ‘determined’ to get armed forces ‘precisely’ what they need",
@@ -235,53 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Starmer admits he must ‘turn things around’ as defence resignations rock his leadership",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/labour-starmer-healey-carns-resign-b2994747.html",
-      "published_date": "2026-06-12T14:20:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "I have a duty to stay on, says PM as he justifies defence spending decisions",
+      "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-12T13:59:43+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T12:56:15+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Starmer defends investment on defence as he vows to fight any leadership challenge – UK politics live",
+      "title": "UK poised to water down 2030 EV sales targets after industry and union pressure",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/12/keir-starmer-defence-investment-plan-spending-dan-jarvis-al-cairns-john-healey-latest-news-updates",
-      "published_date": "2026-06-12T13:43:48+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/jun/14/uk-poised-water-down-2030-ev-sales-targets-industry-union-pressure",
+      "published_date": "2026-06-14T12:37:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "'It's my number one priority': UK PM Keir Starmer defends defence spending – video",
+      "title": "Zelenskyy thanks UK for intercepting Russian shadow fleet oil tanker after armed forces board vessel - as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/jun/12/its-my-number-one-priority-uk-pm-keir-starmer-defends-defence-spending-video",
-      "published_date": "2026-06-12T13:35:03+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
+      "published_date": "2026-06-14T12:02:07+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘I’m not going away,’ says Keir Starmer despite defence secretary’s exit",
+      "title": "Wes Streeting plans to increase high-skilled immigration if he becomes PM",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/12/keir-starmer-john-healey-defence-secretary-exit",
-      "published_date": "2026-06-12T13:16:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Dan Jarvis is a fine choice for defence secretary – but how long will he last?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/dan-jarvis-defence-secretary-starmer-labour-b2994664.html",
-      "published_date": "2026-06-12T12:24:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Who is Dan Jarvis, the ‘steely-eyed messenger of death’ taking on the Ministry of Defence?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/who-is-dan-jarvis-defence-secretary-b2994637.html",
-      "published_date": "2026-06-12T11:05:14+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/politics/2026/jun/14/wes-streeting-high-skilled-immigration-labour-leadership-tax-revenue-north-sea-oil-gas",
+      "published_date": "2026-06-14T11:42:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "The Papers:  'PM overrules Miliband' and 'We was robbed!'",
@@ -396,32 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Belfast riots latest: Stabbing victim’s family defend migrants and warn tragedy shouldn’t ‘fuel hostility’",
+      "title": "Experts on the one thing you should leave off your CV when looking for jobs",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/belfast-attack-protests-riots-latest-updates-stabbing-court-b2992939.html",
-      "published_date": "2026-06-10T13:34:40+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/cv-resume-what-to-leave-off-job-b2995432.html",
+      "published_date": "2026-06-14T11:22:35+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Only way to keep British energy prices down is closer ties with Europe, says Starmer’s top negotiator",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-uk-energy-bills-nick-thomas-symonds-b2992607.html",
-      "published_date": "2026-06-10T11:44:20+00:00",
-      "category": "Energy"
+      "title": "Man who built Guernsey finance charity retires",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yzeley5w7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T11:08:09+00:00",
+      "category": "Economy"
     },
     {
-      "title": "China’s BYD aims to be world’s biggest car firm within five years",
+      "title": "‘People start connecting the dots’: why an investment fund is rewilding a North Yorkshire estate",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/10/china-byd-car-firm-ev-maker-toyota",
-      "published_date": "2026-06-10T09:59:19+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/environment/2026/jun/14/why-investment-fund-rewilding-north-yorkshire-estate-rebalance-earth",
+      "published_date": "2026-06-14T11:00:41+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Nothing says stupidity like Reform's obsession with destroying British jobs | George Monbiot",
+      "title": "Cabinet ministers asked to look for cuts to fund UK defence spending increase",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/10/reform-obsession-british-jobs-net-zero-oil-and-gas-fossil-fuel",
-      "published_date": "2026-06-10T07:00:14+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/2026/jun/14/cabinet-ministers-asked-to-look-for-cuts-to-fund-uk-defence-spending-increase",
+      "published_date": "2026-06-14T09:18:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'He's a life saver': The miniature therapy horse that travels by taxi",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9361rqv1wvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T06:59:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why the US economy keeps defying the odds",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T05:14:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Brexit has made Britain poorer – in charts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
+      "published_date": "2026-06-14T05:00:34+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK and Japan poised to seal landmark £18 billion investment deal to create thousands of jobs",
@@ -515,53 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "Have you been mis-sold car finance?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cr47r5323qpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-12T12:41:20+00:00",
-      "category": "Economy"
+      "title": "‘Straight out of Trumpland’: LGBTQ+ members fight for Pride after Essex library ban",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/14/lgbtq-pride-rochford-essex-council-library-ban-reform-uk",
+      "published_date": "2026-06-14T12:00:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How much is the Government spending on defence compared to other priorities?",
+      "title": "Jubilation as Scotland fans celebrate win",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78yxr7dl3mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T11:40:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farage vows to ban foreign nationals from social housing as byelection looms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/14/nigel-farage-vows-ban-social-housing-foreign-nationals-makerfield-byelection",
+      "published_date": "2026-06-14T10:58:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Enter can ban: Council knocks back Metallica gig beer plan",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6e4ee6q7jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T10:16:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ninth person arrested over murder of Ellis Cox",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/ninth-person-arrested-over-murder-of-ellis-cox-police-say-13553935",
+      "published_date": "2026-06-14T10:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London startup to trial drug to prevent cancer therapy side-effect ‘cytokine storm’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/14/london-trial-drug-prevent-cancer-cytokine-storm-poolbeg-pharma",
+      "published_date": "2026-06-14T10:00:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How eight beavers solved a Tube flooding problem engineers have been trying to fix for years",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/uk-defence-spending-dan-jarvis-starmer-b2994645.html",
-      "published_date": "2026-06-12T11:39:23+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/ealing-beaver-project-flooding-greenford-b2992273.html",
+      "published_date": "2026-06-14T07:57:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Oil prices plummet as Trump claims he is close to US-Iran deal",
+      "title": "NHS staff battling wave of food supplement disinformation",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
-      "published_date": "2026-06-12T11:07:33+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/jun/14/nhs-staff-food-supplement-disinformation-cancer-charity-social-media",
+      "published_date": "2026-06-14T07:00:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Barclays to buy GoHenry kids’ debit card and money app",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/12/barclays-buy-gohenry-children-debit-card-money-app-acorns",
-      "published_date": "2026-06-12T11:07:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Can you really travel the world for free? A travel points expert shares her secrets",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/12/travel-credit-card-points-secrets",
-      "published_date": "2026-06-12T11:00:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK economy contracts as Iran war impact felt",
+      "title": "Woman fearful of 'predators' before her death, family say",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-12T10:01:11+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/cgk6xyem7rmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T06:22:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Watch: Three things to know about SpaceX's stock market debut",
+      "title": "Two men charged over theft of England World Cup kit",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-12T08:39:37+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/sport/football/articles/cm2r35lk8ejo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T06:15:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Illegal dump becomes ‘symbol of north-south divide’ at heart of Makerfield byelection",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/14/illegal-dump-symbol-north-south-divide-makerfield-byelection",
+      "published_date": "2026-06-14T06:00:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "David James backs affordable football kit charities",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq61g9r9p7ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T05:45:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Haiti v Scotland was antidote to the ills of world football",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T04:54:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after woman suffers facial injuries in suspected dog attack",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-arrested-after-woman-suffers-facial-injuries-in-suspected-dog-attack-13553840",
+      "published_date": "2026-06-14T00:43:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Funding boost for after-school clubs ahead of expected under-16 social media ban",
@@ -603,104 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/resident-doctors-strike-cancelled-government-offer-b2995278.html",
       "published_date": "2026-06-13T19:49:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rival protesters clash at anti-racism rally in Glasgow",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/counter-protesters-clash-with-anti-racism-rally-in-glasgow-13553808",
-      "published_date": "2026-06-13T19:47:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resident doctors strike in England called off after new government offer",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/doctors-strike-in-england-called-off-after-new-offer-from-government-13553795",
-      "published_date": "2026-06-13T19:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands gather for anti-racism rally in Belfast after disorder",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c20ygdde4djo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-13T19:13:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘My life has been destroyed’: Nine years on, Grenfell survivors want justice – and a chance to move on",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/grenfell-tower-fire-inquiry-latest-news-b2993861.html",
-      "published_date": "2026-06-13T19:03:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two arrested after girl critically injured in loading vehicle incident in Essex",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/13/arrests-girl-critically-injured-loading-vehicle-incident-southend-essex",
-      "published_date": "2026-06-13T18:56:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds flock to Kent village to watch chaotic World Custard Pie Championships",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/world-custard-pie-championships-maidstone-kent-b2995253.html",
-      "published_date": "2026-06-13T18:46:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eight arrested during anti-immigration march",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwydpj0k31no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-13T17:36:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right and anti-racist protesters clash in UK cities after Belfast riots",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/13/far-right-anti-racist-protesters-clash-brighton-liverpool-sheffield-glasgow",
-      "published_date": "2026-06-13T17:30:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rival protesters clash at Glasgow anti-racism rally after days of disorder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/glasgow-anti-racism-rally-protesters-clash-b2995234.html",
-      "published_date": "2026-06-13T16:52:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fraudster jailed after scamming London renters out of £77,000",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/12/fraudster-jailed-scamming-london-renters",
-      "published_date": "2026-06-13T16:38:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anti-racism rally disrupted by masked group in Glasgow",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yzerz5124o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-13T16:25:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham warns UK is heading for ‘poisonous’ politics of US under Starmer leadership",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-starmer-criticism-makerfield-byelection-b2995158.html",
-      "published_date": "2026-06-13T16:08:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands attend Belfast anti-racism rally after days of violent protests",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/belfast-anti-racism-rally-knife-attack-ogilvie-alodid-b2995191.html",
-      "published_date": "2026-06-13T14:34:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested after girl, 17, stabbed in the neck in Lancashire",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/girl-stabbed-lancashire-police-brierfield-b2995180.html",
-      "published_date": "2026-06-13T14:21:09+00:00",
       "category": "Local Events"
     }
   ]
