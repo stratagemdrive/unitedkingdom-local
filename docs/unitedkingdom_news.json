@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-14T13:00:02.531051+00:00",
+  "last_updated": "2026-06-15T00:00:54.776220+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Starmer heads to the G7 summit as his defence plan lies in tatters",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/starmer-g7-summit-defence-spending-trump-b2995494.html",
+      "published_date": "2026-06-14T21:01:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Brexit is not done’: Civil servant who oversaw Britain’s exit from the EU calls for debate over rejoining the bloc",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-rejoin-philip-rycroft-starmer-b2988137.html",
+      "published_date": "2026-06-14T14:49:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Jo Cox’s sister: ‘Brexit campaign made us see each other as enemies. We’ve never recovered’",
       "source": "The Independent",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Crackdown on tech platforms will go ahead despite US intervention, says No 10",
+      "title": "New defence secretary to ‘reprioritise’ UK plan for military spending, say sources",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/09/crackdown-on-tech-platforms-will-go-ahead-despite-us-intervention-says-no-10",
-      "published_date": "2026-06-09T17:47:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/jun/14/defence-secretary-dan-jarvis-uk-plan-military-spending-dip",
+      "published_date": "2026-06-14T21:53:23+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK and allies impose sanctions on firms enabling West Bank settler violence",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/09/uk-imposes-sanctions-firms-enabling-settler-violence-west-bank",
-      "published_date": "2026-06-09T17:08:44+00:00",
-      "category": "Diplomacy"
+      "title": "Dan Jarvis is a fine choice for defence secretary – but how long will he last?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/dan-jarvis-defence-secretary-starmer-labour-b2994664.html",
+      "published_date": "2026-06-14T15:12:42+00:00",
+      "category": "Military"
     },
     {
       "title": "Ministers to look again at defence investment plan after Healey’s resignation",
@@ -235,6 +249,13 @@
       "category": "Military"
     },
     {
+      "title": "I have a duty to stay on, says PM as he justifies defence spending decisions",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-12T21:09:34+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Derbyshire police officer investigated over AI-generated ‘evidential material’",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/technology/2026/jun/12/police-officer-under-criminal-investigation-over-alleged-use-of-ai",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "US urges Starmer to boost UK military strength with ‘urgency’",
+      "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T23:37:39+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Jurors, lawyers and social workers face 'resilience test' in inaccessible courts",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg701z0p01o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T23:29:55+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Streeting backs new North Sea drilling and says he would increase high-skilled immigration if he becomes PM",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-defence-washington-trump-funding-b2994769.html",
-      "published_date": "2026-06-12T15:27:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defence row exposes tensions over how to keep UK safe",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8d2q84y1gno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-12T14:46:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What we found out in Starmer's BBC interview",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/czj8d2p12wvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-12T14:29:46+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/politics/wes-streeting-north-sea-oil-gas-immigration-leadership-b2995444.html",
+      "published_date": "2026-06-14T16:01:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
@@ -403,25 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Belfast stabbing victim’s family condemn riots and plead: ‘Don’t use tragedy to fuel hostility’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/belfast-stabbing-victim-stephen-ogilvie-riots-b2993196.html",
-      "published_date": "2026-06-10T21:35:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump: 'I love the inflation'",
+      "title": "As more US business owners retire many are selling up to their staff",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c0rygjggl7zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-10T17:05:20+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T23:26:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "DCC ‘minded’ to agree deal with consortium after higher £5.7bn approach",
+      "title": "Why you might not be buying the right pain relief for period cramps",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c932pex1vpwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T23:10:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Experts on why June saw an ‘unusual’ house price fall",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/london-ftse-ireland-dublin-zurich-b2993273.html",
-      "published_date": "2026-06-10T13:56:42+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/house-price-drop-rightmove-rent-b2995440.html",
+      "published_date": "2026-06-14T22:45:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK and Japan agree £18bn investment deal",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T20:29:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Running a small business has become almost impossible | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/14/running-a-small-business-has-become-almost-impossible",
+      "published_date": "2026-06-14T16:15:48+00:00",
+      "category": "Economy"
     },
     {
       "title": "Experts on the one thing you should leave off your CV when looking for jobs",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Urgent recall after milk found in dairy-free chocolate bar sold in UK supermarkets",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/chocolate-bar-recall-uk-milk-allergy-buttermilk-confections-b2994721.html",
-      "published_date": "2026-06-12T14:11:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Healey showdown raises fresh questions over Starmer-Reeves power dynamic",
+      "title": "Globally significant volcanic event formed Giant’s Causeway, scientists find",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/12/john-healey-rachel-reeves-keir-starmer-uk-politics",
-      "published_date": "2026-06-12T14:11:01+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/science/2026/jun/15/globally-significant-volcanic-event-giants-causeway-scientists",
+      "published_date": "2026-06-14T23:01:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Murderer drove 50 miles with partner and children in car to kill business associate over debts",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/ben-wazabanga-murder-ayowale-aladejana-new-cross-b2994737.html",
-      "published_date": "2026-06-12T13:59:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Starmer latest: PM vows to fight Burnham if ‘chaotic’ leadership election is triggered",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-resignations-latest-updates-healey-carns-jarvis-b2994471.html",
-      "published_date": "2026-06-12T13:55:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Reeves grudgingly resorts to departmental salami slicing to fund UK defence budget",
+      "title": "UK hypermobility sufferers wait up to 21 years for diagnosis, study suggests",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/12/rachel-reeves-departmental-salami-slicing-uk-defence-budget-keir-starmer",
-      "published_date": "2026-06-12T13:00:37+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/jun/15/uk-hypermobility-sufferers-wait-diagnosis-study-ehlers-danlos",
+      "published_date": "2026-06-14T23:01:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attempt to reintroduce assisted dying bill sparks new Labour civil war",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/assisted-dying-bill-labour-civil-war-b2995585.html",
+      "published_date": "2026-06-14T22:37:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gatwick Airport traffic: Passengers stranded after sinkholes force closure of major rail route",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/gatwick-airport-traffic-trains-purley-b2995528.html",
+      "published_date": "2026-06-14T22:20:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Network Rail apologises after sinkholes cause delays for Gatwick passengers",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/network-rail-apologises-after-sinkholes-cause-delays-for-gatwick-passengers-13554168",
+      "published_date": "2026-06-14T22:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘A giant of the labour movement’: Roy Hattersley, former Labour deputy leader, dies aged 93",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/14/roy-hattersley-the-former-labour-deputy-leader-dies-aged-93",
+      "published_date": "2026-06-14T21:21:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farage vows to ban foreign nationals from social housing",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdjkd4mp93zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T19:57:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grenfell survivors embrace firefighters at emotional anniversary march",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/grenfell-tower-anniversary-march-firefighters-b2995554.html",
+      "published_date": "2026-06-14T19:28:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Glasgow race attacks a 'mark against the reputation of the city'",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3wy8jqg21xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T17:57:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police arrest 14 at rival protests over Israeli property event in London",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/14/rival-protests-take-place-over-israeli-property-event-in-london",
+      "published_date": "2026-06-14T17:47:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police stop Tommy Robinson on his way back to London from Russian trip",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/14/police-stop-tommy-robinson-way-back-london-from-russia",
+      "published_date": "2026-06-14T17:24:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on disability rights: the removal of legal safeguards brings risks | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/14/the-guardian-view-on-disability-rights-the-removal-of-legal-safeguards-brings-risks",
+      "published_date": "2026-06-14T16:30:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "15 arrested after clashes at protest outside London synagogue",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/synagogue-protest-clash-arrests-edgware-b2995495.html",
+      "published_date": "2026-06-14T15:52:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MP opens up on 30-year fight for period healthcare",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgrknv9qvx4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T15:50:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigel Farage vows to evict all foreign nationals from social housing if Reform gains power",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/farage-substack-housing-migrant-policy-b2995420.html",
+      "published_date": "2026-06-14T15:30:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministers could give billions raised by business rates to England’s regions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/14/ministers-could-give-billions-raised-by-business-rates-to-englands-regions",
+      "published_date": "2026-06-14T15:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rugby captain starts 500-mile cycle after MND diagnosis",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy06p665k2yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T12:35:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tommy Robinson says he was stopped at Heathrow by police",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1kym193k7po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T12:31:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attempted murder charge after girl stabbed in street",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvge97g2r07o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T12:11:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Straight out of Trumpland’: LGBTQ+ members fight for Pride after Essex library ban",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/14/lgbtq-pride-rochford-essex-council-library-ban-reform-uk",
       "published_date": "2026-06-14T12:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jubilation as Scotland fans celebrate win",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78yxr7dl3mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-14T11:40:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farage vows to ban foreign nationals from social housing as byelection looms",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/14/nigel-farage-vows-ban-social-housing-foreign-nationals-makerfield-byelection",
-      "published_date": "2026-06-14T10:58:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Enter can ban: Council knocks back Metallica gig beer plan",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd6e4ee6q7jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-14T10:16:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ninth person arrested over murder of Ellis Cox",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/ninth-person-arrested-over-murder-of-ellis-cox-police-say-13553935",
-      "published_date": "2026-06-14T10:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London startup to trial drug to prevent cancer therapy side-effect ‘cytokine storm’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/14/london-trial-drug-prevent-cancer-cytokine-storm-poolbeg-pharma",
-      "published_date": "2026-06-14T10:00:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How eight beavers solved a Tube flooding problem engineers have been trying to fix for years",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ealing-beaver-project-flooding-greenford-b2992273.html",
-      "published_date": "2026-06-14T07:57:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS staff battling wave of food supplement disinformation",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jun/14/nhs-staff-food-supplement-disinformation-cancer-charity-social-media",
-      "published_date": "2026-06-14T07:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman fearful of 'predators' before her death, family say",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgk6xyem7rmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-14T06:22:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men charged over theft of England World Cup kit",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cm2r35lk8ejo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-14T06:15:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Illegal dump becomes ‘symbol of north-south divide’ at heart of Makerfield byelection",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/14/illegal-dump-symbol-north-south-divide-makerfield-byelection",
-      "published_date": "2026-06-14T06:00:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "David James backs affordable football kit charities",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq61g9r9p7ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-14T05:45:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Haiti v Scotland was antidote to the ills of world football",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-14T04:54:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested after woman suffers facial injuries in suspected dog attack",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-arrested-after-woman-suffers-facial-injuries-in-suspected-dog-attack-13553840",
-      "published_date": "2026-06-14T00:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funding boost for after-school clubs ahead of expected under-16 social media ban",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/after-school-club-social-media-ban-b2995209.html",
-      "published_date": "2026-06-13T22:42:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tommy Robinson detained at Heathrow under counter-terrorism laws",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/13/tommy-robinson-detained-at-heathrow-under-counter-terrorism-laws",
-      "published_date": "2026-06-13T22:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resident doctors in England call off strike action after new government offer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jun/13/resident-doctors-in-england-call-off-strike-action-after-new-government-offer",
-      "published_date": "2026-06-13T21:39:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK government announces £132.5m after-school clubs package",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/jun/13/uk-government-announces-1325m-after-school-clubs-package",
-      "published_date": "2026-06-13T21:30:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resident doctors cancel strike after new offer from government",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-13T20:46:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resident doctors call off four-day strike after new government offer",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/resident-doctors-strike-cancelled-government-offer-b2995278.html",
-      "published_date": "2026-06-13T19:49:15+00:00",
       "category": "Local Events"
     }
   ]
