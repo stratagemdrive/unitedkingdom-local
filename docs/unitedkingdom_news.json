@@ -1,13 +1,34 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-15T16:18:25.772746+00:00",
+  "last_updated": "2026-06-16T00:23:01.360251+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Starmer to unveil fresh sanctions on Russian shadow fleet vessels and support for Ukrainian energy",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/ukraine-war-russia-sanctions-starmer-g7-b2996085.html",
+      "published_date": "2026-06-15T21:30:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine",
+      "published_date": "2026-06-15T21:30:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Reform plans to tear up key plank of Brexit deal as it vows to hike taxes for employers hiring foreign workers",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/migrant-workers-taxes-reform-jenrick-brexit-b2995907.html",
       "published_date": "2026-06-15T15:50:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Captain of Russian shadow fleet tanker detained by UK has been charged",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/captain-of-russian-shadow-fleet-tanker-detained-by-uk-has-been-charged-13554350",
+      "published_date": "2026-06-15T13:21:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "China’s Jingye seeks compensation from UK over British Steel takeover",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/11/china-jingye-compensation-uk-british-steel-takeover",
-      "published_date": "2026-06-11T09:06:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Reform and Restore are both hard right and poisonous – but their differences could be their undoing | Andy Beckett",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/11/reform-restore-hard-right-poisonous-ideological-divergence",
-      "published_date": "2026-06-11T07:00:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rapist released in error fled UK on Eurostar",
+      "title": "Scotland fans call for better crowd system at next World Cup match",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c07y9py101yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-10T14:56:48+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/cwy0eg99pz4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-15T22:00:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defence secretary quizzed by MPs over timing of Russian oil tanker seizure",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/15/defence-secretary-dan-jarvis-healey-quitting-tanker-seizure",
+      "published_date": "2026-06-15T19:29:20+00:00",
+      "category": "Military"
     },
     {
       "title": "UK 16 and 17-year-olds: we would like to hear your views on the government’s social media ban for under-16s",
@@ -270,18 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "British armed forces intercept Russian shadow fleet oil tanker in Channel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel",
-      "published_date": "2026-06-14T10:23:34+00:00",
-      "category": "Military"
+      "title": "UK energy debt crisis deepens for millions ahead of price cap rise",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-energy-debt-price-cap-b2996092.html",
+      "published_date": "2026-06-15T23:01:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Watch: MOD video shows Russian shadow fleet tanker interception",
+      "title": "Streeting sets out plans to tear up planning rules and net zero policies if he becomes PM",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/wes-streeting-speech-prime-minister-labour-leader-planning-energy-b2996066.html",
+      "published_date": "2026-06-15T22:27:42+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Indian captain arrested in Russian shadow fleet oil tanker charged with contravening",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/captain-arrested-ajay-pant-russian-oil-tanker-b2996198.html",
+      "published_date": "2026-06-15T22:07:29+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "PC who died in line of duty parents' 'greatest joy'",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/ce8k5kj64lgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-14T09:40:53+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/ce3e0x22rd0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-15T16:10:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Oil prices hit three-month low and markets rally amid Iran deal breakthrough",
@@ -396,32 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Tropical heron spotted in UK for first time as more exotic birds arrive to thrill birdwatchers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/13/tropical-heron-spotted-first-time-uk-aoe",
-      "published_date": "2026-06-13T07:00:08+00:00",
-      "category": "Energy"
+      "title": "Leaking sewage, rats and bedbugs widespread in NHS workplaces, staff claim",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-staff-sewage-rats-buildings-uk-unison-b2996083.html",
+      "published_date": "2026-06-15T23:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "How doing a wash while you watch the World Cup at 2am could cut energy bills",
+      "title": "The politics of intergenerational wealth inequality | Letters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jun/13/how-doing-a-wash-while-you-watch-the-world-cup-at-2am-could-cut-energy-bills",
-      "published_date": "2026-06-13T06:00:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The right has created a false reality – fuelled by toxic images delivered straight to your phone | Jason Okundaye",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/13/right-false-reality-toxic-images-riots-belfast-southampton",
-      "published_date": "2026-06-13T05:00:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Arrest over man missing for 3 years as police search site for remains",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyd439ylr2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-12T12:16:47+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/inequality/2026/jun/15/the-politics-of-intergenerational-wealth-inequality",
+      "published_date": "2026-06-15T17:17:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Reform accused of proposing tax cuts worth £40bn to boost chances in Makerfield byelection – UK politics live",
@@ -550,18 +564,109 @@
       "category": "Economy"
     },
     {
-      "title": "Business Daily",
+      "title": "What is Helium-3 and could we get it from the moon?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8gfx?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-14T20:30:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-16T00:11:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK and Japan agree £18bn investment deal",
+      "title": "First eight grooming gang cases sent back to police for reinvestigation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/grooming-gang-cases-operation-beaconport-nca-b2996260.html",
+      "published_date": "2026-06-15T23:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour risks handing power to Reform without drastic change, says union leader",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-14T20:29:15+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/c2lyjey0zv0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-15T23:38:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bonnie Tyler now out of coma but remains in intensive care in Portugal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/jun/15/bonnie-tyler-out-of-coma-intensive-care-portugal",
+      "published_date": "2026-06-15T22:50:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jo Cox's sister warns against people being pushed 'towards the extremes'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/jo-coxs-sister-warns-against-people-being-pushed-towards-the-extremes-13554485",
+      "published_date": "2026-06-15T22:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jo Cox’s sister warns of UK’s ‘divisive rhetoric and dangerous language’ ten years after MP’s murder",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/jo-cox-sister-kim-leadbeater-b2996041.html",
+      "published_date": "2026-06-15T21:30:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Behind the facade of Jamie Varley, the ‘wicked, arrogant liar’ who abused and murdered his baby son",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/15/jamie-varley-abused-murdered-baby-son-preston-davey",
+      "published_date": "2026-06-15T19:39:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 100 arrested in London as court upholds Palestine Action ban",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/palestine-action-arrests-protests-ruling-b2996145.html",
+      "published_date": "2026-06-15T18:09:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian shadow fleet vessel formally detained off British coast after Royal Marine commandos seizure",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/russian-shadow-fleet-royal-marines-weymouth-smyrtos-b2996131.html",
+      "published_date": "2026-06-15T17:30:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polls open on Thursday for the Makerfield by-election",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c2lyjvxvdwno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-15T17:29:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cheltenham hospital admits failing man who died after using contaminated shower",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/15/cheltenham-hospital-fine-chris-elliot-died-contaminated-shower",
+      "published_date": "2026-06-15T17:26:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "An absurd illustration of Britain’s housing problem | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jun/15/an-absurd-illustration-of-britains-housing-problem",
+      "published_date": "2026-06-15T17:17:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court of appeal to review sentence for man who murdered Henry Nowak",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/15/henry-nowak-killer-sentence-length-review-appeal-court",
+      "published_date": "2026-06-15T16:36:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Our greatest pride': Parents pay tribute to police officer daughter, 19, killed in line of duty",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/our-greatest-pride-parents-pay-tribute-to-police-officer-daughter-19-killed-in-line-of-duty-13554413",
+      "published_date": "2026-06-15T16:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Homes in illegal Israeli settlements promoted at London property show",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/homes-in-illegal-israeli-settlements-promoted-at-london-property-show-that-sparked-protests-13554407",
+      "published_date": "2026-06-15T16:18:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Teacher guilty of sexually abusing and murdering adopted baby",
@@ -596,111 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/rob-kenyon-social-media-reform-uk-makerfield-b2995955.html",
       "published_date": "2026-06-15T16:02:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrested protesters devastated after appeal court rules ban on Palestine Action is lawful",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/15/arrested-protesters-devastated-appeal-court-rules-palestine-action-ban-lawful",
-      "published_date": "2026-06-15T15:36:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teacher guilty of murdering 13-month old baby he adopted with his partner",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/teacher-murder-adopted-child-guilty-preston-davey-john-mcgowan-fazakerley-b2996028.html",
-      "published_date": "2026-06-15T15:16:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gang guilty of organised crime in £4m cocaine and dirty money ring",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c20ydeep2x2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-15T15:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teen Googled ‘what happens if you kill’ minutes after stabbing girl to death, court hears",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/aria-thorpe-murder-court-case-b2996043.html",
-      "published_date": "2026-06-15T15:13:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy, 2, in hospital after nursery playground car crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy4eldkpxgwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-15T15:07:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ban on Palestine Action was lawful, court of appeal rules",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/15/ban-on-palestine-action-was-lawful-court-of-appeal-rules",
-      "published_date": "2026-06-15T15:06:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How adoptive parents' lies unravelled to reveal 'reign of terror'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp77l79e9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-15T14:58:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK court finds man guilty of sexual abuse and murder of adopted baby",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/15/uk-court-finds-man-guilty-of-murdering-adopted-baby",
-      "published_date": "2026-06-15T14:51:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nowak killer's 'unduly lenient' sentence to be reviewed",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8721y4341qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-15T14:48:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pensioner suffocated neighbour and recorded his dying words, court told",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8ky3r7rxwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-15T14:31:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer warns Burnham not to throw UK into ‘chaos’ by launching bid for prime minister",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-leadership-bid-chaos-andy-burnham-makerfield-by-election-b2995869.html",
-      "published_date": "2026-06-15T14:25:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices: ‘Slippery slope’ or ‘generational reset’? Readers split on Keir Starmer’s social media ban for under-16s",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/under-16-social-media-ban-facebook-tiktok-snapchat-b2995934.html",
-      "published_date": "2026-06-15T14:17:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Keir Starmer’s allies still think he could win a Labour leadership election against Andy Burnham",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-keir-starmer-labour-leader-election-b2995965.html",
-      "published_date": "2026-06-15T14:14:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Homes evacuated and man arrested after suspected explosive device found at property",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/dorset-homes-evacuated-explosive-device-man-arrested-b2995994.html",
-      "published_date": "2026-06-15T14:13:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How will the under-16s social media ban work? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/jun/15/how-will-the-under-16s-social-media-ban-work-podcast",
-      "published_date": "2026-06-15T14:05:28+00:00",
       "category": "Local Events"
     }
   ]
