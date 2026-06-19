@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-19T14:13:36.272567+00:00",
+  "last_updated": "2026-06-19T23:59:42.986825+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "New UK strike weapons can hit targets up to 500km away – and they could be sent to Ukraine within a year",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/uk-ukraine-long-range-strike-missiles-project-brakestop-b2999312.html",
+      "published_date": "2026-06-19T23:23:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lib Dem MP Cameron Thomas arrested on suspicion of assault",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/19/police-arrest-lib-dem-mp-cameron-thomas-suspicion-assault",
+      "published_date": "2026-06-19T16:48:42+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Two men jailed for arson attacks on property linked to Keir Starmer",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jun/19/two-men-jailed-for-arson-attacks-on-property-linked-to-keir-starmer",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Soldier who suffered from rare neurological condition reunited with brain 85 years after his death",
+      "title": "Asda tumbles to near-£1bn loss amid heavy price cutting",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/soldier-guillain-barre-syndrome-brain-berlin-donnie-macrae-b2997958.html",
-      "published_date": "2026-06-17T21:42:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "MI5 boss declares himself a Slow Horses fan",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly919541lgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-17T20:30:53+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/asda-walmart-press-association-b2999214.html",
+      "published_date": "2026-06-19T14:07:28+00:00",
+      "category": "Energy"
     },
     {
       "title": "Energy bills, business rates and HS2: What are Burnham's potential policies?",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "‘No friends to the oil and gas industry’: Aberdeen South, the byelection where one topic dominates",
+      "title": "FTSE 100 dips as bonds struggle after Burnham win",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andy-burnham-makerfield-london-government-iran-b2999320.html",
+      "published_date": "2026-06-19T16:21:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Princess of Wales stresses need for ‘human connection’ amid fears people are spending their lives glued to screens",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/kate-middleton-princess-of-wales-social-media-ban-b2999286.html",
+      "published_date": "2026-06-19T16:07:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Heathrow third runway GDP yield may be 90% less than previous estimates",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/17/oil-gas-industry-aberdeen-south-byelection-snp-tories-energy-policy",
-      "published_date": "2026-06-17T14:00:33+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/uk-news/2026/jun/19/heathrow-third-runway-boost-gdp-less-than-stated",
+      "published_date": "2026-06-19T15:26:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "The best 4K wireless TV streamers for more choice – with no aerial required",
@@ -543,164 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Ministers must clear Horizon shortfall claims by end of the year, says committee",
+      "title": "Bedford train collision latest: Driver killed and more than 80 injured after horror crash during rush hour",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/liam-byrne-horizon-post-office-government-b2998812.html",
-      "published_date": "2026-06-18T23:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/bedford-train-collision-live-updates-serious-injuries-b2999340.html",
+      "published_date": "2026-06-19T23:34:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The founder who stepped back on purpose: Anthony Godley’s operator-to-chairman story",
+      "title": "Edinburgh Airport evacuated after ‘reports of suspicious item’ with passengers facing disruption",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/business-founder-b2998222.html",
-      "published_date": "2026-06-18T22:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/edinburgh-airport-closed-evacuated-suspicious-item-b2999464.html",
+      "published_date": "2026-06-19T22:23:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Buying and selling a home in UK set to become ‘faster, fairer and more secure’ in new house market shake-up",
+      "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T22:01:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Train driver dies and 89 people injured after two trains collide near Bedford",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/19/two-trains-collide-bedford",
+      "published_date": "2026-06-19T21:49:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The central London car meets where drivers perform burnouts, doughnuts and other ‘dangerous’ stunts",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/house-buying-selling-uk-reforms-starmer-reed-b2998779.html",
-      "published_date": "2026-06-18T21:39:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Burnham says Labour has final chance to change after Makerfield by-election win",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gy72kmg1mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T14:11:25+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/central-london-car-meets-stunts-anti-social-westminster-b2999438.html",
+      "published_date": "2026-06-19T21:13:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "‘Exhausted’ NHS doctor died in on-call room after working nine 13-hour shifts in a row",
+      "title": "Ministers turn on Starmer as Labour MPs demand Burnham ‘coronation’ as PM",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-doctor-inquest-naeem-ahmed-b2999209.html",
-      "published_date": "2026-06-19T14:03:21+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-starmer-labour-leadership-makerfield-by-election-b2999153.html",
+      "published_date": "2026-06-19T19:04:37+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Police attend ‘altercation’ at Lidl’s first ever pub within hours of its opening",
+      "title": "Could ‘king in the north’ become Britain’s new prime minister?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/19/andy-burnham-could-king-north-become-britain-new-prime-minister",
+      "published_date": "2026-06-19T18:25:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In The Room | Makerfield by-election: Has Andy Burnham united the left?",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/lidl-police-police-service-of-northern-ireland-northern-ireland-b2999207.html",
-      "published_date": "2026-06-19T14:00:10+00:00",
+      "url": "https://www.independent.co.uk/tv/in-the-room/andy-burnham-keir-starmer-makerfield-uk-politics-podcast-b2999335.html",
+      "published_date": "2026-06-19T17:38:43+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Court told police officer was set on fire during Ely riots as sentencing continues",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgl9z8l271o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T13:55:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK sexual predator who blackmailed Muslim men online jailed for 16 years",
+      "title": "First pelicans in 360 years hatch in St James’s Park London",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/19/uk-sexual-predator-blackmailed-muslim-men-online-jailed-waleed-saeed",
-      "published_date": "2026-06-19T13:50:48+00:00",
+      "url": "https://www.theguardian.com/environment/2026/jun/19/pelicans-hatch-st-james-park-london",
+      "published_date": "2026-06-19T17:32:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Boy, 3, hurt at zoo was attacked by a crocodile, BBC understands",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T13:42:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kidney cancer rates near Pfas factory in Lancashire a ‘major source of concern’",
+      "title": "Burnham calls for ‘new path for Britain’ as Starmer vows to fight any leadership challenge – as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/19/factory-forever-chemicals-kidney-cancer-blackpool",
-      "published_date": "2026-06-19T13:42:25+00:00",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
+      "published_date": "2026-06-19T17:30:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Woman injured after telegraph pole falls on her",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckg04p99gnpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T13:39:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham the mystic with a mission is all smiles after Makerfield coronation | John Crace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/19/andy-burnham-makerfield-byelection-labour-leadership-rally-speech",
-      "published_date": "2026-06-19T13:35:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham: our next Prime Minister? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/jun/19/andy-burnham-our-next-prime-minister-podcast",
-      "published_date": "2026-06-19T13:32:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Historic by-election win sends message to Labour and SNP - Badenoch",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn8q4p34qg4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T13:20:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Read a book? Join a club? Stare at a wall? Social media alternatives for under-16s",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/jun/19/social-media-alternatives-under-16s-uk-government-ban",
-      "published_date": "2026-06-19T13:20:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Incredibly heroic’ zookeeper ‘jumped down 15ft drop’ to rescue boy from crocodile enclosure",
+      "title": "Reform cannot win a general election – and Makerfield has shown us why",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/boy-crocodile-enclosure-cambridge-attempted-murder-b2998927.html",
-      "published_date": "2026-06-19T13:13:10+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/makerfield-by-election-reform-nigel-farage-burnham-b2998948.html",
+      "published_date": "2026-06-19T17:23:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Stepmum jailed for 1978 killing of girl, 5",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yzxkq9vl0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T13:10:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Facts and figures: the Makerfield byelection result in numbers",
+      "title": "Celebrations and a swift exit after a Burnham win ‘beyond our wildest dreams’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/19/facts-and-figures-makerfield-byelection-result-numbers",
-      "published_date": "2026-06-19T13:09:57+00:00",
+      "url": "https://www.theguardian.com/politics/2026/jun/19/andy-burnham-avoids-press-queries-staff-no-doubts-makerfield",
+      "published_date": "2026-06-19T17:10:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Binface, foxes and raving loonies: the UK’s proud history of costumed candidates",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/19/ount-binface-fox-raving-loony-uk-proud-history-costumed-candidates",
-      "published_date": "2026-06-19T13:01:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farage blames Makerfield defeat on anti-Starmer votes",
+      "title": "Burnham 'hard act to follow' for new mayor - locals",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgqvj8dkz7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T12:48:13+00:00",
+      "url": "https://www.bbc.com/news/articles/cn075nd751ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T16:57:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man guilty of murder over girlfriend van crush",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq61717mde6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T12:46:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man released on bail after boy, three, critically injured in zoo crocodile enclosure",
+      "title": "The Guardian view on Labour after Makerfield: change must mean more than a new leader | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/19/man-released-police-boy-three-zoo-crocodile-enclosure-cambridgeshire",
-      "published_date": "2026-06-19T12:44:56+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/19/the-guardian-view-on-labour-after-makerfield-change-must-mean-more-than-a-new-leader",
+      "published_date": "2026-06-19T16:56:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Boy, 3, injured at zoo ‘was attacked by crocodile’ in enclosure",
+      "title": "Cabinet loyalists tell Starmer he has the weekend to set out timetable for exit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/19/keir-starmer-pressure-andy-burnham-wes-streeting-allies-not-fight-leadership-challenge",
+      "published_date": "2026-06-19T16:52:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Need for 'genuine human connection' has never been greater, says Kate",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/need-for-genuine-human-connection-has-never-been-greater-says-kate-13555869",
+      "published_date": "2026-06-19T16:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I’m not a Labour fan but I like Burnham’: relief in Makerfield among left, right and centre",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/19/relief-mackerfield-left-right-centre-vote",
+      "published_date": "2026-06-19T16:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tories win seats from Reform at Essex by-elections",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0lyne02z5go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T16:33:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, 18, dies in hospital after group took ‘unauthorised control’ of loading vehicle in Southend",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/boy-crocodile-enclosure-cambridge-arrest-bail-b2999009.html",
-      "published_date": "2026-06-19T12:40:31+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/southend-loading-vehicle-woman-dies-two-arrests-b2999317.html",
+      "published_date": "2026-06-19T16:29:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Prioritise love': Kate writes essay reflecting on Italy tour as new pictures released",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78y0gvmjy0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T16:28:05+00:00",
       "category": "Local Events"
     }
   ]
