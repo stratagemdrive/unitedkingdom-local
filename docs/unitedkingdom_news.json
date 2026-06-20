@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-20T12:27:10.314647+00:00",
+  "last_updated": "2026-06-20T23:58:54.371262+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/20/leave-voting-areas-foreign-workers-decade-since-brexit-referendum",
+      "published_date": "2026-06-20T16:00:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ten years on, has the Brexit vote helped or hindered the EU?",
       "source": "The Guardian",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Starmer’s denial will not save his Labour leadership but he’ll go down fighting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/17/keir-starmer-denial-labour-leadership-contest-andy-burnham",
-      "published_date": "2026-06-17T17:31:02+00:00",
-      "category": "Diplomacy"
+      "title": "Britain boosts wildfire defences with £97 million investment for firefighters and climate threat",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/britain-wildfire-defences-investement-climate-b2999753.html",
+      "published_date": "2026-06-20T21:50:38+00:00",
+      "category": "Military"
     },
     {
       "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
@@ -274,13 +281,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/tesco-iran-middle-east-republic-of-ireland-press-association-b2998123.html",
       "published_date": "2026-06-18T06:49:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Russia-linked arson attacks show bad actors targeting UK, says Starmer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/18/keir-starmer-russian-linked-arson-attack-property-bad-actors",
-      "published_date": "2026-06-18T05:00:02+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "King Charles to publish personal tax bill in first for UK head of state",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/20/king-charles-to-publish-personal-tax-bill-in-first-for-uk-head-of-state",
+      "published_date": "2026-06-20T22:27:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "King Charles to become first head of state to publicly disclose personal tax bill",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-disclose-tax-bill-b2999694.html",
+      "published_date": "2026-06-20T21:00:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "King to become first British monarch to share personal tax information",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/king-to-become-first-british-monarch-to-share-personal-tax-information-13556187",
+      "published_date": "2026-06-20T17:58:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Great British summer savings: grab family deals on days out, films and more",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/money/2026/jun/20/great-british-summer-savings-scheme-family-deals-films-vat-cut",
@@ -543,25 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "UK borrows more than expected as impact of Iran war takes toll",
+      "title": "Three men killed following fire in west London",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c79yqrevgg1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T23:29:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Royal Mail launches campaign inspiring children to send World Cup support letters",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/royal-mail-children-england-scotland-b2999738.html",
+      "published_date": "2026-06-20T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three men dead after west London building fire",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll",
-      "published_date": "2026-06-19T06:34:06+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/jun/20/three-men-dead-after-west-london-building-fire",
+      "published_date": "2026-06-20T22:43:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Farnham sets out 'ambitious' vision for island",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c36y5ezr2kzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T05:16:10+00:00",
-      "category": "Economy"
+      "title": "White City fire: Three men dead in blaze in west London building",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/fire-white-city-today-london-b2999766.html",
+      "published_date": "2026-06-20T22:39:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Toddler critical' and 'cost of living hope'",
+      "title": "Three people killed following fire in west London",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/white-city-three-people-killed-following-fire-in-west-london-13556237",
+      "published_date": "2026-06-20T21:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five injured in suspected anti-Muslim incidents across Edinburgh",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/20/counter-terrorism-officers-investigate-after-five-injured-in-violent-incidents-in-edinburgh",
+      "published_date": "2026-06-20T19:22:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Historic bridge linking Wales and England has finally reopened - but could quickly be forced to close again",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/chepstow-bridge-old-wye-wales-england-heatwave-b2999670.html",
+      "published_date": "2026-06-20T17:19:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine Bedford train crash victims fighting for life after deadly rush hour rail disaster",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/bedford-train-crash-nine-critical-condition-b2999656.html",
+      "published_date": "2026-06-20T17:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bedford train crash: Everything we know about the collision that killed a driver and injured 89",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/bedford-train-crash-everything-we-know-b2999595.html",
+      "published_date": "2026-06-20T16:14:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged over series of 'anti-Muslim' attacks in Edinburgh",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/counter-terror-police-investigating-violent-attacks-in-edinburgh-13556144",
+      "published_date": "2026-06-20T15:32:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine people in critical condition among 100 injured in fatal Bedford train crash",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn59ykv9w53o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T00:11:45+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T15:30:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham allies confident of No 10 ‘coronation’ after surge in backers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/20/burnham-allies-confident-no-10-coronation-after-surge-backers-labour-leadership",
+      "published_date": "2026-06-20T14:41:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The inside story of how Kemi Badenoch masterminded a Tory heist in the ‘forgotten’ by-election",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/kemi-badernoch-tories-aberdeen-south-byelection-b2999611.html",
+      "published_date": "2026-06-20T14:29:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T12:53:39+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bedford train crash latest: Nine in critical condition as King Charles ‘greatly saddened’ by deadly collision",
@@ -603,104 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/thurmaston-shopping-centre-fire-latest-leicestershire-b2999573.html",
       "published_date": "2026-06-20T11:25:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Long queues at Edinburgh Airport after suspicious items evacuation",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cevl4vg40yko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T11:16:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four in hospital after bare-chested man with weapon roams around Edinburgh",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2xg6lwz5jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T10:54:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four year-old boy ‘abducted’ in park while mother was tending to baby",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/cradley-heath-boy-missing-abduction-police-b2999576.html",
-      "published_date": "2026-06-20T10:39:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hospital suspends maternity services due to staff shortages",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cewq05jqklno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T10:07:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emergency services attend to injured after two trains collide near Bedford – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/video/2026/jun/20/bedford-train-crash-collision-emergency-services-response-video",
-      "published_date": "2026-06-20T10:02:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'People flew from their seats': Passengers describe how Bedford train crash unfolded",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T08:36:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Not living, just trying to survive’: Council’s benefit mistake costs vulnerable couple £7,200 a year",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/dwp-move-uc-migration-esa-housing-benefit-pension-b2989469.html",
-      "published_date": "2026-06-20T07:51:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bedtime blues: London ‘killing off nightlife’ as UK city with strictest licensing rules",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/20/london-killing-off-nightlife-uk-city-earliest-council-bedtime",
-      "published_date": "2026-06-20T07:00:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices: ‘The far right have hijacked the flag of St George’: Council flag ban sparks reader backlash",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/flag-comments-b2998537.html",
-      "published_date": "2026-06-20T07:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bridge linking Wales and England partly reopens - but will shut again if it gets too hot",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgdnwj003zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T06:16:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Within 10 mins, Andy had nicked it’: illustrator on his ubiquitous image of Andy Burnham",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/20/stanley-chow-andy-burnham-illustration",
-      "published_date": "2026-06-20T06:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham has shown that he can win. But can he govern Britain? | Gaby Hinsliff",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/20/andy-burnham-britain-makerfield-mp",
-      "published_date": "2026-06-20T06:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Edinburgh airport reopens after security alert but passengers warned of ‘knock on’ effect",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/20/edinburgh-airport-reopens-after-security-alert-but-passengers-warned-of-knock-on-effect",
-      "published_date": "2026-06-20T04:43:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Apology over illegal Israeli settlements brochures criticised",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/campaigners-criticise-apology-from-property-show-after-illegal-israeli-settlements-advertised-13555506",
-      "published_date": "2026-06-20T03:00:00+00:00",
       "category": "Local Events"
     }
   ]
