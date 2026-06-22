@@ -1,8 +1,43 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-22T15:53:32.175814+00:00",
+  "last_updated": "2026-06-22T23:59:43.977369+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T23:07:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "George Washington letter accepting British surrender to go on display for the first time",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/george-washington-letter-accepting-british-surrender-to-go-on-display-for-the-first-time-b3000664.html",
+      "published_date": "2026-06-22T23:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Keir Starmer’s resignation speech: anatomy of a picture",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2026/jun/22/keir-starmer-resignation-speech-anatomy-picture",
+      "published_date": "2026-06-22T18:32:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Backing Ukraine, staying out of Iran and riding the Trump rollercoaster: how Starmer handled foreign affairs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/22/how-tensions-with-trump-dominated-starmer-premiership",
+      "published_date": "2026-06-22T17:52:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ben Jennings on the 10th anniversary of Brexit – cartoon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/jun/22/ben-jennings-10th-anniversary-brexit-cartoon",
+      "published_date": "2026-06-22T16:15:42+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Brexit live: The referendum night that changed Britain - as it happened 10 years ago",
       "source": "The Independent",
@@ -22,6 +57,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/22/european-leaders-pay-tribute-keir-starmer-eu-uk-summit-postponed",
       "published_date": "2026-06-22T15:07:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A decade on from Brexit, the new PM has big calls to make on Europe",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy9r883l87ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T15:03:19+00:00",
       "category": "Diplomacy"
     },
     {
@@ -102,46 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Starmer on the brink: PM and Burnham ‘working towards’ handover in September",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-prime-minister-resignation-burnham-labour-b2999880.html",
-      "published_date": "2026-06-21T12:53:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ten years on, Brexit still divides Britain and casts a pall over its economy",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/european-union-brexit-united-kingdom-keir-starmer-london-b2999892.html",
-      "published_date": "2026-06-21T11:18:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘This changes everything’: how Brexit altered Scotland’s political landscape",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/this-changes-everything-how-brexit-altered-scotland-political-landscape",
-      "published_date": "2026-06-21T11:00:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Driver who died in Bedford train crash that left 100 people injured is named",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/driver-who-died-in-bedford-train-crash-that-left-100-people-injured-is-named-13556293",
-      "published_date": "2026-06-21T06:17:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
-      "published_date": "2026-06-21T05:00:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Man charged after suspected anti-Muslim attacks in Edinburgh",
+      "title": "Fears 1,000 LGBT veterans could miss gay ban compensation deadline",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2xg6lwz5jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T23:17:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/cvg74x2jv98o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T23:48:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran war could affect UK energy supply over winter months as warning issued over ‘tight days’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-energy-supply-iran-war-neso-b3000620.html",
+      "published_date": "2026-06-22T23:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
+      "published_date": "2026-06-22T21:09:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Guardian view on Labour’s leadership: Andy Burnham has a story. He must also have a plan | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/22/the-guardian-view-on-labours-leadership-andy-burnham-has-a-story-he-must-also-have-a-plan",
+      "published_date": "2026-06-22T17:42:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Brexit and Covid beset Royal Navy contractor as profits plunge",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "UK attorney general tells department to stop using X amid disinformation concerns",
+      "title": "Britain to have surplus of energy for winter despite Iran war, forecasts show",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/britain-iran-middle-east-ukraine-north-sea-b3000859.html",
+      "published_date": "2026-06-22T23:01:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "North-east Scotland approaching ‘Goldilocks zone’ for energy transition – expert",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/scotland-north-sea-europe-north-east-goldilocks-b3000857.html",
+      "published_date": "2026-06-22T23:01:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Andy Burnham supporters divided over who should be his chancellor",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jun/18/uk-attorney-general-tells-staff-stop-using-x-disinformation-concerns",
-      "published_date": "2026-06-18T18:00:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Skoda boss says AI is today’s “Model T moment” for the car business",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/cars/electric-vehicles/skoda-boss-ai-model-t-b2998292.html",
-      "published_date": "2026-06-18T17:48:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Foreign Office drops 'do not travel' advice for Dubai, but calls situation unpredictable",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cddl29lg5gro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-18T15:36:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two men jailed in UK for spying for China",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/china-spying-uk-peter-wai-bill-yuen-jailed-b2998360.html",
-      "published_date": "2026-06-18T13:50:34+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/politics/2026/jun/22/andy-burnham-supporters-divided-chancellor-ed-miliband-wes-streeting",
+      "published_date": "2026-06-22T18:55:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK heatwave: 40°C in June must be wake-up call on climate crisis, scientists warn",
@@ -403,25 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Andy Burnham: Makerfield victory is 'our last chance' to change Britain - video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/jun/19/andy-burnham-makerfield-victory-is-our-last-chance-to-change-britain-video",
-      "published_date": "2026-06-19T13:10:37+00:00",
-      "category": "Energy"
+      "title": "Do you know your 'sweat score'? The rise of hydration tech",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T23:01:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Scottish Conservatives win Aberdeen South in shock loss for the SNP",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/19/snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
-      "published_date": "2026-06-19T11:29:40+00:00",
-      "category": "Energy"
+      "title": "More than a quarter of UK families set to miss out on summer holiday amid cost of living crisis",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/cost-of-living-crisis-no-summer-holiday-uk-families-b3000547.html",
+      "published_date": "2026-06-22T23:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "It’s time to rethink sportswear that’s full of plastic. Here are my favourite lower-impact alternatives for women",
+      "title": "Andy Burnham prepares for power as emotional Keir Starmer bows out",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/jun/19/best-lower-impact-sportswear-tested-uk",
-      "published_date": "2026-06-19T10:22:43+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation",
+      "published_date": "2026-06-22T21:14:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Keir Starmer’s economic legacy – in charts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/22/keir-starmer-economy-labour-growth-unemployment",
+      "published_date": "2026-06-22T17:07:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The best LED face masks in the UK, tested: 11 light therapy devices that are worth the hype",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
+      "published_date": "2026-06-22T16:33:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pound holds firm as Starmer confirms he will stand down",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/keir-starmer-andy-burnham-aim-wes-streeting-pound-b3000655.html",
+      "published_date": "2026-06-22T16:15:35+00:00",
+      "category": "Economy"
     },
     {
       "title": "Good luck, Andy Burnham – you’ll need more than a smile and a better bus service to succeed in No 10 | Simon Jenkins",
@@ -438,10 +480,24 @@
       "category": "Economy"
     },
     {
+      "title": "What is ‘protein washing’ and are shoppers being fooled by it?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/health/protein-washing-food-shopping-sugar-nutrients-b2996706.html",
+      "published_date": "2026-06-22T15:17:11+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "What might Andy Burnham as PM mean for the City and economy?",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/andy-burnham-city-louise-haigh-b3000300.html",
       "published_date": "2026-06-22T15:08:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "King Charles to become first head of state to publicly disclose tax bill",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-disclose-tax-bill-b2999694.html",
+      "published_date": "2026-06-22T14:34:09+00:00",
       "category": "Economy"
     },
     {
@@ -508,199 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Keir Starmer’s fatal flaw? The blankness on to which voters projected their years of frustration | John Harris",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/22/keir-starmer-prime-minister-resignation-labour-andy-burnham",
-      "published_date": "2026-06-22T09:19:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pound dips as Keir Starmer exit rumours continue to grow",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/starmer-speech-nation-quit-pound-b3000176.html",
-      "published_date": "2026-06-22T08:33:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pound under pressure as Sir Keir Starmer resignation speculation grows",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/keir-starmer-pound-sterling-government-labour-party-b3000230.html",
-      "published_date": "2026-06-22T08:20:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "easyJet rejects £4.7 billion takeover bid from US investment firm",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/easyjet-castlelake-takeover-flights-shares-b3000189.html",
-      "published_date": "2026-06-22T07:42:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ocado ‘regularly engaging with potential candidates’ to succeed boss",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/ocado-tim-steiner-ceo-ericsson-swedish-b3000193.html",
-      "published_date": "2026-06-22T07:22:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Paris taxi scam cost £493 but Monzo won’t help me",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jun/22/paris-taxi-scam-monzo-bank-money-chargeback",
-      "published_date": "2026-06-22T07:00:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Reverse Centaur’s Guide to Life After AI by Cory Doctorow review – the real price of artificial intelligence",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence",
-      "published_date": "2026-06-22T06:00:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Gen Z earning more than millennials did at the same age, says thinktank",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jun/22/gen-z-earning-more-millennials-same-age-resolution-foundation",
-      "published_date": "2026-06-22T05:00:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "British man accused of conspiring to drug and rape wife over two decades admits to a dozen sexual offences",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/22/man-accused-conspiring-drug-wife-admits-sexual-offences",
-      "published_date": "2026-06-22T15:33:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices: ‘He lacked any conviction or vision’: Readers debate what brought down Keir Starmer",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/why-did-keir-starmer-resign-labour-leader-burnham-b3000522.html",
-      "published_date": "2026-06-22T15:31:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham sworn in as an MP after Keir Starmer resigns as prime minister - UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates",
-      "published_date": "2026-06-22T15:28:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Safe-sleep checks for nursery children to be part of Ofsted inspections",
+      "title": "First drug to delay onset of type 1 diabetes made available on NHS",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c862jy76y21o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T15:27:35+00:00",
+      "url": "https://www.bbc.com/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T23:44:41+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two children found dead in family car in France as Europe suffers under extreme heatwave",
+      "title": "UK set for hottest June day on record as searing heat continues",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/weather/articles/c0myl4d3l0no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T23:03:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donaldson's first night in prison as downfall shakes NI politics",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0ry792ep5vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T23:02:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met to expand use of live facial recognition into central London by Christmas",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
-      "published_date": "2026-06-22T15:22:05+00:00",
+      "url": "https://www.theguardian.com/technology/2026/jun/23/met-to-expand-live-facial-recognition-central-london",
+      "published_date": "2026-06-22T23:01:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Keir Starmer resigns: what now? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/jun/22/keir-starmer-resigns-what-now-podcast",
-      "published_date": "2026-06-22T15:08:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men arrested in relation to hospital mortuary practices in Nottingham",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/22/arrests-mortuary-practices-nottingham-hospital",
-      "published_date": "2026-06-22T15:06:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schools to close early as others relax uniform rules during extreme heat",
+      "title": "Facial recognition cameras heading to London’s West End in bid to cut crime",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/schoold-close-early-heatwave-laws-rules-b3000577.html",
-      "published_date": "2026-06-22T15:04:49+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/facial-recognition-cameras-west-end-met-police-b3000562.html",
+      "published_date": "2026-06-22T23:01:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Former DUP leader Jeffrey Donaldson found guilty of rape",
+      "title": "Scotland’s foreign investment attractiveness at record levels, study finds",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/jeffrey-donaldson-rape-indecent-assault-b3000476.html",
-      "published_date": "2026-06-22T14:50:09+00:00",
+      "url": "https://www.independent.co.uk/news/business/scotland-fdi-london-john-swinney-europe-b3000856.html",
+      "published_date": "2026-06-22T23:01:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "First red warning for extreme heat for Wales as temperatures could hit 38C",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0ry128r599o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T14:43:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer’s turn at the Podium of Doom sees him depart with good(ish) grace | John Crace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/22/keir-starmer-resignation-podium-of-doom",
-      "published_date": "2026-06-22T14:36:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How four weeks in court unravelled 'sinful and deceitful' Jeffrey Donaldson",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8x2e0pp1exo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T14:21:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "William says sustainability work keeps his ‘environmental anxiety at bay’",
+      "title": "Man in court over attempted murder and terrorism charges after multiple stabbings in Edinburgh",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/emma-watson-prince-of-wales-al-gore-benedict-cumberbatch-london-b3000510.html",
-      "published_date": "2026-06-22T13:57:49+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/edinburgh-stabbing-attempted-murder-terrorism-lewis-hawkes-b3000701.html",
+      "published_date": "2026-06-22T22:45:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T13:54:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two men arrested over hospital mortuary practices",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8d2ee2plgro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T13:53:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘A sinful nature’: how Jeffrey Donaldson was unmasked as a sexual predator",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/22/incomprehensible-disbelief-after-jeffrey-donaldson-found-guilty-of-historical-sex-charges",
-      "published_date": "2026-06-22T13:32:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Members of the public react as Starmer resigns",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c1kyz099vmmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T13:28:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeffrey Donaldson found guilty of child sexual offences including rape",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/22/jeffrey-donaldson-found-guilty-of-child-sexual-offences-including",
-      "published_date": "2026-06-22T13:24:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy, 3, injured in zoo crocodile attack is in stable condition",
+      "title": "Calls to remove knighthood from Sir Jeffrey Donaldson after being found guilty of sexual offences",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/crocodile-attack-boy-update-cambridgeshire-zoo-b3000360.html",
-      "published_date": "2026-06-22T13:18:14+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/sir-jeffrey-donaldson-knighthood-dup-sexual-offences-b3000827.html",
+      "published_date": "2026-06-22T22:41:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Once Upon a Time in Holyhead: Quentin Tarantino and Kylie Minogue shooting film in Porthcawl",
+      "title": "Plan to auction over 100 Titanic artifacts faces US government opposition",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/jun/22/quentin-tarantino-and-kylie-minogue-shooting-film-in-porthcawl",
-      "published_date": "2026-06-22T13:00:43+00:00",
+      "url": "https://www.theguardian.com/us-news/2026/jun/22/titanic-artifacts-auction-us-government-opposition",
+      "published_date": "2026-06-22T22:28:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met Office issues rare red weather warning for Wednesday and Thursday",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/22/uk-met-office-issues-rare-red-weather-warning-for-wednesday-and-thursday",
+      "published_date": "2026-06-22T21:43:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Do people have faith in prime ministers?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/ce953pny2pzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T21:22:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder arrest after woman fatally stabbed",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp9l423nyggo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T20:51:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight in critical condition after Bedford train crash that killed driver",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/eight-in-critical-condition-after-bedford-train-crash-that-killed-driver-13556886",
+      "published_date": "2026-06-22T20:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with terrorism-linked attempted murders after Edinburgh attacks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/22/john-swinney-victims-edinburgh-knife-attacks-deeply-traumatised",
+      "published_date": "2026-06-22T20:08:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olympic and Paralympic stars back Northern Games bid",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/olympics/articles/c4gyz49kjxxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T19:25:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with terrorism-linked attempted murders in Edinburgh",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2x9j1en29o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T18:28:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight in critical condition after train crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gy60gg6k5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T18:18:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Keir Starmer has quit as prime minister – what will happen next in UK politics?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/22/keir-starmer-quits-prime-minister-what-will-happen-next-uk-politics-explained",
+      "published_date": "2026-06-22T17:57:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Andy Burnham, the ‘man of the people’ likely to be next UK prime minister?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/22/who-andy-burnham-likely-next-uk-prime-minister",
+      "published_date": "2026-06-22T17:47:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rail passengers told to travel only if essential amid red extreme heat warning",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/22/rail-passengers-travel-heatwave-train-services-chiltern",
+      "published_date": "2026-06-22T17:24:14+00:00",
       "category": "Local Events"
     }
   ]
