@@ -1,8 +1,64 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-23T13:44:03.859018+00:00",
+  "last_updated": "2026-06-23T23:48:25.621842+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ten years on, Brexit's economic impact is becoming clearer",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T23:07:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How has Northern Ireland's economy fared since Brexit?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crel5d221ggo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T23:01:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "South Yorkshire police cleared after video of officers appearing to shove teenage girls",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/23/south-yorkshire-police-video-officers-teenage-girls-rotherham",
+      "published_date": "2026-06-23T19:07:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Timeline: what Farage has said about the £5m gift from a crypto-billionaire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/23/timeline-what-farage-has-said-about-the-5m-gift-from-a-crypto-billionaire",
+      "published_date": "2026-06-23T18:49:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PM to push ahead with controversial defence plan despite resignation",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c892dvvwpjjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T17:08:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fact-checking Brexit's key promises 10 years on – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/video/2026/jun/23/fact-checking-brexit-key-promises-10-years-on-video",
+      "published_date": "2026-06-23T16:38:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brexit live as it happened 10 years ago: Minute by minute results, reaction and analysis as Britain votes to leave EU",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-uk-referendum-ten-year-anniversary-europe-the-way-back-live-updates-b2998438.html",
+      "published_date": "2026-06-23T16:25:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mapped: Just 11 of 632 constituencies would vote to stay out of the EU in second referendum",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-mapped-vote-eu-referendum-rejoin-b3001315.html",
+      "published_date": "2026-06-23T14:54:08+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The damning cost of Brexit – a decade on from the EU referendum",
       "source": "The Independent",
@@ -88,60 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Killed train driver was well-known community figure",
+      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3wyn9q636qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-23T05:09:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T23:25:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "From the NHS to new homes, Starmer’s successes and setbacks – in charts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/from-the-nhs-to-new-homes-starmers-successes-and-setbacks-in-charts",
-      "published_date": "2026-06-23T05:00:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Britain left the EU 10 years ago. Its politics has been an unruly mess ever since",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-britain-david-cameron-boris-johnson-labour-b3000927.html",
-      "published_date": "2026-06-23T04:04:06+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "From bendy bananas to £350m for the NHS – how many Brexit promises actually came true?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/23/from-bendy-bananas-to-350m-for-the-nhs-how-many-brexit-promises-actually-came-true",
-      "published_date": "2026-06-23T04:00:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "George Washington letter accepting British surrender to go on display for the first time",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/george-washington-letter-british-surrender-display-b3000664.html",
-      "published_date": "2026-06-23T01:23:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+      "title": "Stanford was their golden ticket - could AI help or hinder that?",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T23:07:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T23:16:37+00:00",
+      "category": "Military"
     },
     {
-      "title": "George Washington letter accepting British surrender to go on display for the first time",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/george-washington-letter-accepting-british-surrender-to-go-on-display-for-the-first-time-b3000664.html",
-      "published_date": "2026-06-22T23:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Keir Starmer’s resignation speech: anatomy of a picture",
+      "title": "UK defence secretary promises delayed investment plan before Nato summit",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/ng-interactive/2026/jun/22/keir-starmer-resignation-speech-anatomy-picture",
-      "published_date": "2026-06-22T18:32:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/jun/23/dan-jarvis-promises-delayed-uk-defence-investment-plan-before-nato-summit",
+      "published_date": "2026-06-23T18:50:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New defence secretary signals he's pushing for extra money for armed forces",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/new-defence-secretary-dan-jarvis-signals-hes-pushing-for-extra-money-for-armed-forces-13557182",
+      "published_date": "2026-06-23T18:29:00+00:00",
+      "category": "Military"
     },
     {
       "title": "UK prioritised ties with UAE over averting mass atrocities in Sudan, MPs to be told",
@@ -256,32 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "Keir Starmer’s legacy will be ‘managing to p*** off everyone’, ex-No 10 insider says",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-labour-leadership-makerfield-b2997276.html",
-      "published_date": "2026-06-22T11:59:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The business secretary knows about jobs, and seems pretty sure Keir is out of one | John Crace",
+      "title": "Weakening UK net zero policy would damage economy, chief climate adviser says",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-labour-leadership-peter-kyle-sunday-interviews",
-      "published_date": "2026-06-21T11:19:10+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jun/24/weakening-net-zero-policy-damage-economy-climate-change-committee",
+      "published_date": "2026-06-23T23:01:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Britain boosts wildfire defences with £97 million investment for firefighters and climate threat",
+      "title": "Extreme heat cancels climate change event on adapting to extreme heat",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/britain-wildfire-defences-investement-climate-b2999753.html",
-      "published_date": "2026-06-20T21:50:38+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/extreme-heat-event-london-cancelled-b3001379.html",
+      "published_date": "2026-06-23T20:57:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
+      "title": "Hard-right figures take aim at Ed Miliband and UK net zero policies at ‘anti-woke Davos’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
-      "published_date": "2026-06-20T11:00:03+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/politics/2026/jun/23/populist-and-rightwing-figures-take-aim-at-ed-miliband-and-uk-net-zero-policies-at-anti-woke-davos",
+      "published_date": "2026-06-23T18:45:57+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Europe’s heatwave drives electricity prices to new highs as demand soars",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/23/electricity-prices-jump-in-europe-as-demands-soars-in-the-heatwave",
+      "published_date": "2026-06-23T18:41:26+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Campaigners consider appeal after Gatwick bids fail",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjdg158v185o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T17:44:40+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Prince William arrives by electric bus for climate event",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg52743p3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T16:27:26+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Bank rate-setter Taylor urges ‘extended hold’ for interest rates",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/bank-of-england-middle-east-monetary-policy-committee-barclays-uk-parliament-b3001383.html",
+      "published_date": "2026-06-23T14:56:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Europe heatwave live: ‘London is cooking,’ says UN chief as UK forecast to hit 38C; France has hottest night since records began",
@@ -375,53 +424,74 @@
       "category": "Energy"
     },
     {
-      "title": "The ‘silent killer’: what you need to know about heatwaves",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2025/jun/27/the-silent-killer-what-you-need-to-know-about-heatwaves",
-      "published_date": "2026-06-22T15:00:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Keir Starmer to Liz Truss: The UK’s six prime ministers over decade of political turmoil",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-resignation-liz-truss-cameron-prime-minister-b3000305.html",
-      "published_date": "2026-06-22T12:46:17+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Starmer has a strong green record – but a rightwing backlash weakened his plans",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/22/starmer-strong-green-record-rightwing-backlash-weakened-plans",
-      "published_date": "2026-06-22T11:19:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Father of Saudi student stabbed in Cambridge condemns rise in ‘hateful rhetoric’ in UK",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/mohammed-algasim-saudi-cambridge-father-b2998202.html",
-      "published_date": "2026-06-22T11:02:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK homeowners fear installing heat pump is a ‘high stakes gamble’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/heat-pumps-installation-costs-energy-bills-which-b3000210.html",
-      "published_date": "2026-06-22T07:56:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "U-turn on electric vehicle plans 'would add 13% to UK emissions'",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/u-turn-on-electric-vehicle-plans-would-add-13-to-uk-emissions-13556086",
-      "published_date": "2026-06-22T03:46:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Is Germany looking again at coal-powered electricity?",
+      "title": "The economic challenges facing the next prime minister",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-21T23:27:11+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T23:01:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Card payments outage hits pubs and shops during England match",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/23/card-payments-outage-during-england-match-hits-pubs-and-shops",
+      "published_date": "2026-06-23T22:50:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mugs in drawers and watches in cupboards: What police pictures tell us about Peter Murrell's illicit purchases",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4j1j38nvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T21:55:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Is rejoining the EU inevitable?’ - Rafael Behr answered your questions on Brexit and more",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/community/live/2026/jun/23/reader-qa-ask-rafael-behr-your-questions-now",
+      "published_date": "2026-06-23T18:02:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tech stocks tumble on concerns over AI spending",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T17:34:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "HMRC announces 22% tax on cash interest held in stocks and shares Isas",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jun/23/hmrc-announces-22-tax-on-cash-interest-held-in-stocks-and-shares-isas",
+      "published_date": "2026-06-23T17:20:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Plan to close small parcel tax loophole pulled forward - but retailers still unhappy",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/government-pulls-forward-plan-to-close-small-parcel-import-tax-loophole-but-retailers-are-still-unhappy-13557158",
+      "published_date": "2026-06-23T17:19:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Small parcel tax changes brought forward but two-year wait still ‘unacceptable’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/treasury-chancellor-government-dickinson-british-retail-consortium-b3001466.html",
+      "published_date": "2026-06-23T16:17:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Miners peg back FTSE 100 while mid-caps struggle",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/spacex-aim-chris-williamson-nasdaq-composite-iran-b3001459.html",
+      "published_date": "2026-06-23T16:09:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Farage quizzed over £5m gift from billionaire donor",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cyv063qj67po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T14:50:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "Burnham adviser calls for billions of pounds in borrowing for infrastructure",
@@ -494,213 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "What Brexit did to the economy, inflation and housing market ten years on",
+      "title": "UK heatwave: Expert warns of ‘extreme wildfire scenario’ with temperatures set to reach 39C",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/brexit-money-uk-economy-property-inflation-savings-b3001006.html",
-      "published_date": "2026-06-23T10:20:14+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-heatwave-forest-fire-forestry-commission-rob-gazzard-b3001662.html",
+      "published_date": "2026-06-23T23:18:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
+      "title": "Largest maternity review in NHS history to be published",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-23T10:18:11+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c8e2xrke8l5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T23:03:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "I stand by what I said 10 years ago. We were right to leave the European Union | Larry Elliott",
+      "title": "Deaths linked to London air pollution have fallen 40%, study estimates",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/leave-eu-european-union-brexit-10-years",
-      "published_date": "2026-06-23T10:00:26+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/environment/2026/jun/24/deaths-london-air-pollution-fallen-imperial-college",
+      "published_date": "2026-06-23T23:01:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
+      "title": "The key stat that backs up Sadiq Khan’s Ulez expansion in London: ‘The evidence is overwhelming’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/london-ulez-sadiq-khan-pollution-air-quality-deaths-b3001388.html",
+      "published_date": "2026-06-23T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of schools plan closures ahead of red heat alerts",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-23T09:53:22+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T20:16:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Watch Peter Murrell’s police interview as ex-SNP chief grilled over £19k luxury pen spending",
+      "title": "In The Room | Why Andy Burnham might not be ready for No 10",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/peter-murrell-pens-sentencing-nicola-sturgeon-b3001115.html",
-      "published_date": "2026-06-23T09:52:14+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/tv/in-the-room/andy-burnham-labour-leadership-uk-politics-analysis-b3001490.html",
+      "published_date": "2026-06-23T18:50:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Who could Burnham pick for his chancellor and cabinet?",
+      "title": "Where bin collection rules are changing due to UK heatwave",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-chancellor-cabinet-prime-minister-labour-streeting-miliband-b3001049.html",
-      "published_date": "2026-06-23T09:47:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Grocery price inflation eases concerns about impact of Middle East crisis",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/middle-east-ocado-tesco-sales-b3001123.html",
-      "published_date": "2026-06-23T09:34:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "What Andy Burnham as prime minister might mean for your mortgage, taxes and money",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/burnham-prime-minister-money-taxes-mortgages-bonds-stamp-duty-b3001078.html",
-      "published_date": "2026-06-23T08:53:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "StubHub UK fined almost £900,000 over ‘hidden’ ticket fees",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jun/23/stubhub-uk-fined-ticket-fees-viagogo-cma-investigation",
-      "published_date": "2026-06-23T08:43:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "StubHub fined £889,000 and told to refund fans who paid hidden fees",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/stubhub-cma-viagogo-b3001005.html",
-      "published_date": "2026-06-23T07:08:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Major incident declared after bus crash near roundabout",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20ye768v6lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-23T13:39:56+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/bin-collection-date-change-uk-heatwave-weather-b3001515.html",
+      "published_date": "2026-06-23T18:27:02+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Wales bus crash latest: ‘Major incident’ declared after crash at roundabout in Carmarthenshire",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/carmarthenshire-bus-crash-latest-b3001261.html",
-      "published_date": "2026-06-23T13:31:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We would like to hear your memories of the 1976 UK heatwave",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/23/we-would-like-to-hear-your-memories-of-the-1976-uk-heatwave",
-      "published_date": "2026-06-23T13:10:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nationalist group leaders agree to stop hoisting St George’s flags in Oxfordshire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/23/nationalist-group-stop-hoisting-st-george-flags-oxfordshire-court-injunction",
-      "published_date": "2026-06-23T13:04:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder investigation after 14-year-old girl reported missing",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gzjn2rk0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-23T12:54:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is Gatwick’s expansion plan and who will pay for it?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/gatwick-press-association-government-french-london-b3001249.html",
-      "published_date": "2026-06-23T12:43:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Britain go to the polls? Why some people want Burnham to call a general election",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/general-election-burnham-starmer-prime-minister-b3001153.html",
-      "published_date": "2026-06-23T12:09:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two children found dead in car in France as heatwave hits Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
-      "published_date": "2026-06-23T11:52:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man caught dumping dead barn owl and kestrel in ‘horror movie scene’ outside Hampshire village shop",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/james-kempster-court-owl-kestrel-b3001197.html",
-      "published_date": "2026-06-23T11:34:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder probe launched after body of missing girl, 14, found in South Wales",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/lilly-girl-body-found-murder-wales-blaina-b3001183.html",
-      "published_date": "2026-06-23T11:13:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices: Poll: Should schools close as temperatures hit 38C in the June heatwave?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-school-closures-heatwave-hot-weather-warning-b3001169.html",
-      "published_date": "2026-06-23T10:57:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air pollution is a fixable problem – just look at how London and New York have cleaned up their acts | Sadiq Khan and Michael Bloomberg",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/air-pollution-clean-up-london-new-york-sadiq-khan-michael-bloomberg",
-      "published_date": "2026-06-23T10:42:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Around 29,000 lightning strikes light up sky across southern England",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg84g3zv7po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-23T10:26:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can you keep your kids off school or refuse to work during a heatwave?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-23T09:58:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: Peter Murrell led away in handcuffs as he’s jailed for embezzling more than £400,000 from SNP",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/peter-murrell-sentencing-nicola-sturgeon-video-b3001083.html",
-      "published_date": "2026-06-23T09:34:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second boy charged with knife murder of 17-year-old in London",
+      "title": "Police name man stabbed to death in London",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/second-boy-charged-with-murdering-17-year-old-jamal-coombes-in-battersea-13556984",
-      "published_date": "2026-06-23T08:37:00+00:00",
+      "url": "https://news.sky.com/story/police-name-man-stabbed-to-death-in-crystal-palace-13557180",
+      "published_date": "2026-06-23T18:21:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "New diabetes treatment gets 'landmark' approval for NHS",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/new-diabetes-treatment-gets-landmark-approval-for-nhs-13556981",
-      "published_date": "2026-06-23T08:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Geldof started flicking Vs at Farage’: the story of the Brexit campaign, told by those with a front-row seat",
+      "title": "Searing UK heat leaves schools, hospitals and transport networks struggling to cope",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/brexit-campaign-oral-history-front-row-seat",
-      "published_date": "2026-06-23T07:52:06+00:00",
+      "url": "https://www.theguardian.com/environment/2026/jun/23/searing-uk-heat-leaves-schools-hospitals-and-transport-networks-struggling-to-cope",
+      "published_date": "2026-06-23T18:18:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Why did Starmer resign? These are the key moments of his chaotic two years as prime minister",
+      "title": "Burnham and Starmer hold ‘frosty’ meeting to thrash out transition of power",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/23/burnham-and-starmer-hold-frosty-meeting-to-thrash-out-transition-of-power",
+      "published_date": "2026-06-23T18:17:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bev Craig to stand as Labour candidate for Greater Manchester mayor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/23/bev-craig-stand-labour-candidate-greater-manchester-mayor",
+      "published_date": "2026-06-23T18:04:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "19 injured after bus crash at roundabout in Wales",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-resigns-timeline-elections-labour-leader-b3000989.html",
-      "published_date": "2026-06-23T06:45:27+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/wales-bus-crash-police-kidwelly-carmarthenshire-b3001519.html",
+      "published_date": "2026-06-23T17:54:41+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Donaldson's first night in prison as downfall shakes NI politics",
+      "title": "The Guardian view on the politics of Scotland: like Labour, the SNP is in need of renewal | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/the-guardian-view-on-the-politics-of-scotland-like-labour-the-snp-is-in-need-of-renewal",
+      "published_date": "2026-06-23T17:25:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former River City actor Iain Robertson found guilty of rape",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/iain-robertson-river-city-rape-guilty-glasgow-b3001520.html",
+      "published_date": "2026-06-23T17:21:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DUP seeks to distance party from ‘wicked deceiver’ Jeffrey Donaldson",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/23/dup-jeffrey-donaldson-denunciation",
+      "published_date": "2026-06-23T17:12:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teenage boy arrested on suspicion of murder after girl, 14, found dead in South Wales",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/missing-girl-south-wales-lilly-blaina-arrest-b3001475.html",
+      "published_date": "2026-06-23T17:10:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Actor Iain Robertson found guilty of rape",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/former-river-city-actor-iain-robertson-found-guilty-of-rape-13557154",
+      "published_date": "2026-06-23T17:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is likely to be in or out of a Burnham cabinet?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/23/in-or-out-burnham-cabinet-ed-miliband-shabana-mahmood-wes-streeting",
+      "published_date": "2026-06-23T16:45:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Welcome to the Andy Burnham show: the Westminster frenzy sucking up the British media’s attention | Marina Hyde",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/andy-burnham-british-media-rail-crash-manchester-london",
+      "published_date": "2026-06-23T16:41:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Hillsborough Law could be Starmer's legacy'",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0ry792ep5vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-23T05:50:39+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzqegv740o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-23T16:40:50+00:00",
       "category": "Local Events"
     }
   ]
