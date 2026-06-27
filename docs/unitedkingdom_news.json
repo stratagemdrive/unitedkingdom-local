@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-27T12:10:00.931204+00:00",
+  "last_updated": "2026-06-27T23:53:31.013792+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK minister working up plans for state-owned housing developer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jun/27/uk-minister-plans-for-state-owned-housing-developer-exclusive",
+      "published_date": "2026-06-27T19:00:09+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe heatwave live: Germany braced for temperatures ‘well over 40C’; extreme heat warnings for England",
       "source": "The Guardian",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Driver in fatal Bedford train crash passed red signal moments before collision",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/bedford-train-crash-cause-driver-b3002136.html",
-      "published_date": "2026-06-24T12:28:36+00:00",
-      "category": "Diplomacy"
+      "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T21:39:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "High-speed boats and drones promised for elite commandos in tweak to defence spending plan",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/high-speed-boats-and-drones-promised-for-elite-commandos-in-tweak-to-defence-spending-plan-13558372",
+      "published_date": "2026-06-27T16:54:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The war for Burnham’s ear: politicians and wonks fight for influence over a PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/27/andy-burnham-labour-politicians-wonks-influence",
+      "published_date": "2026-06-27T13:00:04+00:00",
+      "category": "Military"
     },
     {
       "title": "PSNI officer 'had intelligence on Donaldson abuse a year before complaint'",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Oil price falls back to pre-Iran war levels",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-25T12:37:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Salisbury house where Skripal was poisoned with novichok up for sale",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/25/salisbury-house-sergei-skripal-poisoned-wnovichok-sale",
-      "published_date": "2026-06-25T12:03:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "TikTok influencer charged with Dubai murder",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-25T11:58:44+00:00",
-      "category": "Military"
+      "title": "Record heatwave must be ‘wake-up call’ for Britain to prepare for Mediterranean climate, experts warn",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/heatwave-climate-change-extreme-temperatures-uk-b3004263.html",
+      "published_date": "2026-06-27T18:26:54+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fourth toddler dies in France as Europe’s brutal heatwave forecast to shift east",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "‘Act on the evidence outside the window’: Andy Burnham urged to stick to net zero targets if he becomes PM",
+      "title": "Fatboy Slim says he felt paralysed at prospect of DJing sober after rehab",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/25/andy-burnham-net-zero-targets",
-      "published_date": "2026-06-25T12:26:15+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/music/2026/jun/28/fatboy-slim-djing-sober-rehab-alcoholism-desert-island-discs",
+      "published_date": "2026-06-27T23:01:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "High-speed boats and drones: Commandos promised £500m in defence spending overhaul",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/defence-spending-uk-dan-jarvis-b3004272.html",
+      "published_date": "2026-06-27T21:55:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘I ate the whole bag like a packet of crisps’: the best supermarket salad bags, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/jun/27/best-supermarket-salad-bags-tasted-rated",
+      "published_date": "2026-06-27T12:00:04+00:00",
+      "category": "Economy"
     },
     {
       "title": "July 2026 payment dates for universal credit, benefits and pensions plus cost of living support",
@@ -543,25 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "All the unanswered questions about King Charles’ finances after tax bill revealed",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-tax-bill-net-work-william-camilla-b3004166.html",
-      "published_date": "2026-06-26T12:00:00+00:00",
-      "category": "Economy"
+      "title": "Lib Dems face call for inquiry into deselection of election candidate",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gypnyk788o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T23:43:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Sainsbury’s to shed light on consumer sentiment and food prices",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/sainsbury-tesco-fuel-prices-middle-east-shares-b3003704.html",
-      "published_date": "2026-06-26T11:56:14+00:00",
-      "category": "Economy"
+      "title": "Clarke steps down as Scotland manager after World Cup exit",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T23:37:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Revolut pushes new recruits into office in shift from ‘remote-first’ policy",
+      "title": "Barrister strike 'caused additional trauma' to victims as 2,500 cases delayed",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1ky0yryy3vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T23:00:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested on suspicion of attempted murder after car hits shoppers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdjk8m33p0mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T21:03:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nearly 400 Welsh nursing and midwifery graduates still without NHS jobs",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crlw22rgkd3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T21:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested on suspicion of attempted murder after car hits pedestrians in London",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/26/revolut-recruits-work-in-office-remote-first-policy-graduates-interns",
-      "published_date": "2026-06-26T11:41:10+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london",
+      "published_date": "2026-06-27T20:17:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested on suspicion of attempted murder after ‘car drives into pedestrians’ in London",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/london-ealing-broadway-attempted-murder-car-pedestrians-b3004321.html",
+      "published_date": "2026-06-27T19:39:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Female police officer punched in Manchester airport assault urges attacker to ‘show remorse’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/manchester-airport-mohammed-fahir-amaaz-broken-nose-lydia-ward-b3004309.html",
+      "published_date": "2026-06-27T19:31:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested on suspicion of attempted murder after car collides with multiple pedestrians",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-arrested-on-suspicion-of-attempted-murder-after-car-collides-with-multiple-pedestrians-13558389",
+      "published_date": "2026-06-27T18:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham at centre of row over calling early election after Labour coronation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-labour-general-election-mps-b3003166.html",
+      "published_date": "2026-06-27T16:56:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands join anti-racism demo after terrorism-linked murder bids",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cql1k9z5gk3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T16:51:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with rape and murder after girl, 2, found dead at UK home",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/kevin-kerjean-chertsey-murder-girl-death-b3004280.html",
+      "published_date": "2026-06-27T16:16:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two rescued after aeroplane emergency landing off Welsh coast",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c79yx71ve4qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T15:31:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with rape and murder after girl's death",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd6ex3dge8go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T15:22:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Welsh teens arrested in Thailand prompting police probe",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crkv7jn8nd7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T13:50:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thunderstorms disrupt Gatwick and Heathrow as hundreds of flights delayed or cancelled",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/27/thunderstorms-gatwick-heathrow-airports-flights-delayed-cancelled",
+      "published_date": "2026-06-27T13:42:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children embrace Cornish language as it enjoys ‘remarkable resurgence’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/27/children-embrace-cornish-language-remarkable-resurgence",
+      "published_date": "2026-06-27T13:00:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Free summer holiday sport sessions offered in city",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crkvl5xk13ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T12:57:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘I’m missing out’: the cash-strapped UK university students forced to live at home",
@@ -571,136 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "‘Not a culture war’: the council that won its case over England flags on lampposts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/27/oxfordshire-council-high-court-injunction-raise-the-colours-nationalist-flags",
-      "published_date": "2026-06-27T11:14:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Here’s what to do if your StubHub World Cup resale ticket is canceled",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket",
-      "published_date": "2026-06-27T10:00:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lightning causes fires and serious house damage",
+      "title": "Boy, 17, dies and three seriously injured in crash",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly8dq7wg3wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T09:31:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Body of missing man found in river by police",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy47w37wjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T09:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One night in Miami: The Scotsmen of the apocalypse",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T08:34:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Washing up liquid 'the real hero' of girl's rescue",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg016gy990o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T07:31:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At a poet’s memorial, I saw how Andy Burnham could be a different kind of prime minister | Blake Morrison",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/27/poet-memorial-andy-burnham-prime-minister-english-degree-tony-harrison",
-      "published_date": "2026-06-27T07:00:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man convicted of murder after boy shot dead in children's play area",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-convicted-of-murder-after-15-year-old-boy-shot-dead-in-london-park-13558214",
-      "published_date": "2026-06-27T06:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The kind-hearted newsagent murdered for his takings - could a review find his killer?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clye9xej0yjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T06:23:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scotland's World Cup hopes at 0.07% - these are results they need",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T05:38:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People in Britain used to agree to disagree. Since Brexit, they no longer dare to talk about difficult things | Elif Shafak",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/27/people-britain-disagree-brexit-divided",
-      "published_date": "2026-06-27T05:00:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two tickets for Wimbledon Centre Court? That’ll be £586,000 please",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/jun/27/wimbledon-centre-court-debentures-tennis",
-      "published_date": "2026-06-27T05:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tuchel defends full-back selection after James injury",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly70v1n22eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T02:12:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How messages between two dads helped expose the largest NHS maternity scandal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7pqqzznevo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T00:03:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When will the UK heatwave end? Met Office issues forecast for 17C drop in temperature",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/heatwave-when-will-it-end-uk-weather-forecast-b3002677.html",
-      "published_date": "2026-06-26T22:33:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: Lightning strikes seen across UK",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-26T19:26:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US rapist who fled to Scotland after appearing to fake own death dies in hospital",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/26/us-rapist-who-fled-to-scotland-after-appearing-to-fake-own-death-dies-in-hospital",
-      "published_date": "2026-06-26T18:41:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mahmood outlines safe immigration routes plan to win over Labour left",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/26/mahmood-outlines-safe-immigration-routes-plan-to-win-over-labour-left",
-      "published_date": "2026-06-26T18:23:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nicholas Rossi: Rapist who faked death and fled to Scotland dies in US hospital",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz75px7zl0wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-26T18:19:24+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c07y5pe9d4yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T11:33:22+00:00",
       "category": "Local Events"
     }
   ]
