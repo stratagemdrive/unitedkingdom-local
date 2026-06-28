@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-27T23:53:31.013792+00:00",
+  "last_updated": "2026-06-28T12:17:20.947173+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘We was hoodwinked’: Inside the ex-mining town that backed Brexit despite millions of pounds of EU funding",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/brexit-uk-eu-referendum-ebbw-vale-b2771550.html",
+      "published_date": "2026-06-28T11:13:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘British food will disappear’: trade deal after Brexit is hitting UK farmers hard",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/28/british-food-trade-deal-brexit-hitting-uk-farmers-hard",
+      "published_date": "2026-06-28T11:00:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two prime ministerial resignations, 10 years apart: ‘Brexit represents a kind of faultline in British history’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/membership/2026/jun/28/two-prime-ministerial-resignations-10-years-apart-brexit-represents-a-kind-of-faultline-in-british-history",
+      "published_date": "2026-06-28T09:00:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK minister working up plans for state-owned housing developer",
       "source": "The Guardian",
@@ -120,27 +141,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj0gzpm57pro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-24T21:49:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Guardian view on priorities for a new prime minister: foreign policy cannot be an afterthought | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/24/the-guardian-view-on-priorities-for-a-new-prime-minister-foreign-policy-cannot-be-an-afterthought",
-      "published_date": "2026-06-24T17:37:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Keir Starmer to stay on as MP but unlikely to want cabinet role",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/24/keir-starmer-to-stay-labour-mp",
-      "published_date": "2026-06-24T14:41:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Voices: The Brexit Debates: Has Brexit been good for Britain’s economy? Plus, have your say",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/voices/brexit-debates-economy-europe-eu-trump-b3001441.html",
-      "published_date": "2026-06-24T13:11:32+00:00",
       "category": "Diplomacy"
     },
     {
@@ -270,6 +270,13 @@
       "category": "Military"
     },
     {
+      "title": "Oil price falls back to pre-Iran war levels",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-25T15:32:04+00:00",
+      "category": "Military"
+    },
+    {
       "title": "More people using AI to write cards and create pictures, Moonpig says",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/moonpig-people-keir-starmer-english-jojo-maman-bebe-b3002797.html",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Nothing kills the vibe like flip-flops: what to wear to a festival this summer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/jun/25/what-to-wear-to-festival-uk",
-      "published_date": "2026-06-25T14:00:51+00:00",
-      "category": "Military"
+      "title": "‘No evidence of wrongdoing found’ after minister’s text exchange",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/nick-thomas-symonds-starmer-texts-b3004458.html",
+      "published_date": "2026-06-28T08:34:52+00:00",
+      "category": "Energy"
     },
     {
       "title": "Record heatwave must be ‘wake-up call’ for Britain to prepare for Mediterranean climate, experts warn",
@@ -417,11 +424,74 @@
       "category": "Energy"
     },
     {
-      "title": "Fuel price warning as hopes dashed of cheaper petrol despite oil costs tumbling",
+      "title": "Lucy Powell appears to endorse Ed Miliband as Andy Burnham’s chancellor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/28/labour-lucy-powell-ed-miliband-chancellor",
+      "published_date": "2026-06-28T11:41:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ed Miliband as chancellor would benefit every part of the UK – and the bond markets | Josh Ryan-Collins",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/28/ed-miliband-chancellor-benefit-uk-bond-markets",
+      "published_date": "2026-06-28T11:06:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Top Burnham ally calls for increase in Capital Gains Tax and relaxation of fiscal rules",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/fuel-oil-prices-iran-strait-of-hormuz-b3002932.html",
-      "published_date": "2026-06-25T12:28:07+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/louise-haigh-capital-gains-andy-burnham-b3004468.html",
+      "published_date": "2026-06-28T10:45:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ocado boss Tim Steiner’s near £100m in pay raises ‘serious concerns’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/28/ocado-boss-tim-steiner-payouts",
+      "published_date": "2026-06-28T10:22:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rising cost of insuring against climate crisis will have wider knock-on effects for UK economy | Heather Stewart",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/28/rising-cost-insuring-against-climate-crisis-knock-on-effects-for-uk-economy",
+      "published_date": "2026-06-28T09:34:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sainsbury’s to shed light on consumer sentiment and food prices",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/sainsbury-tesco-fuel-prices-middle-east-shares-b3004450.html",
+      "published_date": "2026-06-28T08:00:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Prince Harry reconsiders bringing Meghan and children to UK",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/harry-meghan-royal-visit-security-uk-trip-children-b3004442.html",
+      "published_date": "2026-06-28T07:42:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ex-minister not ruling out leadership bid yet",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clye5llzm13o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T07:12:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lost your crypto access code? Be wary, there‘s a scam for that too",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data",
+      "published_date": "2026-06-28T06:00:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Labour has abandoned the missions that brought it to power. Here's how Burnham could revive them. | Mariana Mazzucato",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/28/labour-keir-starmer-government-five-missions-failed-andy-burnham-mariana-mazzucato",
+      "published_date": "2026-06-28T05:00:02+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fatboy Slim says he felt paralysed at prospect of DJing sober after rehab",
@@ -494,213 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Now we know how much tax King Charles pays, and it is very little",
+      "title": "Labour should ‘be kind’, a Makerfield voter told me. So how about stopping the relentless closures of precious day centres? | John Harris",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/26/now-we-know-how-much-tax-king-charles-pays-and-it-is-very-little",
-      "published_date": "2026-06-26T17:23:41+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/28/labour-makerfield-voter-closures-day-centres-andy-burnham",
+      "published_date": "2026-06-28T11:59:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The king, his millions, and the first public royal tax bill – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jun/26/the-king-his-billions-and-the-first-public-royal-tax-bill-the-latest",
-      "published_date": "2026-06-26T16:53:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Volkswagen ‘to cut 100,000 jobs amid challenging market conditions’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/volkswagen-job-cuts-oliver-blume-b3003880.html",
-      "published_date": "2026-06-26T16:22:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FTSE 100 falls as OpenAI delay report knocks tech",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/openai-new-york-times-apple-andy-burnham-microsoft-b3003895.html",
-      "published_date": "2026-06-26T16:19:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "VW plans to cut up to 100,000 jobs and shut plants, report says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/26/vw-cut-jobs-shut-plants-volkswagen-china",
-      "published_date": "2026-06-26T15:35:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘It could double as a white noise machine’: the best (and worst) wine coolers – tested",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/jun/26/best-worst-wine-coolers-tested-uk",
-      "published_date": "2026-06-26T14:00:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Experts criticise Treasury plans to tax interest on cash in stocks and shares ISAs",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/stocks-shares-isa-tax-interest-treasury-reeves-b3002900.html",
-      "published_date": "2026-06-26T13:56:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How do you escape an overdraft?",
+      "title": "Body of missing boy, 15, found in reservoir",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/videos/cly8902rzpvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-26T13:47:04+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c621lp8ev29o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T11:44:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "All the unanswered questions about King Charles’ finances after tax bill revealed",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-tax-bill-royal-finance-b3003627.html",
-      "published_date": "2026-06-26T12:16:16+00:00",
-      "category": "Economy"
+      "title": "Murder investigation after man dies on street",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c621d2x966vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T11:14:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘Make people dream’: how to build an economy for the common good",
+      "title": "The curious case of the cremation ashes left at Newbury racecourse burger van",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/make-people-dream-build-economy-common-good-mariana-mazzucato",
-      "published_date": "2026-06-26T12:05:14+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/jun/28/the-curious-case-of-the-cremation-urn-left-at-newbury-racecourse",
+      "published_date": "2026-06-28T11:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Body of teenage boy recovered from water",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/body-of-teenage-boy-recovered-from-water-near-cowbury-reservoir-says-greater-manchester-police-13558518",
+      "published_date": "2026-06-28T10:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister insists public ‘do not want a general election’ – despite almost half of people calling for one",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-labour-general-election-steve-reed-b3004460.html",
+      "published_date": "2026-06-28T10:18:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clarke leaves strong Scotland legacy but exit brings sense of relief",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T09:16:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Washing up liquid saves schoolgirl trapped on Dartmoor rocks",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/washing-up-liquid-rocks-schoolgirl-devon-dartmoor-b3004462.html",
+      "published_date": "2026-06-28T09:14:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince Harry and family’s UK visit ‘pulled from under their feet at 11th hour’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection",
+      "published_date": "2026-06-28T09:14:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harry reconsiders bringing Meghan and children on UK trip",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T08:44:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government scraps 200-year-old law as rough sleeping no longer a crime",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/rough-sleeping-homeless-law-vagrancy-act-b3004459.html",
+      "published_date": "2026-06-28T08:43:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Social media contributed to our son's murder",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20yeykv2yxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T06:37:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "George Best's European Cup medal sells for £300k",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddl5e15yvlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T06:17:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will Andy Burnham ‘go big’ in expanding the role of the state?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/28/andy-burnham-nationalisation-pm-chancellor-thames-water",
+      "published_date": "2026-06-28T06:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former cancer patient, 6, returns to hospital to be 'doctor' for the day",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyd1780wj9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T05:37:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform UK makes dramatic first impression in Senedd opposition role",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/28/reform-uk-makes-dramatic-first-impression-in-senedd-opposition-role",
+      "published_date": "2026-06-28T05:00:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T01:46:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Job done - but England will not win World Cup unless they improve",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T01:05:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Andy Burnham's school teacher inspired him to believe in himself",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2eymr3xrewo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T01:00:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lib Dems face call for inquiry into deselection of election candidate",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4gypnyk788o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-27T23:43:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clarke steps down as Scotland manager after World Cup exit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T23:37:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barrister strike 'caused additional trauma' to victims as 2,500 cases delayed",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1ky0yryy3vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T23:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of attempted murder after car hits shoppers",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdjk8m33p0mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T21:03:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nearly 400 Welsh nursing and midwifery graduates still without NHS jobs",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crlw22rgkd3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T21:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of attempted murder after car hits pedestrians in London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london",
-      "published_date": "2026-06-27T20:17:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of attempted murder after ‘car drives into pedestrians’ in London",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/london-ealing-broadway-attempted-murder-car-pedestrians-b3004321.html",
-      "published_date": "2026-06-27T19:39:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Female police officer punched in Manchester airport assault urges attacker to ‘show remorse’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/manchester-airport-mohammed-fahir-amaaz-broken-nose-lydia-ward-b3004309.html",
-      "published_date": "2026-06-27T19:31:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of attempted murder after car collides with multiple pedestrians",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-arrested-on-suspicion-of-attempted-murder-after-car-collides-with-multiple-pedestrians-13558389",
-      "published_date": "2026-06-27T18:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham at centre of row over calling early election after Labour coronation",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-labour-general-election-mps-b3003166.html",
-      "published_date": "2026-06-27T16:56:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands join anti-racism demo after terrorism-linked murder bids",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cql1k9z5gk3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T16:51:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged with rape and murder after girl, 2, found dead at UK home",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/kevin-kerjean-chertsey-murder-girl-death-b3004280.html",
-      "published_date": "2026-06-27T16:16:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two rescued after aeroplane emergency landing off Welsh coast",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c79yx71ve4qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T15:31:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged with rape and murder after girl's death",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd6ex3dge8go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T15:22:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Welsh teens arrested in Thailand prompting police probe",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crkv7jn8nd7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T13:50:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms disrupt Gatwick and Heathrow as hundreds of flights delayed or cancelled",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/27/thunderstorms-gatwick-heathrow-airports-flights-delayed-cancelled",
-      "published_date": "2026-06-27T13:42:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children embrace Cornish language as it enjoys ‘remarkable resurgence’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/27/children-embrace-cornish-language-remarkable-resurgence",
-      "published_date": "2026-06-27T13:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Free summer holiday sport sessions offered in city",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crkvl5xk13ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T12:57:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I’m missing out’: the cash-strapped UK university students forced to live at home",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/jun/27/uk-university-students-forced-to-live-at-home",
-      "published_date": "2026-06-27T12:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy, 17, dies and three seriously injured in crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c07y5pe9d4yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T11:33:22+00:00",
       "category": "Local Events"
     }
   ]
