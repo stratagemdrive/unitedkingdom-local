@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-06-30T13:09:53.759197+00:00",
+  "last_updated": "2026-06-30T23:57:33.198171+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Welsh budget facing cuts because of Starmer defence plans, says first minister",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyv09qj696vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T18:22:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Starmer offers cut in tuition for EU students as part of reset talks",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-eu-student-tuition-brexit-b3005951.html",
+      "published_date": "2026-06-30T15:08:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nigel Farage received £270,000 from gold marketer he promotes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/30/nigel-farage-gold-direct-bullion-payment-double",
+      "published_date": "2026-06-30T14:37:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Burnham’s vibe shift gives Labour one more chance but voters also need hope",
       "source": "The Guardian",
@@ -123,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Downing Street fails to rule out any extra funding for defence investment plan",
+      "title": "Will Starmer's plan for defence help UK hit Nato's spending target?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn07ey43xpeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T20:21:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Why Starmer's defence plan leaves next PM with £4.7bn headache",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9q250511neo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T20:02:42+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham left with £4.7bn bill for Starmer’s new defence investment plan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/30/burnham-left-with-47bn-bill-for-starmers-new-defence-investment-plan",
+      "published_date": "2026-06-30T19:54:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Britain not safe under Starmer’s new defence plan, John Healey suggests",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/defence-investment-plan-starmer-military-b3002914.html",
-      "published_date": "2026-06-25T12:18:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/politics/defence-investment-plan-military-starmer-jarvis-b3005990.html",
+      "published_date": "2026-06-30T19:48:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Reform UK plan to target EU nationals based in Britain ‘absolutely outrageous’",
+      "title": "Britain has finally grasped the nettle on defence, but tough choices lie ahead",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/25/reform-uk-plan-target-eu-nationals-britain-brexit",
-      "published_date": "2026-06-25T12:00:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/jun/30/britain-has-finally-grasped-the-nettle-on-defence-but-tough-choices-lie-ahead",
+      "published_date": "2026-06-30T19:21:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "Rome airports threaten to suspend new EU passport system to avoid summer ‘disaster’",
+      "title": "Red Arrows to get new jets replacing ageing Hawk",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn94e1l8wp2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T18:47:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Frank Gardner: Key points from government's defence spending plan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vzjn54eeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T17:43:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Starmer’s delayed defence investment swansong satisfies absolutely no one",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/25/rome-airports-threaten-to-suspend-new-eu-passport-system-to-avoid-summer-disaster",
-      "published_date": "2026-06-25T10:53:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/jun/30/starmer-and-reeves-launch-delayed-defence-plan-with-a-sense-of-resigned-relief",
+      "published_date": "2026-06-30T17:25:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is the UK spending enough on defence? – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/jun/30/is-the-new-defence-plan-enough-to-keep-us-safe-the-latest",
+      "published_date": "2026-06-30T15:50:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defence spending: The key takeaways from Starmer’s plan to protect Britain",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/defence-spending-plan-starmer-drones-latest-news-b3005849.html",
+      "published_date": "2026-06-30T14:41:09+00:00",
+      "category": "Military"
     },
     {
       "title": "Starmer unveils extra £15bn for UK defence, with some road and energy projects scrapped to fund rise – politics live",
@@ -162,6 +232,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jun/30/nuclear-weapons-storage-us-uk-airbases",
       "published_date": "2026-06-30T11:00:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK defence investment plan revealed - as helicopters axed and Storm Shadow cruise missiles phased out",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/uk-defence-investment-plan-revealed-as-helicopters-axed-and-storm-shadow-cruise-missiles-phased-out-13559189",
+      "published_date": "2026-06-30T11:00:00+00:00",
       "category": "Military"
     },
     {
@@ -207,81 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Long-delayed defence spending plan to be published on Tuesday",
+      "title": "Plea for households to read energy meter as prices rise",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-29T21:30:01+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T23:02:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Frank Gardner: Navy plans reflect sea change in how wars are fought",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz9lv0xkz42o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-29T15:48:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Unfriendly fire: Who buys the defence investment plan?",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/unfriendly-fire-who-buys-the-defence-investment-plan-13558923",
-      "published_date": "2026-06-29T13:18:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-29T11:58:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What will the Navy’s modern uncrewed vessels look like and what will replace the destroyers?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/navy-drones-warships-type-45-b3004970.html",
-      "published_date": "2026-06-29T11:29:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-28T22:55:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Plans to replace ageing destroyers scrapped to make way for drones in ‘hybrid Navy’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/hybrid-navy-defence-spending-russia-b3004516.html",
-      "published_date": "2026-06-28T19:15:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burnham may have to boost defence spending to pass ‘Moscow test’, says ex-military chief",
+      "title": "‘But we’re just 1% of emissions’: do smaller countries’ climate efforts matter?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/28/andy-burnham-defence-spending-moscow-test-ex-military-chief-tony-radakin",
-      "published_date": "2026-06-28T14:05:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From Boston to Miami: How the Tartan Army lit up the World Cup",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq51qvewvn3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-28T13:45:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-27T21:39:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "High-speed boats and drones promised for elite commandos in tweak to defence spending plan",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/high-speed-boats-and-drones-promised-for-elite-commandos-in-tweak-to-defence-spending-plan-13558372",
-      "published_date": "2026-06-27T16:54:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jun/30/emissions-do-smaller-countries-climate-efforts-matter",
+      "published_date": "2026-06-30T15:53:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Labour MPs tell Burnham to ignore ‘deluded’ calls for more North Sea drilling",
@@ -410,18 +424,95 @@
       "category": "Energy"
     },
     {
-      "title": "‘No evidence of wrongdoing found’ after minister’s text exchange",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nick-thomas-symonds-starmer-texts-b3004458.html",
-      "published_date": "2026-06-28T08:34:52+00:00",
-      "category": "Energy"
+      "title": "UK poll highlights fears about access to emergency contraception",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jul/01/uk-poll-highlights-fears-about-access-to-emergency-contraception",
+      "published_date": "2026-06-30T23:01:19+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Record heatwave must be ‘wake-up call’ for Britain to prepare for Mediterranean climate, experts warn",
+      "title": "Amazon and Argos among retailers selling e-scooters for ‘commuting’ despite risk of death",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/heatwave-climate-change-extreme-temperatures-uk-b3004263.html",
-      "published_date": "2026-06-27T18:26:54+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/escooters-amazon-argos-currys-commuting-b3006035.html",
+      "published_date": "2026-06-30T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Retailers caught selling e-scooters for ‘commuting’ despite road ban",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/amazon-currys-halfords-consumers-british-b3006293.html",
+      "published_date": "2026-06-30T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Shabana Mahmood tipped for chancellor as John Healey in frame for Home Office",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-chancellor-shabana-mahmoud-b3005808.html",
+      "published_date": "2026-06-30T18:33:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bank of England boss insists it is ‘not complacent’ about tackling UK inflation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andrew-bailey-bank-of-england-press-association-one-cnbc-b3006138.html",
+      "published_date": "2026-06-30T17:54:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Guardian view on the defence investment plan: the UK needs security, not dependency on a wayward US | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/the-guardian-view-on-the-defence-investment-plan-the-uk-needs-security-not-dependency-on-a-wayward-us",
+      "published_date": "2026-06-30T17:51:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hope must be backed by legislation | Letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/30/hope-must-be-backed-by-legislation",
+      "published_date": "2026-06-30T17:01:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lib Dem MP pushes defence secretary on funding",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cq81g0kny3lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T16:38:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FTSE 100 up as defence stocks rally on spend lift",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/sainsbury-european-central-bank-bloomberg-germany-paris-b3006076.html",
+      "published_date": "2026-06-30T16:22:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Watch: What is in the defence spending plan... and what isn't",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c982q4dmm36o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T16:12:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BBC staff face real-terms wage cut as 'bleak' pay proposal revealed",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/bbc-staff-face-real-terms-wage-cut-as-bleak-pay-proposal-revealed-13559273",
+      "published_date": "2026-06-30T14:36:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sewage spills into lakes and swimming ponds as Britons dash to cold water during heatwave",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/water-sewage-uk-heatwave-bathing-ponds-b3004909.html",
+      "published_date": "2026-06-30T14:09:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hospitality VAT cut: can it help the sector and at what cost to UK taxpayer?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/30/hospitality-vat-cut-can-it-help-sector-what-cost-to-uk-taxpayer",
+      "published_date": "2026-06-30T13:24:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Starmer warns Burnham not to borrow to fund defence as he reveals £15bn plan",
@@ -473,234 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Robust first quarter UK growth confirmed but 2025 weaker than first thought",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/ons-gdp-households-iran-middle-east-b3005579.html",
-      "published_date": "2026-06-30T09:19:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘My mortgage costs have tripled since Covid – I reached breaking point’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/mortgage-interest-bank-rate-covid-spike-housing-b3004927.html",
-      "published_date": "2026-06-30T08:48:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigel Farage says Reform UK would ‘gladly’ accept more donations from crypto billionaire",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-crypto-gift-donations-reform-uk-christopher-harborne-b3005589.html",
-      "published_date": "2026-06-30T07:51:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nearly 25% of UK pubs and restaurants lose money, research shows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/30/uk-pubs-restaurants-lose-money-research-shows-vat-cut-campaign",
-      "published_date": "2026-06-30T07:00:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Brompton sells stakes to Decathlon and Chinese Labubu backer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/30/brompton-sells-stakes-decathlon-bike-maker-sales",
-      "published_date": "2026-06-30T05:00:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Commanding heights of the economy’: the postwar blueprint that inspires Burnham",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/30/andy-burnham-nationalisation-clement-attlee",
-      "published_date": "2026-06-30T05:00:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Want to know what Andy Burnham would do in government? Take a look at his past | Frances Ryan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/andy-burnham-government-views-tax-welfare-social-care",
-      "published_date": "2026-06-30T05:00:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Am I losing this battle? Yes’: Martin Lewis on the online scams that steal his identity – and others’ life savings",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jun/30/martin-lewis-finance-expert-interview-online-scams-stolen-identity-life-savings",
-      "published_date": "2026-06-30T04:00:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Where have all the first jobs gone? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jun/30/where-have-all-the-starter-jobs-gone-podcast",
-      "published_date": "2026-06-30T02:00:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Homes harder to sell as high mortgage rates frustrate buyers",
+      "title": "Why Gen Z are planning for life without a state pension",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-29T23:08:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Crypto firms operating in UK to be subject to sweeping new rules",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jun/30/crypto-firms-sweeping-new-rules-uk-fca-regulator",
-      "published_date": "2026-06-29T23:01:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How much is the Government spending on defence compared to other priorities?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/uk-defence-spending-dan-jarvis-starmer-b2994645.html",
-      "published_date": "2026-06-29T22:28:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Asylum seekers to pay £10,000 towards living costs under new UK law",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/29/asylum-seekers-pay-towards-living-costs-new-uk-law",
-      "published_date": "2026-06-29T21:30:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "School trip surprise as students meet The Rock",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7x3njjdeko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-30T12:58:24+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T23:05:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man denies murder of Scottish woman on Greek island in 2009",
+      "title": "Women with PMOS should have yearly NHS checks, says health watchdog",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j2d0y0j5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-30T12:34:19+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T23:04:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Manhunt after  22-year-old man dies in reported stabbing",
+      "title": "Patient tests negative after Ebola alert at Glasgow hospital",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly7z8ey088o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T23:04:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Normal birth drive' criticism removed from maternity report, expert claims",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3eywv0np13o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T23:04:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Women with irregular periods should be checked for PMOS, NHS says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jul/01/women-with-irregular-periods-should-be-checked-for-pmos-nhs-says",
+      "published_date": "2026-06-30T23:01:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘The things that connect us are fraying’: James Graham short film explores what it means to be English",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jul/01/the-things-that-connect-us-are-fraying-james-graham-short-film-explores-what-it-means-to-be-english",
+      "published_date": "2026-06-30T23:01:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Northern Rail Project risks repeating costly HS2 failures, MPs warn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/01/northern-rail-project-risk-repeat-hs2-failures-mps-warn",
+      "published_date": "2026-06-30T23:01:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arsonist setting fire to Mercedes on driveway caught on doorbell camera",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/crime-car-fire-mercedes-northampton-b3006268.html",
+      "published_date": "2026-06-30T21:40:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola scare at UK hospital as patient tested for disease",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/ebola-hospital-glasgow-test-b3006222.html",
+      "published_date": "2026-06-30T21:34:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Patient being tested for Ebola virus at Glasgow hospital",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/30/patient-being-tested-for-suspected-ebola-virus-at-glasgow-hospital",
+      "published_date": "2026-06-30T20:08:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England fans' behaviour 'excellent' at World Cup",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75ye7lz347o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T20:01:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police officer pushes and drags 13-year-old boy who asked for help",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/police-wiltshire-daniel-rusling-video-b3006197.html",
+      "published_date": "2026-06-30T19:45:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government bid to clear drugs, weapons and gangs from prisons",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/manhunt-in-london-after-death-of-22-year-old-in-reported-stabbing-13559216",
-      "published_date": "2026-06-30T12:25:00+00:00",
+      "url": "https://news.sky.com/story/government-bid-to-clear-drugs-weapons-and-gangs-from-prisons-13559350",
+      "published_date": "2026-06-30T19:21:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Barclays buys its Canary Wharf tower for £750m in ‘strong endorsement’ of London",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/canary-wharf-barclays-london-city-jp-morgan-chase-b3005833.html",
-      "published_date": "2026-06-30T12:22:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Council moves to close Scotland's smallest secondary despite parents' pleas",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce95ydel84no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-30T12:12:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trains chaos as cows block railway line for more than three hours",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/travel/news-and-advice/trains-staffordshire-cows-west-coast-main-line-b3005815.html",
-      "published_date": "2026-06-30T12:09:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lundy Island seabird population soars with puffins thriving after rat removal",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/lundy-island-seabird-population-rats-b3005811.html",
-      "published_date": "2026-06-30T12:05:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged with attempted murder and arson following Belfast disorder",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzqw9erq0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-30T12:05:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carer sacked for taking disabled patient home for New Year dinner in ‘act of kindness’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/paul-mcphail-carer-fired-tribunal-glasgow-b3005745.html",
-      "published_date": "2026-06-30T12:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I’ve worked closely with both Andy Burnham and Keir Starmer. A single quality separates them | Nazir Afzal",
+      "title": "Royal Navy man jailed in 2001 for two murders allegedly sexually assaulted four others, jury told",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/andy-burnham-keir-starmer-voters-no-10",
-      "published_date": "2026-06-30T11:45:39+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/30/royal-navy-man-jailed-in-2001-for-two-murders-allegedly-sexually-assaulted-four-others-jury-told",
+      "published_date": "2026-06-30T18:51:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Body found in Wales park identified as missing teenager Lilly Jones",
+      "title": "Small aircraft crashes into field in Essex as police declare ‘serious incident’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/lilly-jones-death-duffryn-park-blaina-b3005787.html",
-      "published_date": "2026-06-30T11:42:15+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/aircraft-crash-essex-ongar-mill-lane-b3006146.html",
+      "published_date": "2026-06-30T18:17:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "King Charles arrives in Edinburgh for Royal Week celebrations",
+      "title": "Final warning for failing health board after nine years of special measures",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyj0g2j1eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-30T11:01:07+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cn8qzlgllj1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T18:13:09+00:00",
       "category": "Local Events"
     },
     {
-      "title": "£5,000 reward offered to find man after alleged rape and assault",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/reward-crimestoppers-adrian-lewicki-west-midlands-police-b3005645.html",
-      "published_date": "2026-06-30T10:56:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prime Minister meets hospitality bosses to outline help for youth jobless crisis",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/keir-starmer-prime-minister-downing-street-pat-mcfadden-b3005010.html",
-      "published_date": "2026-06-30T10:50:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenage police officer was closing road when she was killed, inquest hears",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/teenage-police-officer-was-closing-road-when-she-was-killed-inquest-hears-13559168",
-      "published_date": "2026-06-30T10:27:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Forest man handed £1k fly-tipping fine for leaving cardboard box next to overflowing Tesco bin",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/tesco-recycling-fine-lee-reynolds-b3005651.html",
-      "published_date": "2026-06-30T10:06:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pay deal to end resident doctor strikes to cost £200m this year",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/doctor-strikes-pay-deal-bma-b3005680.html",
-      "published_date": "2026-06-30T09:28:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Share your views on Andy Burnham’s plans for a new No 10 North",
+      "title": "What does the Amos report reveal about maternity and neonatal care in England?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/30/share-your-views-andy-burnham-announcement-no-10-north",
-      "published_date": "2026-06-30T08:48:59+00:00",
+      "url": "https://www.theguardian.com/society/2026/jun/30/valerie-amos-report-maternity-neonatal-care-england",
+      "published_date": "2026-06-30T17:40:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Disinherited TV psychic hit with £216k court bill after losing will fight with sister",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/gary-pammen-cockney-bard-court-inheritance-b3005599.html",
-      "published_date": "2026-06-30T08:41:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy says it was incredible bumping into princess doing Three Peaks Challenge",
+      "title": "Being stuck in NHS bed led to man's death, inquest finds",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg74e9vj200o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-30T07:51:27+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzk4n0k12o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T17:35:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mapped: What the average asking price buys across Britain",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/average-asking-price-house-b3005981.html",
+      "published_date": "2026-06-30T17:32:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mystery surrounds England fan’s whereabouts after he vanished while travelling for World Cup",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/michael-hewitt-england-fan-missing-world-cup-b3006093.html",
+      "published_date": "2026-06-30T17:00:28+00:00",
       "category": "Local Events"
     }
   ]
