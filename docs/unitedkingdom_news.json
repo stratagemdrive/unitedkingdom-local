@@ -1,8 +1,43 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-02T00:01:14.354144+00:00",
+  "last_updated": "2026-07-02T12:59:17.746699+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Electric motorbike rider avoided prison after 'brutal' hit-and-run",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgqlvj71jko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T12:18:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Convicted people smuggler able to live in UK due to Brexit, immigration officers claim",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-migration-people-smuggler-leicestershire-b3007344.html",
+      "published_date": "2026-07-02T11:52:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why the expected fight over the North American trade deal never kicked off",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T10:24:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU border delays 'not bearable' over summer, warns airport boss",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T10:15:47+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are the new EU border checks and how will they affect your summer holiday?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/02/what-is-the-ess-and-how-is-it-affecting-visitors-to-eu-nations-this-summer",
+      "published_date": "2026-07-02T06:17:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rayner offers support to Burnham's 'vision' to devolve power to communities",
       "source": "BBC News",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Europe heatwave live: Germany braced for temperatures ‘well over 40C’; extreme heat warnings for England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-      "published_date": "2026-06-27T12:02:52+00:00",
-      "category": "Diplomacy"
+      "title": "Russia ‘launched drones to spy on Britain’s nuclear sites’ during 15-month campaign",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/russia-spy-drone-nuclear-ship-b3007427.html",
+      "published_date": "2026-07-02T11:59:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "David Miliband says he is optimistic about potential Burnham government",
+      "title": "Britain’s inadequate security has been exposed again. Defence must be Burnham’s top priority",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-defence-spending-top-priority-russia-b3007470.html",
+      "published_date": "2026-07-02T11:41:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Economic impact of Iran war not as big as feared, Treasury insiders will say - but Burnham still faces major defence black hole",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-iran-war-economy-public-finances-b3007395.html",
+      "published_date": "2026-07-02T10:21:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "OpenAI ‘in early talks to give 5% stake to US government’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+      "published_date": "2026-07-02T07:31:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Oil prices fall to pre-war levels as Strait of Hormuz shipping slowly recovers",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/oil-prices-today-us-iran-talks-trump-b3007273.html",
+      "published_date": "2026-07-02T06:46:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "RAF Barnham asylum plan meets local resistance",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy04k0kd7q4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-26T19:04:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘I think we were misled’: A decade on from the Brexit referendum, how would Britons vote now?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-european-union-nigel-farage-b3002250.html",
-      "published_date": "2026-06-26T17:36:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Watch in full: Sir John Major in conversation with Geordie Greig on the 10th anniversary of Brexit",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-john-major-interview-video-b3002995.html",
-      "published_date": "2026-06-26T10:45:59+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Digested week: Another PM bites the dust and it’s surprisingly moving | John Crace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/26/digested-week-another-pm-bites-dust-surprisingly-moving",
-      "published_date": "2026-06-26T10:40:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cd95gw9q99ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T05:46:11+00:00",
+      "category": "Military"
     },
     {
       "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
@@ -239,48 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8725jryg0qo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-01T05:15:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Will Starmer's plan for defence help UK hit Nato's spending target?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn07ey43xpeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-30T20:21:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why Starmer's defence plan leaves next PM with £4.7bn headache",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9q250511neo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-30T20:02:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Burnham left with £4.7bn bill for Starmer’s new defence investment plan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/30/burnham-left-with-47bn-bill-for-starmers-new-defence-investment-plan",
-      "published_date": "2026-06-30T19:54:33+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Britain not safe under Starmer’s new defence plan, John Healey suggests",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/defence-investment-plan-military-starmer-jarvis-b3005990.html",
-      "published_date": "2026-06-30T19:48:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Britain has finally grasped the nettle on defence, but tough choices lie ahead",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/30/britain-has-finally-grasped-the-nettle-on-defence-but-tough-choices-lie-ahead",
-      "published_date": "2026-06-30T19:21:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Red Arrows to get new jets replacing ageing Hawk",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn94e1l8wp2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-30T18:47:52+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,90 @@
       "category": "Energy"
     },
     {
+      "title": "Is Starmer deliberately leaving a mess for Burnham? – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/jul/02/is-starmer-deliberately-leaving-a-mess-for-burnham-podcast",
+      "published_date": "2026-07-02T12:53:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham meets trade union leaders in bid to shore up support",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyednjr4mko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T12:51:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Payouts on UK watchdog’s car finance compensation scheme paused by tribunal",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/credit-agricole-volkswagen-mercedesbenz-french-b3007561.html",
+      "published_date": "2026-07-02T12:36:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Car finance compensation payments delayed until next year",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T12:26:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bitcoin firm advertised by Nigel Farage loses 15% of asset value",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value",
+      "published_date": "2026-07-02T12:02:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fans in short supply as next UK heatwave approaches, says Currys",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/02/fan-shortage-uk-heatwave-currys",
+      "published_date": "2026-07-02T10:28:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T09:46:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "England’s World Cup win gives economy welcome boost",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/world-cup-england-win-kane-pubs-economy-iran-b3007294.html",
+      "published_date": "2026-07-02T09:15:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bank of England boss insists it is ‘not complacent’ about tackling UK inflation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andrew-bailey-bank-of-england-press-association-one-cnbc-b3006138.html",
+      "published_date": "2026-07-02T08:50:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "They say Andy Burnham is ‘good at politics’ and Starmer was bad. That’s not trivial – it could be crucial | Zoe Williams",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/02/andy-burnham-good-at-politics-pm-voters",
+      "published_date": "2026-07-02T07:00:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Singapore seizes $42m mansion over Nvidia chip smuggling",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T06:02:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Andy Burnham urged to be radical on economy to help Labour win next election",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/02/andy-burnham-radical-economy-help-labour-win-next-election",
+      "published_date": "2026-07-02T04:00:05+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "I needed to use a food bank after graduating - now I want to end the stigma",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c04y3zq63wwo?at_medium=RSS&at_campaign=rss",
@@ -473,234 +557,150 @@
       "category": "Economy"
     },
     {
-      "title": "Money Box",
+      "title": "Welsh budget could be cut by up to £30m for defence spending, Plaid ministers claim",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/m002ybp0?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T14:30:00+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyey76pyxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-01T14:42:12+00:00",
       "category": "Economy"
     },
     {
-      "title": "Trump's $1.4bn crypto earnings revealed",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c39ywez8r1ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T14:15:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘Beautiful blobs’: synthetic life a step closer as scientists make cells using lab-made DNA",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/jul/01/synthetic-life-lab-made-dna-spudcells-scientists",
-      "published_date": "2026-07-01T14:00:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The best wellies for everyone, tried and tested on countless muddy strolls",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/jul/01/best-wellies-tested-uk",
-      "published_date": "2026-07-01T14:00:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Badenoch urges Burnham to condemn defence investment plan as Starmer says black hole will be addressed – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
-      "published_date": "2026-07-01T13:17:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Department for Education defends spending £700,000 on influencers",
+      "title": "Councils to decide if pubs can stay open later for England-Mexico World Cup match",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/department-education-influencers-spending-social-media-b3006743.html",
-      "published_date": "2026-07-01T13:04:56+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/england-mexico-1am-pubs-open-b3007570.html",
+      "published_date": "2026-07-02T12:50:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK national lottery review to give public more say in how funds are spent",
+      "title": "‘Stain on our history’: Starmer issues government apology over forced adoption scandal – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/01/uk-national-lottery-review-public-say-funds-spent",
-      "published_date": "2026-07-01T12:53:07+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/live/2026/jul/02/keir-starmer-apology-forced-adoption-labour-andy-burnham-uk-politics-latest-news-updates",
+      "published_date": "2026-07-02T12:46:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Keir Starmer forced on back foot at PMQs over ‘weak’ defence plan",
+      "title": "MPs seek to end UK broadcast of Russian cartoon Masha and the Bear",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/01/keir-starmer-pmqs-defence-investment-plan-kemi-badenoch",
-      "published_date": "2026-07-01T12:19:24+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/02/mps-uk-broadcast-russian-cartoon-masha-and-the-bear",
+      "published_date": "2026-07-02T12:46:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Up to 150 former WH Smith stores to close as high court approves restructure",
+      "title": "Government rules out extending pub hours for England v Mexico game",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T12:43:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministers call for better tracking of teenagers at risk of dropping out of work or training in England",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/01/150-former-wh-smith-tg-jones-stores-to-close-high-court-approves-restructure",
-      "published_date": "2026-07-01T12:05:03+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/money/2026/jul/02/ministers-better-tracking-teenagers-risk-dropping-out-of-work-training-england",
+      "published_date": "2026-07-02T12:42:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "BBC staff fear strike action inevitable after anger at 1% pay rise offer",
+      "title": "Donaldson commentary 'utterly irresponsible', says police chief",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg539rle7mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T12:40:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exam board sorry for delay to Sats results in England",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cewq7d4yxq2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T12:40:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England fans face work misery as bosses reject flexible hours during World Cup",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/world-cup-england-mexico-work-flexitime-b3007557.html",
+      "published_date": "2026-07-02T12:35:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Princess of Wales surprises tennis fans at front of Wimbledon queue",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/kate-middleton-wimbledon-princess-wales-tennis-b3007506.html",
+      "published_date": "2026-07-02T12:30:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Whistleblower ‘terrified’ as Rochdale grooming gang leader released",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/jul/01/bbc-staff-fear-strike-action-pay-rise-offer-anger",
-      "published_date": "2026-07-01T11:26:10+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/jul/02/release-rochdale-grooming-gang-leader-really-scary-whistleblower",
+      "published_date": "2026-07-02T12:25:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'Down valuation' phenomenon happening at 'scale not seen before' - and it's threatening house sales",
+      "title": "School can wait, let children stay up for England vs Mexico, Tuchel says – but minister rejects plea",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/england-mexico-world-cup-school-opening-b3007407.html",
+      "published_date": "2026-07-02T12:15:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frankie Dettori breaks ribs in car crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgqjkvypn5eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T12:00:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No 10 accepts all recommendations in Southport attack inquiry, Mahmood says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/02/southport-attack-inquiry-no-10-accepts-all-recommendations-shabana-mahmood",
+      "published_date": "2026-07-02T11:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHS nurse suspended for racist post asking Father Christmas for ‘our country back’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-racist-nurse-tina-orbell-b3007464.html",
+      "published_date": "2026-07-02T10:46:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police issue appeal after man ‘sexually assaulted teenage girl on train’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/police-appeal-sexual-assault-train-crewe-manchester-b3007445.html",
+      "published_date": "2026-07-02T10:42:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England’s World Cup victory sparked record traffic on major UK mobile networks",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/sport/football/england-dr-congo-o2-world-cup-b3007410.html",
+      "published_date": "2026-07-02T10:09:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police officer who raped two women and abused a third jailed for 10 years",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly87jzg038o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T10:03:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frankie Dettori in hospital after car flips over in crash",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/down-valuation-phenomenon-happening-at-scale-not-seen-before-and-its-threatening-house-sales-13559492",
-      "published_date": "2026-07-01T11:25:00+00:00",
-      "category": "Economy"
+      "url": "https://news.sky.com/story/frankie-dettori-in-hospital-after-car-flips-over-in-crash-13559766",
+      "published_date": "2026-07-02T09:59:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tell us: have you invested in gold through a specialist bullion company?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/01/tell-us-have-you-invested-in-gold-through-a-specialist-bullion-company",
-      "published_date": "2026-07-01T10:42:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "New defence secretary says Burnham backs defence budget",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cq517pw4x25o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T10:36:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Met Police detectives use DNA to trace possible relatives of suspected double rapist",
+      "title": "Teenager arrested after boy, 16, left with life-threatening gunshot wounds in Birmingham",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/met-police-dna-double-rape-london-thamesmead-abbey-wood-b3007137.html",
-      "published_date": "2026-07-01T23:01:00+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/birmingham-shooting-teenager-arrested-alum-rock-b3007353.html",
+      "published_date": "2026-07-02T09:09:02+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Student drowns in River Wye while on Duke of Edinburgh’s Award trip to Wales",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/01/student-drowns-in-river-wye-while-on-duke-of-edinburghs-award-trip-to-wales",
-      "published_date": "2026-07-01T22:33:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US-UK drug deal could result in 229,000 excess deaths in England, analysis suggests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jul/01/us-uk-drug-deal-could-result-in-229000-excess-deaths-in-england-analysis-suggests",
-      "published_date": "2026-07-01T22:30:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager seriously injured in shooting near Birmingham mosque",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/01/teenager-injured-shooting-birmingham-mosque",
-      "published_date": "2026-07-01T22:04:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenage boy injured after shooting in Birmingham",
+      "title": "Race Across the World winner's car smashed into and laptop stolen before kids' mental health talk",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce37g3p4dlqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T22:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 300 arrests in organised immigration crime crackdown",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgev8ey9wrwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T21:41:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Halifax brand to be scrapped after 173 years",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T20:09:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies after van falls from cliff edge",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c79y52q4g8do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T19:40:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "18-year-old dies on Duke of Edinburgh expedition",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz643r5x2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T19:10:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "College student, 18, drowns during Duke of Edinburgh expedition in Wales",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/duke-of-edinburgh-wales-student-death-river-wye-b3007080.html",
-      "published_date": "2026-07-01T19:09:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager drowns during Duke of Edinburgh's Award expedition",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/teenager-drowns-during-duke-of-edinburghs-award-expedition-in-wales-13559633",
-      "published_date": "2026-07-01T18:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on yet another immigration bill: law as performance is a failing model | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/01/the-guardian-view-on-yet-another-immigration-bill-law-as-performance-is-a-failing-model",
-      "published_date": "2026-07-01T18:03:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charges to be considered against MP Dan Norris in sexual offences investigation",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/dan-norris-allegations-cps-police-b3006989.html",
-      "published_date": "2026-07-01T16:54:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Father killed baby by shaking him in moment of 'pure violence', court hears",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/father-killed-baby-by-shaking-him-in-moment-of-pure-violence-court-hears-13559605",
-      "published_date": "2026-07-01T16:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Author of England maternity care review ‘listened to wrong voices’, says adviser",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/01/valerie-amos-review-maternity-care-england-report-normal-birth-bill-kirkup",
-      "published_date": "2026-07-01T16:23:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New health alert issued - as England records hottest June on record",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/yellow-health-alert-issued-as-england-records-hottest-june-on-record-13559537",
-      "published_date": "2026-07-01T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England has just had its hottest June on record, Met Office data shows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/01/england-hottest-june-on-record-met-office-data",
-      "published_date": "2026-07-01T15:47:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teachers in England could vote to strike over new pay offer",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/teachers-pay-rise-strike-england-phillipson-neu-dfe-b3006907.html",
-      "published_date": "2026-07-01T15:29:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "June was the hottest on record for England, says Met Office",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/june-2026-hottest-on-record-england-met-office-heatwave-b3006783.html",
-      "published_date": "2026-07-01T15:07:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scotland bans ‘cruel’ glue traps in landmark animal welfare law",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/glue-trap-ban-scotland-animal-welfare-b3006843.html",
-      "published_date": "2026-07-01T14:56:35+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ce37gd41gx1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-02T08:46:22+00:00",
       "category": "Local Events"
     }
   ]
