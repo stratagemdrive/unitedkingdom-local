@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-02T23:55:38.859512+00:00",
+  "last_updated": "2026-07-03T12:57:21.379491+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -8,6 +8,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-02T23:02:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "MPs call on foreign secretary to sanction Netanyahu over 'torture' of Palestinian civilians",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/calls-for-israeli-pm-netanyahu-and-his-justice-minister-to-be-sanctioned-by-uk-13559852",
+      "published_date": "2026-07-02T13:35:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘We was hoodwinked’: Inside the ex-mining town that backed Brexit despite millions of pounds of EU funding",
+      "title": "Germany’s Renk to buy UK naval supplier David Brown Defence",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/brexit-uk-eu-referendum-ebbw-vale-b2771550.html",
-      "published_date": "2026-06-28T11:13:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/business/defence-germany-west-yorkshire-bloomberg-b3008168.html",
+      "published_date": "2026-07-03T08:14:59+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Vanishingly rare’ copy of US Declaration of Independence found by volunteer in UK archives",
@@ -277,11 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Why Starmer's defence plan leaves next PM with £4.7bn headache",
+      "title": "Teen high on laughing gas jailed after using car as a weapon to kill mum-of-three",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9q250511neo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T07:34:48+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c20y3vd50w1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T12:36:28+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Dolphin found dead on bank of River Thames",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/dolphin-found-dead-on-bank-of-river-thames-b3008314.html",
+      "published_date": "2026-07-03T12:23:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "SSE Airtricity bills to increase by more than £70 a year",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c872wvr21l9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T10:10:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "I tested 53 water bottles to find the best for leaks, looks and sustainability: here are my favourites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2025/aug/14/best-water-bottles-tested-uk",
+      "published_date": "2026-07-03T09:00:41+00:00",
+      "category": "Energy"
     },
     {
       "title": "Lisa Nandy quits X over fears Musk-owned site pushes ‘abuse and misinformation’",
@@ -396,32 +424,60 @@
       "category": "Energy"
     },
     {
-      "title": "Reform UK chair of Welsh environment committee may ‘undermine scrutiny’, says thinktank",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/30/reform-mp-chair-of-welsh-environment-committee-may-undermine-scrutiny-says-thinktank",
-      "published_date": "2026-06-30T11:00:05+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK car industry issues warning over electric vehicle targets",
+      "title": "UK unable to tackle weight-loss drug black market, MP warns",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/life-style/motoring/motoring-news/electric-vehicle-sales-mike-hawes-b3005751.html",
-      "published_date": "2026-06-30T10:45:18+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/wegovy-pill-weight-loss-jab-mp-layla-moran-warning-mhra-b3004870.html",
+      "published_date": "2026-07-03T11:53:30+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Household energy prices set to remain high this winter as £221 rise takes effect",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/strait-of-hormuz-iran-ofgem-chancellor-government-b3005648.html",
-      "published_date": "2026-06-30T08:44:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cost to rewire Great Britain’s electricity network could reach £90bn in 2030s",
+      "title": "Starling Bank to cut 130 jobs and boost investment in AI to reduce costs",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/30/great-britain-electricity-network-90bn-pounds-2030s",
-      "published_date": "2026-06-30T06:00:42+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jul/03/starling-bank-cuts-130-jobs-boosts-ai-investment",
+      "published_date": "2026-07-03T11:12:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Will Andy Burnham raise taxes? What we know about his proposals for income, business and wealth tax",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-tax-business-rates-labour-b3008107.html",
+      "published_date": "2026-07-03T11:07:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Voices: National security will be a major issue for our next PM – so they have to protect UK aid spending",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/voices/labour-burnham-uk-national-security-aid-cuts-b3008239.html",
+      "published_date": "2026-07-03T11:04:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T09:50:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Give workers health checks when they start new jobs, says Labour adviser",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/john-lewis-employees-labour-britain-japan-b3008176.html",
+      "published_date": "2026-07-03T08:30:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Southport taxi driver who ‘waited 50 minutes’ to call 999 loses licence",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/southport-attack-taxi-driver-axel-rudakubana-b3008086.html",
+      "published_date": "2026-07-03T06:06:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham’s funding gap: what state are UK finances in for the PM-in-waiting?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting",
+      "published_date": "2026-07-03T06:00:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Andy Burnham reveals tax plan to save pubs and high streets",
@@ -508,199 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "How Miliband’s ‘green agenda’ could boost his chancellor bid – or cost him the job",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-next-chancellor-miliband-labour-starmer-reeves-b3004235.html",
-      "published_date": "2026-07-02T15:39:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Taxi driver who fled Southport attack has licence stripped",
+      "title": "Police criticise timing of decision on pubs staying open for England match",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8k9z8gjrno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T15:06:43+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T12:53:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How to bag a bargain flight",
+      "title": "Mum of TikToker has murder sentence appeal rejected",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/videos/cly9x847en2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T13:47:14+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cj6g04y6xg6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T12:53:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FCA ordered to partly suspend car finance compensation scheme",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/02/fca-ordered-partly-suspend-car-finance-compensation-scheme",
-      "published_date": "2026-07-02T13:44:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "World Cup boom falters as US hospitality jobs fall in June",
+      "title": "Man who killed boy in play park jailed for 35 years",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T13:36:04+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c4gyl1wdxkxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T12:45:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Is Starmer deliberately leaving a mess for Burnham? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/jul/02/is-starmer-deliberately-leaving-a-mess-for-burnham-podcast",
-      "published_date": "2026-07-02T12:53:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Burnham meets trade union leaders in bid to shore up support",
+      "title": "GAA set to scale back Casement Park redevelopment plans",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyednjr4mko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T12:51:01+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cgk60l32meno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T12:41:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Payouts on UK watchdog’s car finance compensation scheme paused by tribunal",
+      "title": "Headteacher struck off for changing term dates so she could go on luxury cruises",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/credit-agricole-volkswagen-mercedesbenz-french-b3007561.html",
-      "published_date": "2026-07-02T12:36:06+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/joy-ballard-teacher-educating-cardiff-b3008355.html",
+      "published_date": "2026-07-03T12:40:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "NHS to reward people who walk 30 minutes a day",
+      "title": "Downing Street defends decision to let pubs stay open until 5am for England match – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/03/andy-burnham-says-labour-manifesto-has-room-for-movement-on-tax-uk-politics-live",
+      "published_date": "2026-07-03T12:25:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police dropped Tottenham rape investigation before sexual predator killed two women, court told",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/simon-levy-rape-investigation-dropped-tottenham-car-park-b3008351.html",
+      "published_date": "2026-07-03T12:19:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T23:13:44+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T12:14:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Teenage boys put behind bars after sentences ruled unduly lenient in Fordingbridge rape case",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/fordingbridge-rape-court-of-appeal-judgment-sentence-b3006925.html",
-      "published_date": "2026-07-02T21:35:16+00:00",
+      "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency",
+      "published_date": "2026-07-03T12:07:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "At least eight arrests linked to forums that encourage drugging and raping women",
+      "title": "Greek man found guilty of murdering Scottish woman in Crete",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4e109nx04o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T20:52:15+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xwd68l1eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T11:56:12+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Culture secretary quits X in protest at 'misinformation'",
+      "title": "Police criticise decision to let pubs stay open until 5am for England match",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/03/police-criticise-decision-allow-pubs-stay-open-england-match-world-cup",
+      "published_date": "2026-07-03T11:34:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bus ploughs into front window of Notting Hill home",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/notting-hill-tfl-bus-crash-met-police-b3008267.html",
+      "published_date": "2026-07-03T11:33:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police chiefs hit out at Starmer’s U-turn on late pub openings for England game and warn of surge in violent incidents",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/world-cup-england-pub-opening-hours-longer-police-b3008122.html",
+      "published_date": "2026-07-03T11:17:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "People awaiting hospital treatment to get three weeks’ notice under NHS England plans",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jul/03/people-awaiting-hospital-treatment-three-weeks-notice-nhs-england",
+      "published_date": "2026-07-03T11:09:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Cornish miners who brought football and pasties to Mexico",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/mexico-cornwall-england-world-cup-pasty-b3008160.html",
+      "published_date": "2026-07-03T10:59:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour general secretary to stand down after party conference",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyrx1ee2r4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T20:46:47+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cly9xlgkyz5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T10:53:38+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Andy Burnham calls talk of bank holiday if England win World Cup ‘a bit premature’",
+      "title": "Labour’s general secretary to stand down after two years",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/andy-burnham-england-world-cup-bank-holiday-b3007912.html",
-      "published_date": "2026-07-02T20:36:27+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/hollie-ridley-labour-general-secretary-starmer-b3008251.html",
+      "published_date": "2026-07-03T10:41:36+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Maddy Cusack ‘would still be alive if coach had not joined Sheffield United’, inquest told",
+      "title": "Police CCTV appeal after two women ‘sexually assaulted’ at London Bridge station",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/maddy-cusack-inquest-jonathan-morgan-sheffield-united-mother-b3007783.html",
-      "published_date": "2026-07-02T19:31:59+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/london-bridge-station-sexual-assault-police-appeal-b3008222.html",
+      "published_date": "2026-07-03T10:31:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Britain's apology for the scandal of forced adoption can never heal the pain for people like me | David Batty",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/02/britain-apology-scandal-forced-adoption-babies-mothers",
-      "published_date": "2026-07-02T18:52:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on lessons from Southport: people fixated on violence must not slip through the system | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/02/the-guardian-view-on-lessons-from-southport-people-fixated-on-violence-must-not-slip-through-the-system",
-      "published_date": "2026-07-02T18:05:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boys who raped teen girls given custodial sentences at Court of Appeal",
+      "title": "Rapist police officer accused of earlier attack - but case was dropped",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg53d9p18vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T17:39:05+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cd6elx2vvjqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T10:28:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Metropolitan Police issue hate crime warning ahead of Pride in London",
+      "title": "Millionaire half sisters face off in ‘obsessive’ court row over dad’s £2.7m New Forest mansion",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/london-pride-met-police-b3007797.html",
-      "published_date": "2026-07-02T17:15:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Married at First Sight UK cast member arrested on suspicion of rape",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/02/married-at-first-sight-uk-cast-member-arrested-on-suspicion-of",
-      "published_date": "2026-07-02T17:06:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Truly international’ network of drug-facilitated rape uncovered by UK crime agency",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jul/02/international-network-drug-facilitated-rape-uncovered-by-uk-crime-agency",
-      "published_date": "2026-07-02T17:05:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: Catherine gives out tickets and meets public in surprise Wimbledon visit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cly09x7wjpko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-02T16:39:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Starmer to allow all pubs to stay open until 5am for England’s World Cup match with Mexico",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/england-mexico-pub-opening-time-kick-off-world-cup-b3007688.html",
-      "published_date": "2026-07-02T16:28:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keir Starmer to allow pubs to stay open until 5am for England v Mexico match",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/02/starmer-pubs-stay-open-england-mexico-match-world-cup",
-      "published_date": "2026-07-02T16:24:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women from minority backgrounds in UK less likely to receive epidurals, research finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jul/02/women-from-minority-backgrounds-in-uk-less-likely-to-receive-epidurals-research-finds",
-      "published_date": "2026-07-02T16:03:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager in court charged with attempted murder after woman hit by car",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/teenager-in-court-charged-with-attempted-murder-after-woman-hit-by-car-in-linwood-13559880",
-      "published_date": "2026-07-02T15:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman arrested on suspicion of murder after body found in search for missing teenager Taylor Charlton",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/taylor-charlton-devon-missing-murder-b3007716.html",
-      "published_date": "2026-07-02T15:29:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bridget Phillipson responds to Thomas Tuchel’s plea to parents over England’s late-night World Cup match",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/tuchel-phillipson-england-v-mexico-late-night-world-cup-b3007711.html",
-      "published_date": "2026-07-02T15:24:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keir Starmer’s on the pitch, he thinks it’s all over … Well, it will be soon | John Crace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/02/keir-starmer-england-world-cup-prime-minister",
-      "published_date": "2026-07-02T15:20:11+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/lindsay-judith-bisiker-beaulieu-court-b3008150.html",
+      "published_date": "2026-07-03T09:28:34+00:00",
       "category": "Local Events"
     }
   ]
