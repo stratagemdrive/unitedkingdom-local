@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-09T13:50:49.338081+00:00",
+  "last_updated": "2026-07-09T23:57:45.877492+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pakistan refuses to take back grooming gang ringleader",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/shabir-ahmed-pakistan-deportation-shabana-mahmood-b3011769.html",
+      "published_date": "2026-07-09T17:13:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "White House says Keir Starmer’s England intervention ‘more egregious’ than Donald Trump’s Balogun red card call",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/trump-balogun-starmer-england-world-cup-b3012141.html",
+      "published_date": "2026-07-09T16:43:11+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Princess Eugenie’s gallery cleared of breaching Russian sanctions over sale of artwork",
       "source": "The Independent",
@@ -130,24 +144,38 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Guardian view on Nigel Farage’s byelection stunt: spectacle is not scrutiny | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/07/the-guardian-view-on-nigel-farages-byelection-stunt-spectacle-is-not-scrutiny",
-      "published_date": "2026-07-07T18:11:07+00:00",
-      "category": "Diplomacy"
+      "title": "Henry Nowak’s killer Vickrum Digwa and his family deny owning an arsenal of swords, knuckledusters and axe",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/vickrum-digwa-henry-nowak-weapons-southampton-b3012051.html",
+      "published_date": "2026-07-09T18:52:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Hundreds of jobs at risk as John Lewis announces closure of in-store services",
+      "title": "Burnham apologises for Labour's initial response to Gaza war",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg5yrkeed1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T17:56:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Reform byelection campaign risks a replay of the Johnson error",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/07/hundreds-of-jobs-at-risk-as-john-lewis-announces-closure-of-in-store-services",
-      "published_date": "2026-07-07T16:48:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/jul/09/reform-byelection-campaign-risks-a-replay-of-the-johnson-error",
+      "published_date": "2026-07-09T17:14:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Barcelona registers highest temperature in 112 years as French nuclear reactor shuts down due to extreme heat – Europe live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jul/09/europe-heatwave-uk-spain-barcelona-france-italy-hungary-france-macron-orban-latest-news-updates",
       "published_date": "2026-07-09T13:32:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Henry Nowak's killer, his brother and father plead not guilty to weapons charges",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/vickrum-digwa-his-brother-and-his-father-plead-not-guilty-to-weapons-charges-13561951",
+      "published_date": "2026-07-09T12:19:00+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "UK ‘under daily attack’ from Russia and needs to ‘wake up’ to threats, Starmer’s military adviser warns",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/defence-russia-starmer-robertson-nato-b3010376.html",
-      "published_date": "2026-07-07T11:22:38+00:00",
-      "category": "Military"
+      "title": "Pressure builds on Europe's biggest port to be greener",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T23:00:51+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Financial stability at risk from artificial intelligence, says Bank of England",
+      "title": "Burnham’s apology over Gaza marks ‘reset moment’ as Labour seeks to win back progressive voters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/09/burnhams-apology-over-gaza-marks-reset-moment-as-labour-seeks-to-win-back-progressive-voters",
+      "published_date": "2026-07-09T20:10:07+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Teens being arrested over hostile states using proxies on UK soil - as number of investigations surges",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/financial-stability-at-risk-from-artificial-intelligence-bank-of-england-says-13561255",
-      "published_date": "2026-07-07T10:52:00+00:00",
-      "category": "Military"
+      "url": "https://news.sky.com/story/teens-being-arrested-over-hostile-states-using-proxies-on-uk-soil-as-number-of-investigations-surges-13562068",
+      "published_date": "2026-07-09T17:50:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UK house prices rise for first time in months since breakout of Iran war",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/house-prices-sold-uk-iran-war-b3010248.html",
-      "published_date": "2026-07-07T08:39:27+00:00",
-      "category": "Military"
+      "title": "UK swelters in third heatwave of the year as western Europe counts cost of hottest-ever June",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/09/uk-swelters-third-heatwave-western-europe-counts-cost-hottest-ever-june",
+      "published_date": "2026-07-09T17:39:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Shell boosted by oil price spike due to Iran war — but gas production takes a hit",
+      "title": "‘A godsend on a hot train’: your top tips for beating the heat this summer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/jul/09/readers-tips-staying-cool-hot-weather",
+      "published_date": "2026-07-09T14:00:06+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UK electricity grid issues rare warning as air conditioning use surges in heatwave",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/shell-oil-gas-iran-war-qatar-b3010230.html",
-      "published_date": "2026-07-07T08:13:34+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/national-energy-system-operator-warning-heatwave-b3011971.html",
+      "published_date": "2026-07-09T13:51:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "The best portable neck and handheld fans in the UK to keep you cool, tested",
@@ -382,46 +424,74 @@
       "category": "Energy"
     },
     {
-      "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
-      "published_date": "2026-07-08T11:13:33+00:00",
-      "category": "Energy"
+      "title": "UK to miss out on £600m a year after allowing US exemption from landmark tax deal",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/uk-tax-exemption-us-hmrc-b3012082.html",
+      "published_date": "2026-07-09T23:06:37+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Unions in Europe press for new worker protections to counter heat stress",
+      "title": "Vape packaging and flavouring face restrictions under UK plans to reduce appeal to children",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
-      "published_date": "2026-07-08T11:00:52+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/society/2026/jul/10/vape-packaging-flavours-restrictions-government-plans-children",
+      "published_date": "2026-07-09T23:01:04+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The rapid rise of housefishing: are AI-enhanced property listings helpful – or sinister?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/08/the-rapid-rise-of-housefishing-are-ai-enhanced-property-listings-helpful-or-sinister",
-      "published_date": "2026-07-08T09:00:25+00:00",
-      "category": "Energy"
+      "title": "New-builds coming to housing market at near 10-year low – Rightmove",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/rightmove-housebuilders-government-b3012319.html",
+      "published_date": "2026-07-09T23:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The great carbon capture con: behold the wasted billions Burnham could claw back | George Monbiot",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/08/carbon-capture-con-andy-burnham-fossil-fuels-renewables",
-      "published_date": "2026-07-08T08:10:12+00:00",
-      "category": "Energy"
+      "title": "UK to miss out on £600m in tax due to US exemption, says HMRC",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/public-accounts-committee-hmrc-parliament-press-association-b3012320.html",
+      "published_date": "2026-07-09T23:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'He was gaslighting me': Ex-partner speaks of rapist surgeon's double life",
+      "title": "Backlash after council allows convicted rapist to retain his taxi operator’s licence",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/david-brown-taxi-highland-council-scotland-b3011843.html",
+      "published_date": "2026-07-09T21:10:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Independent’s newsletters recognised with two industry awards",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/independent-newsletters-awards-inside-football-money-b3012048.html",
+      "published_date": "2026-07-09T18:01:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Interest rates may need to rise this year, says Bank of England economist",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp9pe4lz42ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-08T04:59:15+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T17:37:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "M&S invests in fridges that can cope with weather as hot as 45C",
+      "title": "The Guardian view on Nigel Farage’s crypto cash: accountability is not a conspiracy | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/07/marks-and-spencer-fridges-hot-weather-45c",
-      "published_date": "2026-07-07T15:00:04+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/09/the-guardian-view-on-nigel-farages-crypto-cash-accountability-is-not-a-conspiracy",
+      "published_date": "2026-07-09T17:30:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What a week for Daddy Nige and his dysfunctional Reform family",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/09/daddy-nigel-farage-dysfunctional-reform-family",
+      "published_date": "2026-07-09T17:20:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FTSE 100 held back by AstraZeneca trial setback",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/astrazeneca-aim-donald-trump-antofagasta-glencore-b3012139.html",
+      "published_date": "2026-07-09T16:33:22+00:00",
+      "category": "Economy"
     },
     {
       "title": "Will Burnham cut stamp duty? Here’s what PM hopeful could change to property taxes",
@@ -494,213 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Millions of UK investors in the dark about how much they pay in fees",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/investing-fund-charges-fca-isas-financial-advice-b3011237.html",
-      "published_date": "2026-07-09T08:42:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How a rise in ADHD benefits claims is adding to welfare spending challenge",
+      "title": "Bonfire with mosque replica placed on top set alight",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c24ym9yd8p6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T08:35:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Robert Jenrick faces police probe over donation to Tory leadership campaign",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/robert-jenrick-campaign-donation-inquiry-conservatives-farage-b3011703.html",
-      "published_date": "2026-07-09T08:14:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘I’m left with a year of nothing’: UK gap year students lose thousands of pounds as tour operator closes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/09/uk-students-lose-thousands-of-pounds-gvi-eco-tour-operator-shuts-down",
-      "published_date": "2026-07-09T05:00:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigel Farage v Count Binface - podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jul/09/nigel-farage-v-count-binface-podcast",
-      "published_date": "2026-07-09T02:00:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Andy Burnham latest: PM-in-waiting vows billions in ‘critical’ defence spending to be targeted at UK firms",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-nigel-farage-election-live-updates-b3011467.html",
-      "published_date": "2026-07-08T22:53:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-08T19:23:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "City watchdog attacks consumer group in £9.1bn car loan payout battle",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/08/city-regulator-claims-car-loans-scandal",
-      "published_date": "2026-07-08T17:27:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Millions of pounds and many, many questions: the untold story of why Reform figures face NCA scrutiny",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/08/untold-story-why-reform-figures-face-nca-scrutiny-nigel-farage",
-      "published_date": "2026-07-08T16:40:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK inflation set to ease back faster than expected, says IMF",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/middle-east-government-bank-of-england-rachel-reeves-donald-trump-b3011194.html",
-      "published_date": "2026-07-08T15:20:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Farage launches preemptive attack on Commons standards committee, claiming it won’t judge him fairly – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/09/andy-burnham-keir-starmer-labour-nigel-farage-binface-reform-latest-news-updates",
-      "published_date": "2026-07-09T13:21:46+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wz13924jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T23:12:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Burnham planning for No 10 for at least a year, key ally says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0lyr660p8zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T13:18:55+00:00",
+      "title": "Cap private political donations to restore trust in British democracy, think tank says",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/donations-politics-farage-reform-b3011714.html",
+      "published_date": "2026-07-09T23:11:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Huntingdon train stabbing suspect denies attempted murder",
+      "title": "Basildon, Birkenhead and Grimsby among places shortlisted to be named UK’s first Town of Culture",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-town-of-culture-basildon-birkenhead-nandy-b3012152.html",
+      "published_date": "2026-07-09T22:59:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'I was needle spiked in a nightclub on my first holiday with friends'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyv0zjg2623o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T21:44:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham labelled ‘Avanti Andy’ as he is issued warning over London-Manchester power bubble",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-ed-davey-london-manchester-devolution-avanti-b3012175.html",
+      "published_date": "2026-07-09T21:44:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder arrest after man, 18, dies in crash between car and off-road bike",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czx5zk8k5evo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T21:23:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigate £500,000 Reform donations from mother of fraudster who backed Farage",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/09/police-investigate-500000-reform-donations-from-mother-of-fraudster-who-backed-farage",
+      "published_date": "2026-07-09T20:15:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Historic building wrecked in major blaze on Edinburgh's Princes Street",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq51xwl85e8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T19:35:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with murder of mother-of-seven nearly 30 years after she disappeared",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/rrevor-dunkley-patricia-lashley-murder-b3012211.html",
+      "published_date": "2026-07-09T18:55:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Graham Linehan gets £25,000 compensation and an apology from Met police after arrest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/jul/09/graham-linehan-25000-compensation-apology-metropolitan-police-arrest",
+      "published_date": "2026-07-09T18:41:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham’s chief lieutenant claims Starmer’s government was sexist",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/louise-haigh-starmer-burnham-sexist-female-mps-labour-b3012036.html",
+      "published_date": "2026-07-09T18:34:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doreen Lawrence will not foot any of legal bill for failed attempt to sue Daily Mail",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/09/doreen-lawrence-legal-bill-failed-sue-daily-mail-prince-harry",
+      "published_date": "2026-07-09T18:32:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Graham Linehan receives settlement from Met over online post arrest",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgdyjeqz8lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T18:29:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Duchess Sophie makes The Archers cameo appearance",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyv0z8g0975o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-09T18:16:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Duchess of Edinburgh makes unexpected cameo appearance on The Archers",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/bbc-the-archers-sophie-duchess-edinburgh-b3012005.html",
+      "published_date": "2026-07-09T18:15:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after mosque replica put on Northern Ireland bonfire investigated as 'hate crime'",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/man-accused-of-carrying-out-huntingdon-train-stabbing-denies-attempted-murder-and-other-charges-13561936",
-      "published_date": "2026-07-09T13:00:00+00:00",
+      "url": "https://news.sky.com/story/mosque-replica-on-bonfire-condemned-as-vile-bid-to-stir-up-anti-muslim-hatred-13561994",
+      "published_date": "2026-07-09T17:17:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "MPs urge Labour to ditch £330m Palantir software contract with NHS",
+      "title": "Ben Jennings on Nigel Farage’s byelection announcement – cartoon",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/09/mps-urge-labour-to-ditch-330m-palantir-software-contract-with-nhs",
-      "published_date": "2026-07-09T12:59:25+00:00",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/jul/09/ben-jennings-nigel-farage-byelection-cartoon",
+      "published_date": "2026-07-09T17:06:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Prince Harry gets UK trip back on track with hospital visit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czdezv3j7zeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T12:58:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tributes paid to beloved mother and children found dead at Bedfordshire home in suspected triple murder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/great-denham-tshuma-family-deaths-b3011830.html",
-      "published_date": "2026-07-09T12:29:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farage's by-election in Clacton officially confirmed",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwylzxw7p52o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T12:20:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mosque effigy on loyalist bonfire in Northern Ireland condemned as ‘vile’",
+      "title": "George Cottrell referred to Nigel Farage as ‘daddy’, says ex-Reform candidate",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/09/mosque-effigy-loyalist-bonfire-northern-ireland",
-      "published_date": "2026-07-09T12:12:26+00:00",
+      "url": "https://www.theguardian.com/politics/2026/jul/09/fraudster-cottrell-was-introduced-as-farage-chief-of-staff-says-ex-reform-candidate",
+      "published_date": "2026-07-09T16:59:21+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Will England get a Bank Holiday if team wins the World Cup? Potential date revealed ahead of Norway quarter-final",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/england-bank-holiday-world-cup-win-b3011855.html",
-      "published_date": "2026-07-09T11:58:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violent criminal who killed ‘kind’ grandfather carried out vicious stabbing weeks earlier",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/rasheed-rahman-ilford-stabbing-camden-murder-b3005606.html",
-      "published_date": "2026-07-09T11:57:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huntingdon train attack suspect denies attempted murders on London-bound service",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/huntingdon-train-attack-anthony-williams-b3011758.html",
-      "published_date": "2026-07-09T11:39:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ken Skates likely to become Welsh Labour leader as party brings contest forward",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cnv9l16e227o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T11:34:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform activists urged to switch focus from Manchester to Farage’s Clacton contest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/09/reform-activists-manchester-farage-clacton-byelection-contest",
-      "published_date": "2026-07-09T11:20:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scottish councillor dials into online meeting while driving car",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/council-member-driving-meeting-jim-montgomerie-b3011817.html",
-      "published_date": "2026-07-09T11:07:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family issue statement after mother and daughters found dead in Bedfordshire",
+      "title": "Prince Harry visits hospital as William plays crazy golf and Charles examines a penguin",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/family-suffering-unimaginable-loss-after-woman-and-daughters-found-dead-in-bedfordshire-13561924",
-      "published_date": "2026-07-09T10:43:00+00:00",
+      "url": "https://news.sky.com/story/prince-harry-visits-hospital-as-brother-william-plays-crazy-golf-and-king-charles-examines-a-penguin-13562048",
+      "published_date": "2026-07-09T16:35:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Nigel Farage latest: Reform leader admits surprise at by-election boycott as Count Binface emerges as main rival",
+      "title": "The strange and surprisingly moving story behind Count Binface, the man taking on Farage",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-count-binface-claction-by-election-live-updates-b3011667.html",
-      "published_date": "2026-07-09T10:41:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A&E visits hit record high in June as heatwave struck UK",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/health/ae-visits-numbers-june-uk-heatwave-b3011800.html",
-      "published_date": "2026-07-09T10:31:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family's 'unimaginable loss' as mum and daughters found dead",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyr4l1p6d4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T10:27:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham on course for No 10 as Labour nominations open",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T10:23:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Restore Britain leader describes Dunblane tragedy as 'one murder'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gdj300lyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T10:03:57+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/count-binface-farage-clacton-byelection-reform-b3011896.html",
+      "published_date": "2026-07-09T16:30:36+00:00",
       "category": "Local Events"
     }
   ]
