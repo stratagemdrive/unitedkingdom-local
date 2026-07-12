@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-11T23:43:01.326230+00:00",
+  "last_updated": "2026-07-12T12:01:00.604850+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Fitness influencers linked to wellness brand helping run illegal steroid market on Telegram",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/jul/12/fitness-influencers-linked-to-wellness-brand-helping-run-steroid-market-on-telegram",
+      "published_date": "2026-07-12T09:00:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN draws up new blueprint to end Cyprus crisis after 52 years of stalemate",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/europe/cyprus-crisis-united-national-solution-b3009857.html",
+      "published_date": "2026-07-12T08:12:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Europe considering proposals to allow navigational fees in strait of Hormuz",
       "source": "The Guardian",
@@ -127,20 +141,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/jul/09/britains-public-wants-change-media-business-westminster-too-expensive",
       "published_date": "2026-07-09T07:00:55+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "MPs seek veto over political ambassadors after Mandelson row",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9q2rgx9qglo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-09T02:22:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mandelson’s appointment as US ambassador was ‘unmitigated disaster’ that should ‘never have been allowed to happen’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/mandelson-keir-starmer-epstein-thornberry-b3011429.html",
-      "published_date": "2026-07-08T23:11:10+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,20 @@
       "category": "Military"
     },
     {
+      "title": "Reeves appears to accept time as chancellor is over as she warns Burnham ‘governing is hard’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/rachel-reeves-andy-burnham-pm-prime-minister-b3013405.html",
+      "published_date": "2026-07-12T11:07:50+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Investigation after two homes destroyed by fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70yp7d917eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T10:28:30+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "‘Greasy, flavourless and bland’: the best (and worst) supermarket party cakes, tasted and rated",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/thefilter/2026/jul/11/best-supermarket-party-cakes-tasted-rated",
@@ -410,18 +424,60 @@
       "category": "Energy"
     },
     {
-      "title": "Jackdaw ‘will not materially influence’ emissions, says owner",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/north-sea-britain-uk-government-aberdeen-equinor-b3011350.html",
-      "published_date": "2026-07-09T09:00:07+00:00",
-      "category": "Energy"
+      "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence",
+      "published_date": "2026-07-12T11:01:33+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Sizewell B nuclear power plant to continue powering UK for another 20 years",
+      "title": "Nigel Farage is just one strand in the tangle of rightwing politicians and crypto investors | John Harris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/12/nigel-farage-cryptocurrency-rightwing-politicians-money-uk",
+      "published_date": "2026-07-12T11:00:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK economy set to stagnate as Iran war and high energy costs hold back growth",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/sizewell-b-power-station-edf-suffolk-b3011722.html",
-      "published_date": "2026-07-09T08:26:54+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/uk-gdp-economy-iran-war-b3013404.html",
+      "published_date": "2026-07-12T10:38:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Reeves tells Burnham to expect ‘shocks and challenges’ from outset in No 10",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/12/rachel-reeves-andy-burnham-expectations-no-10",
+      "published_date": "2026-07-12T09:25:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘I felt dizzy’: bodybuilder recalls how drug abuse caught up with him",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jul/12/i-felt-dizzy-bodybuilder-recalls-how-drug-abuse-caught-up-with-him",
+      "published_date": "2026-07-12T09:00:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK’s public spending watchdog to investigate Lower Thames Crossing project",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/12/public-spending-watchdog-investigate-lower-thames-crossing-project",
+      "published_date": "2026-07-12T07:00:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘A very good clone’: news stories faked to lure victims to scam investment sites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jul/12/clone-news-sites-faked-scam-investment-sites-social-media",
+      "published_date": "2026-07-12T06:00:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T05:00:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "Rachel Reeves to unveil billions in loans for small businesses in final act",
@@ -508,199 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Burnham urged to scrap national insurance hike amid claims it has ‘destroyed jobs’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-laura-mitchell-national-insurance-tax-rise-b3012980.html",
-      "published_date": "2026-07-10T23:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "What are the rules on political donations and gifts in the UK?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/10/how-do-political-donations-work-and-why-are-there-growing-calls-for-a-cap",
-      "published_date": "2026-07-10T18:24:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Catherine cheers on William at charity polo match",
+      "title": "Nothing to suggest Widdecombe killing was politically motivated, police say",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1wyvjllwv9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-10T17:53:29+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T11:55:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Guardian view on disability benefits: Pip must not become another route for cuts | Editorial",
+      "title": "Ann Widdecombe murder latest: No suggestion former MP’s killing is politically motivated, police say",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/ann-widdecombe-death-latest-updates-murder-suspect-investigation-cause-b3013366.html",
+      "published_date": "2026-07-12T11:42:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nothing to suggest Ann Widdecombe death politically motivated, say police",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/10/the-guardian-view-on-disability-benefits-pip-must-not-become-another-route-for-cuts",
-      "published_date": "2026-07-10T17:30:26+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/jul/12/ann-widdecombe-death-police-investigation",
+      "published_date": "2026-07-12T11:40:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ocado investors hoping for positive signs amid reported leadership clash",
+      "title": "Ann Widdecombe murder probe: Police statement in full as detectives give update on possible motive",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/ocado-tim-steiner-shares-tetra-pak-spencer-b3012840.html",
-      "published_date": "2026-07-10T16:43:50+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/ann-widdecombe-press-conference-murder-arrest-b3013411.html",
+      "published_date": "2026-07-12T11:39:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Vodafone gains help FTSE 100 close higher amid calmer trading",
+      "title": "'Argentina get ready': Fans in London react to England win",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckg5kz7qp31o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T11:17:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British hikers found with severe burns after crying for help in Spanish wildfires",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/vodafone-donald-trump-aim-iran-new-york-b3012829.html",
-      "published_date": "2026-07-10T16:25:31+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/world/europe/spain-wildfires-almeria-bedar-british-couple-b3013401.html",
+      "published_date": "2026-07-12T11:16:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How SMEs can access grants and funds in the UK",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/sme-grants-funding-uk-b3008416.html",
-      "published_date": "2026-07-10T15:42:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank of England handed powers to regulate key tech firms including Amazon and Google",
+      "title": "New LS Lowry exhibition aims to demolish ‘naive and uncultured’ myth",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/10/bank-of-england-handed-powers-to-regulate-key-tech-firms-including-amazon-and-google",
-      "published_date": "2026-07-10T14:37:13+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/artanddesign/2026/jul/12/new-ls-lowry-exhibition-aims-to-demolish-naive-and-uncultured-myth",
+      "published_date": "2026-07-12T10:00:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will England get a Bank Holiday if team wins the World Cup? Potential date revealed ahead of Argentina semi-final",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/england-bank-holiday-world-cup-final-win-argentina-b3013387.html",
+      "published_date": "2026-07-12T09:04:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK becoming ‘wild west’ for experimental peptides, expert warns",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jul/12/uk-wild-west-for-experimental-peptides-expert",
+      "published_date": "2026-07-12T09:00:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigel Farage latest: Britons back Count Binface in new Clacton by-election poll amid Reform donations row",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/farage-count-binface-clacton-byelection-live-updates-burnham-reform-b3013071.html",
+      "published_date": "2026-07-12T08:31:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ann Widdecombe’s final messages sent minutes before death revealed",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/ann-widdecombe-murder-final-messages-suspect-b3013362.html",
+      "published_date": "2026-07-12T07:21:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Londoners face hidden poverty premium, study says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33yxe2ey22o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T07:02:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Exceptional' wildfire risk for parts of UK as heat health alerts issued",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/ce8mrn49gndo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T06:07:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Planning system 'needs to be overhauled' to build homes needed",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c802zrd597vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T06:03:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK to crack down on unlicensed casinos sponsoring football teams",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jul/12/uk-unlicensed-casinos-football-sponsorship-gambling-commission",
+      "published_date": "2026-07-12T06:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Fresh arrest in killing of Widdecombe' and 'Saved by the Bell'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdr488kl1j5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T04:23:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tuchel angry at 'lucky' England - but Bellingham defends players",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T03:08:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "We are living fewer years in good health: Is the NHS part of the problem?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T00:42:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watch fans react to every goal of England v Norway",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cvgqxx912dro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-12T00:33:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Man arrested on suspicion of murder of Ann Widdecombe, police say",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-11T23:30:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 28, arrested over murder of former MP Ann Widdecombe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/11/ann-widdecombe-killed-24-hours-before-body-found",
-      "published_date": "2026-07-11T22:46:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Noskova, an astonishing Wimbledon fightback - and a kiss to the sky",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ckg85p1dp12o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T20:41:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager charged with murder after man, 18, dies in crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy73l32dj1no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T20:35:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies after falling from Eleventh Night bonfire in east Belfast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/11/man-dies-after-falling-from-eleventh-night-bonfire-in-east-belfast",
-      "published_date": "2026-07-11T20:16:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heatwave conditions in England and Wales to continue into next week, says Met Office",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/11/heatwave-conditions-england-wales-next-week-met-office",
-      "published_date": "2026-07-11T19:55:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies after falling from east Belfast bonfire",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd3g5w7556o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T19:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies after falling from Belfast bonfire",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-dies-after-falling-from-eleventh-night-bonfire-in-belfast-13562619",
-      "published_date": "2026-07-11T18:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man believed to be carrying crossbow shot by police",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg74xpemg1eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T17:59:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ann Widdecombe murder probe: What we know so far",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T17:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ann Widdecombe attacked nearly 24 hours before she was found dead, police believe",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgjx912wxw3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T17:23:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man with ‘threatening behaviour’ suspected of carrying crossbow shot by police",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/crossbow-shot-wales-gwent-police-b3013218.html",
-      "published_date": "2026-07-11T17:20:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man carrying 'crossbow' shot by police in Wales",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-carrying-crossbow-shot-by-police-in-wales-officers-say-13562601",
-      "published_date": "2026-07-11T16:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘State-of-the-art’ £31m school to be demolished without being used by pupils",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/matford-brook-academy-school-exeter-devon-demolished-safety-b3010287.html",
-      "published_date": "2026-07-11T16:40:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Village in shock as 'horrific' Ann Widdecombe murder case unfolds",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0ky0e147jzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T16:18:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amber heat health alert extended as latest UK heatwave sees record temperatures",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-heatwave-warning-weather-wildfire-b3013195.html",
-      "published_date": "2026-07-11T15:55:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch Ann Widdecombe’s last TV appearance given hours before her death",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/ann-widdecombe-last-tv-appearance-death-farage-b3013198.html",
-      "published_date": "2026-07-11T15:48:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK pubs set to stay open longer for England v Norway World Cup clash",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/england-norway-pubs-opening-hours-b3013196.html",
-      "published_date": "2026-07-11T15:43:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrests as man's body found in suitcase in woods",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8krwx3zpno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T15:19:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Triple murder suspect arrested in South Africa",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-11T14:25:40+00:00",
       "category": "Local Events"
     }
   ]
