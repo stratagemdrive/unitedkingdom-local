@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-15T12:16:12.596030+00:00",
+  "last_updated": "2026-07-15T23:49:34.424226+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Stonegate pub and bar chain investigated over ‘unfair’ treatment of landlords",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/15/stonegate-pub-and-bar-chain-investigated-over-unfair-treatment-of-landlords",
+      "published_date": "2026-07-15T16:39:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spain and Gibraltar celebrate as border fence falls after signing of ‘historic deal’",
       "source": "The Guardian",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'I'm sickened my son's killers could be out early'",
+      "title": "Luxury holidays and lost bank cards - how fake Army major defrauded women on dating apps",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8jkemjgr1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-13T05:09:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c4gy7dv2kplo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T16:14:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nuclear veterans' medical record handling haphazard, report finds",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgdgg3q55go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T14:51:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What you need to know about the Falklands War before England vs Argentina at the World Cup",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/falklands-war-england-argentina-history-deaths-world-cup-b3015207.html",
+      "published_date": "2026-07-15T13:52:07+00:00",
+      "category": "Military"
     },
     {
       "title": "King Charles jokes about ageing with 104-year-old war veteran",
@@ -263,25 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "‘Coalition of the willing’ to build shared European anti-ballistic programme",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/13/coalition-of-the-willing-build-shared-european-anti-ballistic-programme",
-      "published_date": "2026-07-13T18:45:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Starmer hits back at Argentina over minister’s Falklands remark ahead of crunch World Cup match",
+      "title": "Social media fuelling ‘hidden’ sexual abuse of children, study finds",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/falkland-islands-england-argentina-world-cup-b3013859.html",
-      "published_date": "2026-07-13T13:01:43+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/child-sexual-abuse-rise-social-media-uk-b3012607.html",
+      "published_date": "2026-07-15T23:01:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Human trials of new Ebola vaccine set to begin in UK",
+      "title": "Government downplays energy grid blackout risk amid extreme heatwave",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/energy-grid-blackouts-heatwave-neso-b3015566.html",
+      "published_date": "2026-07-15T15:59:47+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Dale Vince to get damages from Daily Mail publisher over misleading article",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/15/dale-vince-damage-daily-mail-misleading",
+      "published_date": "2026-07-15T14:06:19+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Date for thousands of single-sex toilets to change revealed",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/human-trials-of-new-ebola-vaccine-set-to-begin-in-uk-13562950",
-      "published_date": "2026-07-13T09:10:00+00:00",
-      "category": "Military"
+      "url": "https://news.sky.com/story/from-5-august-thousands-of-single-sex-toilets-will-need-to-change-to-be-birth-sex-only-13563707",
+      "published_date": "2026-07-15T12:44:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UK's extreme weather is the new normal, Met Office says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T11:11:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Several flights diverted after plane blocks Gatwick runway",
@@ -389,39 +424,116 @@
       "category": "Energy"
     },
     {
-      "title": "Microsoft Surface Laptop 8 review: a quality PC whose trackpad taps you back",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jul/14/microsoft-surface-laptop-8-review",
-      "published_date": "2026-07-14T06:00:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "North Sea oil industry urges Burnham to approve new drilling in UK waters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/14/north-sea-oil-industry-urges-burnham-approve-more-drilling-uk-waters",
-      "published_date": "2026-07-14T05:00:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Lawyers to investigate claims of GB power grid cover-up over blackout risk",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/13/lawyers-to-investigate-claims-of-gb-power-grid-cover-up-over-blackout-risk",
-      "published_date": "2026-07-13T20:00:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "FTSE 100 flat as oil price rises amid Middle East tensions",
+      "title": "Shabana Mahmood expected to be named as Burnham’s chancellor",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/middle-east-donald-trump-aim-andy-burnham-kospi-b3014069.html",
-      "published_date": "2026-07-13T16:26:20+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/shabana-mahmood-andy-burnham-chancellor-b3015587.html",
+      "published_date": "2026-07-15T20:26:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK bans support for Iran's Islamic Revolutionary Guard Corps",
+      "title": "Shabana Mahmood expected to be named Andy Burnham’s chancellor",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/15/shabana-mahmood-andy-burnham-chancellor",
+      "published_date": "2026-07-15T18:52:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Salary information to be shown on job ads under new laws",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz0jkj7e87go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-13T12:50:19+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T18:46:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SpaceX share price drops below stock market debut",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T18:11:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Andy Burnham signals a wealth tax is off the agenda for now",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-wealth-tax-off-agenda-for-now",
+      "published_date": "2026-07-15T18:09:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Florence Welch’s mother says cuts to arts and humanities ‘absolutely tragic’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/jul/15/prof-evelyn-welch-arts-humanities-cuts-absolutely-tragic",
+      "published_date": "2026-07-15T17:49:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham does not rule out wealth tax",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c89nww3z99po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T17:32:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Guardian view on obesity: put public health before food industry pressure | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/the-guardian-view-on-obesity-put-public-health-before-food-industry-pressure",
+      "published_date": "2026-07-15T17:22:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T17:13:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Millions to retire later under state pension age increase plans – here’s who’s affected",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/state-pension-age-increase-68-2037-labour-treasury-b3015125.html",
+      "published_date": "2026-07-15T16:46:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FTSE 100 ends lower over fear of soft Chinese growth and weak mining stocks",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/chinese-gdp-burberry-reuters-deutsche-bank-b3015598.html",
+      "published_date": "2026-07-15T16:38:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "In Wales, I've seen what happens when devolution isn't done right. Here's what Andy Burnham must know | Will Hayward",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/andy-burnham-devolution-wales",
+      "published_date": "2026-07-15T16:06:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Brewdog co-founder James Watt launches bid to buy back beer firm",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7vyv2v2vmzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T15:14:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK economy set to have stayed in slow lane after Iran war held back growth",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/gdp-iran-deutsche-bank-office-for-national-statistics-israel-b3015490.html",
+      "published_date": "2026-07-15T14:40:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Starmer says it's the 'end of my political journey' at his final Prime Minister's Questions",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T14:13:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EV sales soar as UK drivers turn to Electric Car Grant",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/life-style/motoring/motoring-news/electric-car-grant-ev-sales-b3015435.html",
+      "published_date": "2026-07-15T13:56:05+00:00",
+      "category": "Economy"
     },
     {
       "title": "Burnham urged to drop ‘flawed’ plans that may let developers bypass environment laws for £1",
@@ -452,255 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "How changes to ‘buy now, pay later’ rights affect you",
+      "title": "Boy, 14 charged with terror offence over alleged plan to target mosques in London",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/boy-charged-terror-offence-mosque-london-b3015626.html",
+      "published_date": "2026-07-15T23:40:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Argentina players celebrate beating England with ‘Falklands are Argentinian’ banner",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/sport/football/world-cup/argentina-england-falkland-islands-world-cup-b3015782.html",
+      "published_date": "2026-07-15T23:40:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'We had the spirit': England fans on semi-final loss to Argentina",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c62e47le4e1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T23:32:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police officers to get 3.5% pay rise in England and Wales, Home Office says",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/police-pay-rise-shabana-mahmood-home-office-b3015818.html",
+      "published_date": "2026-07-15T23:27:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England fans across UK devastated as World Cup journey ends in emotional rollercoaster",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/england-fans-argentina-world-cup-b3015756.html",
+      "published_date": "2026-07-15T22:57:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "William tells England to 'hold their heads high' after loss",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T22:33:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Black doctors in England four times less likely to get training places than white counterparts",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/15/what-do-new-buy-now-pay-later-protections-mean-for-you",
-      "published_date": "2026-07-15T10:46:04+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/jul/15/black-doctors-england-training-white-colleagues-nhs-analysis",
+      "published_date": "2026-07-15T22:30:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "China economic growth falls sharply, missing target",
+      "title": "Starmer praises England team after World Cup semi-final defeat against Argentina",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/england-argentina-world-cup-starmer-reaction-b3015773.html",
+      "published_date": "2026-07-15T21:58:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The surprising places where couples could legally marry under new rules – from beaches to cruise ships",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/wedding-locations-marriage-legal-england-wales-moj-b3015531.html",
+      "published_date": "2026-07-15T21:30:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vigil to be held for three family members found dead in house in Ballymena",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-15T10:21:48+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/ce8k8rj7j1jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T21:27:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Best domain hosting services, tested by an expert",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/best-domain-hosting-services-b2967880.html",
-      "published_date": "2026-07-15T10:19:00+00:00",
-      "category": "Economy"
+      "title": "Villagers and campsites evacuated as wildfire burns across 2km in Highlands",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwydyy55egjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T21:01:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rise in energy and petrol prices due to Iran war holding back UK economy, OECD warns",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-gdp-iran-war-energy-oecd-b3015218.html",
-      "published_date": "2026-07-15T10:09:14+00:00",
-      "category": "Economy"
+      "title": "Tommy Robinson says he 'got it wrong' over man he falsely accused of filming children",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy060e1r468o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T20:46:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Who could Burnham pick for his chancellor and cabinet?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-chancellor-cabinet-prime-minister-mahmood-miliband-streeting-b3015239.html",
-      "published_date": "2026-07-15T10:02:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Thames Water has funds to survive until end of year but warns of uncertainty over future",
+      "title": "Police charge 14-year-old boy over alleged terror plot targeting London mosques",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/15/thames-water-funding-survive-end-of-year",
-      "published_date": "2026-07-15T09:50:33+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/jul/15/police-charge-boy-over-alleged-terror-plot-targeting-london-mosques",
+      "published_date": "2026-07-15T19:32:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Labour should ditch triple-lock pensions promise, says OECD",
+      "title": "Boy, 14, charged over alleged plan to target mosques",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czrjgmmx5rmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T18:34:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight men charged in historical child sex gang inquiry",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8n773xn32o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-15T18:09:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Save the Children clashes with Labour after accusing Starmer of ‘complicity’ in Gaza deaths",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/15/labour-should-ditch-triple-lock-pensions-promise-says-oecd",
-      "published_date": "2026-07-15T09:00:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Thames Water admits it has enough money to survive until the end of year amid £20bn debts",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/thames-water-london-debts-chris-weston-b3015174.html",
-      "published_date": "2026-07-15T08:54:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The next frontier for ESG: proof, performance and people",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/business-reporter/esg-compliance-business-environment-podcasts-b3014076.html",
-      "published_date": "2026-07-15T08:47:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Loyalty. The forbidden L-word",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/business-reporter/loyalty-shoppers-retail-points-rewards-b3014098.html",
-      "published_date": "2026-07-15T08:40:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The future of AI-powered compliance is defensible",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/business-reporter/ai-compliance-verification-audit-business-b3014109.html",
-      "published_date": "2026-07-15T08:40:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The internet was built for everyone. AI agents are about to rebuild it just for you",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/business-reporter/ai-shopping-customers-personalisation-internet-b3014087.html",
-      "published_date": "2026-07-15T07:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Xbox workers stunned after jobs 'bloodbath'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c932eynvq1do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-15T00:09:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "I changed jobs 10 times in 10 years to get the career I wanted",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-14T23:04:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Supermarkets could be hit with penalties over junk food sales under new proposals to tackle obesity",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/obesity-supermarkets-junk-food-government-b3014785.html",
-      "published_date": "2026-07-14T23:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rachel Reeves says ‘no alliance’ more important than with the EU in likely last major speech as chancellor",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/rachel-reeves-mansion-house-speech-eu-alliance-b3014971.html",
-      "published_date": "2026-07-14T21:51:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Seven British nationals confirmed dead in devastating Spanish wildfires",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/spain-almeria-fires-deaths-bedar-b3015334.html",
-      "published_date": "2026-07-15T12:04:34+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/15/save-the-children-accusing-starmer-of-complicity-in-gaza-deaths",
+      "published_date": "2026-07-15T17:49:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Ann Widdecombe murder latest: Zia Yusuf accuses rival parties of ‘incitement’ following killing of Reform politician",
+      "title": "‘Arise, Sir Harry?’: Keir Starmer expected to honour England stars if they win World Cup",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/ann-widdecombe-death-latest-updates-murder-suspect-cause-investigation-killer-b3015087.html",
-      "published_date": "2026-07-15T11:34:29+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-england-world-cup-resignation-honours-list-b3015399.html",
+      "published_date": "2026-07-15T17:48:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Bullying NHS nurse who told colleague ‘I could destroy you’ struck from register",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-nurse-bullying-elaine-sullivan-b3015286.html",
-      "published_date": "2026-07-15T11:20:36+00:00",
+      "title": "Boy, 14, charged with terror offence over 'plot to target mosques'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/boy-14-charged-with-terror-offence-over-plot-to-target-mosques-in-london-13563791",
+      "published_date": "2026-07-15T17:40:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "British man detained in Iran has jail term extended for speaking to press, family says",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/craig-lindsay-foreman-iran-evin-prison-b3015148.html",
-      "published_date": "2026-07-15T11:11:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices: ‘Nothing wrong with being a patriot’: Readers on flag-waving ahead of England’s Argentina semi-final",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/life-style/england-argentina-world-cup-patriotism-flag-george-cross-b3015204.html",
-      "published_date": "2026-07-15T10:50:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argentina’s vice-president calls England ‘usurping pirates’ in rant before World Cup clash",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/argentina-england-history-falkland-world-cup-b3015238.html",
-      "published_date": "2026-07-15T10:29:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wickes manager launches discrimination case after being fired for snorting cocaine at work",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/wickes-cocaine-discrimination-jasmin-unsted-b3015251.html",
-      "published_date": "2026-07-15T10:26:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sadiq Khan backs calls for maximum workplace temperature in UK",
+      "title": "The Guardian view on Keir Starmer’s farewell: a dignified departure and a necessary one | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/15/sadiq-khan-backs-calls-uk-maximum-workplace-temperature",
-      "published_date": "2026-07-15T10:10:32+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/15/the-guardian-view-on-keir-starmers-farewell-a-dignified-departure-and-a-necessary-one",
+      "published_date": "2026-07-15T17:22:43+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The candidates standing in Clacton by-election",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crlw69p6lyeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-15T09:47:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argentina fans burn Union flag as police brace for trouble ahead of England’s ‘high risk’ World Cup clash",
+      "title": "Lookalike contests to Etsy witch spells: How England supporters are gearing up for tonight’s semi-final with Argentina",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/england-argentina-world-cup-police-b3015172.html",
-      "published_date": "2026-07-15T09:47:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK pubs expected to pour 14 million pints during England v Argentina World Cup semi-final",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/england-argentina-pubs-watch-world-cup-b3015229.html",
-      "published_date": "2026-07-15T09:42:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The 'Tinder clinicians' - Wales' way of dealing with ambulance calls attracts global attention",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1mymg9jpj4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-15T09:16:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teen catfish victim wins £10k court payout after identity stolen by girl in her town",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/glamorgan-sasha-davies-catfish-this-morning-b3015176.html",
-      "published_date": "2026-07-15T09:10:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-15T09:06:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham calls for ‘serious review’ of MP security after Ann Widdecombe murder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/ann-widdecombe-death-mp-security-andy-burnham-nigel-farage-b3015128.html",
-      "published_date": "2026-07-15T08:10:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Councillor loses bitter neighbour court war over dog fence boundary at £1.2m country home",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/david-todd-caroline-hodge-wyland-b3015130.html",
-      "published_date": "2026-07-15T07:45:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham urged to overhaul ‘timid and limited’ elections bill",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-strengthen-elections-bill",
-      "published_date": "2026-07-15T07:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters could be at moorland blaze for 'days'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8x2x5wnll1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-15T06:20:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England risks building new ‘death traps’ as experts warn of overheating crisis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/15/england-risks-building-death-traps-overheating-crisis-plans",
-      "published_date": "2026-07-15T06:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Royal Mint releases two new coins to mark 15-year anniversary of cult show",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/game-of-thrones-coins-anniversary-royal-mint-b3014630.html",
-      "published_date": "2026-07-15T05:35:43+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/world-cup-england-argentina-celebration-b3015459.html",
+      "published_date": "2026-07-15T17:13:52+00:00",
       "category": "Local Events"
     }
   ]
