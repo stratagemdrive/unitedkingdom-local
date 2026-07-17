@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-16T23:48:55.916059+00:00",
+  "last_updated": "2026-07-17T12:10:25.290433+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "EU border chaos feared at Dover crossing as busiest summer weekend looms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/17/eu-border-chaos-feared-dover-crossing-busiest-summer-weekend-looms",
+      "published_date": "2026-07-17T05:00:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Woman, 24, dies in Belfast hit-and-run",
       "source": "BBC News",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Immigration bill amendment will allow removal of Rochdale gang leader",
+      "title": "Andy Burnham will be the next prime minister – here’s what that could mean for Britain",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-prime-minister-policies-labour-manchesterism-tax-brexit-b3016227.html",
+      "published_date": "2026-07-17T11:24:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Man charged with assisting Iranian intelligence service, Met Police says",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-charged-with-allegedly-assisting-iran-intelligence-service-met-police-says-13564226",
+      "published_date": "2026-07-17T07:13:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Robert Laidlow: Reality Eaters album review",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/13/andy-burnham-expected-to-vote-shabana-mahmood-asylum-system-changes",
-      "published_date": "2026-07-13T19:20:17+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/music/2026/jul/17/robert-laidlow-reality-eaters-album-review",
+      "published_date": "2026-07-17T06:30:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five headaches Andy Burnham will have to deal with as PM",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T05:59:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Weatherwatch: How English summer clouds can warn of trouble ahead",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/jul/17/weatherwatch-english-summer-clouds-warn-bumps-ahead",
+      "published_date": "2026-07-17T05:00:59+00:00",
+      "category": "Military"
     },
     {
       "title": "UK sanctions Sudan’s gold trade to cut off key war funding",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Starmer becomes first UK PM to receive top French honour",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c33y3rxezxdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-14T19:27:49+00:00",
-      "category": "Military"
+      "title": "Octopus Energy founder Greg Jackson tells Burnham how to slash energy bills by £200 a year",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/andy-burnham-octopus-energy-bills-b3016759.html",
+      "published_date": "2026-07-17T11:50:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Gas prices drive down US inflation - but will it last?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-14T17:34:55+00:00",
-      "category": "Military"
+      "title": "Huge wind farms able to power two million homes approved by Scottish Government",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/john-swinney-scottish-government-scotland-b3016835.html",
+      "published_date": "2026-07-17T11:35:08+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Families of RAF Chinook crash victims have case dismissed by judge",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crm0mkgxn9eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-14T17:04:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Keir Starmer becomes first UK PM to receive France’s Legion of Honor",
+      "title": "Do natural deodorants actually work? I put 18 to the test – here are my favourites",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/14/keir-starmer-legion-dhonneur-france-macron",
-      "published_date": "2026-07-14T15:37:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Legal challenge over fatal 1994 RAF Chinook crash thrown out by High Court judge",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/legal-challenge-over-fatal-1994-raf-chinook-crash-thrown-out-by-high-court-judge-13563422",
-      "published_date": "2026-07-14T14:39:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/thefilter/2026/jul/17/best-natural-deodorants-tested-uk",
+      "published_date": "2026-07-17T09:00:04+00:00",
+      "category": "Energy"
     },
     {
       "title": "Scientists say paved front gardens are making cities hotter at night",
@@ -403,25 +424,81 @@
       "category": "Energy"
     },
     {
-      "title": "Drivers charging electric cars handed shock parking fines",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/15/drivers-charging-electric-cars-parking-fine-ev-pcn-car-parks",
-      "published_date": "2026-07-15T06:00:47+00:00",
-      "category": "Energy"
+      "title": "What Shabana Mahmood as chancellor could mean for your money and taxes",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/money/shabana-mahmood-chancellor-taxes-burnham-b3016632.html",
+      "published_date": "2026-07-17T11:45:19+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Heating oil customers to get up to £350 compensation for cancelled orders",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jul/15/heating-oil-customers-compensation-cancelled-orders-cma",
-      "published_date": "2026-07-15T05:00:45+00:00",
-      "category": "Energy"
+      "title": "Wetherspoons hoping for World Cup boost to offset consumer pressure",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/wetherspoons-tim-martin-middle-east-vat-andy-burnham-b3016847.html",
+      "published_date": "2026-07-17T11:45:08+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'Unprecedented' climate change facing UK - with extreme temperatures here to stay",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/unprecedented-climate-change-facing-uk-with-extreme-temperatures-here-to-stay-13563560",
-      "published_date": "2026-07-15T02:03:00+00:00",
-      "category": "Energy"
+      "title": "What Burnham’s policies might mean for your taxes, mortgage and money as he becomes prime minister",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/money/burnham-policies-tax-mortgages-bonds-stamp-duty-b3016820.html",
+      "published_date": "2026-07-17T11:26:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Luxury British fashion brand boosted by US and China sales",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/burberry-sale-china-north-america-b3016763.html",
+      "published_date": "2026-07-17T10:28:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Who is the frontrunner to be the UK's next chancellor?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T09:42:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Chancellor favourite Shabana Mahmood backed 50p income tax rate",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/50p-income-tax-rate-shabana-mahood-chancellor-burnham-b3016653.html",
+      "published_date": "2026-07-17T08:33:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘I don’t think I’ll ever retire’: the workers struggling to save for old age",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jul/17/workers-pensions-retirement-savings-money",
+      "published_date": "2026-07-17T07:13:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China ‘strongly dissatisfied’ with nationalisation of British Steel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied",
+      "published_date": "2026-07-17T06:57:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘How’s this joker got my details?’: BrewDog founder faces complaints over emails to ‘equity punks’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/17/brewdog-founder-james-watt-faces-data-privacy-complaints-over-emails-to-equity-punks",
+      "published_date": "2026-07-17T06:00:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "No deposit, no problem: the new 100% mortgages for first-time buyers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jul/17/first-time-buyers-mortgage-loans-banks-building-societies",
+      "published_date": "2026-07-17T06:00:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Papers: 'Spending warning to Burnham' and 'Only 693 days till Euros'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjdy0221do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T04:15:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
@@ -466,6 +543,13 @@
       "category": "Economy"
     },
     {
+      "title": "Business Daily",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9j?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-16T20:30:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Vodafone settles legal claim brought by 62 former franchisees",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/jul/16/vodafone-settles-legal-claim-brought-by-62-former-franchisees",
@@ -480,227 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Calls for government taskforce to tackle poverty",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce85d6j5y75o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T17:25:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Frontrunners for Burnham’s cabinet revealed as prime minister-in-waiting picks top team",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-chancellor-cabinet-prime-minister-mahmood-miliband-streeting-b3015239.html",
-      "published_date": "2026-07-16T17:00:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Thinktanks should rethink their funding models | Letters",
+      "title": "Burnham calls for party unity and ‘new politics’ in first speech as Labour leader – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/16/thinktanks-should-rethink-their-funding-models",
-      "published_date": "2026-07-16T16:57:37+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/live/2026/jul/17/andy-burnham-labour-leader-speech-latest-news-updates",
+      "published_date": "2026-07-17T11:56:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Leeds Building Society offers new 2 per cent deposit mortgage for first-time buyers",
+      "title": "Network Rail bans steam trains from running after ‘Harry Potter’ train sparks wildfire",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/start-mortgage-leeds-building-society-b3016370.html",
-      "published_date": "2026-07-16T16:34:50+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/steam-train-ban-wildfires-harry-potter-network-rail-b3016714.html",
+      "published_date": "2026-07-17T11:53:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Burnham’s ‘black box’ plans for cabinet send Westminster into hysteria",
+      "title": "Andy Burnham becomes Labour leader in final step towards becoming UK PM",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/16/burnhams-black-box-plans-for-cabinet-send-westminster-into-hysteria",
-      "published_date": "2026-07-16T16:30:43+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm",
+      "published_date": "2026-07-17T11:51:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FTSE 100 closes higher as engineering stocks make gains",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/burnham-shabana-mahmood-international-monetary-fund-ed-miliband-office-for-national-statistics-b3016368.html",
-      "published_date": "2026-07-16T16:25:03+00:00",
-      "category": "Economy"
+      "title": "Man appears in court charged with causing death by dangerous driving",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rmm1g5ego?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T11:48:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "IMF urges Andy Burnham to avoid public spending hikes",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/andy-burnham-imf-government-international-monetary-fund-washington-b3016345.html",
-      "published_date": "2026-07-16T16:11:43+00:00",
-      "category": "Economy"
+      "title": "Moment Andy Burnham's declared new Labour leader",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c77gxx5z8kjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T11:32:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Mahmood v Miliband: who will Burnham choose for chancellor? – podcast",
+      "title": "‘I don’t play around’: Nolan fans fly into London to see The Odyssey at BFI Imax",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/jul/16/mahmood-miliband-chancellor-burnham-podcast",
-      "published_date": "2026-07-16T13:49:54+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/film/2026/jul/17/the-odyssey-bfi-imax-christopher-nolan-fans-london",
+      "published_date": "2026-07-17T11:30:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Crest Nicholson sinks to loss amid ‘challenging’ housing market",
+      "title": "When will Andy Burnham become prime minister?",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/crest-nicholson-rachel-reeves-b3016161.html",
-      "published_date": "2026-07-16T12:26:21+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-prime-minister-when-labour-leader-starmer-b3016729.html",
+      "published_date": "2026-07-17T11:28:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Aer Lingus proposes cutting 500 jobs under savings plan",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ceqe52l4yr4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T11:21:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Where are small businesses getting the best use of AI – and is it actually earning them money?",
+      "title": "Argentina fan denies ‘rage bait’ stunt after police rescue him from England mob",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/small-business-ai-money-b2987425.html",
-      "published_date": "2026-07-16T10:54:33+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/argentina-fan-rescued-tiktok-maciej-placzek-b3016794.html",
+      "published_date": "2026-07-17T10:53:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Record 10 million over-65s to pay income tax amid threshold freeze",
+      "title": "Teen catfish victim wins £10k court payout after identity stolen by girl in her town",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/pension-income-tax-threshold-hmrc-increase-b3015974.html",
-      "published_date": "2026-07-16T10:38:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Targeted prostate cancer treatment cuts risk of side effects, study suggests",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T23:36:40+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/elha-mai-weston-catfishing-sasha-davies-ai-b3016678.html",
+      "published_date": "2026-07-17T10:52:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "UK heatwave approaches two-week mark",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T23:28:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MPs issue legal aid warning as restrictions create ‘unacceptably high’ risk of wrongful convictions",
+      "title": "Postman kicked dog to death ‘like a football’, owner says",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/legal-aid-mps-restrictions-justice-andy-slaughter-b3016372.html",
-      "published_date": "2026-07-16T23:01:00+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/postman-killed-kick-blind-dog-buckinghamshire-b3016712.html",
+      "published_date": "2026-07-17T10:34:38+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Is Glasgow ready for the Commonwealth Games - and does the city care?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx70xxrr1qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T22:04:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catfished teen gets £10k after photos used for fake dating profiles",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8xn9exg8yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T22:00:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police launch manhunt after prisoner escapes during hospital transfer in Manchester",
+      "title": "Count Binface has a big advantage over Farage. Could he actually win?",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/marwan-jumaa-prisoner-escape-manchester-b3016502.html",
-      "published_date": "2026-07-16T21:21:30+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/clacton-by-election-count-binface-farage-b3016777.html",
+      "published_date": "2026-07-17T10:28:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Where couples could legally marry under new rules – from castles to canal boats",
+      "title": "The real reason the public has been told not to speculate about Ann Widdecombe’s death",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/wedding-venues-england-wales-marriage-moj-rules-b3016249.html",
-      "published_date": "2026-07-16T20:41:49+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/ann-widdecombe-suspect-death-police-update-b3016760.html",
+      "published_date": "2026-07-17T10:02:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Government drops plans to stop paying Coastguard volunteers",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0djznqw2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T20:11:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Liz Truss assembles host of rightwing speakers for UK’s first CPAC event in London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/16/liz-truss-rightwing-speakers-uk-cpac-london",
-      "published_date": "2026-07-16T18:41:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dog walker killer also guilty of attempted murder",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c17y7k5pdpgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T18:12:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uber driver who killed dog walker is also found guilty of trying to murder his landlord",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/16/uber-driver-who-killed-dog-walker-is-also-found-guilty-of-trying-to-his-landlord",
-      "published_date": "2026-07-16T18:10:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amnesty UK self-reports to watchdog after calling JK Rowling women’s centre ‘anti-rights’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jul/16/amnesty-uk-self-reports-to-watchdog-calling-women-centre-anti-rights",
-      "published_date": "2026-07-16T17:37:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham planning summer tour of UK in early weeks as PM",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62v3w45199o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T17:34:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mother guilty over baby's hairdryer burns death",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5d49q50ppo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T17:26:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keir Starmer honours: Sadiq Khan to be made a lord by outgoing prime minister",
+      "title": "Maths teacher who took cocaine at school Christmas party and said he ‘always had cash from dealing’ banned",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/sadiq-khan-house-of-lords-keir-starmer-honours-b3016302.html",
-      "published_date": "2026-07-16T17:24:25+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/cornwall-maths-teacher-banned-cocaine-pool-academy-b3015639.html",
+      "published_date": "2026-07-17T10:01:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sadiq Khan among 26 new peers to enter the Lords",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T17:20:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keir Starmer makes Sadiq Khan a peer in the House of Lords",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/16/keir-starmer-makes-sadiq-khan-a-peer-in-the-house-of-lords",
-      "published_date": "2026-07-16T17:14:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Noisy fireworks face potential ban under new government plans",
+      "title": "Former human rights lawyer, 79, sues after police ‘chop down door’ to seize her cat",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fireworks-ban-uk-sale-consultation-b3016260.html",
-      "published_date": "2026-07-16T17:03:43+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/katherine-theodotou-rscpa-cat-islington-b3016667.html",
+      "published_date": "2026-07-17T09:34:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "From Sadiq Khan to Leveson: Sir Keir Starmer’s honours list in full",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-peerages-honours-khan-b3016327.html",
-      "published_date": "2026-07-16T17:02:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cairngorms wildfire 'contained', but very high risk remains",
+      "title": "I don't know if I'll live long enough to see my twins start school",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd69y219n13o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T17:00:45+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cj632wd8z62o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T09:31:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mother with incurable brain cancer treasuring every moment with young sons",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/glasgow-mother-with-incurable-brain-cancer-treasuring-every-moment-with-young-sons-13564282",
+      "published_date": "2026-07-17T09:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parts of England record longest spell without rain since mid-1990s",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/parts-of-england-have-recorded-longest-spell-without-rain-since-mid-1990s-figures-show-13564268",
+      "published_date": "2026-07-17T08:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspect arrested as part of murder probe after man's body found in property",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/suspect-arrested-as-part-of-murder-probe-after-mans-body-found-in-cumbernauld-property-13564259",
+      "published_date": "2026-07-17T08:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'He'll be a brilliant prime minister' - Liverpool mayor",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/czxqlxwpgd8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T08:07:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nephew faces jail over ‘vitriolic’ email to lawyers after aunt left house to RSPCA charity",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/sean-stimson-court-swindon-rspca-b3016661.html",
+      "published_date": "2026-07-17T08:01:23+00:00",
       "category": "Local Events"
     }
   ]
