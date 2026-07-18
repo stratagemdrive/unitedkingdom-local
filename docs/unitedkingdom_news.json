@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-17T23:41:54.242641+00:00",
+  "last_updated": "2026-07-18T11:53:30.645730+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Farage’s furious clash with Times editor stuns figures close to him",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/18/nigel-farage-clash-times-editor-reform",
+      "published_date": "2026-07-18T06:00:51+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "EU border chaos feared at Dover crossing as busiest summer weekend looms",
       "source": "The Guardian",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Train crash driver died from traumatic injuries",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9323k52n67o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-14T09:36:08+00:00",
-      "category": "Diplomacy"
+      "title": "Why Britain is getting a new prime minister without a general election",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-britain-keir-starmer-labour-party-charles-iii-b3017289.html",
+      "published_date": "2026-07-18T04:00:41+00:00",
+      "category": "Military"
     },
     {
       "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
@@ -277,11 +284,60 @@
       "category": "Military"
     },
     {
-      "title": "Nuclear veterans' medical record handling haphazard, report finds",
+      "title": "Burnham to announce plans for new North Sea oil and gas drilling",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgdgg3q55go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-15T14:51:09+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T11:34:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Burnham expected to reverse ban on new oil and gas drilling",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-expected-to-reverse-ban-on-new-oil-and-gas-drilling",
+      "published_date": "2026-07-18T11:14:47+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Andy Burnham latest: New Labour leader plans policy blitz – including revived oil and gas drilling in North Sea",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-cabinet-policies-live-updates-b3017323.html",
+      "published_date": "2026-07-18T10:59:17+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Andy Burnham considers radical shake-up to cut energy bills",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jul/18/andy-burnham-cut-energy-bills-gas-heat-pumps",
+      "published_date": "2026-07-18T10:45:01+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Andy Burnham urged to stick to Labour manifesto on North Sea oil",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andy-burnham-north-sea-labour-ed-miliband-shabana-mahmood-b3017359.html",
+      "published_date": "2026-07-18T10:16:53+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Rural residents back heating oil protection plan",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyry0ky6vno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T06:10:45+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
+      "published_date": "2026-07-18T05:00:50+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Doctors failed to spot my hidden condition for so long I was left permanently disabled",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1k13l8jljeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T00:21:57+00:00",
+      "category": "Energy"
     },
     {
       "title": "Berry tough: Ribena seeks to make hardier blackcurrants to beat extreme weather",
@@ -368,60 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Under-16s to be banned from buying energy drinks",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/under-16s-to-be-banned-from-buying-energy-drinks-13564058",
-      "published_date": "2026-07-16T14:04:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Energy boss calls for ‘timely consent’ for Rosebank and Jackdaw projects",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/shetland-keir-starmer-southend-europe-andy-burnham-b3016028.html",
-      "published_date": "2026-07-16T11:11:55+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Britain is facing an overheating crisis in new-build homes. This could fix it",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-heatwave-overheating-new-build-homes-b3016041.html",
-      "published_date": "2026-07-16T10:25:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil prices lower despite US intensifying strikes against Iran",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/oil-prices-us-iran-strikes-strait-of-hormuz-b3015883.html",
-      "published_date": "2026-07-16T06:01:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Social media fuelling ‘hidden’ sexual abuse of children, study finds",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/child-sexual-abuse-rise-social-media-uk-b3012607.html",
-      "published_date": "2026-07-15T23:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Government downplays energy grid blackout risk amid extreme heatwave",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/energy-grid-blackouts-heatwave-neso-b3015566.html",
-      "published_date": "2026-07-15T15:59:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dale Vince to get damages from Daily Mail publisher over misleading article",
+      "title": "Poultry sector growth plan risks UK national security, campaigners warn",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/15/dale-vince-damage-daily-mail-misleading",
-      "published_date": "2026-07-15T14:06:19+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
+      "published_date": "2026-07-18T10:00:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Date for thousands of single-sex toilets to change revealed",
+      "title": "Wessex Water chief pockets above-inflation pay rise despite bonus ban over sewage spills",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/18/wessex-water-chief-pay-rise-bonus-ban",
+      "published_date": "2026-07-18T07:00:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thames Water lenders plot legal fight with Burnham over nationalisation",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/from-5-august-thousands-of-single-sex-toilets-will-need-to-change-to-be-birth-sex-only-13563707",
-      "published_date": "2026-07-15T12:44:00+00:00",
-      "category": "Energy"
+      "url": "https://news.sky.com/story/thames-water-lenders-plot-legal-fight-with-burnham-over-nationalisation-13564564",
+      "published_date": "2026-07-18T05:53:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'I'd rather not leave the house so I don't get into more debt'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8d1zm01k0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T05:23:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Revealed: the top 10 UK cities for first-time buyers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jul/18/top-uk-cities-first-time-buyers-rent-property",
+      "published_date": "2026-07-18T05:00:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T01:14:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fears staff car parking charges could 'cripple' Cardiff businesses",
@@ -480,6 +522,13 @@
       "category": "Economy"
     },
     {
+      "title": "The biggest UK supermarket food price rises revealed",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/food-price-inflation-fish-chocolate-tesco-asda-prices-b3016106.html",
+      "published_date": "2026-07-17T14:48:34+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "How Burnham’s team could reshape the Bank of England",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-team-reshape-bank-of-england",
@@ -515,53 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "What Shabana Mahmood as chancellor could mean for your money and taxes",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/shabana-mahmood-chancellor-taxes-burnham-b3016632.html",
-      "published_date": "2026-07-17T11:45:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Wetherspoons hoping for World Cup boost to offset consumer pressure",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/wetherspoons-tim-martin-middle-east-vat-andy-burnham-b3016847.html",
-      "published_date": "2026-07-17T11:45:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "What Burnham’s policies might mean for your taxes, mortgage and money as he becomes prime minister",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/burnham-policies-tax-mortgages-bonds-stamp-duty-b3016820.html",
-      "published_date": "2026-07-17T11:26:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Luxury British fashion brand boosted by US and China sales",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/burberry-sale-china-north-america-b3016763.html",
-      "published_date": "2026-07-17T10:28:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Who is the frontrunner to be the UK's next chancellor?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-17T09:42:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Chancellor favourite Shabana Mahmood backed 50p income tax rate",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/50p-income-tax-rate-shabana-mahood-chancellor-burnham-b3016653.html",
-      "published_date": "2026-07-17T08:33:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "‘I don’t think I’ll ever retire’: the workers struggling to save for old age",
+      "title": "Angry about fraud or an unsafe product? Here’s how to file a federal complaint",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jul/17/workers-pensions-retirement-savings-money",
-      "published_date": "2026-07-17T07:13:22+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/us-news/2026/jul/18/how-to-file-a-consumer-complaint",
+      "published_date": "2026-07-18T11:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside Burnham’s roundabout route to No 10, according to those who know him best",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-prime-minister-mayor-steve-rotheram-b3015957.html",
+      "published_date": "2026-07-18T10:27:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What voters really think about Andy Burnham becoming prime minister: ‘I don’t think he’s got a pot of gold’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-prime-minister-policies-tax-b3015390.html",
+      "published_date": "2026-07-18T10:25:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Water firms in England and Wales ‘leak five times what hosepipe ban would save’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/18/water-firms-in-england-and-wales-leak-five-times-what-hosepipe-ban-would-save",
+      "published_date": "2026-07-18T09:22:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driver admits killing teenager and injuring two others in crash while over the limit",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/driver-admits-killing-teenager-and-injuring-two-others-in-crash-while-over-the-limit-for-drink-and-drugs-13564601",
+      "published_date": "2026-07-18T08:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six political headaches Andy Burnham must tackle in his first weeks as PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/18/andy-burnham-six-political-headaches-first-weeks-pm",
+      "published_date": "2026-07-18T07:00:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watch: £4m crypto fraudster handcuffed in bed after impersonating police",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/crime-cryptocurrency-fraud-arrest-video-b3017214.html",
+      "published_date": "2026-07-18T06:59:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London Underground users should know about toxic dust risk, whistleblower says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/18/london-underground-passengers-should-know-about-toxic-dust-risks-whistleblower-says",
+      "published_date": "2026-07-18T06:58:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mum was sent photo of dead baby: NHS trust's mortuary failings explained",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzjgjzdr9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T00:50:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Farage and Count Binface among record number of candidates in Clacton by-election – here’s the full list",
@@ -599,6 +662,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Former human rights lawyer, 79, sues after police ‘chop down door’ to seize her cat",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/katherine-theodotou-rscpa-cat-islington-b3016667.html",
+      "published_date": "2026-07-17T19:49:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Burnham promises to end Labour infighting as he becomes party’s leader",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm",
+      "published_date": "2026-07-17T18:55:42+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Jeffrey Donaldson to appeal against conviction for child sexual offences",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jul/17/jeffrey-donaldson-to-appeal-against-conviction-for-child-sexual-offences",
@@ -624,83 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/health/nhs-treatment-waiting-lists-areas-map-b3016933.html",
       "published_date": "2026-07-17T17:51:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jury fails to reach verdict on second attempted murder charge for Afghan refugee",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/jury-fails-to-reach-verdict-on-second-attempted-murder-charge-for-refugee-who-stabbed-dog-walker-to-death-13564499",
-      "published_date": "2026-07-17T17:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mother of Henry Nowak killer jailed for removing knife from murder scene",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1nnzgg2no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-17T17:22:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Liverpool man charged on suspicion of spying for Iran",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/iran-spying-liverpool-vahid-aberi-b3016659.html",
-      "published_date": "2026-07-17T17:12:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MP found not guilty of sexually assaulting women",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zddvwko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-17T16:48:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tory MP Patrick Spencer found not guilty of Groucho Club sexual assaults",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/17/conservative-mp-patrick-spencer-cleared-sexual-assault",
-      "published_date": "2026-07-17T16:37:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The ghosts of Downing Street past may have some advice for Andy Burnham | Jonathan Freedland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/17/andy-burnham-prime-minister-plan-inspiration",
-      "published_date": "2026-07-17T16:19:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform mayoral candidate described sessions on ‘challenges facing trans people’ as ‘indoctrination’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/reform-manchester-mayoral-race-sian-astley-b3016796.html",
-      "published_date": "2026-07-17T16:06:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "All hail the king! Good vibes and Greggs as Burnham addresses the Andyites | John Crace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/17/good-vibes-greggs-andy-burnham-andyites",
-      "published_date": "2026-07-17T16:06:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What Andy Burnham’s first speech as Labour leader tells us",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-what-first-speech-as-labour-leader-tells-us",
-      "published_date": "2026-07-17T16:02:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Intercity rail passengers face summer disruption amid slashed services and strike votes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/17/intercity-rail-summer-cancelled-services-strike-votes",
-      "published_date": "2026-07-17T15:49:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham vows to 'bring back hope' as he is sworn in as Labour leader – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/jul/17/andy-burnham-vows-to-bring-back-hope-as-he-is-sworn-in-as-labour-leader-video",
-      "published_date": "2026-07-17T15:42:59+00:00",
       "category": "Local Events"
     }
   ]
