@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-18T23:42:01.317755+00:00",
+  "last_updated": "2026-07-19T11:59:31.499590+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "New EU border system triples times to get through passport control for UK",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/eu-border-queues-uk-wait-time-b3017619.html",
+      "published_date": "2026-07-19T10:25:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T01:47:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Farage’s furious clash with Times editor stuns figures close to him",
       "source": "The Guardian",
@@ -127,20 +141,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/samba-capybara-ripple-marwell-zoo-b3014522.html",
       "published_date": "2026-07-14T11:04:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "It’s the hope that kills you – so fingers crossed for Andy Burnham | Zoe Williams",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/commentisfree/2026/jul/14/world-cup-england-andy-burnham",
-      "published_date": "2026-07-14T10:00:56+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "You'll be able to take free hand luggage on flights next year - here's what we know so far",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/youll-be-able-to-take-free-hand-luggage-on-flights-next-year-heres-what-we-know-so-far-13563304",
-      "published_date": "2026-07-14T09:54:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,48 @@
       "category": "Military"
     },
     {
+      "title": "‘My son’s having seizures due to the heatwaves – mothers like me are terrified’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/mothers-rise-up-seizures-heatwaves-andy-burnham-b3015413.html",
+      "published_date": "2026-07-19T11:37:22+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "After fixing its engine problems, Rolls-Royce is turning to its next big challenge",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/19/rolls-royce-fixed-engine-problems-support-uk-narrowbody",
+      "published_date": "2026-07-19T11:00:26+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Molten salt and human sweat: the weird batteries that could store renewable energy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/19/molten-salt-human-sweat-weird-batteries-store-renewable-energy",
+      "published_date": "2026-07-19T11:00:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T09:52:48+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Andy Burnham can slash energy bills by £200 a year with these policies, says Octopus Energy founder",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/andy-burnham-energy-bills-policies-octopus-b3017614.html",
+      "published_date": "2026-07-19T08:14:55+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Bank of England to stop accepting bonds linked to coal for key loans",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/19/bank-of-england-bonds-coal-loans-assets",
+      "published_date": "2026-07-19T05:00:17+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Andy Burnham urged to stick to Labour manifesto on North Sea oil",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/andy-burnham-north-sea-labour-ed-miliband-kemi-badenoch-b3017359.html",
@@ -382,46 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Huge wind farms able to power two million homes approved by Scottish Government",
+      "title": "Wetherspoons hoping for World Cup boost to offset consumer pressure",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/john-swinney-scottish-government-scotland-b3016835.html",
-      "published_date": "2026-07-17T11:35:08+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/wetherspoons-tim-martin-vat-andy-burnham-government-b3017611.html",
+      "published_date": "2026-07-19T10:31:31+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Do natural deodorants actually work? I put 18 to the test – here are my favourites",
+      "title": "Andy Burnham set to be buoyed in first week as PM by June inflation slowdown",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andy-burnham-pm-labour-inflation-b3017617.html",
+      "published_date": "2026-07-19T09:02:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Restoring Britain’s health to 2014 levels could add 2% to GDP, thinktank says",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/jul/17/best-natural-deodorants-tested-uk",
-      "published_date": "2026-07-17T09:00:04+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says",
+      "published_date": "2026-07-19T09:00:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Scientists say paved front gardens are making cities hotter at night",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/front-garden-climate-change-b3016493.html",
-      "published_date": "2026-07-16T20:58:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Sales of energy drinks to under-16s set to be banned in England",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/energy-drinks-ban-under-16s-b3016398.html",
-      "published_date": "2026-07-16T20:28:39+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Energy drinks to be banned for under-16s in England from April",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czrjg0jxkpno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T18:57:47+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Energy drinks to be banned from sale to under-16s in England",
+      "title": "‘Good growth in every postcode’: Burnham’s economic to-do list in seven charts",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jul/16/energy-drinks-high-caffeine-banned-under-16s-england",
-      "published_date": "2026-07-16T18:53:03+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs",
+      "published_date": "2026-07-19T06:00:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "Burnham plots Ed Miliband Foreign Office shake-up as he readies policy blitz for first day as PM",
@@ -536,32 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "What some are already getting very wrong about Shabana Mahmood",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/in-the-room/shabana-mahmood-chancellor-andy-burnham-uk-politics-b3017097.html",
-      "published_date": "2026-07-17T16:23:58+00:00",
-      "category": "Economy"
+      "title": "Under-fire pollster YouGov eyes Levings as next boss",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/under-fire-pollster-yougov-eyes-levings-as-next-boss-13564917",
+      "published_date": "2026-07-19T11:14:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Reform could be hit with £3m tax bill because of Farage’s £5m donation, tax expert claims",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-tax-reform-dan-neidle-b3016954.html",
-      "published_date": "2026-07-17T16:06:26+00:00",
-      "category": "Economy"
+      "title": "Politicians condemn 'disgraceful' scenes of 'absolute chaos'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8enkde2lnyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T11:00:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Southern Water fined £7m after illegally dumping sewage off Kent coast",
+      "title": "Woman charged with murder following death of pensioner",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/woman-charged-with-murder-following-death-of-75-year-old-man-in-bolton-13564897",
+      "published_date": "2026-07-19T09:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Here be dragons: does moving power to the north work?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/17/southern-water-fined-7m-dumping-sewage-kent-coast",
-      "published_date": "2026-07-17T14:56:01+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/2026/jul/19/here-be-dragons-does-moving-power-to-the-north-work",
+      "published_date": "2026-07-19T07:00:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The biggest UK supermarket food price rises revealed",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/food-price-inflation-fish-chocolate-tesco-asda-prices-b3016106.html",
-      "published_date": "2026-07-17T14:48:34+00:00",
-      "category": "Economy"
+      "title": "'A 10-goal thriller': England fans react to 6-4 win over France",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cdj0337k0r7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T06:31:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No car? No problem! Six cheap family days out in England by bus",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/travel/2026/jul/19/six-cheap-days-out-england-by-bus-public-transport",
+      "published_date": "2026-07-19T06:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Private jets flock to Montana - but locals can't afford the trailer park",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-18T23:44:04+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pauline Hanson tells London CPAC crowd she is ‘sick of hearing about white privilege’ and ‘fears for England’",
@@ -652,55 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/jul/18/water-firms-in-england-and-wales-leak-five-times-what-hosepipe-ban-would-save",
       "published_date": "2026-07-18T09:22:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Driver admits killing teenager and injuring two others in crash while over the limit",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/driver-admits-killing-teenager-and-injuring-two-others-in-crash-while-over-the-limit-for-drink-and-drugs-13564601",
-      "published_date": "2026-07-18T08:45:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six political headaches Andy Burnham must tackle in his first weeks as PM",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/18/andy-burnham-six-political-headaches-first-weeks-pm",
-      "published_date": "2026-07-18T07:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: £4m crypto fraudster handcuffed in bed after impersonating police",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/crime-cryptocurrency-fraud-arrest-video-b3017214.html",
-      "published_date": "2026-07-18T06:59:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London Underground users should know about toxic dust risk, whistleblower says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/18/london-underground-passengers-should-know-about-toxic-dust-risks-whistleblower-says",
-      "published_date": "2026-07-18T06:58:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mum was sent photo of dead baby: NHS trust's mortuary failings explained",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzjgjzdr9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-18T00:50:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farage and Count Binface among record number of candidates in Clacton by-election – here’s the full list",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/farage-count-binface-clacton-by-election-full-list-candidates-b3017206.html",
-      "published_date": "2026-07-17T22:32:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farage says Burnham has ‘no mandate’ and demands immediate general election",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/farage-burnham-general-election-labour-reform-prime-minister-b3017139.html",
-      "published_date": "2026-07-17T22:23:54+00:00",
       "category": "Local Events"
     }
   ]
