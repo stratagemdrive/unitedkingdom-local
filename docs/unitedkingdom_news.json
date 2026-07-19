@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-19T11:59:31.499590+00:00",
+  "last_updated": "2026-07-19T23:46:13.176224+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Travel firms and housebuilders lead profit warnings amid Iran war fallout",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/iran-ftse-parthenon-housebuilders-covid-b3017850.html",
+      "published_date": "2026-07-19T23:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'What is my sin?': Farage mounts staunch defence amid questions over £5m 'gift'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/nigel-farage-asks-what-is-my-sin-as-he-mounts-staunch-defence-amid-questions-over-5m-gift-and-benefits-in-kind-13565040",
+      "published_date": "2026-07-19T16:58:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "MI5 advises vulnerable MPs to build a safe room at home",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/mps-safety-ann-widdecombe-farage-b3017645.html",
+      "published_date": "2026-07-19T12:50:45+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Counter terror police investigating threat to Islamic event charge man with weapons offences",
       "source": "Sky News",
       "url": "https://news.sky.com/story/counter-terror-police-investigating-threat-to-islamic-event-charge-man-with-weapons-offences-13564780",
@@ -263,25 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "Starmer pledges 'cast-iron support' for Ukraine on final visit as PM",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-16T08:20:51+00:00",
-      "category": "Military"
+      "title": "Pay gap widens as UK bosses get 130 times average worker’s salary",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/20/uk-bosses-130-times-high-pay-worker-gap-widens",
+      "published_date": "2026-07-19T23:01:39+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Soldier left so deaf from plane noise that he can’t hear doorbell sues MoD for £700k",
+      "title": "Andy Burnham latest: Trump’s bizarre claim over North Sea oil that new PM will open up drilling ‘all the way’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/cleophys-hoare-gloucestershire-army-deaf-b3015940.html",
-      "published_date": "2026-07-16T07:46:08+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-trump-north-sea-oil-live-updates-b3017708.html",
+      "published_date": "2026-07-19T22:55:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Outgoing Starmer to visit Ukraine for final talks with Zelensky as PM",
+      "title": "Burnham to say UK must be honest about its challenges as he prepares to become PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/19/burnham-warn-uk-honest-challenges-prepares-become-pm",
+      "published_date": "2026-07-19T18:32:36+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Trump weighs in on North Sea oil and gas row hours before Burnham becomes PM",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/starmer-ukraine-zelensky-farewell-visit-b3015830.html",
-      "published_date": "2026-07-16T05:45:36+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/politics/trump-oil-burnham-labour-north-sea-b3017717.html",
+      "published_date": "2026-07-19T17:43:55+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fossil fuels, utilities and housing: what we know about Andy Burnham’s plans",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/19/no-10-north-utilities-north-sea-drilling-andy-burnham-plans-government",
+      "published_date": "2026-07-19T17:00:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Corded vacuums are supposed to be outdated – so why is the Shark Detect Lift-Away XL so good?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/jul/19/shark-detect-xl-lift-away-car-pet-expert-review-tested-uk",
+      "published_date": "2026-07-19T12:00:26+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘My son’s having seizures due to the heatwaves – mothers like me are terrified’",
@@ -382,46 +424,60 @@
       "category": "Energy"
     },
     {
-      "title": "Doctors failed to spot my hidden condition for so long I was left permanently disabled",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1k13l8jljeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-18T00:21:57+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Berry tough: Ribena seeks to make hardier blackcurrants to beat extreme weather",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/17/ribena-owner-invests-uk-blackcurrant-bushes-extreme-weather",
-      "published_date": "2026-07-17T17:08:07+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened",
-      "published_date": "2026-07-17T16:01:02+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Hot tubs and £80 rosé: how the mud-soaked British festival got a luxury makeover",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/jul/17/great-british-festival-industry-luxury-makeover-gen-z",
-      "published_date": "2026-07-17T14:00:31+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Jackdaw gasfield would create only 27 direct full-time jobs, documents show",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/17/jackdaw-gasfield-north-sea-drilling-andy-burnham",
-      "published_date": "2026-07-17T12:30:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Octopus Energy founder Greg Jackson tells Burnham how to slash energy bills by £200 a year",
+      "title": "Burnham’s ambition to transform housing market under threat amid housebuilding crisis",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/andy-burnham-octopus-energy-bills-b3016759.html",
-      "published_date": "2026-07-17T11:50:56+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/andy-burnham-housing-housebuilding-crisis-mortgages-b3016913.html",
+      "published_date": "2026-07-19T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T18:35:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham’s vow to end Labour briefing wars will test his grip on the party",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/19/burnham-vow-end-labour-briefing-wars-test",
+      "published_date": "2026-07-19T18:00:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Andy Burnham to Scrap Digital ID",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/iplayer/episode/l0058mb2?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T16:53:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thames Water creditors seek talks with Burnham as nationalisation looms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/19/thames-water-creditors-prepare-legal-fight-nationalisation",
+      "published_date": "2026-07-19T16:17:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Shabana Mahmood’s history on tax and welfare sparks tensions with Andy Burnham allies",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/shabana-mahmood-tax-welfare-andy-burnham-chancellor-b3017457.html",
+      "published_date": "2026-07-19T15:23:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Prince Harry ‘wants more UK family visits’ if he can secure taxpayer-funded security",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/prince-harry-uk-royal-family-taxpayer-security-b3017625.html",
+      "published_date": "2026-07-19T12:41:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "South East Water supply disruption hits thousands of properties in Kent",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/19/south-east-water-supply-disruption-tunbridge-wells-kent",
+      "published_date": "2026-07-19T11:46:19+00:00",
+      "category": "Economy"
     },
     {
       "title": "Wetherspoons hoping for World Cup boost to offset consumer pressure",
@@ -508,60 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "'I'd rather not leave the house so I don't get into more debt'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8d1zm01k0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-18T05:23:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Revealed: the top 10 UK cities for first-time buyers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jul/18/top-uk-cities-first-time-buyers-rent-property",
-      "published_date": "2026-07-18T05:00:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-18T01:14:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fears staff car parking charges could 'cripple' Cardiff businesses",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crk5d042gryo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-17T22:00:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigel Farage says questions over his finances are part of ‘coordinated pile-on’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/17/nigel-farage-questions-finances-coordinated-pile-on-reform-uk",
-      "published_date": "2026-07-17T18:05:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "South East Water warns over survival as funds dry up",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/17/south-east-water-warns-over-survival-as-funds-dry-up",
-      "published_date": "2026-07-17T16:29:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Utility stocks support FTSE 100 in nervy trade",
+      "title": "Arthur’s Seat fire: Crews tackle blaze on Edinburgh landmark",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/andy-burnham-aim-apple-tehran-donald-trump-b3017099.html",
-      "published_date": "2026-07-17T16:28:26+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/fire-arthur-seat-edinburgh-latest-b3017790.html",
+      "published_date": "2026-07-19T20:51:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "In The Room | Inside Andy Burnham’s No 10 takeover",
+      "title": "Fire breaks out at Arthur's Seat in Edinburgh",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/fire-breaks-out-at-arthurs-seat-in-edinburgh-13565088",
+      "published_date": "2026-07-19T20:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Person in hospital after crash involving ship and crane in the Port of Tyne",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/in-the-room/andy-burnham-prime-minister-downing-street-b3017028.html",
-      "published_date": "2026-07-17T16:24:04+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/port-tyne-crane-ship-accident-b3017800.html",
+      "published_date": "2026-07-19T20:50:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire crews battling blaze on Arthur’s Seat in Edinburgh",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T20:49:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man injured in dockside crane 'collapse'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3ek8n17lq3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T19:16:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire crews 'surround' large-scale Cairngorms wildfire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7w285ywro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T17:39:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘What has the BBC ever done for me?’ Romesh Ranganathan reboots corporation’s 1985 licence fee plea",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/jul/19/bbc-advert-romesh-ranganathan-reboot-john-cleese-licence-fee-plea",
+      "published_date": "2026-07-19T16:02:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andrew and Tristan Tate arrested in US on UK rape and sex trafficking charges",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/jul/18/andrew-tristan-tate-arrested-miami",
+      "published_date": "2026-07-19T15:31:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Brick Lane is for humans, not machines’: Inside the fight against plans for data centre in east London",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/brick-lane-new-data-centre-plans-london-b3015349.html",
+      "published_date": "2026-07-19T14:16:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police issue update after Andrew Tate and Tristan Tate arrested in US",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/andrew-tate-arrest-us-tristan-police-uk-b3017672.html",
+      "published_date": "2026-07-19T14:05:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "As Andy Burnham enters No 10, what of his ‘bezzie mate’ Steve Rotheram?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/19/andy-burnham-no-10-steve-rotheram",
+      "published_date": "2026-07-19T14:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From leftwing voters to unions: can Burnham win back Labour bases lost by Starmer? – visualised",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/19/from-leftwing-voters-to-unions-can-burnham-win-back-labour-bases-lost-by-starmer-visualised",
+      "published_date": "2026-07-19T13:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigel Farage admits George Cottrell paid for filming and let him use his home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/19/nigel-farage-admits-george-cottrell-paid-for-filming-and-let-him-use-his-home",
+      "published_date": "2026-07-19T12:21:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Under-fire pollster YouGov eyes Levings as next boss",
@@ -592,6 +683,13 @@
       "category": "Local Events"
     },
     {
+      "title": "'Our murdered girls brought us together - now we're changing the law'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjege80qjg3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T06:33:05+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'A 10-goal thriller': England fans react to 6-4 win over France",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cdj0337k0r7o?at_medium=RSS&at_campaign=rss",
@@ -603,104 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/travel/2026/jul/19/six-cheap-days-out-england-by-bus-public-transport",
       "published_date": "2026-07-19T06:00:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Private jets flock to Montana - but locals can't afford the trailer park",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-18T23:44:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pauline Hanson tells London CPAC crowd she is ‘sick of hearing about white privilege’ and ‘fears for England’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/18/pauline-hanson-barnaby-joyce-rift-rumours-tommy-robinson-podcast-cpac-ntwnfb",
-      "published_date": "2026-07-18T22:54:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire crews warn of ‘unpredictable nature’ of wildfires after Cairngorms blaze",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/cairngorms-fire-update-national-park-wildfires-b3017518.html",
-      "published_date": "2026-07-18T20:49:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eight released over alleged threat to Islamic event",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr49xv56g77o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-18T20:29:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eight men released after investigation into alleged threat to Islamic event",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/men-released-suffolk-islamic-event-threat-shrubland-hall-b3017501.html",
-      "published_date": "2026-07-18T19:49:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crews making 'really significant' progress tackling Cairngorms wildfire",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c934px1pp9yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-18T16:43:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Josh Kerr breaks 27-year-old mile record in front of packed London stadium",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688",
-      "published_date": "2026-07-18T14:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Farage going ‘full conspiracy theory’ is not impressing voters in Clacton",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-clacton-byelection-conspiracy-theory-b3016745.html",
-      "published_date": "2026-07-18T13:34:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It becomes inevitable’: the toxic mix fuelling deadly political violence around world",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/18/inevitable-toxic-mix-fuelling-deadly-political-violence-world",
-      "published_date": "2026-07-18T12:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police investigating kidnap murder look for £1,000 Louis Vuitton trainers",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/essex-murder-hunt-police-looking-for-1000-louis-vuitton-trainers-13564634",
-      "published_date": "2026-07-18T11:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Angry about fraud or an unsafe product? Here’s how to file a federal complaint",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/18/how-to-file-a-consumer-complaint",
-      "published_date": "2026-07-18T11:00:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Burnham’s roundabout route to No 10, according to those who know him best",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-prime-minister-mayor-steve-rotheram-b3015957.html",
-      "published_date": "2026-07-18T10:27:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What voters really think about Andy Burnham becoming prime minister: ‘I don’t think he’s got a pot of gold’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-prime-minister-policies-tax-b3015390.html",
-      "published_date": "2026-07-18T10:25:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Water firms in England and Wales ‘leak five times what hosepipe ban would save’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/18/water-firms-in-england-and-wales-leak-five-times-what-hosepipe-ban-would-save",
-      "published_date": "2026-07-18T09:22:51+00:00",
       "category": "Local Events"
     }
   ]
