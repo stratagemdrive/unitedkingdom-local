@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-25T12:03:11.905971+00:00",
+  "last_updated": "2026-07-25T23:51:10.351066+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ramsay-Peaty in tears after missing out on gold again",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-25T22:37:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Madeleine McCann's brother represents Scotland in Commonwealth Games",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/madeleine-mccanns-brother-finishes-eighth-in-commonwealth-games-swim-final-13566913",
+      "published_date": "2026-07-25T14:06:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Five ways to make the most of the summer holidays with kids",
       "source": "BBC News",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Voices: ‘Scientists raised the alarm’: Readers say Britain’s food shortages were man-made long before this drought",
+      "title": "Boy, 14, identified by police after hoax threat made to Qatar Airways flight – prompting MoD to scramble RAF Typhoons",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/food-shortages-drought-food-security-brexit-farming-b3019604.html",
-      "published_date": "2026-07-23T06:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Is 2026 the Commonwealth Games' last dance or a future-proofing revamp?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/articles/cj9dnk2p2dlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T05:25:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/crime/raf-typhoon-qatar-airways-intercept-manchester-airport-b3021476.html",
+      "published_date": "2026-07-25T14:12:33+00:00",
+      "category": "Military"
     },
     {
       "title": "The UK has its first Catholic PM – but don’t expect a US-style religious culture war to follow",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Former defence minister Al Carns turns down ministerial offer",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74geex0k82o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-22T22:12:25+00:00",
-      "category": "Military"
+      "title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
+      "published_date": "2026-07-25T16:00:46+00:00",
+      "category": "Energy"
     },
     {
       "title": "New figures show costs rising for pensioners",
@@ -417,11 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Inflation set to have cooled in June ahead of household energy squeeze",
+      "title": "Andy Burnham facing fresh questions over ‘unfunded spending’ as new PM set to unveil plan to fix social care",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/inflation-cpi-prime-minister-andy-burnham-iran-b3018935.html",
-      "published_date": "2026-07-23T08:15:47+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-social-care-nhs-prime-minister-b3021504.html",
+      "published_date": "2026-07-25T21:00:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham to address social care, youth unemployment and devolution",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwylnl17w09o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-25T20:00:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Professional classes stand in way of tax on the super-rich | Phillip Inman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/25/andy-burnham-tax-super-rich-gen-x-baby-boomers-professional-class",
+      "published_date": "2026-07-25T15:00:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Out of this world’: the best supermarket chocolate ice-cream, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/jul/25/best-supermarket-chocolate-ice-cream-tasted-rated",
+      "published_date": "2026-07-25T12:00:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Can Japan avoid a Liz Truss-style shock as its PM embarks on a giant spending spree?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/25/japan-sanae-takaichi-investment-plan-liz-truss-economy",
+      "published_date": "2026-07-25T12:00:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "Voices: ‘It’s just not worth it’: Readers say Andy Burnham’s pub rates cut is too little, too late",
@@ -529,39 +564,109 @@
       "category": "Economy"
     },
     {
-      "title": "UK business activity buoyed by staycations, hot weather and World Cup",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/pmi-chris-williamson-people-middle-east-broadstairs-b3020890.html",
-      "published_date": "2026-07-24T10:19:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Record heat sends online retail sales to five-year high in Great Britain",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/24/heatwave-and-online-shopping-drive-up-retail-sales-in-great-britain",
-      "published_date": "2026-07-24T09:54:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK mortgage rates rise to highest level for a month",
+      "title": "Residents allowed to return after Cairngorms wildfire evacuation",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T09:44:53+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c75gdn674r9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-25T23:28:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK economy boosted by Andy Burnham, heatwaves and the World Cup",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-economy-andy-burnham-heatwaves-world-cup-b3020857.html",
-      "published_date": "2026-07-24T09:44:28+00:00",
-      "category": "Economy"
+      "title": "Man charged with possession of explosive substance after bomb found in car",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-25T22:31:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK mortgage deals rise again as average two-year deal hits 5.5%",
+      "title": "Andy Burnham responds to cheeky wedding request for No 10 North from bride-to-be",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-mortgages-interest-swap-rates-iran-banks-b3020728.html",
-      "published_date": "2026-07-24T09:40:27+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/tv/andy-burnham-no-10-north-wedding-b3021598.html",
+      "published_date": "2026-07-25T22:26:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigate donations to Reform from Richard Tice company",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/police-donations-reform-richard-tice-b3021595.html",
+      "published_date": "2026-07-25T21:59:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigate payments to Reform UK first revealed by The Guardian",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/25/police-investigate-payments-reform-uk-guardian",
+      "published_date": "2026-07-25T19:11:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigate donations by Tice company to Reform UK",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-25T18:04:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police arrest 15 people after anti-racism and anti-immigration protests",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39evykp3kzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-25T17:52:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents 'upset and angry' over Cairngorms wildfire evacuation orders",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/residents-upset-and-angry-over-cairngorms-wildfire-evacuation-orders-13566974",
+      "published_date": "2026-07-25T17:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham’s first big test comes in his beloved Manchester, as voters prepare to elect his replacement",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/manchester-mayor-election-andy-burnham-labour-reform-b3019686.html",
+      "published_date": "2026-07-25T15:12:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform wouldn’t take Tory reject, Farage says as he calls for voters who think he’s a crook to get rid of him",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-clacton-byelection-grant-shapps-b3021492.html",
+      "published_date": "2026-07-25T14:57:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boy, 14, 'assisting police' after hoax threat made to aircraft",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/boy-14-assisting-police-after-hoax-threat-made-to-aircraft-approaching-manchester-airport-13566910",
+      "published_date": "2026-07-25T13:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Twenty firefighters taken to hospital after explosion in Essex",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dkwgker3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-25T13:16:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Letters by pre-Smiths Morrissey set for auction",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20jdy584pvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-25T13:10:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six arrested after man stabbed to death in south London",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/six-arrested-after-man-stabbed-to-death-in-south-london-13563883",
+      "published_date": "2026-07-25T13:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six men arrested over fatal stabbing in south London",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly5j8dwwpeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-25T12:40:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Our beautiful village has become ‘Blackpool-on-the-Water’ thanks to tourists, say furious residents",
@@ -585,122 +690,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Officers hurt as police boat hits Westminster Bridge",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c935k4k4pezo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-25T11:39:15+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Southport killer ‘trying to retraumatise families from cell’, says lawyer",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/law/2026/jul/25/southport-killer-axel-rudakubana-trying-to-retraumatise-families-from-cell-says-lawyer",
       "published_date": "2026-07-25T10:18:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Nobody was there for us’: mother urges Andy Burnham to reopen case of daughter killed in Texas",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/mother-urges-andy-burnham-reopen-case-daughter-lucy-harrison-killed-texas",
-      "published_date": "2026-07-25T10:00:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Entire Cairngorms village evacuated as raging wildfire nears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
-      "published_date": "2026-07-25T09:45:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘It’ll wind some people up’: What Burnham’s northern fixation says about his future plans",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-no-10-north-manchester-latest-news-b3018641.html",
-      "published_date": "2026-07-25T09:43:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Home Office rejects Palestinian Jerusalemite woman’s UK visa but approves husband’s",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/25/home-office-rejects-palestinian-jerusalemite-womans-uk-visa-but-approves-husbands",
-      "published_date": "2026-07-25T09:25:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England under heat health alert with temperatures set to reach 29C – but rain on the way",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-heatwave-yellow-heat-health-alert-ukhsa-weather-met-office-rain-b3021387.html",
-      "published_date": "2026-07-25T08:40:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Almost 75% of England’s riverbanks ‘off limits’ to public, figures show",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/25/almost-75-percent-england-riverbanks-off-limits-to-public",
-      "published_date": "2026-07-25T07:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England gymnast taken to hospital after horror fall at Commonwealth Games",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/england-gymnast-gabriel-langton-taken-to-hospital-after-horror-fall-at-commonwealth-games-13566819",
-      "published_date": "2026-07-25T06:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sean McCann - brother of Madeleine - to swim at Commonwealths",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-25T05:15:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I grew up near Andy Burnham. This is what shaped the UK’s new PM",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/25/view-from-andy-burnham-hometown-warrington-culcheth",
-      "published_date": "2026-07-25T05:00:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK’s largest Muslim event goes ahead with added security as hate crime rises",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/25/uk-largest-muslim-event-jalsa-salana-security-anti-muslim-hate-crime",
-      "published_date": "2026-07-25T05:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gangs, violence and dumped dead animals: The hidden world of illegal hare hunts",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-25T05:00:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenage boy dies after stabbing in Luton as police launch murder investigation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjejvkk70z1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-25T02:02:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy, 17, dies after Luton stabbing as murder investigation launched",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/boy-17-dies-after-luton-stabbing-as-murder-investigation-launched-13566800",
-      "published_date": "2026-07-24T23:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wildfire burning one month on is 'the size of a small town'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gwpvq6q03o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T23:09:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham rules out snap election after first full working day in No10 North and vows to stick to 2024 manifesto",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-snap-general-election-b3021309.html",
-      "published_date": "2026-07-24T23:02:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Met police deploy new testing kits in fresh crackdown on e-bike phone snatchers",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/met-police-testing-kits-illegal-ebikes-escooters-b3021262.html",
-      "published_date": "2026-07-24T23:01:34+00:00",
       "category": "Local Events"
     }
   ]
