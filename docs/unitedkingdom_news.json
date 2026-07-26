@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-26T12:04:16.535082+00:00",
+  "last_updated": "2026-07-26T23:52:16.135388+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ed Miliband indicates development and climate will be at heart of UK foreign policy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/26/ed-miliband-development-climate-crisis-uk-foreign-policy-world-bank-seat",
+      "published_date": "2026-07-26T16:00:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘It’s no joke!’ Clacton voters can put reversing Brexit back on the table, says ex-MEP running against Farage",
       "source": "The Independent",
@@ -137,11 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Inquiry into Farage poster row at anti-racism show",
+      "title": "RAF Chinook crash victims’ families ask Andy Burnham for review of disaster",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/27/raf-chinook-crash-victims-families-ask-andy-burnham-fresh-review",
+      "published_date": "2026-07-26T23:01:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chinook crash victims’ families urge Burnham to order fresh review into tragedy",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-chinook-helicopter-crash-inquiry-b3021775.html",
+      "published_date": "2026-07-26T23:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham hosts Zelensky and offers ‘stone cloak’ devices  just a week after taking PM job",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-ukraine-zelensky-stone-cloak-b3021805.html",
+      "published_date": "2026-07-26T21:39:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham to meet Zelenskyy at UK naval base in show of ‘unwavering’ support",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine",
+      "published_date": "2026-07-26T21:30:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjz1jqwpdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T13:27:38+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-26T21:30:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sackings, 'drone deal' and a 'long war': Zelenskyy speaks to Sky News",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/sackings-drone-deal-and-a-long-war-volodymyr-zelenskyy-speaks-to-sky-news-13567240",
+      "published_date": "2026-07-26T19:41:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Iran's 'sabre-rattling' should not intimidate UK, Wes Streeting says",
@@ -242,46 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "FTSE 100 falls as Middle East war intensifies",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/middle-east-iran-christine-lagarde-donald-trump-brent-b3020459.html",
-      "published_date": "2026-07-23T16:28:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "MI5 to pay damages for illegal surveillance of journalist's phone",
+      "title": "'I fear for wee families' - home heating oil jumps £100 in three weeks",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0jln54z58vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T16:07:25+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cly9npzw3y3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-26T23:00:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Oil prices hit $100 for the first time since May",
+      "title": "Water supply restored to Gatwick airport after hours without working toilets",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/26/water-supply-failure-gatwick-airport-toilets-bars-restaurants",
+      "published_date": "2026-07-26T22:01:06+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Water returns to Gatwick Airport after major outage",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T15:31:00+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-26T21:15:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Friend of Manchester synagogue attacker jailed for plot on military base",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg791nenvvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T12:23:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why are UK fuel prices rising again?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T11:34:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Manchester synagogue attacker’s friend who planned MoD base terror attack jailed for life",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/mohammad-bashir-manchester-synagogue-attack-b3020133.html",
-      "published_date": "2026-07-23T10:46:38+00:00",
-      "category": "Military"
+      "title": "Every new UK home should have air conditioning, say Liberal Democrats",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/26/every-new-home-should-have-air-conditioning-say-liberal-democrats",
+      "published_date": "2026-07-26T17:34:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Gatwick Airport suffers major water shortage as travellers unable to flush toilets",
@@ -396,32 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "UK households free to install plug-in balcony solar panels from end of August",
+      "title": "Rising oil prices could force up UK interest rates, say economists",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels",
-      "published_date": "2026-07-23T13:00:44+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists",
+      "published_date": "2026-07-26T23:01:23+00:00",
+      "category": "Economy"
     },
     {
-      "title": "VAT cut to be applied to Manx electricity bills",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l56z3e7no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-23T10:40:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The best cleansers in the UK for every skin type and budget – tested",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/jul/23/best-cleanser-face-wash-tested-uk",
-      "published_date": "2026-07-23T09:41:06+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Five ways Andy Burnham could fund his early premiership giveaways",
+      "title": "Badenoch writes open letter to Burnham with challenge over tax hikes to fund social care reform",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-giveaways-energy-bills-buses-pubs-taxes-b3020084.html",
-      "published_date": "2026-07-23T09:30:10+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/badenoch-letter-burnham-tax-rises-b3021889.html",
+      "published_date": "2026-07-26T22:34:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Badenoch says PM must rule out tax rises to fund social care reform",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-26T21:00:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gary Stevenson to quit YouTube channel, citing health concerns",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics",
+      "published_date": "2026-07-26T16:11:45+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘Burnham bounce’ risks deflating unless focus remains on struggling households | Richard Partington",
@@ -536,32 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "I’ve been gaming for 40 years. Here are the best chairs in the UK for comfort, support and serious play",
+      "title": "Boy, 16, charged with murder of teenager stabbed in Luton park",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/jul/24/best-gaming-chairs-tested-uk",
-      "published_date": "2026-07-24T14:00:15+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/jul/26/boy-16-charged-with-of-teenager-stabbed-in-luton-park",
+      "published_date": "2026-07-26T22:26:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "We split money equally even when one of us earned a lot more",
+      "title": "Boy, 16, charged with murder after Luton stabbing",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T13:33:02+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cjejvkk70z1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-26T22:01:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Andy Burnham's first week pledges - how much do they add up to?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy078kj0ezyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T13:04:47+00:00",
-      "category": "Economy"
+      "title": "Boy, 16, charged with murdering teenager in Luton park",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/boy-16-charged-with-murdering-teenager-in-luton-park-13567259",
+      "published_date": "2026-07-26T21:11:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Burnham warned mansion tax could leave councils worse off",
+      "title": "Baby girl among four people killed in Derby A38 horror crash",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-mansion-tax-uk-councils-b3020462.html",
-      "published_date": "2026-07-24T13:04:44+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/a38-derby-crash-road-a516-b3021854.html",
+      "published_date": "2026-07-26T20:10:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family tributes to four men who died in crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74gkr23xvdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-26T17:22:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England’s north-south life expectancy gap grows despite record longevity",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/jul/26/england-north-south-life-expectancy-gap-grows-despite-record-longevity",
+      "published_date": "2026-07-26T17:00:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bristol man fighting for his life after alleged screwdriver stabbing on building site",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/bristol-screwdriver-attack-jamie-chappell-b3021744.html",
+      "published_date": "2026-07-26T15:01:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham v Starmer: one week in, how do their leadership styles compare?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-keir-starmer-leadership-styles-compare",
+      "published_date": "2026-07-26T15:00:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "V&A workers hold ballot to strike over pay and heatwave conditions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/jul/26/va-workers-hold-ballot-to-strike-over-pay-and-heatwave-conditions",
+      "published_date": "2026-07-26T14:53:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Facebook co-founder Saverin invited to join bid for Liverpool FC stake",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/facebook-co-founder-saverin-invited-to-join-bid-for-liverpool-fc-stake-13567161",
+      "published_date": "2026-07-26T14:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Burnham responds to cheeky wedding request for No 10 North from bride-to-be",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/andy-burnham-no-10-north-wedding-b3021751.html",
+      "published_date": "2026-07-26T14:24:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baby and three adults die in Derby car crash",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/baby-and-three-adults-die-in-derby-car-crash-13567148",
+      "published_date": "2026-07-26T14:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New suspect named in brutal hammer murders of Lin Russell and young daughter",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/michael-stone-murder-lin-russell-b3021753.html",
+      "published_date": "2026-07-26T14:20:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New suspect identified in 1996 murder of Lin and Megan Russell",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/new-suspect-identified-in-1996-murder-of-lin-and-megan-russell-13567142",
+      "published_date": "2026-07-26T14:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘So his torture starts all over again’: Man who stole phone 14 years ago being returned to prison without release date",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/ipp-sentence-thomas-white-hospital-prison-torture-b3021719.html",
+      "published_date": "2026-07-26T13:43:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will prediction market ‘catch fire’ in UK, replicating US boom?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/uk-prediction-market-boom-regulation-polymarket-gambling",
+      "published_date": "2026-07-26T13:00:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman with fibroid the size of a large mango felt forced to go private due to NHS waiting list",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uterus-fibroids-womens-health-nhs-gynaecology-pmos-b3014789.html",
+      "published_date": "2026-07-26T12:11:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigating attempted murder of two officers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1k14vxgg04o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-26T12:09:59+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Two police officers seriously injured after being hit by van in ‘deliberate and despicable attack’",
@@ -571,136 +697,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Last chance to apply for help with school costs",
+      "title": "Police Scotland investigating Al Fayed abuse claims",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cnvnzj41z21o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-26T11:04:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is Burnham’s Oxbridge-heavy cabinet a sign of social mobility or lack of progress on class?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/26/burnham-oxbridge-cabinet-social-mobility-class",
-      "published_date": "2026-07-26T11:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How one man’s heartbreak after losing his best friend sparked a nationwide pub-based campaign to tackle loneliness",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/empty-chairs-events-pub-mental-health-b3020843.html",
-      "published_date": "2026-07-26T10:53:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man in critical condition after sea rescue",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgnnyye90o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-26T10:21:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British Olympic sprinter CJ Ujah denies role in alleged cryptocurrency fraud",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/cj-ujah-alleged-cryptocurrency-fraud-chelmsford-b3021214.html",
-      "published_date": "2026-07-26T10:15:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sainsbury’s strikes deal with British salad producers to tackle food shortage fears",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/sainsburys-food-shortage-tomatoes-peppers-b3021703.html",
-      "published_date": "2026-07-26T10:14:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man seriously assaulted near Commonwealth Games swimming venue",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/glasgow-assault-commonwealth-games-b3021691.html",
-      "published_date": "2026-07-26T09:29:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police told to reinvestigate suspected Grindr blackmail death after homophobia claims",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/grindr-blackmail-scott-gough-death-hertfordshire-police-b3018239.html",
-      "published_date": "2026-07-26T08:50:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Weekday games were amazing’: pubs toast extra £150m in World Cup sales",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/26/pubs-extra-sales-world-cup-england-football",
-      "published_date": "2026-07-26T08:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Devastated parents of British girl killed on Maldives school trip sue after two years without justice",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/asia/jenna-chan-maldives-british-schoolgirl-b3018162.html",
-      "published_date": "2026-07-26T07:49:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Birmingham council accused of giving ‘free rein’ to group erecting England flags",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/26/birmingham-council-raise-the-colours-flags-city",
-      "published_date": "2026-07-26T07:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It was like a movie - I looked up and an exploded barn rained on me'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlezl076no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-26T06:57:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘This is the dream job’: Labour’s Bev Craig on the battle to be Manchester mayor",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/26/manchester-mayor-battle-bev-craig-burnham-labour-reform-greens",
-      "published_date": "2026-07-26T06:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham rules out early election in exclusive BBC interview",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-26T05:00:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK journalists ‘self-censoring stories about Trump and the right over safety fears’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety",
-      "published_date": "2026-07-26T05:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Residents allowed to return after Cairngorms wildfire evacuation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c75gdn674r9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-25T23:28:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged with possession of explosive substance after bomb found in car",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-25T22:31:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham responds to cheeky wedding request for No 10 North from bride-to-be",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/andy-burnham-no-10-north-wedding-b3021598.html",
-      "published_date": "2026-07-25T22:26:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Evacuated villagers in Cairngorms allowed home after wildfire threat lifts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
-      "published_date": "2026-07-25T22:08:37+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cre4qql7dx3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-26T11:42:34+00:00",
       "category": "Local Events"
     }
   ]
