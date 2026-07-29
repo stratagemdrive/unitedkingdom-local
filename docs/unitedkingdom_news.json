@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-28T23:50:09.361389+00:00",
+  "last_updated": "2026-07-29T13:01:41.592778+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Inside the complicated social care system – and how much it could really cost to reform",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/adult-social-care-nhs-andy-burnham-b3023612.html",
+      "published_date": "2026-07-29T11:22:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Philp seeks answers over French navy firing drill",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3eknjln9lqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T10:26:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "I turned down Love Island and won silver at the Commonwealth Games",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dve90w90o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-28T22:10:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cottage pie and glass of red, anyone? Britons shun salad despite heat in ‘reverse comfort eating’",
       "source": "The Guardian",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+      "title": "Reckitt raising prices to offset cost pressures amid Iran war",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/iran-middle-east-press-association-dettol-china-b3023560.html",
+      "published_date": "2026-07-29T07:48:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AI tool will lead to more child refugees being treated as adults, charity warns",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
+      "published_date": "2026-07-29T04:00:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump administration bans new Chinese humanoid robots",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T14:02:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T02:30:50+00:00",
+      "category": "Military"
     },
     {
-      "title": "Burnham urged to lobby EU leaders directly to waive EES border controls",
+      "title": "UK politics: Tories’ Philp rejects French claim that shots fired from naval boat near him were training exercise – as it happened",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/24/burnham-urged-to-lobby-eu-leaders-directly-to-waive-ees-border-controls",
-      "published_date": "2026-07-24T11:56:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
+      "published_date": "2026-07-28T17:01:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Trump’s latest tariffs put UK at disadvantage to EU, say experts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/24/trump-tariffs-uk-disadvantage-eu-turnberry-competition",
-      "published_date": "2026-07-24T11:52:30+00:00",
-      "category": "Diplomacy"
+      "title": "French Navy carries out 'shooting drill' mid interview",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-28T16:12:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Tories’ Philp accuses French navy of firing shots near him in Channel incident",
@@ -249,39 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Sackings, 'drone deal' and a 'long war': Zelenskyy speaks to Sky News",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/sackings-drone-deal-and-a-long-war-volodymyr-zelenskyy-speaks-to-sky-news-13567240",
-      "published_date": "2026-07-26T19:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's 'sabre-rattling' should not intimidate UK, Wes Streeting says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8dng4lvrvqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-26T09:33:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wes Streeting refuses to say whether he trusts Donald Trump",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/wes-streeting-defence-secretary-donald-trump-sky-news-b3021682.html",
-      "published_date": "2026-07-26T09:30:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Andy Burnham says he will disagree with Trump in public if necessary",
+      "title": "Hotter summers may force RHS to move hydrangeas to north of England",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
-      "published_date": "2026-07-26T09:13:35+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/29/heatwaves-hydrangeas-risk-south-of-england-rhs-warns",
+      "published_date": "2026-07-29T11:22:05+00:00",
+      "category": "Energy"
     },
     {
-      "title": "I will stand up to President Trump if I have to, says Andy Burnham",
+      "title": "Datacentre projects could face fees for grid access to ease connection queue, Ofgem says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem",
+      "published_date": "2026-07-29T07:42:01+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Andy Burnham’s plans for technical education build on coalition’s UTC roots",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/jul/29/andy-burnham-technical-education-coalition-kenneth-baker",
+      "published_date": "2026-07-29T07:00:26+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "When energy becomes the bottleneck",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-defence-trump-laura-kuenssberg-b3021649.html",
-      "published_date": "2026-07-26T09:10:49+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/business-reporter/energy-infrastructure-systems-industry-automation-ai-b3022491.html",
+      "published_date": "2026-07-29T07:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Earnings tonic boosts FTSE 100 as oil falls back",
@@ -396,32 +424,116 @@
       "category": "Energy"
     },
     {
-      "title": "Businessman and philanthropist Sir Ian Wood dies aged 84",
+      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-27T10:33:08+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T12:56:58+00:00",
+      "category": "Economy"
     },
     {
-      "title": "DCC Energy to go private after agreeing £5.75 billion takeover",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/ftse-ireland-dublin-london-fidelity-international-b3022086.html",
-      "published_date": "2026-07-27T08:46:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Britons told to view solar eclipse using colander to protect eyes",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/space/solar-eclipse-august-2026-colander-b3022063.html",
-      "published_date": "2026-07-27T08:33:25+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Honor Magic V6 review: sleek foldable phone lacking a bit of polish",
+      "title": "Burnham does not rule out tax rises for social care reform as he fast-tracks Louise Casey’s review – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jul/27/honor-magic-v6-review-android-sleek-foldable-phone-battery-cameras",
-      "published_date": "2026-07-27T06:00:32+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/live/2026/jul/29/andy-burnham-social-care-louise-casey-tories-kemi-badenoch-reform-nigel-farage-uk-politics-latest",
+      "published_date": "2026-07-29T12:42:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T11:09:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Standard Chartered launches fresh £750m share buyback after record profits",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/standard-chartered-london-linkedin-b3023696.html",
+      "published_date": "2026-07-29T10:26:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Greggs sales jump as iced matcha lattes and chicken rolls become heatwave hits",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/29/greggs-sales-jump-iced-matcha-lattes-chicken-rolls-heatwave-hits",
+      "published_date": "2026-07-29T10:10:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Aston Martin hopes new hybrid supercar can boost turnaround after worse-than-expected losses",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/aston-martin-losses-valhalla-car-b3023635.html",
+      "published_date": "2026-07-29T09:56:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "1975: The world's first shop for left-handers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/videos/cr47gvdk9n3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T07:23:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "In a world of parity, service is your competitive moat",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/customer-service-competition-consumers-ai-loyalty-b3022481.html",
+      "published_date": "2026-07-29T07:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Wessex Internet recognised as a 2026 Best of British Business for its impact on rural full fibre connectivity",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/wessex-internet-recognised-as-a-2026-best-of-british-business-for-its-impact-on-rural-full-fibre-connectivity-b3023204.html",
+      "published_date": "2026-07-29T07:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Can food and beauty brands and retailers reduce product complexity without losing local relevance?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/brands-food-beauty-local-consumers-shopping-data-b3019830.html",
+      "published_date": "2026-07-29T07:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why automating payments is a gamechanger for scaling businesses",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/automation-payments-ai-business-commerce-b3019825.html",
+      "published_date": "2026-07-29T07:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Building better: how the Danny Sullivan Group is redefining operative wellbeing",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/operative-wellbeing-workforce-infrastructure-culture-family-business-b3019820.html",
+      "published_date": "2026-07-29T07:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Discipline – the secret ingredient of successful AI projects",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/ai-projects-data-digitalisation-compliance-b3022465.html",
+      "published_date": "2026-07-29T07:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Moving communities forward through innovation, sustainability, service and growth together",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/communities-innovation-sustainability-service-growth-east-midlands-b3022475.html",
+      "published_date": "2026-07-29T07:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Ask the right questions’: what you need to know before buying shares",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/jul/29/buying-shares-spacex-bank-invest",
+      "published_date": "2026-07-29T06:00:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Suddenly the British right feels a political chill. It’s getting cold in Andy Burnham’s shadow | Rafael Behr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/29/british-right-political-chill-andy-burnham-tories-reform-keir-starmer",
+      "published_date": "2026-07-29T05:00:23+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK faces ‘very difficult trade-offs’ in budget because of Iran war, say analysts",
@@ -452,255 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Burnham bounce: Labour overtakes Reform in polls – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/jul/28/burnham-bounce-labour-overtakes-reform-in-polls-the-latest",
-      "published_date": "2026-07-28T16:24:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Monzo passes landmark business customer numbers in first for a digital bank",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/monzo-business-accounts-uk-sme-b3022885.html",
-      "published_date": "2026-07-28T13:29:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "GSK to cut jobs amid £1.9bn cost-cutting plan and bid for faster drug development",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/28/gsk-cut-jobs-cost-cutting-faster-drug-development-cambridge",
-      "published_date": "2026-07-28T13:20:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Marmite and Dove owner Unilever warns of price rises due to growing costs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/28/marmite-dove-unilever-price-rises-costs-world-cup",
-      "published_date": "2026-07-28T12:12:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'We lost all of our morning trade' - businesses fearful after more break-ins",
+      "title": "Teenage Norwegian 'hitman' guilty of UK murder plot",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1677022zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T11:35:38+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cwyqggvyp1do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T12:57:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Unilever hails best sales in more than a decade ahead of food business spin-off",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/unilever-marmite-dove-holly-williams-press-association-b3022811.html",
-      "published_date": "2026-07-28T10:37:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "AI sell-off intensifies as investors ditch chip stocks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
-      "published_date": "2026-07-28T09:03:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Burnham urged to increase tax on banks as Barclays’ profits soar",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/28/barclays-increases-bonus-pool-uk-bank-tax",
-      "published_date": "2026-07-28T08:40:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Waitrose reports surprise spike in sales of winter comfort food amid heatwaves",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/waitrose-south-african-b3022820.html",
-      "published_date": "2026-07-28T08:36:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Burnham fails to rule out 10% death tax on all estates to fund social care reform",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-death-tax-inheritance-social-care-reform-b3022761.html",
-      "published_date": "2026-07-28T08:28:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Barclays profits surge to £6.1 billion as investment bank cashes in on market deals",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/barclays-bank-profits-results-iran-b3022776.html",
-      "published_date": "2026-07-28T08:00:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Why some Britons will be hit harder by inheritance tax changes",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/why-some-britons-will-be-hit-harder-by-inheritance-tax-changes-13567627",
-      "published_date": "2026-07-28T06:59:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Blow to NHS as Royal Mail raises prices for bulk users by a third",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/28/nhs-royal-mail-price-rises-bulk-users-mail",
-      "published_date": "2026-07-28T05:00:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Burnham is taking a bold risk by busting the big lie of politics – that change is impossible | Frances Ryan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/28/andy-burnham-bold-start-change-prime-minister",
-      "published_date": "2026-07-28T05:00:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Michelin-starred chef calls for VAT cut for restaurants",
+      "title": "Middle-earners 'struggling' over schools bonus cap",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mer3vr4do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T04:48:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Shop price inflation slows amid warnings of pressures on the horizon",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/british-retail-consortium-inflation-helen-dickinson-b3022642.html",
-      "published_date": "2026-07-27T23:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Burnham turns to Tories and Lib Dems for help on social care: ‘Help me fix this’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-social-care-tories-lib-dems-b3023295.html",
-      "published_date": "2026-07-28T21:33:14+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nygzpkqlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T12:56:32+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Ed Miliband to visit France and Spain as both countries experience devastating wildfires",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/ed-miliband-france-spain-trip-wildfires-eu-b3023343.html",
-      "published_date": "2026-07-28T21:30:43+00:00",
+      "title": "Fix palliative care before assisted dying debate, says PM",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3w04p4373jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T12:56:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Burnham to seek cross-party consensus over urgent reforms to social care",
+      "title": "More than half of England officially in drought, Environment Agency says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T12:55:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Husband of woman murdered in cottage had been charged with assaulting her just weeks before death",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/stacy-mair-jim-death-houston-b3023791.html",
+      "published_date": "2026-07-29T12:53:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform councillor charged over ‘grossly offensive’ social media post about Nigerians",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/reform-councillor-glenn-gibbins-nigerians-b3023798.html",
+      "published_date": "2026-07-29T12:52:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Burnham wants social care reform to be his legacy – but for him, this is personal",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-social-care-father-alzheimers-b3023634.html",
+      "published_date": "2026-07-29T12:50:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The UK has an adult PM again prepared to speak to voters as fellow adults",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jul/28/andy-burnham-cross-party-consensus-reforms-social-care",
-      "published_date": "2026-07-28T21:30:13+00:00",
+      "url": "https://www.theguardian.com/politics/2026/jul/29/the-uk-has-an-adult-pm-again-prepared-to-speak-to-voters-as-fellow-adults",
+      "published_date": "2026-07-29T12:44:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Woman found dead was murdered, police say, as man's death still 'unexplained'",
+      "title": "Boy, 7, dies in hospital after beach tragedy",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0677el3mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T21:08:28+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T12:42:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "UK wildfire warning issued ahead of heatwave after more than 200 recorded in last two weeks",
+      "title": "Firefighters race into burning church to rescue coffin from devastating fire",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-wildfire-heatwave-met-office-b3023321.html",
-      "published_date": "2026-07-28T19:43:46+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/leicester-st-andrews-church-coffin-fire-b3023781.html",
+      "published_date": "2026-07-29T12:39:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two-Michelin-star chef brings fine dining to town football club",
+      "title": "Police probing deaths of four people who lived at same lodge as serial killer James Desborough",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/james-desborough-victims-serial-killer-b3023779.html",
+      "published_date": "2026-07-29T12:38:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK heatwave live: Half of England officially declared in drought with temperatures set to hit 34C",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/heatwave-uk-weather-temperatures-live-updates-today-b3023556.html",
+      "published_date": "2026-07-29T12:31:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drought declared for half of England – find out if your area is affected",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/england-drought-map-london-where-hosepipe-ban-b3023770.html",
+      "published_date": "2026-07-29T12:28:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pedestrian dies after being hit by several vehicles including police car",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74gnlmg33zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T19:09:56+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cx2dvlld7j2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T12:21:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "In The Room | Too much Manchester? Andy Burnham’s first big interview unpacked",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/in-the-room/andy-burnham-laura-kuenssberg-interview-uk-politics-b3023276.html",
-      "published_date": "2026-07-28T18:05:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dexter fan serial killer guilty of double murder after men found dismembered in Cornish woods",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/james-desborough-cornwall-murder-dexter-b3023175.html",
-      "published_date": "2026-07-28T17:53:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy, 7, remains in critical condition after incident at Essex beach which saw two family members die",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/essex-west-mersea-beach-musa-hhmed-sameeha-shelina-rahman-b3023252.html",
-      "published_date": "2026-07-28T17:26:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘A control freak’: murderer James Desborough convicted of two further killings",
+      "title": "Boy, seven, dies after Essex coast incident that killed cousin and aunt",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/28/james-desborough-convicted-murder-claudio-aquilino-daniel-coleman-cornwall",
-      "published_date": "2026-07-28T16:58:49+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/29/boy-seven-dies-essex-coast-incident-killed-cousin-aunt",
+      "published_date": "2026-07-29T12:20:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man guilty of murdering two men found in woods",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cewrd42lx0eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T16:35:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T16:35:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T16:33:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Young people ‘expected’ to engage with new work support, says McFadden",
+      "title": "Half of England officially in ‘exceptionally serious’ drought",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/jul/28/young-people-new-work-support-mcfadden-benefits",
-      "published_date": "2026-07-28T16:12:25+00:00",
+      "url": "https://www.theguardian.com/environment/2026/jul/29/half-england-officially-drought-environment-agency",
+      "published_date": "2026-07-29T12:00:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Zack Polanski reported to police over guillotine post",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c3d34n4j3v2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T15:41:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Virgin jet engineer dies after accident at Heathrow",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8q63v26lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T15:33:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
+      "title": "Norwegian teen footballer hitman guilty of UK murder plot linked to Iran gang",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-zack-polanski-reform-uk-green-party-b3022728.html",
-      "published_date": "2026-07-28T15:25:02+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/johannes-kongsnes-natland-hitman-iran-b3023749.html",
+      "published_date": "2026-07-29T11:55:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Black people’s risk factors for stroke ‘rising faster than for white people’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jul/28/black-african-caribbean-risk-factor-stroke-diabetes-high-blood-pressure-hypertension",
-      "published_date": "2026-07-28T15:08:01+00:00",
+      "title": "Carers should be best paid people in society, not the worst, says Burnham as he vows to overhaul social care system",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-social-care-carers-b3023639.html",
+      "published_date": "2026-07-29T11:35:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Captain Chris ‘Hunter-Killer’ Philp takes on French navy single-handed | John Crace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/28/conservative-chris-philp-channel-french-navy",
-      "published_date": "2026-07-28T14:50:52+00:00",
+      "title": "New UK leader Burnham vows to fix a 'broken' social care system",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-london-labour-party-ed-davey-gordon-brown-b3023733.html",
+      "published_date": "2026-07-29T11:19:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Fake sex images of MP are 'gross violation', court told",
+      "title": "'Apocalyptic' damage as Cairngorms wildfire burns for two weeks",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly5gdp2414o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T14:28:28+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-29T11:01:32+00:00",
       "category": "Local Events"
     }
   ]
