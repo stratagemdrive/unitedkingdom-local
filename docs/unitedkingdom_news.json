@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-30T12:45:16.873833+00:00",
+  "last_updated": "2026-07-30T23:53:14.954351+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UN condemns ‘arbitrary’ detention of UK prisoners trapped on indefinite jail terms as ‘psychological torture’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/un-indefinite-jail-terms-ipp-uk-government-arbitrary-b3024999.html",
+      "published_date": "2026-07-30T23:26:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Government ministers back Uefa’s ‘principled decision’ over Fifa World Cup boycott",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/uefa-fifa-world-cup-boycott-nandy-burnham-farage-infantino-b3024887.html",
+      "published_date": "2026-07-30T18:01:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "‘It’s irreplaceable’: Fury over Reform plans to expand quarry in ancient Kent woodland",
       "source": "The Guardian",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lucy Harrison’s father was holding the gun that killed her but was never arrested. Now her mother wants Andy Burnham to take up the case",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/mother-urges-andy-burnham-reopen-case-daughter-lucy-harrison-killed-texas",
-      "published_date": "2026-07-25T10:00:40+00:00",
-      "category": "Diplomacy"
+      "title": "Interest rates held at 3.75% but Bank prepared to raise them if Iran war goes on",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/interest-rates-andrew-bailey-iran-bank-b3024750.html",
+      "published_date": "2026-07-30T17:16:18+00:00",
+      "category": "Military"
     },
     {
-      "title": "Five ways to make the most of the summer holidays with kids",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y65z47xwzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-24T23:29:12+00:00",
-      "category": "Diplomacy"
+      "title": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
+      "published_date": "2026-07-30T16:59:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "FTSE 100 reaches new heights in spite of ongoing Iran war",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/iran-bae-systems-rentokil-shell-b3024751.html",
+      "published_date": "2026-07-30T16:13:44+00:00",
+      "category": "Military"
     },
     {
       "title": "Suffolk wildfire latest: Firefighters to battle blaze near nuclear power plant for days amid drought",
@@ -263,25 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "Can Andy Burnham charm Volodymyr Zelenskyy? | Politics Weekly",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/jul/27/can-andy-burnham-charm-volodymyr-zelenskyy-politics-weekly",
-      "published_date": "2026-07-27T20:05:46+00:00",
-      "category": "Military"
+      "title": "Burnham told Trump the UK will be ‘pragmatic’ about North Sea oil and gas",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-trump-north-sea-oil-pragmatic-b3025007.html",
+      "published_date": "2026-07-30T23:38:57+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Burnham’s Ukraine gambit is a symbolic start for PM who wants to look inward",
+      "title": "Record low water levels across Europe reveal mammoth skeletons and forgotten shipwrecks – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/27/andy-burnham-ukraine-symbolic-start-pm-home",
-      "published_date": "2026-07-27T18:32:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/video/2026/jul/30/europe-record-low-water-levels",
+      "published_date": "2026-07-30T22:47:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Burnham welcomes Ukraine's Zelenskyy as his first foreign visitor as PM – video",
+      "title": "Burnham promises ‘pragmatic’ approach to North Sea oil and gas",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/jul/27/burnham-welcomes-ukraines-zelenskyy-as-his-first-foreign-visitor-as-pm-video",
-      "published_date": "2026-07-27T16:29:38+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/jul/30/burnham-promises-pragmatic-approach-to-north-sea-oil-and-gas",
+      "published_date": "2026-07-30T17:27:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Aircraft engineer died after Heathrow explosion, inquest hears",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/aircraft-engineer-died-after-heathrow-explosion-inquest-hears-13568555",
+      "published_date": "2026-07-30T17:17:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Man blew up childhood home because he thought he’d been cut out of will, court hears: ‘If I can’t have it, no one can’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/darren-davies-inheritance-will-explosion-b3024687.html",
+      "published_date": "2026-07-30T16:58:01+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T16:19:08+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Andy Burnham says he told Donald Trump ‘we can’t ignore’ North Sea oil resources",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andy-burnham-donald-trump-north-sea-ed-miliband-prime-minister-b3024693.html",
+      "published_date": "2026-07-30T14:39:05+00:00",
+      "category": "Energy"
     },
     {
       "title": "Shell profits double as oil prices rise due to Iran war",
@@ -375,59 +424,129 @@
       "category": "Energy"
     },
     {
-      "title": "Energy prices rise by 19% in a year -report",
+      "title": "Andy Burnham to give regional mayors share of income tax",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74gqxz27q0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T14:52:31+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T21:32:09+00:00",
+      "category": "Economy"
     },
     {
-      "title": "More rail services in England set to slow as heatwave shrinks soil",
+      "title": "Burnham to free mayors from ‘Treasury death grip’ with new devolved powers",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/28/rail-services-train-england-slow-heatwave-south-western-railway-greater-anglia",
-      "published_date": "2026-07-28T12:14:34+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/2026/jul/30/burnham-mayors-income-tax-business-rates-devolution",
+      "published_date": "2026-07-30T21:30:55+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Local match goes viral over cheating claim",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T09:11:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Reader Q&A: Ask Polly Toynbee about Andy Burnham’s first week as prime minister",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/community/live/2026/jul/28/andy-burnham-first-week-prime-minister-ask-polly-toynbee-reader-questions",
-      "published_date": "2026-07-28T09:06:54+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "A self-emptying, frictionless marvel: Shark PowerDetect Speed Clean and Empty Pet Pro review",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/jul/28/shark-powerdetect-speed-clean-and-empty-pet-pro-review",
-      "published_date": "2026-07-28T09:00:35+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Factory farming could be fuelling spread of common disease which causes food poisoning",
+      "title": "Mayors allowed to keep share of taxes collected in their area as part of Burnham’s devolution revolution",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/factory-farming-chicken-food-poisoning-study-b3021009.html",
-      "published_date": "2026-07-27T19:00:54+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-tax-mayors-devolution-b3024678.html",
+      "published_date": "2026-07-30T21:30:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "No, Centrica, customers don’t prefer bots to humans | Letter",
+      "title": "Jaguar Land Rover to cut hundreds of jobs as part of major transformation plan",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/jaguar-land-rover-jobs-cuts-redundancies-b3024873.html",
+      "published_date": "2026-07-30T17:36:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What British food items are at risk due to extreme drought conditions",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/drought-heatwave-food-supply-risk-england-b3024535.html",
+      "published_date": "2026-07-30T17:35:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Guardian view on prolonging kidulthood: Britain prices young adults out of independent life | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/27/no-centrica-customers-dont-prefer-bots-to-humans",
-      "published_date": "2026-07-27T16:47:22+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/30/the-guardian-view-on-kidulthood-britain-prices-young-adults-out-of-independent-life",
+      "published_date": "2026-07-30T17:30:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why the Bank of England kept interest rates the same and what could happen next",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/interest-rates-uk-mortgages-iran-middle-east-b3024860.html",
+      "published_date": "2026-07-30T17:10:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hundreds of jobs to go at Jaguar Land Rover",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dmjv1jpdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T16:53:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FTSE 100’s early promise fades as Bank of England holds rates",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/bank-of-england-aim-monetary-policy-committee-lloyds-banking-group-andrew-bailey-b3024822.html",
+      "published_date": "2026-07-30T16:21:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US economic growth sees surprise slowdown in second quarter",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T14:24:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK properties raided in crackdown against spam motor finance text messages",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/motor-finance-compensation-spam-b3024648.html",
+      "published_date": "2026-07-30T13:58:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What the latest interest rates vote means for your mortgage, savings and bills",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/interest-rates-uk-mortgage-savings-bills-inflation-b3024649.html",
+      "published_date": "2026-07-30T13:54:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Borrowers not set for lower mortgage rates ‘any time soon’, warns expert",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/moneyfacts-iran-homeowners-monetary-policy-committee-middle-east-b3024659.html",
+      "published_date": "2026-07-30T13:47:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Raids across UK in crackdown on nuisance car finance texts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/jul/30/crackdown-claims-firms-spam-car-finance-scandal-payouts",
+      "published_date": "2026-07-30T13:39:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "5% savings accounts are finally back – here’s where to get the best deals",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/money/interest-rates-best-savings-bank-accounts-2026-b3023963.html",
+      "published_date": "2026-07-30T13:34:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Only the Middle East crisis is preventing a drop in UK interest rates",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation",
+      "published_date": "2026-07-30T12:44:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Britain faces shortage of popular ale weeks after it was sold to Spanish beer giant",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/old-speckled-hen-shortage-pubs-ale-estrella-damm-b3024478.html",
       "published_date": "2026-07-30T12:09:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T12:08:31+00:00",
       "category": "Economy"
     },
     {
@@ -445,262 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Bank of England holds interest rates – but raise this year ‘not off the table’",
+      "title": "Councillor hits out at 'wild west' style shooting of 50 cattle, as review carried out",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62xdkmj2eno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T23:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TikToker faces police probe over secret filming using 'smart' glasses",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g369y5k8ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T22:11:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polls close in Greater Manchester mayoral by-election to succeed Andy Burnham",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/interest-rates-bank-of-england-vote-inflation-mpc-b3023961.html",
-      "published_date": "2026-07-30T11:40:17+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/greater-manchester-mayoral-election-polls-burnham-bev-craig-b3024996.html",
+      "published_date": "2026-07-30T22:02:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Four people die attempting to cross English channel on migrant ‘taxi-boats’",
+      "title": "What time will the Greater Manchester mayoral election results be announced and will there be an exit poll?",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/english-channel-migrant-deaths-dunkirk-france-b3024446.html",
-      "published_date": "2026-07-30T11:37:11+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/greater-manchester-mayoral-election-results-exit-poll-b3024848.html",
+      "published_date": "2026-07-30T21:24:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
-      "published_date": "2026-07-30T11:00:52+00:00",
-      "category": "Economy"
+      "title": "Aerial footage shows wildfire tearing through Suffolk heathland",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cz7dlz75ljgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T19:59:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Lloyds Bank to cut £2bn in costs as part of AI-powered strategy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/30/lloyds-bank-cut-2bn-costs-part-ai-powered-strategy",
-      "published_date": "2026-07-30T10:22:52+00:00",
-      "category": "Economy"
+      "title": "Palestine Action ban to be reviewed by Supreme Court",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c87n321w9qlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T19:45:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "BAE Systems and Rolls-Royce reap rewards from higher global defence spending",
+      "title": "Suffolk wildfire: Smouldering aftermath captured on camera as blaze continues to spread",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/bae-systems-andy-burnham-john-healey-rachel-reeves-chancellor-b3024454.html",
-      "published_date": "2026-07-30T09:37:08+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/tv/news/suffolk-wildfire-dunwich-heath-damage-video-b3024868.html",
+      "published_date": "2026-07-30T19:44:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Poundland owner joins suitors for department store chain Harvey Nichols",
+      "title": "Key HS2 contracts renegotiated as government scrambles to slash costs",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/poundland-owner-joins-suitors-for-department-store-chain-harvey-nichols-13568365",
-      "published_date": "2026-07-30T09:19:00+00:00",
-      "category": "Economy"
+      "url": "https://news.sky.com/story/key-hs2-contracts-renegotiated-as-government-scrambles-to-slash-costs-13568600",
+      "published_date": "2026-07-30T19:44:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US borrowing costs hit 19-year high as Fed holds interest rates",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/30/us-borrowing-costs-19-year-high-fed-holds-interest-rates",
-      "published_date": "2026-07-30T08:54:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "George Cottrell ‘transferred $2m to mother days before Reform UK donations’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/george-cottrell-reform-donation-fiona-b3024295.html",
-      "published_date": "2026-07-30T08:22:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T08:02:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Will interest rates go up today? Bank of England’s key factors and 2026 predictions",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/interest-rates-july-inflation-bank-of-england-mpc-b3024315.html",
-      "published_date": "2026-07-30T07:59:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank of England set to hold interest rates at 3.75%",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/bank-of-england-monetary-policy-committee-oxford-economics-andrew-bailey-donald-trump-b3024206.html",
-      "published_date": "2026-07-30T07:32:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Maradona effect: Bank of England's banking on markets to prevent rate hikes",
+      "title": "Police find £4m in cash and 1kg of cocaine at south London property after stopping suspicious vehicle",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/the-maradona-effect-the-bank-of-englands-banking-on-markets-to-prevent-rate-hikes-13568319",
-      "published_date": "2026-07-30T07:26:00+00:00",
-      "category": "Economy"
+      "url": "https://news.sky.com/story/police-find-4m-in-cash-and-1kg-of-cocaine-at-south-london-property-after-stopping-suspicious-vehicle-13568598",
+      "published_date": "2026-07-30T19:36:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "'A lot of discounting' as Chinese cars flood UK market",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/a-lot-of-discounting-as-chinese-cars-flood-uk-market-13568292",
-      "published_date": "2026-07-30T04:35:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Carmakers ‘delaying investment in UK factories until EV sales rules relaxed’",
+      "title": "French riot police used teargas on people trying to board small boat, charity claims",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/30/carmakers-delaying-investment-in-uk-factories-until-ev-sales-rules-relaxed",
-      "published_date": "2026-07-30T04:00:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-29T23:02:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Interest rates expected to be held again by Bank of England",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-29T23:01:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank of England set to hold interest rates at 3.75%",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/bank-of-england-andrew-bailey-monetary-policy-committee-oxford-economics-donald-trump-b3024206.html",
-      "published_date": "2026-07-29T23:01:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mother and boyfriend jailed for ‘sadistic’ murder of toddler who suffered 21 broken bones",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/alexandra-walker-harrison-simpson-thornaby-b3024582.html",
-      "published_date": "2026-07-30T12:31:35+00:00",
+      "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
+      "published_date": "2026-07-30T19:20:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Mum and boyfriend jailed for girl's  murder",
+      "title": "Suffolk wildfire still growing and unpredictable, says fire service",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nyz12xe8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T12:29:18+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T18:50:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Jenrick ducks question on why George Cottrell gave $2m to his mother days before her big donations to Reform UK – politics live",
+      "title": "Homes flooded and residents evacuated after quarry 'incident'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1j1wyy7e39o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T17:39:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Supreme court says Palestine Action co-founder can challenge ban on group",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/jul/30/reform-nigel-farage-robert-jenrick-labour-prisons-andy-burnham-latest-news-updates",
-      "published_date": "2026-07-30T12:24:55+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/30/supreme-court-says-palestine-action-co-founder-can-challenge-ban-on-group",
+      "published_date": "2026-07-30T17:33:09+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Large rise in offenders sent back to prison, figures reveal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T12:13:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ScotRail apology as passengers unable to book tickets in app launch chaos",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cddjzgv3zl1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T12:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigel Farage plummets to lowest approval level since election in new poll",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-uk-poll-approval-rating-b3024481.html",
-      "published_date": "2026-07-30T11:49:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Properties raided in nuisance motor finance text message investigation",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/information-commissioners-office-bolton-burnley-liverpool-london-b3024528.html",
-      "published_date": "2026-07-30T11:45:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victims of disgraced funeral boss 'unable to get refunds'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce347krneeno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T11:38:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK’s record-breaking heatwaves led to almost 3,000 deaths",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-heatwave-deaths-may-june-b3024410.html",
-      "published_date": "2026-07-30T11:33:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Virgin engineer died after traumatic brain injury",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz059e4d7xzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T11:28:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England on track for record heat-related deaths this year, UKHSA estimates",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0m78g01r8jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T11:23:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Major incident declared as firefighters battle large Suffolk heathland blaze",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/dunwich-heath-fire-leiston-suffolk-b3024300.html",
-      "published_date": "2026-07-30T11:12:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspected Kinahan gang leader faces extradition",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgr0jl402o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T10:44:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England on track for record heat-related deaths this summer, official data shows",
+      "title": "More prisoners in England and Wales are recalled than released for first time",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/30/excess-deaths-caused-by-heatwaves-in-england-almost-double-so-far-this-year",
-      "published_date": "2026-07-30T10:33:19+00:00",
+      "url": "https://www.theguardian.com/society/2026/jul/30/more-prisoners-england-and-wales-recalled-than-released",
+      "published_date": "2026-07-30T16:31:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "London weekend weather forecast issued – how hot will it get?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/london-weather-forecast-weekend-how-hot-b3024488.html",
-      "published_date": "2026-07-30T10:23:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Engineer died of brain injury after incident at Heathrow Airport, inquest hears",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/georgie-buxton-heathrow-airport-virgin-b3024483.html",
-      "published_date": "2026-07-30T10:12:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresh appeal in search for missing man who vanished two years ago",
+      "title": "Man dies after getting into difficulty in sea off Essex coastal town",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/police-scotland-issues-fresh-appeal-in-search-for-missing-man-who-vanished-two-years-ago-13568368",
-      "published_date": "2026-07-30T09:33:00+00:00",
+      "url": "https://news.sky.com/story/man-dies-after-getting-into-difficulty-in-sea-off-essex-coastal-town-13568535",
+      "published_date": "2026-07-30T16:08:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Joe Root returns as England men's Test captain, replacing Ben Stokes",
+      "title": "Missing child, 5, dies after being found in water",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy74n388vk7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-30T15:34:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestine Action can appeal terror ban at the Supreme Court",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/palestine-action-terror-ban-supreme-court-appeal-b3024716.html",
+      "published_date": "2026-07-30T15:32:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince Harry among names facing wait over legal fees payment to Mail after failed High Court case",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/prince-harry-legal-fees-mail-high-court-b3024774.html",
+      "published_date": "2026-07-30T15:25:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestine Action terror ban to go to Supreme Court as 117 arrested at protest",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/joe-root-returns-as-england-mens-test-captain-replacing-ben-stokes-13568372",
-      "published_date": "2026-07-30T09:25:00+00:00",
+      "url": "https://news.sky.com/story/palestine-action-terror-ban-to-go-to-supreme-court-as-117-arrested-at-protest-13568520",
+      "published_date": "2026-07-30T15:24:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Greater Manchester mayoral by-election: Full list of candidates",
+      "title": "Full list of areas hit by drought as half of England and all of Wales affected",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/manchester-mayoral-election-2026-candidates-polls-bev-craig-b3024380.html",
-      "published_date": "2026-07-30T08:45:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Full list of areas affected by drought as half of England plunged into dry weather crisis",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/england-drought-map-where-hosepipe-ban-london-b3024360.html",
-      "published_date": "2026-07-30T08:36:01+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/england-wales-drought-map-where-hosepipe-ban-london-b3024734.html",
+      "published_date": "2026-07-30T15:20:29+00:00",
       "category": "Local Events"
     }
   ]
