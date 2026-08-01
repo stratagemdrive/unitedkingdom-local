@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-01T12:02:45.601652+00:00",
+  "last_updated": "2026-08-01T23:47:14.063241+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Grinning Prince Louis dons bucket hat as he watches Commonwealth Games alongside family",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/prince-louis-charlotte-george-commonwealth-games-b3025853.html",
+      "published_date": "2026-08-01T21:55:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Boxer lands country's first Commonwealth Games medal without winning a fight",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/tarona-taafaki-boxer-lands-tuvalus-first-commonwealth-games-medal-without-winning-a-fight-13569045",
+      "published_date": "2026-08-01T15:15:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Commonwealth Games boxing official suspended over headbutt probe",
       "source": "BBC News",
@@ -127,20 +141,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
       "published_date": "2026-07-27T08:00:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Burnham is master of his message for now. But he should know this: media foes will offer no respite | Tom Baldwin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/27/andy-burnham-master-social-media-hostile-press-social-media",
-      "published_date": "2026-07-27T07:00:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ed Miliband indicates development and climate will be at heart of UK foreign policy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/26/ed-miliband-development-climate-crisis-uk-foreign-policy-world-bank-seat",
-      "published_date": "2026-07-26T16:00:15+00:00",
       "category": "Diplomacy"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "The Papers: Chancellor 'warns' supermarkets and 'own goal'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crk5jd6r1rmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T23:03:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "John Healey warns supermarkets not to ‘rip off’ Britons as Iran war fuels cost of living crisis",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/john-healey-supermarkets-petrol-pumps-price-gouging-cost-of-living-iran-war-b3025912.html",
+      "published_date": "2026-08-01T22:45:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Intense, salty, foul’: the best (and worst) supermarket anchovies, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/aug/01/best-worst-supermarket-tinned-anchovies-tasted-rated",
+      "published_date": "2026-08-01T12:00:52+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Turn failing water firms into not-for-profit cooperatives, MPs and mayors tell PM",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/aug/01/turn-failing-water-firms-into-not-for-profit-cooperatives-mps-and-mayors-tell-pm",
@@ -543,31 +564,122 @@
       "category": "Economy"
     },
     {
-      "title": "Infantino 'wrong man' to lead Fifa says Burnham as criticism grows",
+      "title": "Tens of thousands turn out to celebrate Brighton Pride",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/brighton-pride-festival-jessie-j-raye-diana-ross-b3025800.html",
+      "published_date": "2026-08-01T20:46:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Balaclava gang target children on bikes and police officers on river path",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T12:14:43+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cwyrwnnqnw0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T20:00:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Betfred to shut 132 shops and axe 600 jobs after gambling tax hikes",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/betfred-warrington-paddy-power-fred-sunday-times-b3025329.html",
-      "published_date": "2026-07-31T12:13:43+00:00",
-      "category": "Economy"
+      "title": "Root in 'very different place' over Test captaincy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cy0j806xryyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T18:36:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Village swingers club known as ‘Chunky Muffins’ could be yours for £1.1m",
+      "title": "Weather mapped: Where it will rain in the UK this weekend as droughts and heatwaves strike",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/lincolnshire-village-swingers-club-sale-chunky-muffins-b3025169.html",
-      "published_date": "2026-07-31T12:06:45+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/weekend-weather-forecast-map-rain-heatwave-august-met-office-b3025150.html",
+      "published_date": "2026-08-01T17:26:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "William and Kate bring children to second last day of Commonwealth Games",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T17:23:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suffolk fire 'stable' and fundraiser set up",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dpzk115wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T15:28:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Used car tycoon sacked for lewd remarks wins High Court fight over takeover plot",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/peter-waddell-court-case-big-motoring-world-b3025473.html",
+      "published_date": "2026-08-01T14:40:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manhunt launched for man who escaped prison van outside Liverpool court",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/stephen-grzyb-liverpool-court-police-b3025806.html",
+      "published_date": "2026-08-01T13:48:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manhunt launched after burglary suspect escapes from court on foot",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/stephen-grzyb-manhunt-after-burglary-suspect-escapes-from-liverpool-court-13569032",
+      "published_date": "2026-08-01T13:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manhunt after prisoner escapes from van outside court",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx705xz2g7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T13:36:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greater Manchester mayor says Burnham's new powers will change lives",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddj3j50rmpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T13:15:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Greek police fast-tracking tests to find out how British woman found in suitcase died",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz05yzzr93jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T13:02:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Manchester mayoral result holds the key for the future of progressive politics | Neal Lawson",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/01/bev-craig-manchester-mayoral-result-key-to-future-progressive-politics",
+      "published_date": "2026-08-01T12:50:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police arrest men over alleged modern day slavery",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3j5zyr0go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T11:54:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "King's Theatre in Edinburgh re-opens after £41m refurbishment",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevm2mrv33go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T11:54:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘We are always ignored’: What the people of Manchester really think about Burnham’s ‘No 10 North’",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/no-10-north-andy-burnham-manchester-downing-street-b3024664.html",
       "published_date": "2026-08-01T11:43:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Comfortable victory, but uncomfortable numbers for Labour in Greater Manchester",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/comfortable-victory-but-uncomfortable-numbers-for-labour-in-greater-manchester-13569010",
+      "published_date": "2026-08-01T11:43:00+00:00",
       "category": "Local Events"
     },
     {
@@ -589,118 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5y32zmv6kjo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-01T10:15:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The lead singer is unavailable’: Is Nigel Farage spending his summer in hiding?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/01/nigel-farage-reform-uk-return-press-conference-london",
-      "published_date": "2026-08-01T10:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Local media needs support if devolution push is to succeed, publishers say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/01/publishers-call-for-stronger-local-media-under-andy-burnham-devolution",
-      "published_date": "2026-08-01T09:00:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Tech Titan' Arora spearheads $1bn shot at NBA's London basketball team",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/tech-titan-arora-spearheads-1bn-shot-at-nbas-london-basketball-team-13568969",
-      "published_date": "2026-08-01T08:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘MPs have had their stomachs pumped’: concerns over ‘alcohol-soaked’ culture in Westminster",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/01/mps-stomachs-pumped-uk-parliament-alcohol-culture-report",
-      "published_date": "2026-08-01T07:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No apologies, no freebies: the man who makes Andy Burnham’s jackets on how to weather a storm",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/fashion/2026/aug/01/andy-burnham-jackets-private-white-vc-james-eden",
-      "published_date": "2026-08-01T07:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voices: ‘We are keeping people alive longer, not living longer’: Readers on the true cost of caring for a loved one",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/health/social-care-homes-unpaid-carers-experience-b3024629.html",
-      "published_date": "2026-08-01T06:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Like Burnham, I was an altar boy. His Catholic upbringing is shaping the way he governs |Julian Coman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/01/andy-burnham-catholic-faith-shaping-way-governs",
-      "published_date": "2026-08-01T05:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 18, arrested over 'suspected explosion' in Ipswich, police say",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-arrested-over-suspected-explosion-at-block-of-flats-in-ipswich-police-say-13568943",
-      "published_date": "2026-08-01T04:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Who could have done this?’ Mystery over Briton found dead in a suitcase in Athens",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/01/mystery-briton-found-dead-suitcase-athens",
-      "published_date": "2026-08-01T04:00:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/aug/01/singapore-bans-massive-attack-for-showing-palestinian-flag-breaching-ban-on-foreign-emblems",
-      "published_date": "2026-08-01T03:51:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greater Manchester mayoral results in full: Bev Craig secures dominant win over Reform in key by-election",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/greater-manchester-mayoral-results-in-full-bev-craig-labour-andy-burnham-b3025507.html",
-      "published_date": "2026-07-31T23:37:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Greater Manchester's new Mayor Bev Craig?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly5nvj2d2jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T23:02:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children to get free bus travel in England throughout August – here’s what to know",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/kids-free-bus-travel-summer-holidays-august-b3025522.html",
-      "published_date": "2026-07-31T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour's Bev Craig succeeds Burnham as Greater Manchester Mayor",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T22:53:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police ‘search for heavily tattooed homeless man’ after British woman found dead in suitcase",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/elisabeth-jane-ross-suitcase-athens-police-b3025374.html",
-      "published_date": "2026-07-31T22:28:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Should Glasgow have its own mayor?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c3ekz5n0dvqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T22:08:14+00:00",
       "category": "Local Events"
     }
   ]
