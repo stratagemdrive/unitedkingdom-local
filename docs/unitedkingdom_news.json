@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-07-31T23:53:01.210517+00:00",
+  "last_updated": "2026-08-01T12:02:45.601652+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Commonwealth Games boxing official suspended over headbutt probe",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6290jwpd3no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T08:11:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU relations, climate crisis and Gaza: why Ed Miliband is fired up by Foreign Office challenges",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/01/eu-relations-climate-crisis-gaza-ed-miliband-foreign-office-challenges",
+      "published_date": "2026-08-01T07:00:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Daughter of British couple killed in Spanish wildfire rejects claim they ignored order to leave",
       "source": "The Guardian",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘It’s no joke!’ Clacton voters can put reversing Brexit back on the table, says ex-MEP running against Farage",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-clacton-byelection-farage-john-stevens-b3021466.html",
-      "published_date": "2026-07-26T10:48:03+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Am I a chicken-shop lefty? Here's what a French fast food row taught me about politics | Coco Khan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/26/chicken-shop-left-french-fast-food-row-politics",
-      "published_date": "2026-07-26T07:00:04+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
@@ -162,6 +162,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/jul/31/the-guardian-view-on-the-lovell-telescope-cuts-physics-bad-science-politics",
       "published_date": "2026-07-31T16:32:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Renowned climber and former British special forces soldier confirmed dead after avalanche",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/nirmal-purja-former-british-special-forces-soldier-dead-after-avalanche-13568810",
+      "published_date": "2026-07-31T14:27:00+00:00",
       "category": "Military"
     },
     {
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Inquiry finds MoD Afghan data breach was foreseeable failure",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gvr4172vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-29T23:13:43+00:00",
-      "category": "Military"
+      "title": "The first solar eclipse in almost 30 years: Where best to view it?",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/the-first-solar-eclipse-in-almost-30-years-where-best-to-view-it-13568455",
+      "published_date": "2026-07-31T23:01:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Burnham risks first revolt as PM over apparent support for North Sea drilling",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Shell profits double as oil prices rise due to Iran war",
+      "title": "Turn failing water firms into not-for-profit cooperatives, MPs and mayors tell PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/01/turn-failing-water-firms-into-not-for-profit-cooperatives-mps-and-mayors-tell-pm",
+      "published_date": "2026-08-01T06:00:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The tangled financial web at the heart of Reform UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/01/tangled-financial-web-reform-uk-nigel-farage",
+      "published_date": "2026-08-01T06:00:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Former workers fight for wages they say they're owed: 'It makes me sick'",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T09:16:29+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/cx2rv3899g8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T01:04:30+00:00",
+      "category": "Economy"
     },
     {
       "title": "The Papers: 'Spanish border crisis' and 'iron chancellor'",
@@ -501,6 +522,13 @@
       "category": "Economy"
     },
     {
+      "title": "Andy Burnham to give regional mayors share of income tax",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T13:16:44+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Taylor Wimpey trims home completion guidance amid ‘challenging’ market",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/taylor-wimpey-rightmove-press-association-b3025359.html",
@@ -536,38 +564,115 @@
       "category": "Economy"
     },
     {
-      "title": "Council tax intake could soar 43% by 2030 – ‘adding £500 to the average bill’",
+      "title": "‘We are always ignored’: What the people of Manchester really think about Burnham’s ‘No 10 North’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/council-tax-rise-andy-burnham-labour-b3025229.html",
-      "published_date": "2026-07-31T11:52:58+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/no-10-north-andy-burnham-manchester-downing-street-b3024664.html",
+      "published_date": "2026-08-01T11:43:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Betfred to axe 600 jobs and close over 130 shops after gambling tax hikes",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/betfred-job-cuts-gambling-tax-hikes-b3025328.html",
-      "published_date": "2026-07-31T11:50:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
-      "published_date": "2026-07-31T11:38:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Concerns raised over council's £900m debt",
+      "title": "Teenager who died in crash was 'one of a kind'",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74gdmmrjn7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T10:54:34+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/ckg4e7jle9no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T11:32:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On the ground in the English seaside town rightwing influencers say is being ‘invaded’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/01/on-the-ground-dover-rightwing-influencers-invaded",
+      "published_date": "2026-08-01T11:00:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soap star Shane Richie facing drink-drive charge",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y32zmv6kjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T10:15:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘The lead singer is unavailable’: Is Nigel Farage spending his summer in hiding?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/01/nigel-farage-reform-uk-return-press-conference-london",
+      "published_date": "2026-08-01T10:00:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local media needs support if devolution push is to succeed, publishers say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/01/publishers-call-for-stronger-local-media-under-andy-burnham-devolution",
+      "published_date": "2026-08-01T09:00:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Tech Titan' Arora spearheads $1bn shot at NBA's London basketball team",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/tech-titan-arora-spearheads-1bn-shot-at-nbas-london-basketball-team-13568969",
+      "published_date": "2026-08-01T08:19:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘MPs have had their stomachs pumped’: concerns over ‘alcohol-soaked’ culture in Westminster",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/01/mps-stomachs-pumped-uk-parliament-alcohol-culture-report",
+      "published_date": "2026-08-01T07:00:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No apologies, no freebies: the man who makes Andy Burnham’s jackets on how to weather a storm",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/fashion/2026/aug/01/andy-burnham-jackets-private-white-vc-james-eden",
+      "published_date": "2026-08-01T07:00:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voices: ‘We are keeping people alive longer, not living longer’: Readers on the true cost of caring for a loved one",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/health/social-care-homes-unpaid-carers-experience-b3024629.html",
+      "published_date": "2026-08-01T06:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Like Burnham, I was an altar boy. His Catholic upbringing is shaping the way he governs |Julian Coman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/01/andy-burnham-catholic-faith-shaping-way-governs",
+      "published_date": "2026-08-01T05:00:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man, 18, arrested over 'suspected explosion' in Ipswich, police say",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-arrested-over-suspected-explosion-at-block-of-flats-in-ipswich-police-say-13568943",
+      "published_date": "2026-08-01T04:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Who could have done this?’ Mystery over Briton found dead in a suitcase in Athens",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/01/mystery-briton-found-dead-suitcase-athens",
+      "published_date": "2026-08-01T04:00:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/aug/01/singapore-bans-massive-attack-for-showing-palestinian-flag-breaching-ban-on-foreign-emblems",
+      "published_date": "2026-08-01T03:51:36+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Greater Manchester mayoral results in full: Bev Craig secures dominant win over Reform in key by-election",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/greater-manchester-mayoral-results-in-full-bev-craig-labour-andy-burnham-b3025507.html",
       "published_date": "2026-07-31T23:37:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is Greater Manchester's new Mayor Bev Craig?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly5nvj2d2jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T23:02:20+00:00",
       "category": "Local Events"
     },
     {
@@ -596,111 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c3ekz5n0dvqo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-31T22:08:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Should Scotland's biggest city have an elected mayor?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgd41lmedmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T22:03:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour wins decisive victory in Greater Manchester mayoral byelection",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/31/labour-wins-decisive-victory-in-greater-manchester-mayoral-byelection",
-      "published_date": "2026-07-31T22:01:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MP asks retailers to stop selling disposable BBQs over wildfire risk",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/disposable-bbqs-sales-retailers-wildfire-risk-b3025645.html",
-      "published_date": "2026-07-31T20:42:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Total devastation': Suffolk wildfire still burning after two days as National Trust launches appeal",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/firefighters-still-battling-dynamic-suffolk-wildfire-as-national-trust-launches-public-appeal-13568878",
-      "published_date": "2026-07-31T19:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wheels could come off Stormont without reform, says Sinn Féin",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdew3dj454xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T17:56:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "High court clears way for clinical trial giving puberty blockers to children",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jul/31/high-court-clinical-trial-puberty-blockers-children",
-      "published_date": "2026-07-31T17:52:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speeding driver hit 89-year-old man, carried him on car roof and abandoned his body",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/albert-matraxhiu-thomas-wallace-gillingham-maidstone-kent-b3025565.html",
-      "published_date": "2026-07-31T17:20:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children hospitalised after air conditioning turned off in tower block during UK heatwave",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/air-conditioning-unit-london-homeless-uk-heatwaves-b3023702.html",
-      "published_date": "2026-07-31T17:06:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Missing man who ‘may have contagious condition’ last seen leaving hospital",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/dean-hesketh-police-appeal-cctv-b3025539.html",
-      "published_date": "2026-07-31T16:51:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England and Wales on course for driest July on record",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T15:37:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham signals he will scrap plans to curb jury trials",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/jul/31/andy-burnham-signals-scrap-plans-curb-jury-trials",
-      "published_date": "2026-07-31T15:27:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham considers reversing plan to scrap some jury trials",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qjv945g7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T15:25:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform council condemned for scrapping green pledges in wildfire-ravaged Suffolk",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/reform-council-suffolk-warning-suffolk-wildfires-b3025364.html",
-      "published_date": "2026-07-31T15:24:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Council cancels climate emergency declaration",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq07wq7kgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T15:12:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Used car tycoon sacked for lewd remarks wins High Court fight over takeover plot",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/peter-waddell-court-case-big-motoring-world-b3025473.html",
-      "published_date": "2026-07-31T15:06:23+00:00",
       "category": "Local Events"
     }
   ]
