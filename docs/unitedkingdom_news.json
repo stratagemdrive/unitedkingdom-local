@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-01T23:47:14.063241+00:00",
+  "last_updated": "2026-08-02T12:03:25.250231+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Stembridge to 'reassess' future after England miss out on medal",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/netball/articles/cm2gzyxv6vyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T09:41:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Grinning Prince Louis dons bucket hat as he watches Commonwealth Games alongside family",
       "source": "The Independent",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse",
+      "title": "Newborn deaths are surging in the world’s most vulnerable communities as aid cuts hit",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/health/maternity-newborn-fatality-rates-us-trump-uk-aid-cuts-b3020917.html",
+      "published_date": "2026-08-02T07:44:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Prince William ‘truly saddened’ by death of ex-British Army soldier Nirmal Purja",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/prince-william-nirmal-purja-broad-peak-death-b3025951.html",
+      "published_date": "2026-08-02T07:20:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chernobyl disaster evacuee 'forever grateful' to Welsh family who took him in",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c36dxp822k4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T06:04:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kremlin connections: the Russia links to a £600m UK theme park",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
-      "published_date": "2026-07-27T08:00:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/business/2026/aug/02/kremlin-links-new-uk-theme-park-puy-du-fou",
+      "published_date": "2026-08-02T06:00:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Undercover police unit closed down over unjustified surveillance, spycops inquiry told",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/02/spycops-inquiry-undercover-police-unit-sds-closed-john-boutcher-unjustified-surveillance",
+      "published_date": "2026-08-02T05:00:13+00:00",
+      "category": "Military"
     },
     {
       "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
@@ -246,41 +281,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/dunwich-heath-fire-leiston-suffolk-b3024300.html",
       "published_date": "2026-07-30T16:30:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FTSE 100 reaches new heights in spite of ongoing Iran war",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/iran-bae-systems-rentokil-shell-b3024751.html",
-      "published_date": "2026-07-30T16:13:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suffolk wildfire latest: Firefighters to battle blaze near nuclear power plant for days amid drought",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/suffolk-wildfire-dunwich-heath-sizewell-b-live-updates-b3024339.html",
-      "published_date": "2026-07-30T12:28:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Major incident declared in Suffolk as 90 firefighters tackle wildfire on heathland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/30/major-incident-fire-suffolk-coast-dunwich-heath-leiston",
-      "published_date": "2026-07-30T12:27:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Andy Burnham vows £8.4bn nuclear submarine investment will create thousands of jobs",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/bae-systems-uk-nuclear-submarine-jobs-apprenticeships-b3024480.html",
-      "published_date": "2026-07-30T10:23:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shell faces backlash as profits rise 70% on back of war",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/shell-faces-backlash-as-profits-rise-70-on-back-of-war-13568326",
-      "published_date": "2026-07-30T07:56:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,34 @@
       "category": "Energy"
     },
     {
+      "title": "Inside M&S’s Oxford Street swanky revamp, the blueprint for its £700m growth strategy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/02/marks-spencer-london-store-makeover-pantheon-revamp",
+      "published_date": "2026-08-02T11:00:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stock market turmoil sheds stark light on the opaque AI economy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
+      "published_date": "2026-08-02T09:00:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham pledges more cost of living support as chancellor says public being ‘taken for a ride’ on food and petrol prices",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-cost-of-living-chancellor-john-healey-b3025963.html",
+      "published_date": "2026-08-02T08:52:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK’s state investments agency hit by data breach",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/02/uk-state-investments-agency-data-breach",
+      "published_date": "2026-08-02T06:00:13+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "The Papers: Chancellor 'warns' supermarkets and 'own goal'",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crk5jd6r1rmo?at_medium=RSS&at_campaign=rss",
@@ -536,32 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "What Andy Burnham’s new tax sharing plans could mean for your region",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-income-mayor-tax-sharing-labour-budget-b3025353.html",
-      "published_date": "2026-07-31T15:04:35+00:00",
-      "category": "Economy"
+      "title": "Why Andy Burnham’s devolution pledge will be tricky to deliver | Richard Partington",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/02/andy-burnham-devolution-pledge-tricky-deliver-inequality",
+      "published_date": "2026-08-02T11:19:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Andy Burnham to give regional mayors share of income tax",
+      "title": "Relentless UK heatwaves turn ‘green and pleasant land’ brown",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/02/july-set-to-be-driest-on-record-for-england-and-wales-after-relentless-heatwaves",
+      "published_date": "2026-08-02T10:12:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teenager dies after 'medical episode' at Kendal Calling festival in Cumbria",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T13:16:44+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cj9dz3xvz1wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T09:07:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Taylor Wimpey trims home completion guidance amid ‘challenging’ market",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/taylor-wimpey-rightmove-press-association-b3025359.html",
-      "published_date": "2026-07-31T12:32:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sir Chris Bryant comes to NI 'with checklist not chequebook'",
+      "title": "Gang of men hurl racist abuse at takeaway owner before violent attack",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c93597x1nnpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T12:29:24+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c2eln8drwlmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T08:43:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trust, grief and betrayal: Inside the Legacy funeral case",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3456dw32no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T06:55:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Voices: ‘They can’t have it both ways’: Readers turn on residents of scenic Cotswolds village over tourist backlash",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/travel/news-and-advice/bourton-cotswolds-village-overtourism-tourists-b3024652.html",
+      "published_date": "2026-08-02T06:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
+      "published_date": "2026-08-02T06:00:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parents save on school uniforms at city swap shop",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz05yrv4el5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T04:53:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ballot paper for Clacton by-election is longest in British electoral history",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyem5lg78qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T04:49:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The legacy of Epping's asylum protests a year on: 'It's still discussed in shops, pubs and cafes'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw2847p35o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-02T04:48:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T22:41:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tens of thousands turn out to celebrate Brighton Pride",
@@ -624,83 +701,6 @@
       "source": "Sky News",
       "url": "https://news.sky.com/story/stephen-grzyb-manhunt-after-burglary-suspect-escapes-from-liverpool-court-13569032",
       "published_date": "2026-08-01T13:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manhunt after prisoner escapes from van outside court",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx705xz2g7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T13:36:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greater Manchester mayor says Burnham's new powers will change lives",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cddj3j50rmpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T13:15:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greek police fast-tracking tests to find out how British woman found in suitcase died",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz05yzzr93jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T13:02:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Manchester mayoral result holds the key for the future of progressive politics | Neal Lawson",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/01/bev-craig-manchester-mayoral-result-key-to-future-progressive-politics",
-      "published_date": "2026-08-01T12:50:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police arrest men over alleged modern day slavery",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3j5zyr0go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T11:54:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King's Theatre in Edinburgh re-opens after £41m refurbishment",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevm2mrv33go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T11:54:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We are always ignored’: What the people of Manchester really think about Burnham’s ‘No 10 North’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/no-10-north-andy-burnham-manchester-downing-street-b3024664.html",
-      "published_date": "2026-08-01T11:43:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Comfortable victory, but uncomfortable numbers for Labour in Greater Manchester",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/comfortable-victory-but-uncomfortable-numbers-for-labour-in-greater-manchester-13569010",
-      "published_date": "2026-08-01T11:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager who died in crash was 'one of a kind'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4e7jle9no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T11:32:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On the ground in the English seaside town rightwing influencers say is being ‘invaded’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/01/on-the-ground-dover-rightwing-influencers-invaded",
-      "published_date": "2026-08-01T11:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Soap star Shane Richie facing drink-drive charge",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y32zmv6kjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T10:15:08+00:00",
       "category": "Local Events"
     }
   ]
