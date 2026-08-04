@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-03T23:59:53.593983+00:00",
+  "last_updated": "2026-08-04T13:03:12.397200+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "BP profit doubles to $5.7bn as war between US and Iran drives up oil prices",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/bp-profits-oil-companies-iran-war-b3027159.html",
+      "published_date": "2026-08-04T11:53:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "BP slammed as profits more than double during Iran war",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/bp-iran-war-share-price-b3026968.html",
+      "published_date": "2026-08-04T07:53:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "BP profits more than double as Iran war sends oil prices soaring",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/04/bp-profits-iran-war-oil-prices-shell",
+      "published_date": "2026-08-04T06:54:30+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Apple launches legal challenge against UK government demand to access data",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access",
@@ -263,25 +284,60 @@
       "category": "Military"
     },
     {
-      "title": "Kremlin connections: the Russia links to a £600m UK theme park",
+      "title": "Prisoner early release scheme gives Burnham his first taste of unpopularity",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/02/kremlin-links-new-uk-theme-park-puy-du-fou",
-      "published_date": "2026-08-02T06:00:14+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/politics/2026/aug/04/prisoner-early-release-scheme-burnham-first-taste-unpopularity",
+      "published_date": "2026-08-04T11:23:24+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Undercover police unit closed down over unjustified surveillance, spycops inquiry told",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/02/spycops-inquiry-undercover-police-unit-sds-closed-john-boutcher-unjustified-surveillance",
-      "published_date": "2026-08-02T05:00:13+00:00",
-      "category": "Military"
+      "title": "Pensioner killed neighbour’s fish with motor oil after being driven ‘completely insane’ by noisy pond",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/gerry-duffy-fish-pond-barnet-court-b3027112.html",
+      "published_date": "2026-08-04T11:14:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+      "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T21:57:59+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-04T10:07:05+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Bankrupt Britain needs to tap into North Sea oil gold, says Donald Trump",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andy-burnham-north-sea-donald-trump-prime-minister-b3026769.html",
+      "published_date": "2026-08-04T09:09:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The best suitcases in the UK for your next holiday, rigorously tested",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2025/may/18/best-suitcases-luggage-uk",
+      "published_date": "2026-08-04T09:06:52+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Women mistaken for Just Stop Oil sue Met Police over ‘wrongful arrests’ before King’s coronation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/met-police-arrest-kings-coronation-animal-rising-b3026969.html",
+      "published_date": "2026-08-04T08:13:24+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Secondhand EV leasing hits the fast lane as more UK drivers explore ways to cut motoring costs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/04/secondhand-ev-leasing-growth-uk-drivers-cut-petrol-costs",
+      "published_date": "2026-08-04T06:00:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil giant BP profits more than double due to Iran war - again",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/oil-giant-bp-profits-more-than-double-due-to-iran-war-again-13569593",
+      "published_date": "2026-08-04T05:34:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "From Florida to the Fleadh: Meet the volunteers keeping the festival flowing",
@@ -368,60 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "BP puts its North Sea oil and gas business up for sale",
+      "title": "Domino’s delivered an extra 45,000 orders on England vs DR Congo matchday",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/bp-north-sea-oil-gas-drilling-donald-trump-b3025281.html",
-      "published_date": "2026-07-31T12:48:00+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/domino-england-dr-congo-b3027162.html",
+      "published_date": "2026-08-04T11:48:16+00:00",
+      "category": "Economy"
     },
     {
-      "title": "BP puts North Sea oil and gas business up for sale",
+      "title": "Calls for UK bank tax to fund cost of living help as HSBC profits hit £7.5bn",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/31/bp-north-sea-oil-and-gas-business-up-for-sale",
-      "published_date": "2026-07-31T12:26:23+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/aug/04/uk-bank-tax-hsbc-profits-andy-burnham",
+      "published_date": "2026-08-04T10:47:52+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Swinney urges Burnham to scrap windfall tax after BP announcement",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/john-swinney-andy-burnham-north-sea-first-minister-oil-companies-b3025342.html",
-      "published_date": "2026-07-31T12:03:21+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "SNP calls for ‘decisive action’ as BP reveals plan to sell North Sea operations",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/north-sea-andy-burnham-snp-keir-starmer-prime-minister-b3025239.html",
-      "published_date": "2026-07-31T10:31:37+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "BP puts North Sea business up for sale",
+      "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T09:43:09+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-04T10:34:45+00:00",
+      "category": "Economy"
     },
     {
-      "title": "BA parent company IAG’s profits down more than a third after fuel cost hit",
+      "title": "HSBC launches $1 billion share buyback after profits surge leads to calls for bigger bank taxes",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/iag-british-hargreaves-lansdown-level-vueling-b3025223.html",
-      "published_date": "2026-07-31T09:22:53+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/hsbc-share-buyback-business-profits-b3026960.html",
+      "published_date": "2026-08-04T10:34:44+00:00",
+      "category": "Economy"
     },
     {
-      "title": "New solar panels in Great Britain at 15-year high as fossil fuel costs soar",
+      "title": "HSBC chief says ‘UK growth needs strong banks’ after profits swell by 23%",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/hsbc-government-trades-union-congress-barclays-b3026984.html",
+      "published_date": "2026-08-04T08:08:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Metro Bank customer fights for £14,000 refund after AI-linked fraud",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/31/new-solar-panels-great-britain-15-year-high",
-      "published_date": "2026-07-31T09:00:09+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud",
+      "published_date": "2026-08-04T06:00:15+00:00",
+      "category": "Economy"
     },
     {
-      "title": "BA parent company IAG suffers 35% drop in profits after fuel cost hit",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/iag-british-level-vueling-b3025109.html",
-      "published_date": "2026-07-31T07:50:38+00:00",
-      "category": "Energy"
+      "title": "Could heatwaves make your food shop more expensive?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-04T05:46:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "Britain’s potato crop at risk amid ongoing heatwaves",
@@ -515,192 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "UK ‘at risk of recession’ if Strait of Hormuz remains closed into 2027",
+      "title": "Boy, 14, dies after going into River Thames",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-recession-iran-war-strait-of-hormuz-b3026041.html",
-      "published_date": "2026-08-02T23:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/river-thames-london-boy-death-b3027204.html",
+      "published_date": "2026-08-04T12:52:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Prolonged Iran war could tip UK into recession next year, report warns",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/gdp-strait-of-hormuz-iran-middle-east-cpi-b3026135.html",
-      "published_date": "2026-08-02T23:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "John Lewis eyes sport and fitness growth with multimillion-pound investment",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/john-lewis-john-lewis-partnership-sports-direct-oxford-street-glasgow-b3026137.html",
-      "published_date": "2026-08-02T23:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nicola Jennings on Andy Burnham and the cost of living – cartoon",
+      "title": "Kemi Badenoch defends selection of man jailed for harassing Jewish MP in council election – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/aug/02/nicola-jennings-on-andy-burnham-and-the-cost-of-living-cartoon",
-      "published_date": "2026-08-02T16:06:10+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates",
+      "published_date": "2026-08-04T12:46:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Inside M&S’s Oxford Street swanky revamp, the blueprint for its £700m growth strategy",
+      "title": "Channel boat fire latest: More than 150 migrants rescued after small boat catches fire",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/channel-boat-fire-latest-b3027070.html",
+      "published_date": "2026-08-04T12:37:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "About 1,000 fewer prisoners to get early release as Burnham tightens rules",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/02/marks-spencer-london-store-makeover-pantheon-revamp",
-      "published_date": "2026-08-02T11:00:20+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/aug/04/fewer-prisoners-early-release-burnham-tightens-rules",
+      "published_date": "2026-08-04T12:18:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Stock market turmoil sheds stark light on the opaque AI economy",
+      "title": "Gatwick airport to open second runway after legal challenge fails",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
-      "published_date": "2026-08-02T09:00:17+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/04/gatwick-airport-second-runway-legal-challenge-fails",
+      "published_date": "2026-08-04T12:09:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Burnham pledges more cost of living support as chancellor says public being ‘taken for a ride’ on food and petrol prices",
+      "title": "Ed Sheeran fined by Bradford court over classic Aston Martin blunder",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-cost-of-living-chancellor-john-healey-b3025963.html",
-      "published_date": "2026-08-02T08:52:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'Rape list' part of misogyny girls face at school",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2lqjjwvw2xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-03T23:39:04+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/ed-sheeran-court-case-car-aston-martin-b3027179.html",
+      "published_date": "2026-08-04T12:08:56+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Half price rail travel extended to 18-year-olds",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-03T23:34:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/c62q036nqxyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-03T23:28:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman believed to be ‘agoraphobic’ was dead and kept in freezer by her son",
+      "title": "Major Welsh mountain fire started ‘deliberately’ as crews continue to battle blaze",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/christopher-silvia-phillips-wales-porthcawl-freezer-b3026711.html",
-      "published_date": "2026-08-03T23:14:47+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/llanwonno-wildfire-rhondda-valley-b3027161.html",
+      "published_date": "2026-08-04T11:57:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Tesco, Boots and Greggs among retailers using new tech to crack down on shoplifting in London",
+      "title": "Fresh hope of release for inmates trapped on ‘inhumane’ indefinite jail terms decades after their crimes",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/boots-greggs-shoplifting-met-police-b3026823.html",
-      "published_date": "2026-08-03T23:13:47+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-prisons-ipp-justice-secretary-b3026950.html",
+      "published_date": "2026-08-04T11:56:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man refused to let non-white sonographer scan his pregnant wife as poll reveals ‘noticeable’ rise in NHS racism",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-racism-staff-poll-xenophobia-b3026588.html",
-      "published_date": "2026-08-03T23:12:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS radiographers report rise in overt racist abuse by patients",
+      "title": "Dinghy carrying 157 people capsizes in Channel after engine catches fire",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/04/noticeable-rise-racist-abuse-nhs-radiographers-past-18-months",
-      "published_date": "2026-08-03T23:01:05+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/04/dinghy-capsizes-channel-engine-catches-fire-rescue-operation",
+      "published_date": "2026-08-04T11:33:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Animal rights campaigners sue Met Police over wrongful arrests before King’s Coronation",
+      "title": "M67 closed: Busy motorway forced to close after suspected human remains found",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/animal-rising-arrest-kings-coronation-met-police-b3026804.html",
-      "published_date": "2026-08-03T23:01:00+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/m67-closed-closure-today-hyde-b3027105.html",
+      "published_date": "2026-08-04T11:31:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Bestselling author Lynda La Plante says six-month driving ban could end her career",
+      "title": "Five councillors resign over £50,000 public toilet saga in Kent village",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/lynda-la-plante-author-driving-ban-prime-suspect-b3026816.html",
-      "published_date": "2026-08-03T22:38:32+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/public-toilets-meopham-kent-b3027084.html",
+      "published_date": "2026-08-04T11:20:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "'It's getting worse': The rising levels of racist abuse being directed at NHS staff",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/nhs-staff-experiencing-unconscionable-levels-of-racist-abuse-survey-finds-13569575",
-      "published_date": "2026-08-03T22:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scottish exam results day 2026: What time will grades come out?",
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c720948npplo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-03T21:52:17+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-04T11:19:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Rapists and child sex offenders to be barred from early release scheme",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-03T21:35:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Railcard rules mean 18-year-olds will be able to travel for half the price",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/travel/news-and-advice/16-17-saver-railcard-prices-b3026620.html",
-      "published_date": "2026-08-03T21:30:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rapists, child abusers and groomers will not leave prison early, says PM",
+      "title": "A rail nightmare: what it’s like on England’s busiest commuter-only train",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/03/rapists-child-abusers-and-groomers-will-not-leave-prison-early-says-pm",
-      "published_date": "2026-08-03T21:30:03+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/04/a-rail-nightmare-what-its-like-on-englands-busiest-commuter-only-train",
+      "published_date": "2026-08-04T11:00:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Major incident declared as crews battle large wildfire in Wales",
+      "title": "Gatwick Airport expansion moves one step closer as second runway challenge fails",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/wildfire-south-wales-rhondda-valley-major-incident-b3026782.html",
-      "published_date": "2026-08-03T21:13:19+00:00",
+      "url": "https://www.independent.co.uk/travel/news-and-advice/gatwick-airport-expansion-barclay-appeal-b3027090.html",
+      "published_date": "2026-08-04T10:57:59+00:00",
       "category": "Local Events"
     },
     {
-      "title": "West Ham co-owner David Sullivan advised to stay away from home matches",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gzjjmgleo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-03T20:09:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Athens suitcase death: suspect admits hiding body but denies murder",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/03/greek-authorities-investigate-motive-behind-of-scottish-woman-found-inside-suitcase",
-      "published_date": "2026-08-03T19:36:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England and Wales suffer driest July on record",
+      "title": "UK drought map: The regions suffering most after driest July on record",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/england-hot-weather-temperature-spike-b3026550.html",
-      "published_date": "2026-08-03T18:46:33+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/drought-uk-map-rainfall-weather-b3027118.html",
+      "published_date": "2026-08-04T10:56:12+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election",
-      "published_date": "2026-08-03T18:45:20+00:00",
+      "title": "The British summer essential being banned from some parks and beaches",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/disposable-bbq-tesco-asda-ban-b3027116.html",
+      "published_date": "2026-08-04T10:55:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man sniffed out by police dog while hiding behind fake wall on 300-plant cannabis farm",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly54vzq01zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-03T18:12:17+00:00",
+      "title": "Topless streaker figurine welcomed back to model village after local fury over removal",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/godshill-model-village-streaker-returns-b3027091.html",
+      "published_date": "2026-08-04T10:32:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Menace’ disqualified driver with 59 points caught behind wheel despite ban",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/crime-lincolnshire-police-driver-disqualified-b3027067.html",
+      "published_date": "2026-08-04T10:23:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former neo-Nazi activist convicted of harassing Jewish MP standing as Tory candidate in local elections",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/conservative-candidate-antisemitism-joshua-bonehill-paine-nazi-b3027015.html",
+      "published_date": "2026-08-04T10:20:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police release images after spate of crimes during Arsenal victory parade",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/arsenal-title-parade-islington-police-images-b3027080.html",
+      "published_date": "2026-08-04T10:09:18+00:00",
       "category": "Local Events"
     }
   ]
