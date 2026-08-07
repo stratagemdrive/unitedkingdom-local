@@ -1,7 +1,7 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-06T12:57:29.527661+00:00",
-  "story_count": 100,
+  "last_updated": "2026-08-07T01:40:16.844042+00:00",
+  "story_count": 99,
   "stories": [
     {
       "title": "I knew Rod Liddle and hated what he became. He would have wanted me to say so | Zoe Williams",
@@ -137,11 +137,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN condemns ‘arbitrary’ detention of UK prisoners trapped on indefinite jail terms as ‘psychological torture’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/un-indefinite-jail-terms-ipp-uk-government-arbitrary-b3024999.html",
-      "published_date": "2026-07-30T23:26:17+00:00",
-      "category": "Diplomacy"
+      "title": "Calls for inquiry into Army teen college after reports of rape and abuse",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T17:42:27+00:00",
+      "category": "Military"
     },
     {
       "title": "Man charged with killing Scottish aid worker in Greece",
@@ -277,11 +277,32 @@
       "category": "Military"
     },
     {
-      "title": "Reform says it would use Navy to stop small boats",
+      "title": "How a diary entry solved the murder of a missing man",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-03T12:20:53+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T23:13:11+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fleadh to exceed projected £53m economic boost to Belfast",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj031plqrvqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T23:00:10+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Octopus Energy denies it is anti-union as GMB pushes for recognition for workers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/06/octopus-energy-workers-union-recognition",
+      "published_date": "2026-08-06T14:00:50+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "More than 150 deaths reported after weight loss drug use",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/weight-loss-drug-deaths-side-effects-wegovy-mounjaro-b3028674.html",
+      "published_date": "2026-08-06T13:17:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Winemakers prosper but veg farms wilt in the drought",
@@ -396,32 +417,39 @@
       "category": "Energy"
     },
     {
-      "title": "The best microwaves in the UK for every kitchen and budget – tested",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/aug/04/best-microwaves-uk-tested",
-      "published_date": "2026-08-04T14:00:02+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Prisoner early release scheme gives Burnham his first taste of unpopularity",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/04/prisoner-early-release-scheme-burnham-first-taste-unpopularity",
-      "published_date": "2026-08-04T11:23:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Pensioner killed neighbour’s fish with motor oil after being driven ‘completely insane’ by noisy pond",
+      "title": "EasyJet to be sold to US private-equity firm in £5.7bn deal",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/gerry-duffy-fish-pond-barnet-court-b3027112.html",
-      "published_date": "2026-08-04T11:14:18+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/easyjet-bought-sold-private-equity-apollo-b3028939.html",
+      "published_date": "2026-08-06T20:50:38+00:00",
+      "category": "Economy"
     },
     {
-      "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+      "title": "EasyJet agrees to £5.7bn takeover",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/easyjet-agrees-to-57bn-takeover-13570486",
+      "published_date": "2026-08-06T18:11:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FTSE 100 closes down despite strong results from WPP and Diageo",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/wpp-admiral-aim-diageo-dave-lewis-b3028839.html",
+      "published_date": "2026-08-06T16:23:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "North East mayors disagree over income tax revenue",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T10:07:05+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/videos/crk573j6jdko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T15:48:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EasyJet set for £5.7bn Apollo takeover after rival bidder walks away",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/easyjet-stelios-hajiioannou-apollo-the-restaurant-group-wagamama-b3028766.html",
+      "published_date": "2026-08-06T14:55:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Reform will jail directors of companies employing illegal workers for up to five years, says Yusuf – UK politics live",
@@ -529,178 +557,143 @@
       "category": "Economy"
     },
     {
-      "title": "‘Leicester Square, please guv’: Self-driving taxis cleared for London streets ‘later this summer’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
-      "published_date": "2026-08-05T13:54:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Demand for EVs drives new car market to eighth consecutive month of growth",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/society-of-motor-manufacturers-and-traders-mike-hawes-department-for-transport-britain-b3027768.html",
-      "published_date": "2026-08-05T13:49:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sales in weight-loss drug Mounjaro double amid surging market appetite",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/mounjaro-sales-eli-lilly-weight-loss-b3027966.html",
-      "published_date": "2026-08-05T13:43:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Jewish leaders turn down meeting with Conservative council candidate jailed for antisemitism – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/05/pc-andrew-harper-police-prisoner-early-release-andy-burnham-kemi-badenoch-labour-conservatives-uk-politics-latest-news-updates",
-      "published_date": "2026-08-05T12:11:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sweltering summer lifts Next sales as profit outlook upgraded again",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/05/next-upgrades-profit-outlook-again-benefits-from-summer-spending",
-      "published_date": "2026-08-05T11:54:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Every body of water in England polluted with toxic chemicals, report shows",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/england-river-lake-coast-beach-pollution-chemicals-b3028640.html",
-      "published_date": "2026-08-06T12:44:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 47, charged after four men stabbed in Covent Garden",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/06/woman-charged-four-men-stabbed-covent-garden",
-      "published_date": "2026-08-06T12:42:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farmer jailed for lodger's 'body in barrel' murder",
+      "title": "Further arrests in Thetford as disorder continues for third night",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnwennnkdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-06T12:30:45+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-07T00:15:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Local Reform Facebook page criticised Welsh minister for talking about family tragedy",
+      "title": "UK papers:  'Tories to end social housing for foreigners' and 'Bottoms down'",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g1r1xw9po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-06T12:29:44+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlgv8m382o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-07T00:05:43+00:00",
       "category": "Local Events"
     },
     {
-      "title": "New £215,000 council CEO was reality show winner",
+      "title": "Village sees 50 days without rain during summer heatwave",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3902y1j2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-06T12:27:53+00:00",
+      "url": "https://www.bbc.co.uk/weather/articles/c99872dyym1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T23:06:41+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Boardmasters Festival: Police defend controversial live facial recognition technology",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/boardmasters-festival-facial-recognition-newquary-devon-b3027787.html",
-      "published_date": "2026-08-06T12:18:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman charged after four stabbed near Covent Garden",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2md6g7027o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-06T12:02:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Extreme rightwing referrals to Prevent rise 20% amid record anti-terror reporting",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/06/record-high-referrals-prevent-anti-terror-scheme-rise-rightwing-extremism",
-      "published_date": "2026-08-06T11:53:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farmer jailed for life after killing lodger and hiding his dismembered body in barrel",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/christopher-wright-farmer-murder-richard-dyson-barnsley-b3028610.html",
-      "published_date": "2026-08-06T11:44:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex neo-Nazi Tory adviser in fresh row over Home Office training claims",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/joshua-bonehill-paine-neo-nazi-conservative-party-home-office-b3028512.html",
-      "published_date": "2026-08-06T11:38:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Do we really need huge cruise ships here?’: fears £150m Falmouth Docks plan threatens habitats – and town itself",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/06/falmouth-150m-redevelopment-docks-threatens-habitats-town-cruise-ships",
-      "published_date": "2026-08-06T11:05:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diageo shares bounce back as new CEO Dave Lewis lifts spirits with $1bn savings plan",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/06/diageo-strategy-cost-cuts-dave-lewis",
-      "published_date": "2026-08-06T10:56:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-06T10:19:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "All bodies of water in England polluted with toxic chemicals, official data shows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/06/all-bodies-of-water-england-polluted-toxic-chemicals",
-      "published_date": "2026-08-06T10:03:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London council suggests restrictions on standing at pubs in Soho and West End",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/london-pubs-standing-soho-west-end-westminster-council-b3028473.html",
-      "published_date": "2026-08-06T09:56:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Temperatures across the UK set to drop ahead of another potential heatwave",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-weather-heatwave-thunderstorm-met-office-warning-b3028511.html",
-      "published_date": "2026-08-06T09:18:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blue Note to bring world-famous jazz club to London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/06/blue-note-jazz-club-london",
-      "published_date": "2026-08-06T09:00:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS told to prepare for annual heatwaves the same way it does for winter",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/yvette-cooper-nhs-heatwave-a-e-uk-weather-b3028474.html",
-      "published_date": "2026-08-06T08:40:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Half-price train travel extended to 18-year-olds in major change to 16-17 railcard",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/travel/news-and-advice/railcard-16-17-saver-change18-prices-discount-b3028465.html",
-      "published_date": "2026-08-06T08:30:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Half of parents don't know about school uniform rule change this September",
+      "title": "'It is British life': No 10 enters 'vertical drinking' row",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/half-of-parents-dont-know-about-school-uniform-rule-change-this-september-13570257",
-      "published_date": "2026-08-06T06:55:00+00:00",
+      "url": "https://news.sky.com/story/no-10-urges-council-to-work-with-london-pubs-amid-row-over-vertical-drinking-13570555",
+      "published_date": "2026-08-06T23:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police officer ‘seriously bitten’ in second night of disorder in Norfolk town over ‘asylum seeker housing’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/thetford-norfolk-protests-police-officers-arrests-b3028673.html",
+      "published_date": "2026-08-06T22:41:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of rail passengers hit by power failure disruption",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T22:35:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stephen Bear jailed for harassing ex-girlfriend Georgia Harrison",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/stephen-bear-jailed-georgia-harrison-harassment-chelmsford-b3028741.html",
+      "published_date": "2026-08-06T22:17:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Further disruption expected after Manchester power failure causes travel chaos",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/national-rail-delays-cancellations-manchester-b3029004.html",
+      "published_date": "2026-08-06T22:14:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No 10 enters Soho licensing row after Sadiq Khan criticism of proposed pub standing restrictions",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-downing-street-sadiq-khan-soho-licensing-proposal-b3028983.html",
+      "published_date": "2026-08-06T22:13:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Badenoch vows to put forward ‘serious Tory candidate’ in Clacton to face Reform UK – on one condition",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/badenoch-open-letter-clacton-byelection-farage-b3029003.html",
+      "published_date": "2026-08-06T22:12:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met Police boss admits mistake over plagiarism row",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0rd9y99grzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T21:37:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drivers warned of growing ‘crash for cash’ scam putting motorists and their data at risk",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/crash-for-cash-driving-scam-city-of-london-police-b3028938.html",
+      "published_date": "2026-08-06T21:13:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘It is British life’: No 10 vows to stop councils trying to limit standing in pubs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/06/downing-street-stop-councils-restricting-standing-in-pubs",
+      "published_date": "2026-08-06T21:07:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tories unveil ‘unserious and unworkable’ plan to evict foreign nationals from social housing to free up homes",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/eviction-social-housing-foreign-badenoch-conservatives-reform-b3028812.html",
+      "published_date": "2026-08-06T21:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conservatives pledge to ban foreign nationals from social housing",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd69x9j46xjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T21:00:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amanda Knox defends Fringe comedy show after claims it will 'trivialise violence'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7pyv3y7no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-06T19:39:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire at Heathrow airport leads to runway closure and travel delays",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/heathrow-airport-fire-runway-closed-b3028859.html",
+      "published_date": "2026-08-06T18:12:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clacton by-election poll tracker: Who is set to win Nigel Farage’s seat as Count Binface plots upset?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/clacton-byelection-poll-nigel-farage-count-binface-b3028717.html",
+      "published_date": "2026-08-06T18:06:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Covent Garden victims stabbed in the back with pair of scissors, court hears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/06/covent-garden-victims-stabbed-in-the-back-with-pair-of-scissors-court-hears",
+      "published_date": "2026-08-06T18:06:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Norfolk police arrest two men after officers injured during unrest over asylum plans",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/06/two-men-arrested-norfolk-police-injured-unrest-thetford-asylum-plans",
+      "published_date": "2026-08-06T18:06:14+00:00",
       "category": "Local Events"
     }
   ]
