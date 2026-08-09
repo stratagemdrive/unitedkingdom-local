@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-09T11:29:54.396674+00:00",
+  "last_updated": "2026-08-09T23:20:32.674209+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘I was on my honeymoon!’: Hamish Falconer’s surprise call-up to Burnham’s cabinet",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/hamish-falconer-uk-minister-european-relations-eu",
+      "published_date": "2026-08-09T18:00:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Labour seeking ‘deeper relationship’ with EU under Burnham, new minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/09/uk-eu-reset-talks-brexit-burnham-hamish-falconer",
+      "published_date": "2026-08-09T18:00:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU ‘could delay’ post-Brexit border checks to avoid travel chaos",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/eu-border-checks-travel-abroad-b3030009.html",
+      "published_date": "2026-08-09T16:48:32+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Burnham ‘handed post-Brexit plan that could see Britain rejoin EU single market’",
       "source": "The Independent",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Artists, writers and scientists urge UK government to save Jodrell Bank Observatory",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/aug/03/jodrell-bank-observatory-artists-writers-scientists-letter",
-      "published_date": "2026-08-02T23:01:34+00:00",
-      "category": "Diplomacy"
+      "title": "Royal Navy drone cameras linked to China raise security concerns",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/royal-navy-drone-cameras-china-mod-b3030094.html",
+      "published_date": "2026-08-09T22:42:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth doubts",
+      "title": "Sarwar stands by call for Lords to be abolished despite accepting peerage",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-02T21:45:22+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Day to remember for record-breaking Finucane",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cp30v9l3n81o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-02T19:00:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cpw90n9w44do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T17:38:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Stranded Red Arrows forced to pull out of string of UK air shows",
@@ -267,20 +281,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-policies-tax-business-cost-living-energy-immigration-b3026552.html",
       "published_date": "2026-08-04T14:43:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Royal Navy sailor sues for sexism over post-childbirth fitness test ban",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/emma-upton-webb-mod-sexism-royal-navy-b3027265.html",
-      "published_date": "2026-08-04T14:27:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "BP profit doubles to $5.7bn as war between US and Iran drives up oil prices",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/bp-profits-oil-companies-iran-war-b3027159.html",
-      "published_date": "2026-08-04T11:53:34+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,41 @@
       "category": "Energy"
     },
     {
+      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T23:01:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham vows crackdown on ‘rip-off’ business practices to ease cost of living",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/09/burnham-vows-crackdown-on-rip-off-business-practices-to-ease-cost-of-living",
+      "published_date": "2026-08-09T21:30:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Subscriptions you can’t easily cancel, sales that aren’t sales – I’ll end the rip-offs that British people hate | Andy Burnham",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/09/andy-burnham-british-people-ripped-off-cost-of-living",
+      "published_date": "2026-08-09T21:30:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hot weather and World Cup spending boost drives UK business recovery",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/government-bdo-prime-minister-press-association-b3030075.html",
+      "published_date": "2026-08-09T21:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Thieves ‘use drones’ to steal 70 Volkswagen badges from cars in four-day crime spree",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/london-car-theft-volkswagen-badges-b3029991.html",
+      "published_date": "2026-08-09T14:14:19+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "UK economy set for another quarter of growth as ‘big picture’ shows resilience",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/gdp-andy-burnham-iran-office-for-national-statistics-england-b3029923.html",
@@ -529,39 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "TalkTalk on brink of break-up as Octopus snares PXC network arm",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/talktalk-on-brink-of-break-up-as-octopus-snares-pxc-network-arm-13570887",
-      "published_date": "2026-08-08T06:14:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Union calls for robust review of OBR over fears it holds back economic growth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
-      "published_date": "2026-08-08T06:00:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Millions in England face longer waits for mental health care as NHS providers plan cuts",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/07/millions-in-england-face-longer-waits-for-mental-health-care-as-nhs-providers-plan-cuts",
-      "published_date": "2026-08-07T18:00:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Jeweller 'priced out' of Christmas market stall this year",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv4g4k4zpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-07T17:34:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stocks rise and pound up after surprise US jobs fall",
+      "title": "Vehicle fire spreads to heathland as crews tackle blaze in Hampshire",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/diageo-aim-airbnb-fed-cpi-b3029514.html",
-      "published_date": "2026-08-07T16:30:56+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/a31-vehicle-fire-heathland-hampshire-b3030081.html",
+      "published_date": "2026-08-09T21:30:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parents fear being left behind in screening for rare condition after Jesy Nelson campaign",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7165np2yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T20:58:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T20:58:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vehicle fire spreads to heathland as crews fight blaze",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy46wrky6no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T20:03:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilot pulls off Count Binface stunt for Clacton byelection",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/09/pilot-pulls-off-nigel-farage-count-binface-stunt-for-clacton-byelection",
+      "published_date": "2026-08-09T17:03:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London mayor orders council to drop plan to ban new pubs and bars in Soho and West End",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/09/london-mayor-sadiq-khan-westminster-ban-new-pubs-restaurants-soho-west-end",
+      "published_date": "2026-08-09T17:00:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistani grooming gang suspect ‘refuses to give date for return to UK’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/09/rukhsar-ahmed-pakistan-grooming-gang-suspect-refuses-date-return-uk",
+      "published_date": "2026-08-09T15:41:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three Banksy artworks in London have cost taxpayers nearly £150,000",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/09/banksy-artworks-huge-upkeep-costs-taxpayer",
+      "published_date": "2026-08-09T14:09:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attempted murder arrest after car hits three pedestrians in Bristol",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/bristol-car-crash-attempted-murder-b3029989.html",
+      "published_date": "2026-08-09T14:00:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Appeal for information in cold case of murder victim dumped in carrot field",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/julie-finley-murder-liverpool-merseyside-b3029988.html",
+      "published_date": "2026-08-09T13:54:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pilot’s flight path draws bin shape above Clacton days before Farage v Count Binface by-election",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/clacton-farage-flight-path-count-binface-byelection-b3029981.html",
+      "published_date": "2026-08-09T13:44:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fear may explain silence over murder of woman in 1994, say police in new appeal",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/fear-may-explain-silence-over-murder-of-woman-in-1994-say-police-in-new-appeal-13571383",
+      "published_date": "2026-08-09T13:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
+      "published_date": "2026-08-09T13:00:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Attempted murder arrest after three hit by car",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v07n5w757o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T12:53:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Irish ‘Gangland crime boss’ Daniel Kinahan extradited from Dubai: ‘I’m looking forward to getting back home’",
@@ -585,6 +683,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Man's body found in burning car in Portadown",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/mans-body-found-in-burning-car-in-portadown-say-northern-ireland-police-13571325",
+      "published_date": "2026-08-09T10:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Mystery deepens over disappearance of Bristol man after new study dismisses leading theory",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/jack-osullivan-disappearance-bristol-missing-people-b3029511.html",
@@ -596,111 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-09T06:30:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More areas of UK likely to move into drought as fifth heatwave builds",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-09T03:10:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rail company issues warning after rise in falls from platforms",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/rail-platforms-fall-london-gatwick-luton-airports-b3029812.html",
-      "published_date": "2026-08-08T20:18:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder investigation launched after man dies following group fight",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/murder-investigation-launched-after-man-dies-following-group-fight-in-wales-13571224",
-      "published_date": "2026-08-08T19:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Irish government jet travels to UAE for Kinahan extradition",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly5zvv2kreo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-08T18:40:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second man charged with murder of 16-year-old boy",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/second-man-charged-with-murder-of-16-year-old-khadeem-parris-13571202",
-      "published_date": "2026-08-08T18:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds flying out of Birmingham Airport left without luggage",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg0101z0lyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-08T16:28:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man found guilty of murder after teenager shot outside London nightclub",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-found-guilty-of-murder-after-teenager-shot-outside-london-nightclub-13571088",
-      "published_date": "2026-08-08T16:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigel Farage ‘horrified’ Ann Widdecombe murder detectives probing firebombing on his home",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/nigel-farage-ann-widdecombe-murder-probe-firebomb-b3029715.html",
-      "published_date": "2026-08-08T15:08:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nicola Sturgeon ‘has not spoken to’ estranged husband, Peter Murrell, since he was jailed",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/08/nicola-sturgeon-estranged-peter-murrell-jailed-no-contact",
-      "published_date": "2026-08-08T14:50:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of murder after fatal stabbing",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-arrested-on-suspicion-of-murder-after-fatal-stabbing-in-birmingham-13570963",
-      "published_date": "2026-08-08T13:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clacton by-election poll tracker: Who is set to win Nigel Farage’s seat as Count Binface plots upset?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/clacton-by-election-poll-nigel-farage-count-binface-b3029745.html",
-      "published_date": "2026-08-08T12:37:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Simon Levy victims urged to come forward as police accused of 'litany of failures'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-08T11:55:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘75 swimming pools’ worth of wasted medicine thrown away in England every year",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-wasted-medicine-pharmacy-england-b3029734.html",
-      "published_date": "2026-08-08T11:40:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Harvey Nichols find its way back to being Absolutely Fabulous again?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/08/can-harvey-nichols-find-its-way-back-to-being-absolutely-fabulous-again",
-      "published_date": "2026-08-08T11:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresh appeal in 50-year mystery of Birmingham woman who vanished in France",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/france-antibes-missing-person-sarjit-kaur-mann-b3029721.html",
-      "published_date": "2026-08-08T10:31:23+00:00",
       "category": "Local Events"
     }
   ]
