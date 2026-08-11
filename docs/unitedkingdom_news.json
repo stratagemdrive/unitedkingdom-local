@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-11T11:44:14.943713+00:00",
+  "last_updated": "2026-08-11T23:28:54.714291+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Eclipse chasers scramble for glasses as stocks run low",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T16:31:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Labour surges above Reform in polls once again as Nigel Farage’s woes continue",
       "source": "The Independent",
@@ -134,13 +141,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/aug/08/arron-banks-hired-private-detective-to-look-into-journalist-who-investigated-reform-uk",
       "published_date": "2026-08-08T11:11:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nearly a fifth of British adults consider avoiding EU summer holiday as a result of border chaos",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/eu-uk-summer-holidays-border-ees-travel-airport-latest-b3028004.html",
-      "published_date": "2026-08-08T09:08:24+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,76 @@
       "category": "Military"
     },
     {
+      "title": "First 'pounds for pylons' energy bill discount sites revealed",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T23:03:04+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Households near new pylons to get £250 taken off annual energy bills",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/12/households-near-new-pylons-to-get-250-taken-off-annual-energy-bills",
+      "published_date": "2026-08-11T23:01:12+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Thousands of households could save up to £250 a year on energy bills as government pylon plans unveiled",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/energy-bills-discount-scheme-households-pylon-desnz-b3031199.html",
+      "published_date": "2026-08-11T23:01:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Revealed: The areas set to get £2,500 off their energy bills as government unveils new projects",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/energy-bill-discount-scheme-pylon-locations-2500-b3031224.html",
+      "published_date": "2026-08-11T23:01:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Driver who broke sound barrier sets new speed record in hydrogen-powered car",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/11/driver-sound-barrier-land-speed-record",
+      "published_date": "2026-08-11T17:48:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil price moves higher as insurers hold back FTSE",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/strait-of-hormuz-shell-iran-ubs-donald-trump-b3031277.html",
+      "published_date": "2026-08-11T16:18:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘Real struggle’ to tame New Forest blaze as UK set for hottest summer on record",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/11/new-forest-blaze-uk-hottest-summer-weather",
+      "published_date": "2026-08-11T15:49:18+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nicola Jennings on a partial solar eclipse on the eve of the Clacton byelection – cartoon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/aug/11/nicola-jennings-partial-solar-eclipse-eve-clacton-byelection-cartoon",
+      "published_date": "2026-08-11T15:22:48+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Don’t use too much electricity during solar eclipse, urges Britain’s biggest energy supplier",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/solar-eclipse-2026-electricity-octopus-energy-b3031188.html",
+      "published_date": "2026-08-11T14:18:19+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Burnham told to ‘act fast’ to save households £175 on energy bills",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/burnham-told-to-act-fast-to-save-households-ps175-on-energy-bills-b3030949.html",
+      "published_date": "2026-08-11T14:07:10+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "‘Extreme heat’ warning issued for parts of England on Thursday as temperatures could reach 38C – latest news",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
@@ -354,74 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Don’t use washing machines or dishwashers during solar eclipse, Britain’s biggest energy supplier urges",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/solar-eclipse-electricity-octopus-energy-b3030376.html",
-      "published_date": "2026-08-10T13:35:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Millions in Great Britain can now face emergency power cuts at short notice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/10/great-britain-emergency-power-cuts-grid-neso-blackouts",
-      "published_date": "2026-08-10T10:27:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Bungalow destroyed in explosion captured on camera",
+      "title": "France bans unsolicited telemarketing calls",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c78gx85e05go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-10T06:24:52+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T14:19:45+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Samsung Galaxy Z Fold 8 review: your passport to a folding phone future",
+      "title": "Axe stamp duty? How Andy Burnham could change property tax",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/aug/10/samsung-galaxy-z-fold-8-review-folding-phone",
-      "published_date": "2026-08-10T06:00:37+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/money/2026/aug/11/stamp-duty-andy-burnham-uk-property-council-tax-house-prices",
+      "published_date": "2026-08-11T14:00:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Harry Potter fans force diversion of £430m giant pipeline to protect Dobby’s ‘grave’",
+      "title": "Thames Water finance boss bags £1m pay day despite ongoing crisis at debt-ridden firm",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/harry-potter-dobby-grave-freshwater-west-beach-energy-project-b3030162.html",
-      "published_date": "2026-08-10T06:00:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The UK’s most complete solar eclipse in 27 years is nearly here. Here’s how to watch it safely",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/space/solar-eclipse-glasses-uk-time-how-to-watch-b3030140.html",
-      "published_date": "2026-08-10T04:33:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "You could be missing out on £150 off your energy bill - here's how to check",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-09T23:47:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cut £175 from energy bills for low-income homes, says thinktank",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/aug/10/cut-175-from-energy-bills-for-low-income-homes-says-thinktank",
-      "published_date": "2026-08-09T23:01:27+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Andy Burnham faces choice on drilling as North Sea consultation closes",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/andy-burnham-north-sea-donald-trump-conservatives-prime-minister-b3030102.html",
-      "published_date": "2026-08-09T23:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Harry Potter fans force diversion of £430m giant pipeline to protect Dobby’s ‘grave’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/harry-potter-dobby-grave-beach-pembrokeshire-wales-energy-b3029927.html",
-      "published_date": "2026-08-09T09:42:08+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/thames-water-cfo-pay-steve-buck-debts-b3030237.html",
+      "published_date": "2026-08-11T11:15:25+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK housebuilder urges Andy Burnham to slash stamp duty to boost housing market",
@@ -470,6 +491,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
       "published_date": "2026-08-11T06:00:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Seaside visitors going home earlier, traders say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78ge4x1x7yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T04:58:51+00:00",
       "category": "Economy"
     },
     {
@@ -536,171 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Reform ‘financing brutality with UK taxpayer money’ with pledge to deport foreign criminals to El Salvador",
+      "title": "Does my child qualify for free school meals? What to know as around 500,000 more pupils eligible",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-prison-el-salvador-reform-b3030295.html",
-      "published_date": "2026-08-10T14:34:39+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/free-school-meals-eligibility-families-universal-credit-b3031219.html",
+      "published_date": "2026-08-11T23:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Treasury ‘contributed’ to assistant’s death by failing to tell her she wouldn’t lose job over complaint",
+      "title": "UK’s largest Harry Potter shop to open in central London",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/chloe-moffat-death-hm-treasury-disciplinary-policy-b3030498.html",
-      "published_date": "2026-08-10T14:22:04+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/business/london-oxford-street-warner-bros-harry-potter-press-association-b3031462.html",
+      "published_date": "2026-08-11T23:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "From M&S pants to fancy skincare: the celebrity shopping recommendations you loved the most",
+      "title": "Burnham urged by 50 police leaders to prevent early release of PC Harper’s killers",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/aug/07/reader-how-i-shop-favourites",
-      "published_date": "2026-08-10T14:00:46+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/aug/11/probation-staff-strike-vote-burnham-early-release",
+      "published_date": "2026-08-11T22:47:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "John Lewis managing director Peter Ruis quits job after less than three years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/10/john-lewis-managing-director-peter-ruis-quits-job",
-      "published_date": "2026-08-10T13:04:36+00:00",
-      "category": "Economy"
+      "title": "Calls for new e-scooter legislation to prevent further injuries and deaths among children",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/escooter-laws-child-deaths-injuries-b3031293.html",
+      "published_date": "2026-08-11T22:30:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Risk of explosion at warehouse fire closed M25",
+      "title": "‘By 9.30am, we were sold out’: Sellers of solar eclipse glasses reveal unprecedented demand ahead of historic event",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/solar-eclipse-2026-glasses-sold-out-london-b3031357.html",
+      "published_date": "2026-08-11T22:11:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Historic Blackpool site among 13 asylum hotels to close amid ‘immigration overhaul’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/asylum-seeker-hotels-grosvenor-grand-metropole-blackpool-b3031289.html",
+      "published_date": "2026-08-11T21:30:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fifty police chiefs pile pressure on Burnham to prevent early release of PC Harper’s killers",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/andrew-harper-police-killers-early-release-letter-b3031313.html",
+      "published_date": "2026-08-11T21:27:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c171v8lxegjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T11:37:20+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T21:21:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Murder arrest over fatal shooting in Clapham",
+      "title": "Boy, four, taken to hospital after fake squishy toy explodes in his face",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd755n4zj4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T11:26:20+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwymv2nx2n1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T21:14:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Huge fire breaks out next to M25 as section of motorway shut",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fire-m25-traffic-st-albans-latest-b3031033.html",
-      "published_date": "2026-08-11T11:19:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man killed in shooting outside London pub",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/man-killed-shooting-pub-clapham-b3031016.html",
-      "published_date": "2026-08-11T10:47:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meta glasses banned from courts in England and Wales",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales",
-      "published_date": "2026-08-11T10:29:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighter battling New Forest fire ‘for some time to come’ as emergency response enters third day",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/new-forest-fire-a31-closed-bratley-wood-b3030877.html",
-      "published_date": "2026-08-11T10:25:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK weather latest: Met Office issues rare ‘extreme heat’ warning as 38C heatwave looms",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/weather-forecast-today-live-updates-uk-heatwave-drought-met-office-health-alerts-b3030863.html",
-      "published_date": "2026-08-11T10:05:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 29, charged after police raid over racist traffic-cone attack",
+      "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdj07nwxv09o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T09:57:35+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T21:00:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Early prisoner releases mean pledge to cut rough sleeping ‘may fail’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/11/andy-burnham-rough-sleeping-housing-released-prisoners",
-      "published_date": "2026-08-11T09:41:59+00:00",
+      "title": "Mapped: Where drought has been declared in the UK as another heatwave looms",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/drought-map-uk-heatwave-latest-b3030264.html",
+      "published_date": "2026-08-11T20:53:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "England set to eliminate hepatitis C",
+      "title": "Wealthier areas must play their part in housing asylum seekers, Burnham suggests",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T08:54:57+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c204d4z1gg8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T20:07:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "London law student died in halls of residence after taking weight loss drug, inquest told",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/josephine-nasr-inquest-tirzepatide-mounjaro-overdose-b3030938.html",
-      "published_date": "2026-08-11T08:44:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The morning-after pill is free at your local pharmacy. All you need to know",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/contraception-nhs-morning-after-pill-pharmacy-b3030928.html",
-      "published_date": "2026-08-11T08:42:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK faces ‘worst food security crisis in decades’ due to repeated heatwaves",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/britain-food-security-crisis-heatwave-drought-farmers-nfu-b3030874.html",
-      "published_date": "2026-08-11T08:34:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters call for funding to tackle ‘extra demands’ of wildfires and flooding",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fire-brigades-union-wildfires-flooding-extra-demands-funding-b3030899.html",
-      "published_date": "2026-08-11T08:28:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Most of England is now under amber heat health alerts – here’s what that means",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-heatwave-weather-forecast-amber-heat-alert-meaning-b3030868.html",
-      "published_date": "2026-08-11T08:00:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clacton by-election poll tracker: Could Count Binface deliver a huge upset to Nigel Farage?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/clacton-by-election-polls-nigel-farage-count-binface-b3030895.html",
-      "published_date": "2026-08-11T07:52:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Could England and Wales ever run out of water?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/07/could-uk-ever-run-out-of-water",
-      "published_date": "2026-08-11T07:35:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mapped: UK to be hotter then Barcelona as fifth heatwave will bring 36C temperatures",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-weather-temperature-fifth-heatwave-map-b3030198.html",
-      "published_date": "2026-08-11T07:32:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London Heathrow no longer Europe's busiest airport",
+      "title": "Criticism as thousands of seats empty at Europeans Athletics Championships",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx7kwkqqkgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T07:24:19+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c0jl66j9yjpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T19:59:05+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A question for Burnham as he tours the country: how to reduce the magnetic pull of London? | Peter Hetherington",
+      "title": "E-scooters may look harmless — but new study reveals a serious injury risk in the UK",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/escooters-risk-injury-head-trauma-uk-b3031356.html",
+      "published_date": "2026-08-11T18:53:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Richard Tice accused of ‘nasty tactics’ over legal threat to the Guardian",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/11/andy-burnham-reduce-magnetic-pull-london-regional-policy-england",
-      "published_date": "2026-08-11T07:00:06+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/11/richard-tice-accused-of-nasty-tactics-over-legal-threat-to-the-guardian",
+      "published_date": "2026-08-11T18:15:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man dies after punch from security guard in Turkey bar, inquest hears",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8lq0pe74o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T17:58:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How viable are plans to free up prison space in England and Wales?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/11/how-viable-are-burnhams-plans-to-free-up-prison-space",
+      "published_date": "2026-08-11T17:58:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Abusive’ man found guilty of harassing Stella Creasy MP on tube train",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/11/man-found-guilty-of-harassing-stella-creasy-mp-on-tube-train",
+      "published_date": "2026-08-11T17:46:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Large fire breaks out in Exeter park sending smoke across city",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/exeter-fire-mincinglake-valley-park-devon-b3031262.html",
+      "published_date": "2026-08-11T17:10:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "To all the betting shops littering our high streets: people power is coming and the odds are against you | Dawn Butler",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/11/betting-shops-high-streets-people-power-dawn-butler",
+      "published_date": "2026-08-11T17:01:17+00:00",
       "category": "Local Events"
     }
   ]
