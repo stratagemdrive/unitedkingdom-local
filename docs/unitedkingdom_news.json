@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-14T11:43:41.564284+00:00",
+  "last_updated": "2026-08-14T23:11:30.159893+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
+      "published_date": "2026-08-14T16:58:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Thames Water plans to restart desalination plant – after drought has ended",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/14/thames-water-desalination-plant-reservoir-drought",
+      "published_date": "2026-08-14T15:08:49+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Albanian ambassador attacks UK right wing for ‘unhinged’ fixation with 2022 migrant surge",
       "source": "The Guardian",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU border chaos update as post-Brexit checks spark major delays",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/travel/news-and-advice/eu-border-checks-uk-ees-passport-delays-b3030343.html",
-      "published_date": "2026-08-10T10:30:22+00:00",
-      "category": "Diplomacy"
+      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
+      "published_date": "2026-08-14T21:05:47+00:00",
+      "category": "Military"
     },
     {
-      "title": "Mother of Briton fatally shot by father in Texas urges Miliband to press US for new inquiry",
+      "title": "UK £1.2 billion aid cuts more than double what was expected, analysis finds",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/uk-aid-cuts-labour-economy-gdp-b3033234.html",
+      "published_date": "2026-08-14T17:12:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Benjamin Netanyahu describes UK as ‘first Islamic republic to get a nuclear weapon’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/10/mother-of-briton-lucy-harrison-fatally-shot-by-father-ed-miliband",
-      "published_date": "2026-08-10T10:15:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/world/2026/aug/14/benjamin-netanyahu-describes-uk-first-islamic-republic-to-get-nuclear-weapon",
+      "published_date": "2026-08-14T12:00:42+00:00",
+      "category": "Military"
     },
     {
       "title": "‘This is not in my contract’: Reporter gets stranded on ‘Farage fest’ ferris wheel in Clacton",
@@ -263,25 +284,67 @@
       "category": "Military"
     },
     {
-      "title": "Canals can help cool your neighbourhood during heatwaves, study finds",
+      "title": "Farmers to get £65m drought aid as Burnham warned industry at ‘breaking point’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/canals-heatwaves-cooling-neighbourhoods-b3030642.html",
-      "published_date": "2026-08-10T16:56:20+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/politics/uk-drought-burnham-farming-climate-change-b3033347.html",
+      "published_date": "2026-08-14T21:46:46+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Nigel Farage hits back at Jeremy Clarkson over ‘impossible’ small boats plan claim",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/nigel-farage-jeremy-clarkson-small-boats-b3030460.html",
-      "published_date": "2026-08-10T16:39:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Reform backer Arron Banks urged to set out extent of surveillance of journalists",
+      "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/10/arron-banks-surveillance-journalists-media",
-      "published_date": "2026-08-10T16:30:47+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
+      "published_date": "2026-08-14T21:30:38+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
+      "published_date": "2026-08-14T18:51:11+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Burnham: We will protect ‘tinderbox’ Britain from raging wildfires",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/wildfires-mapped-bbq-ban-andy-burnham-b3033192.html",
+      "published_date": "2026-08-14T17:43:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Government could slash EV sales targets as zero emissions mandate comes under review",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/cars/electric-vehicles/government-slash-ev-target-zero-emissions-zev-mandate-b3033242.html",
+      "published_date": "2026-08-14T16:12:30+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T15:58:21+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Scientists hope to shed light on young universe by using far side of the moon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/aug/14/scientists-young-universe-moon-dark-side-cosmocube-satellite-radio-signal-21cm-line",
+      "published_date": "2026-08-14T15:00:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
+      "published_date": "2026-08-14T14:04:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Farmers at ‘breaking point’ as heatwave Britain puts livelihoods under threat",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/farmers-heatwave-food-shortages-drought-b3032515.html",
+      "published_date": "2026-08-14T13:32:47+00:00",
+      "category": "Energy"
     },
     {
       "title": "Green groups urge Andy Burnham to break silence on climate crisis",
@@ -361,67 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Did the eclipse damage your eyes?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy452z5j1x1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-13T13:39:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
-      "published_date": "2026-08-13T11:03:28+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Extreme heat making UK roads sticky and worsening potholes, motoring chief warns",
+      "title": "FTSE 100 drifts lower in mixed day for Europe",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/travel/news-and-advice/uk-heatwave-roads-potholes-aa-traffic-b3032427.html",
-      "published_date": "2026-08-13T10:36:32+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/europe-page-london-michael-page-nasdaq-composite-b3033311.html",
+      "published_date": "2026-08-14T16:25:06+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Burnham told he can save households £175 on energy bills this winter if he ‘acts fast’",
+      "title": "Growth plans in focus at JD Sports after pressure on chief executive",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/andy-burnham-energy-bills-price-rises-uk-winter-support-scheme-b3032438.html",
-      "published_date": "2026-08-13T10:24:51+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/jd-sports-shares-investec-middle-east-nike-b3033118.html",
+      "published_date": "2026-08-14T15:46:28+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Warning signs that your eyes are damaged from staring at the eclipse",
+      "title": "The best electric toothbrushes in the UK for every budget",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2024/dec/29/best-electric-toothbrushes",
+      "published_date": "2026-08-14T13:57:52+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Farage wins Clacton byelection, but was it worth it? – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/aug/14/farage-wins-clacton-byelection-but-was-it-worth-it-podcast",
+      "published_date": "2026-08-14T13:54:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The best ways to save money – from budgeting to planning your future",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/solar-eclipse-damaged-eyes-saw-b3032315.html",
-      "published_date": "2026-08-13T08:06:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8 Ultra review: the top dog of folding Androids",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/samsung-galaxy-z-fold-8-ultra-review-the-top-dog-of-folding-androids",
-      "published_date": "2026-08-13T06:00:50+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "India fuels worldwide jump in planned coal production",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/13/india-planned-coal-production-new-mine",
-      "published_date": "2026-08-13T04:00:48+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nurses fainting in ‘inhumane’ conditions due to extreme heat, union warns",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/13/nurses-fainting-inhumane-conditions-due-to-extreme-heat-uk-union-warns",
-      "published_date": "2026-08-12T23:01:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-12T21:55:17+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/money/saving-budgeting-national-financial-awareness-day-b3032965.html",
+      "published_date": "2026-08-14T11:45:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "Growth plans in focus at JD Sports after pressure on chief executive",
@@ -487,6 +522,13 @@
       "category": "Economy"
     },
     {
+      "title": "Water customers are not a ‘blank cheque’, Burnham tells suppliers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/13/water-bills-suppliers-spending-england-wales-ofwat",
+      "published_date": "2026-08-13T17:25:59+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Sports Direct owner Mike Ashley buys Harvey Nichols",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain",
@@ -522,185 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Do not treat customers like a blank cheque, Burnham warns water companies",
+      "title": "Man arrested on suspicion of murder after teen dies in Bedfordshire street",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/andy-burnham-ofwat-water-uk-thames-water-angela-eagle-b3032569.html",
-      "published_date": "2026-08-13T13:55:51+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/linslade-bedfordshire-murder-investigation-teenager-death-b3033436.html",
+      "published_date": "2026-08-14T22:16:08+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Water bills set to rise for many after firms permitted extra funding",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-13T13:38:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Zero hours crackdown could cost firms up to £2.9bn a year",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-13T11:12:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK economy shows surprising resilience – but that might not last | Richard Partington",
+      "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
-      "published_date": "2026-08-13T10:26:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK economy grows but experts warn of challenging months ahead",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-13T10:17:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ladbrokes owner Entain says new gambling taxes to have ‘massive impact’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/ladbrokes-andy-burnham-prime-minister-gambling-b3032424.html",
-      "published_date": "2026-08-13T09:59:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T11:20:52+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
+      "published_date": "2026-08-14T22:10:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "What to do if you find yourself near a wildfire",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/how-to-stay-safe-in-wildfire-b3033101.html",
-      "published_date": "2026-08-14T11:18:06+00:00",
+      "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T22:05:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "19 people taken to hospital after West Midlands fire, as thousands evacuated in Croatia – Europe live",
+      "title": "'It's shocking it's come to this' - 5,000 fewer health visitor appointments amid long-running strike",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8jn2g4xg72o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T21:56:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emergency Alert startles millions in England and Wales after multiple homes destroyed in wildfire - latest",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/emergency-alert-wildfires-uk-wales-warning-live-updates-b3033354.html",
+      "published_date": "2026-08-14T21:07:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fires prompt national alert as 19 homes destroyed",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T20:56:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weekend cancellations after East Sussex train derailment",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwxg6jwv77o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T20:16:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Derailed Essex train leads to travel chaos",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T19:57:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emergency alert warning of wildfire risk sent to phones in England and Wales",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-      "published_date": "2026-08-14T11:16:03+00:00",
+      "url": "https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales",
+      "published_date": "2026-08-14T19:19:48+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Voices: ‘An insult’: Readers accuse Farage of dodging scrutiny after Clacton by-election win",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-clacton-by-election-essex-police-threat-count-binface-b3033082.html",
-      "published_date": "2026-08-14T11:14:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: 'Carnage' in Stourbridge as houses destroyed by fire",
+      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cj03gyzg2l7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T11:11:48+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T19:17:16+00:00",
       "category": "Local Events"
     },
     {
-      "title": "'The department has lost touch with farmers' - call for minister's resignation over cattle cull",
+      "title": "Six people arrested after man abducted in Edinburgh",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T11:08:27+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cx2dkpwgygno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T19:05:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Killer who will not say where wife's body is to stay in prison",
+      "title": "‘Andy will save us all!’ - Public react as emergency alert issued to millions over wildfires threat",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/severe-alert-uk-wales-reaction-wildfires-b3033368.html",
+      "published_date": "2026-08-14T19:01:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wembley fire: 150 people evacuated from Holiday Inn hotel after huge blaze breaks out",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/wembley-fire-holiday-inn-update-b3033329.html",
+      "published_date": "2026-08-14T18:40:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two dead after light aircraft crash",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6xde5e4wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T11:04:05+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cgjexn9qd54o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T17:56:29+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Houseboat owners left high and dry by shrinking water levels across England",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/river-canal-water-levels-england-drought-b3033097.html",
-      "published_date": "2026-08-14T11:03:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clacton by-election result live: Nigel Farage’s £5m ‘gift’ investigation reopened by watchdog after election win",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/clacton-nigel-farage-by-election-result-count-binface-live-updates-b3032977.html",
-      "published_date": "2026-08-14T10:59:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clacton by-election result in full: Nigel Farage wins, Count Binface sees record support and one candidate gets seven votes",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/clacton-by-election-result-in-full-farage-binface-turnout-votes-b3032333.html",
-      "published_date": "2026-08-14T10:59:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mother jailed for killing baby by burning her with a hairdryer",
+      "title": "Stephen Bear jailed over sex offender breaches",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T10:56:16+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T17:22:36+00:00",
       "category": "Local Events"
     },
     {
-      "title": "So Nigel Farage has beaten a man in a bin. But he's in deep trouble, and he knows it | Owen Jones",
+      "title": "National Rail says heat poses ‘exceptional challenges’ after two trains derail in 24 hours",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/nigel-farage-binface-reform-leader-people-clacton-byelection",
-      "published_date": "2026-08-14T10:29:27+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/14/train-derails-near-essex-town-of-wickford",
+      "published_date": "2026-08-14T17:20:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "What do people in Clacton think of Farage's by-election win?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg947z1we1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T10:27:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murderer Glyn Razzell who refused to reveal where wife’s body is for 24 years to remain in prison",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/glyn-razzell-linda-murder-high-court-b3033056.html",
-      "published_date": "2026-08-14T10:02:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Little rain on the horizon as England and Wales experience driest July on record",
+      "title": "The Guardian view on Nigel Farage: Clacton cannot acquit him | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/14/little-rain-forecast-england-wales-driest-july-weather-record",
-      "published_date": "2026-08-14T09:46:35+00:00",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/the-guardian-view-on-nigel-farage-clacton-cannot-acquit-him",
+      "published_date": "2026-08-14T17:06:32+00:00",
       "category": "Local Events"
     },
     {
-      "title": "‘We are desperate for answers’: Family appeal after grandmother killed in her home",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/liverpool-merseyside-police-appeal-rose-johnston-crimestoppers-uk-b3033041.html",
-      "published_date": "2026-08-14T09:18:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farage declares victory over Count Binface in Clacton byelection – video",
+      "title": "Standards watchdog resumes Farage probe as rivals slam needless byelection",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/aug/14/farage-declares-victory-over-count-binface-in-clacton-byelection-video",
-      "published_date": "2026-08-14T09:13:30+00:00",
+      "url": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
+      "published_date": "2026-08-14T17:00:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Farage may have won the battle for Clacton, but he’s losing the country",
+      "title": "Disgraced TV star Stephen Bear jailed for sex offender register breach after taunting police from Brazil beach",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-clacton-byelection-result-reform-uk-b3031934.html",
-      "published_date": "2026-08-14T08:58:12+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/stephen-bear-jailed-sex-offender-brazil-beach-b3033307.html",
+      "published_date": "2026-08-14T16:24:17+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Count Binface gets almost 10,000 votes in Clacton by-election",
+      "title": "Royal Parks gardeners to strike over pay",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crmr0kny7ego?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T08:56:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "European Cup-winning goalkeeper Jimmy Rimmer dies",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/former-aston-villa-and-arsenal-goalkeeper-jimmy-rimmer-dies-13572867",
-      "published_date": "2026-08-14T08:53:00+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl0gp4963o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-14T16:23:35+00:00",
       "category": "Local Events"
     }
   ]
