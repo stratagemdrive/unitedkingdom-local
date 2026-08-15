@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-14T23:11:30.159893+00:00",
+  "last_updated": "2026-08-15T11:21:11.860162+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Post-Brexit rights for British citizens are being undermined in Sweden",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/15/post-brexit-rights-british-citizens-sweden-removal-orders-analysis",
+      "published_date": "2026-08-15T09:00:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
       "source": "The Guardian",
@@ -134,13 +141,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-11T05:21:53+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rush to find solar eclipse glasses as UK high street stocks run short",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/aug/10/solar-eclipse-glasses-uk-high-street-shortage",
-      "published_date": "2026-08-10T14:47:48+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "UK’s biggest EV battery gigafactory shelves expansion as Jaguar Land Rover talks stall",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/15/uk-ev-battery-gigafactory-aesc-jaguar-land-rover-nissan",
+      "published_date": "2026-08-15T11:00:54+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Farmers to get £65m drought aid as Burnham warned industry at ‘breaking point’",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/uk-drought-burnham-farming-climate-change-b3033347.html",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Do I really need air conditioning in the UK? The best portable aircon tested – plus the pros, cons and alternatives",
+      "title": "‘Business critical’: why even Andy Burnham is taking his social media game seriously",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/aug/13/best-portable-air-conditioning-ac-units-tested-uk",
-      "published_date": "2026-08-13T14:54:03+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/media/2026/aug/15/business-critical-why-even-andy-burnham-is-taking-his-social-media-game-seriously",
+      "published_date": "2026-08-15T08:01:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘A tax on being thin’: only high earners make overall savings on food bills from weight-loss drugs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/aug/15/high-earners-savings-weight-loss-drugs-income-glp-1",
+      "published_date": "2026-08-15T07:00:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Voices: ‘Not a handout’: Readers reject plans for rich pensioners to trade state pension for OBE",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-state-pension-obe-b3033246.html",
+      "published_date": "2026-08-15T07:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Watch your spending, use free perks’: an insider’s tips on student money",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/aug/15/university-student-money-spending-free-perks-save-cash",
+      "published_date": "2026-08-15T06:00:48+00:00",
+      "category": "Economy"
     },
     {
       "title": "FTSE 100 drifts lower in mixed day for Europe",
@@ -536,32 +564,116 @@
       "category": "Economy"
     },
     {
-      "title": "Let rich pensioners opt out of state pension in exchange for OBE, Labour pressure group urges Burnham",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-state-pension-obe-labour-compass-b3031889.html",
-      "published_date": "2026-08-13T16:48:30+00:00",
-      "category": "Economy"
+      "title": "Military sent in to help emergency services fight wildfires",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c05qy58v98jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T11:13:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Andy Burnham’s great British rip-off list just got even longer | Letters",
+      "title": "Wildfires prompt emergency alert as blaze in New Forest enters seventh day",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/wildfires-new-forest-emergency-alert-b3033541.html",
+      "published_date": "2026-08-15T11:10:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heatwave latest: Burnham sends army to battle South Wales wildfires after emergency alert sent to millions",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/heatwave-wildfire-emergency-alert-uk-wales-live-updates-b3033563.html",
+      "published_date": "2026-08-15T10:37:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heathrow passengers face disruption after flood restricts access",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/aug/13/andy-burnham-great-british-rip-off-list-just-got-even-longer",
-      "published_date": "2026-08-13T16:39:06+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/15/heathrow-passengers-face-disruption-after-flood-restricts-access",
+      "published_date": "2026-08-15T10:36:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Miners weaken as FTSE 100 underperforms peers",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/aviva-aim-antofagasta-london-stock-exchange-group-rio-tinto-b3032699.html",
-      "published_date": "2026-08-13T16:26:00+00:00",
-      "category": "Economy"
+      "title": "New Forest fire fully contained, fire service says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvyk85q0go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T10:00:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Economy gets World Cup and hot weather boost but fears grow over Iran war hit",
+      "title": "‘Let’s see what he can do’: will Burnham bring voters back to Labour heartlands?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/14/andy-burnham-barnsley-voters-labour-reform-uk-red-wall",
+      "published_date": "2026-08-15T09:55:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six charged after man abducted in Edinburgh",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqy55zny2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T09:52:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I don’t even drink whisky’: Scotland reels in visitors as much of Europe swelters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/15/scotland-visitors-tourists-europe-heat-north-america-tartan-army",
+      "published_date": "2026-08-15T09:00:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Dangerously hostile’: heatwaves leave hospital wards unsafe, data reveals",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/15/dangerously-hostile-heatwaves-leave-hospital-wards-unsafe-data-reveals",
+      "published_date": "2026-08-15T08:01:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stop calling 999 to report neighbours having barbecues, fire services say",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/gdp-iran-john-healey-government-b3032505.html",
-      "published_date": "2026-08-13T14:53:27+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/fire-uk-emergency-alert-999-call-b3033507.html",
+      "published_date": "2026-08-15T06:49:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four boys arrested on suspicion of arson as wildfire spreads in South Wales",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/fire-south-wales-arson-arrest-porth-b3033505.html",
+      "published_date": "2026-08-15T06:34:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Westminster council threatens Charing Cross soup kitchen with closure",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/15/westminster-council-threatens-charing-cross-soup-kitchen-with-closure",
+      "published_date": "2026-08-15T06:00:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Removing emergency surgery will create 'domino effect', campaigners warn",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74gd2ep5vpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T05:47:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BBC was warned of author’s claim to possess missing clothes of child murder victim",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/15/bbc-was-warned-of-authors-claim-to-possess-missing-clothes-of-child-victim",
+      "published_date": "2026-08-15T05:00:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Disruption at Heathrow after flooding",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/heathrow-warns-of-disruption-at-two-terminals-after-flooding-13573198",
+      "published_date": "2026-08-15T04:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MP urges Andy Burnham to extend railcard discounts to commuters over 30",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-rail-fares-commuters-adam-dance-b3033468.html",
+      "published_date": "2026-08-15T00:07:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Man arrested on suspicion of murder after teen dies in Bedfordshire street",
@@ -589,118 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8jn2g4xg72o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-14T21:56:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emergency Alert startles millions in England and Wales after multiple homes destroyed in wildfire - latest",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/emergency-alert-wildfires-uk-wales-warning-live-updates-b3033354.html",
-      "published_date": "2026-08-14T21:07:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fires prompt national alert as 19 homes destroyed",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T20:56:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weekend cancellations after East Sussex train derailment",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjwxg6jwv77o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T20:16:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Derailed Essex train leads to travel chaos",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T19:57:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emergency alert warning of wildfire risk sent to phones in England and Wales",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/emergency-alert-warning-wildfire-risk-sent-phones-england-wales",
-      "published_date": "2026-08-14T19:19:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T19:17:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six people arrested after man abducted in Edinburgh",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2dkpwgygno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T19:05:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Andy will save us all!’ - Public react as emergency alert issued to millions over wildfires threat",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/severe-alert-uk-wales-reaction-wildfires-b3033368.html",
-      "published_date": "2026-08-14T19:01:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wembley fire: 150 people evacuated from Holiday Inn hotel after huge blaze breaks out",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/wembley-fire-holiday-inn-update-b3033329.html",
-      "published_date": "2026-08-14T18:40:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two dead after light aircraft crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgjexn9qd54o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T17:56:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stephen Bear jailed over sex offender breaches",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T17:22:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Rail says heat poses ‘exceptional challenges’ after two trains derail in 24 hours",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/14/train-derails-near-essex-town-of-wickford",
-      "published_date": "2026-08-14T17:20:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Nigel Farage: Clacton cannot acquit him | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/14/the-guardian-view-on-nigel-farage-clacton-cannot-acquit-him",
-      "published_date": "2026-08-14T17:06:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Standards watchdog resumes Farage probe as rivals slam needless byelection",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
-      "published_date": "2026-08-14T17:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Disgraced TV star Stephen Bear jailed for sex offender register breach after taunting police from Brazil beach",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/stephen-bear-jailed-sex-offender-brazil-beach-b3033307.html",
-      "published_date": "2026-08-14T16:24:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Royal Parks gardeners to strike over pay",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl0gp4963o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T16:23:35+00:00",
       "category": "Local Events"
     }
   ]
