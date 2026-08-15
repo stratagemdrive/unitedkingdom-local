@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-15T11:21:11.860162+00:00",
+  "last_updated": "2026-08-15T23:11:04.080481+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "How to buy a ‘mega-dinghy’: the perilous new model of Channel crossing",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/15/how-to-buy-a-mega-dinghy-the-perilous-new-model-of-channel-crossing",
+      "published_date": "2026-08-15T12:00:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Post-Brexit rights for British citizens are being undermined in Sweden",
       "source": "The Guardian",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
+      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T05:21:53+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T03:58:31+00:00",
+      "category": "Military"
     },
     {
       "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
@@ -277,11 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "No evidence of data breach after Chinese-made component found in Navy drones, MoD says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gwl3n7ne7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-10T21:50:37+00:00",
-      "category": "Military"
+      "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/15/royal-estates-rent-out-homes-that-fail-to-meet-legal-energy-efficiency-standards",
+      "published_date": "2026-08-15T16:00:01+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘The bar here is low’: the best (and worst) supermarket brioche burger buns, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/aug/15/best-supermarket-brioche-burger-buns-tasted-rated",
+      "published_date": "2026-08-15T12:00:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK’s biggest EV battery gigafactory shelves expansion as Jaguar Land Rover talks stall",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Couple tie the knot on 'magical' solar eclipse day",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0l52r42gz3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-13T16:44:07+00:00",
-      "category": "Energy"
+      "title": "French launch rescue operation as 140 migrants attempt Channel crossing to UK",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/migrant-crossing-channel-uk-france-rescue-b3033668.html",
+      "published_date": "2026-08-15T18:55:21+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Spotify reveals the most popular songs played during solar eclipse",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/arts-entertainment/music/news/solar-eclipse-spotify-bonnie-tyler-pink-floyd-b3032635.html",
-      "published_date": "2026-08-13T15:17:58+00:00",
-      "category": "Energy"
+      "title": "From food to tech to travel: the best student deals and discounts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/aug/15/food-tech-travel-best-student-deals-discounts-unidays-student-beans",
+      "published_date": "2026-08-15T09:00:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘Business critical’: why even Andy Burnham is taking his social media game seriously",
@@ -550,18 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "Water customers are not a ‘blank cheque’, Burnham tells suppliers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/13/water-bills-suppliers-spending-england-wales-ofwat",
-      "published_date": "2026-08-13T17:25:59+00:00",
-      "category": "Economy"
+      "title": "Fire services stretched as residents still not home",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T21:28:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Sports Direct owner Mike Ashley buys Harvey Nichols",
+      "title": "Thousands of Bonnie Tyler fans gather to pay respects as coffin brought home",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain",
-      "published_date": "2026-08-13T16:49:04+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/music/2026/aug/15/bonnie-tyler-fans-gather-pay-respects-swansea",
+      "published_date": "2026-08-15T18:44:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T17:33:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Body found in Romania believed to be missing British hiker George Smyth",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/15/body-found-in-romania-believed-to-be-missing-british-hiker-george-smyth",
+      "published_date": "2026-08-15T17:14:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Council warns of fake GoFundMe pages claiming to raise funds for wildfire victims",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/stourbridge-fires-gofundme-fundraising-warning-victims-b3033654.html",
+      "published_date": "2026-08-15T17:09:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met Police apologises for exposing addresses of al Fayed's alleged victims",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/met-police-apologises-for-exposing-addresses-of-al-fayeds-alleged-victims-13573506",
+      "published_date": "2026-08-15T16:36:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alarmed by the alarm: people react to ‘severe alert’ on phones over UK wildfires",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
+      "published_date": "2026-08-15T15:54:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met Police apologises for exposing email addresses of 143 alleged Al Fayed victims",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/met-police-al-fayed-victims-email-addresses-b3033557.html",
+      "published_date": "2026-08-15T15:07:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Monaco manager and West Brom player favourite for Scotland job",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/former-monaco-manager-and-west-brom-player-sebastien-pocognoli-favourite-for-scotland-job-13573383",
+      "published_date": "2026-08-15T14:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds gather for Bonnie Tyler procession in Wales ahead of funeral",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/hundreds-gather-for-bonnie-tyler-procession-in-wales-ahead-of-funeral-13573379",
+      "published_date": "2026-08-15T14:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belgian Pocognoli is frontrunner to become Scotland boss",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T13:58:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police called to reported burglary find boy dead",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-arrested-on-suspicion-of-murder-after-boy-17-found-dead-by-police-responding-to-burglary-reports-13573331",
+      "published_date": "2026-08-15T13:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Missed out on tickets to see the Bayeux tapestry in London? A £1,000 hotel stay will get you in",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/15/bayeux-tapestry-london-british-museum-one-aldwych-hotel",
+      "published_date": "2026-08-15T13:00:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heathrow Airport roads reopen after mains burst",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T12:44:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tributes paid to Jason Arday after former Cambridge professor’s death",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/15/jason-arday-tributes-paid-to-former-cambridge-professor",
+      "published_date": "2026-08-15T12:22:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met apologises for exposing 143 email addresses of Mohamed Al Fayed victims",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/15/met-police-apologises-exposing-email-addresses-mohamed-al-fayed-victims",
+      "published_date": "2026-08-15T12:22:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman allegedly tasered, raped and beaten by ex-partner, court hears",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0jjndg9pxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T12:15:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-15T11:53:19+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Military sent in to help emergency services fight wildfires",
@@ -575,132 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/wildfires-new-forest-emergency-alert-b3033541.html",
       "published_date": "2026-08-15T11:10:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heatwave latest: Burnham sends army to battle South Wales wildfires after emergency alert sent to millions",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/heatwave-wildfire-emergency-alert-uk-wales-live-updates-b3033563.html",
-      "published_date": "2026-08-15T10:37:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heathrow passengers face disruption after flood restricts access",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/15/heathrow-passengers-face-disruption-after-flood-restricts-access",
-      "published_date": "2026-08-15T10:36:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Forest fire fully contained, fire service says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvyk85q0go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-15T10:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Let’s see what he can do’: will Burnham bring voters back to Labour heartlands?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/14/andy-burnham-barnsley-voters-labour-reform-uk-red-wall",
-      "published_date": "2026-08-15T09:55:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six charged after man abducted in Edinburgh",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2lqy55zny2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-15T09:52:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I don’t even drink whisky’: Scotland reels in visitors as much of Europe swelters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/15/scotland-visitors-tourists-europe-heat-north-america-tartan-army",
-      "published_date": "2026-08-15T09:00:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Dangerously hostile’: heatwaves leave hospital wards unsafe, data reveals",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/15/dangerously-hostile-heatwaves-leave-hospital-wards-unsafe-data-reveals",
-      "published_date": "2026-08-15T08:01:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stop calling 999 to report neighbours having barbecues, fire services say",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fire-uk-emergency-alert-999-call-b3033507.html",
-      "published_date": "2026-08-15T06:49:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four boys arrested on suspicion of arson as wildfire spreads in South Wales",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fire-south-wales-arson-arrest-porth-b3033505.html",
-      "published_date": "2026-08-15T06:34:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Westminster council threatens Charing Cross soup kitchen with closure",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/15/westminster-council-threatens-charing-cross-soup-kitchen-with-closure",
-      "published_date": "2026-08-15T06:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Removing emergency surgery will create 'domino effect', campaigners warn",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74gd2ep5vpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-15T05:47:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBC was warned of author’s claim to possess missing clothes of child murder victim",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/15/bbc-was-warned-of-authors-claim-to-possess-missing-clothes-of-child-victim",
-      "published_date": "2026-08-15T05:00:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Disruption at Heathrow after flooding",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/heathrow-warns-of-disruption-at-two-terminals-after-flooding-13573198",
-      "published_date": "2026-08-15T04:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MP urges Andy Burnham to extend railcard discounts to commuters over 30",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-rail-fares-commuters-adam-dance-b3033468.html",
-      "published_date": "2026-08-15T00:07:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of murder after teen dies in Bedfordshire street",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/linslade-bedfordshire-murder-investigation-teenager-death-b3033436.html",
-      "published_date": "2026-08-14T22:16:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
-      "published_date": "2026-08-14T22:10:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T22:05:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It's shocking it's come to this' - 5,000 fewer health visitor appointments amid long-running strike",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jn2g4xg72o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T21:56:37+00:00",
       "category": "Local Events"
     }
   ]
