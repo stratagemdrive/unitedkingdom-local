@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-16T11:20:51.105541+00:00",
+  "last_updated": "2026-08-16T23:09:48.783529+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Reform UK benefits ban for foreign nationals would include EU citizens",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly555430nno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T21:41:32+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Reform accused of targeting the most vulnerable with £50bn benefit cut",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/16/jenrick-cuts-benefits-disabled-people-foreign-nationals",
+      "published_date": "2026-08-16T21:00:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "How to buy a ‘mega-dinghy’: the perilous new model of Channel crossing",
       "source": "The Guardian",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Government facing legal action after UN rules prisoners trapped on indefinite jail terms are being unlawfully detained",
+      "title": "Reform pledges ‘senseless and cruel’ ban on all foreign nationals claiming benefits",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/ipp-sentence-high-court-legal-challenge-un-ruling-b3030612.html",
-      "published_date": "2026-08-11T07:50:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/politics/reform-welfare-benefits-foreign-nationals-jenrick-b3033834.html",
+      "published_date": "2026-08-16T21:00:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Europe’s total solar eclipse: the best place to see it and how to view it safely",
+      "title": "Pilot seriously injured in crash at Stow Maries aerodrome air show",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/plane-crash-stow-maries-aerodrome-air-show-b3033879.html",
+      "published_date": "2026-08-16T17:03:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arron Banks hired private investigators to dig into Conservative party chair",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/aug/11/europe-solar-eclipse-best-place-to-see-it-how-to-view-safely",
-      "published_date": "2026-08-11T07:00:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/arron-banks-hired-private-investigators-dig-into-conservative-party-chair",
+      "published_date": "2026-08-16T16:00:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Taliban threaten former Afghan police worker after MoD leak reveals identity",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/taliban-threaten-former-afghan-police-worker-after-mod-leak-reveals-identity",
+      "published_date": "2026-08-16T13:00:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK-made drones strike targets inside Russia",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywwv2pp44o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T12:22:25+00:00",
+      "category": "Military"
     },
     {
       "title": "Soldiers praised for 'phenomenal job' helping crews tackle wildfires",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Tui profits slump as travellers avoid flying during Middle East conflict",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/tui-flights-profits-iran-war-b3031626.html",
-      "published_date": "2026-08-12T09:12:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poorest areas should not house all asylum seekers, says Burnham",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c204d4z1gg8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-12T07:12:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Serious failings found in new military crimes unit, leaked report finds",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4w62p6gvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-12T06:32:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigel Farage reprimands Reform’s Zia Yusuf for calling former defence secretary a ‘traitor’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-zia-yusuf-traitor-ben-wallace-row-b3031060.html",
-      "published_date": "2026-08-11T11:38:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gold prices rise again as Middle East conflict and interest rate fears ease",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/gold-price-iran-war-markets-b3030990.html",
-      "published_date": "2026-08-11T10:32:29+00:00",
-      "category": "Military"
+      "title": "Man under threat of deportation to Jamaica wins right to rejoin his British family",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/man-under-threat-of-deportation-to-jamaica-wins-right-to-rejoin-his-british-family",
+      "published_date": "2026-08-16T11:27:22+00:00",
+      "category": "Energy"
     },
     {
       "title": "King Charles and Prince William face £10m energy upgrade bill for estates",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "You got hold of eclipse glasses just in time - here's what to do with them now",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdprd3mv9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-13T23:15:44+00:00",
-      "category": "Energy"
+      "title": "‘Why did it become personal?’: furore over plans to expand Kent oyster shack",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/whitstable-plans-to-expand-oyster-shack-kent-coast-opposition",
+      "published_date": "2026-08-16T12:00:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham urged to crack down on gig economy firms to protect 4m workers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/16/andy-burnham-gig-economy-companies-employment-rights",
+      "published_date": "2026-08-16T11:29:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "A positive new report raises the question: was Reeves undermined by dodgy data? | Heather Stewart",
@@ -550,157 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Farage's by-election victory won't stop questions about finances",
+      "title": "Somali man charged with attempted murder at Surrey asylum hotel",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-14T08:18:02+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cy4kkzyde8mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T22:44:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Unemployed young people to join AI boot camps to get job-ready",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
-      "published_date": "2026-08-13T23:01:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sinn Féin condemn burning of images of First Minister on Derry bonfire",
+      "title": "Bonnie Tyler's hometown prepares for final goodbye",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78gg7d284mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T11:19:16+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nn2nlg1lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T20:56:10+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Murder arrest made after woman, 90, dies in Gloucestershire house fire",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/hardwicke-house-fire-gloucestershire-police-b3033794.html",
-      "published_date": "2026-08-16T10:56:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Met Office warns another heatwave could hit UK in September after sweltering 38C temperatures",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-weather-met-office-heatwave-september-b3033789.html",
-      "published_date": "2026-08-16T10:52:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People who fled Stourbridge fires start to return home",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T10:40:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder arrest after woman in her 90s dies in house fire",
+      "title": "Amy Hunt and Dina Asher-Smith make history at the European Athletics Championships",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/murder-arrest-after-woman-in-her-90s-dies-in-house-fire-in-gloucestershire-13573662",
-      "published_date": "2026-08-16T10:21:00+00:00",
+      "url": "https://news.sky.com/story/amy-hunt-wins-record-fourth-gold-medal-at-the-european-athletics-championships-13573825",
+      "published_date": "2026-08-16T19:20:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Angela Rayner moves to protect pubs from being turned into houses or offices",
+      "title": "‘It’s been very tough’: hope of progress in gruelling battle against south Wales wildfire",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/16/angela-rayner-pubs-developers-houses-offices-planning-shakeup",
-      "published_date": "2026-08-16T10:09:09+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/blaenavon-south-wales-wildfire-gruelling-battle-firefighters-military",
+      "published_date": "2026-08-16T18:27:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Crews tackle warehouse blaze in early hours",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly997w7ydko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T10:07:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Number of fatalities' and four injured after car drives on wrong side of motorway",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T09:42:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "University spinout to launch water quality app for UK and US waters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/16/plymouth-university-spinout-water-quality-app-uk-us-waters-molendotech-e-coli",
-      "published_date": "2026-08-16T09:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Athletics medal ceremonies postponed after fraud arrest",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ee5e8w9do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T07:09:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nan grabbed dog and budgie and fled bungalow fire",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjj5xp43qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T07:04:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An unrecognisable city - the impact of Belfast's first Fleadh",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj03vj4r288o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T05:53:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attempted murder arrest at Surrey asylum hotel",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y667gw987o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T04:35:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrest after stabbing at a hotel used to house asylum seekers",
+      "title": "Scotland name new manager of men's team",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/arrest-after-stabbing-at-a-hotel-used-to-house-asylum-seekers-13573593",
-      "published_date": "2026-08-16T02:31:00+00:00",
+      "url": "https://news.sky.com/story/sebastien-pocognoli-announced-as-new-boss-of-scotland-mens-team-13573806",
+      "published_date": "2026-08-16T18:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Ariana Grande leaves problems at home as her tour hits the UK",
+      "title": "Belgian Pocognoli confirmed as Scotland boss",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T02:01:42+00:00",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T17:56:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Fire services stretched as residents still not home",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-15T21:28:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of Bonnie Tyler fans gather to pay respects as coffin brought home",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/aug/15/bonnie-tyler-fans-gather-pay-respects-swansea",
-      "published_date": "2026-08-15T18:44:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-15T17:33:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Body found in Romania believed to be missing British hiker George Smyth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/15/body-found-in-romania-believed-to-be-missing-british-hiker-george-smyth",
-      "published_date": "2026-08-15T17:14:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Council warns of fake GoFundMe pages claiming to raise funds for wildfire victims",
+      "title": "Support staff worker stabbed at Surrey hotel used to house asylum seekers, MP says",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/stourbridge-fires-gofundme-fundraising-warning-victims-b3033654.html",
-      "published_date": "2026-08-15T17:09:36+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/stanwell-hotel-stabbing-surrey-support-staff-worker-b3033895.html",
+      "published_date": "2026-08-16T17:56:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Major rail disruption as overhead wire damage causes chaos at London King’s Cross",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/train-delays-lner-london-kings-cross-departures-b3033880.html",
+      "published_date": "2026-08-16T17:23:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watch moment police arrest wanted man while he slept on roof",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyll2p1r68o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T17:17:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watch: Police pull sleeping man from Salford roof in dramatic arrest",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/police-arrest-sleeping-man-roof-salford-b3033882.html",
+      "published_date": "2026-08-16T17:06:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Water companies in England and Wales explore ‘surge pricing’ during drought",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/16/water-companies-england-and-wales-explore-surge-pricing-bills-drought",
+      "published_date": "2026-08-16T16:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder investigation launched after man bitten by dog dies",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/man-bitten-dog-wakefield-murder-investigation-b3033810.html",
+      "published_date": "2026-08-16T15:36:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with arson after ‘around 10’ fires started in popular London park",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/london-fields-hackney-fires-arson-b3033847.html",
+      "published_date": "2026-08-16T15:29:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gurkhas deployed to South Wales to help fight wildfires",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/gurkhas-south-wales-help-fight-wildfires-b3033814.html",
+      "published_date": "2026-08-16T15:14:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Changing pubs into homes to be made harder under new rules",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T15:04:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Absolutely manic’: hot weather puts unprecedented pressure on Greater Manchester police",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/absolutely-manic-hot-weather-puts-unprecedented-pressure-on-greater-manchester-police",
+      "published_date": "2026-08-16T14:00:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder inquiry opens after death of man bitten by dog in West Yorkshire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/murder-inquiry-death-man-bitten-by-dog-wakefield-west-yorkshire",
+      "published_date": "2026-08-16T13:04:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Our rota crew have the best summer’: parents share how they get through the school holiday",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/aug/16/parents-childcare-school-holidays",
+      "published_date": "2026-08-16T13:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder inquiry after man bitten by dog dies",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-16T12:36:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Burnham has barely acknowledged the climate crisis. If only Britain’s workers had that luxury | John Harris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/andy-burnham-climate-crisis-britain-workers-heatstroke",
+      "published_date": "2026-08-16T11:33:42+00:00",
       "category": "Local Events"
     }
   ]
