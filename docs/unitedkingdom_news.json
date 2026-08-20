@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-19T23:13:54.981233+00:00",
+  "last_updated": "2026-08-20T11:26:53.094592+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "JD Sports sales hit as cost of living crisis sees shoppers shun trainers",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/jd-sports-football-shirts-share-price-b3036222.html",
+      "published_date": "2026-08-20T09:26:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Miliband and Israel clash over controversial West Bank settlement project",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/miliband-clashes-with-israel-over-controversial-west-bank-settlement-13574939",
+      "published_date": "2026-08-20T08:42:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Canada and US say they are finalising a trade deal, but details remain murky",
       "source": "BBC News",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hundreds arrested on suspicion of arson in France as wildfires rage across Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france",
-      "published_date": "2026-08-14T16:58:04+00:00",
-      "category": "Diplomacy"
+      "title": "Refugee who fled Sudan war passes GCSE exams as he targets World Cup dream",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/gcse-results-nasser-hamid-suffolk-b3036279.html",
+      "published_date": "2026-08-20T10:56:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Thames Water plans to restart desalination plant – after drought has ended",
+      "title": "Trump vows tougher economic measures on Iran and supporting countries",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T09:13:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Prince Harry says the ‘world needs more heroes’ as he looks to launch commercial scheme for veterans",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/prince-harry-move-uk-veterans-money-b3036101.html",
+      "published_date": "2026-08-20T05:22:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Royal Marines and soldiers settle MoD asbestos claim",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c36dwp2enl7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T05:10:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Harry and Meghan: the key moments, conflicts and controversies since their US move",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/14/thames-water-desalination-plant-reservoir-drought",
-      "published_date": "2026-08-14T15:08:49+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/20/prince-harry-meghan-move-uk-california-timeline",
+      "published_date": "2026-08-20T04:52:23+00:00",
+      "category": "Military"
     },
     {
       "title": "Hidden gallery at National History Museum to reopen for first time since Second World War",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Banking veteran Hoffman to step down as Monzo chairman",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/banking-veteran-hoffman-to-step-down-as-monzo-chairman-13573968",
-      "published_date": "2026-08-17T09:57:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What will Burnham do on defence?",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/what-will-burnham-do-on-defence-13573952",
-      "published_date": "2026-08-17T09:16:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Reform pledges ‘senseless and cruel’ ban on all foreign nationals claiming benefits",
+      "title": "Some retailers not passing on wholesale fuel price falls quickly enough – CMA",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/reform-welfare-benefits-foreign-nationals-jenrick-b3033834.html",
-      "published_date": "2026-08-16T21:00:01+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/government-middle-east-holly-williams-b3034823.html",
+      "published_date": "2026-08-20T10:15:51+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Pilot seriously injured in crash at Stow Maries aerodrome air show",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/plane-crash-stow-maries-aerodrome-air-show-b3033879.html",
-      "published_date": "2026-08-16T17:03:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arron Banks hired private investigators to dig into Conservative party chair",
+      "title": "Drill Andy drill? Burnham’s North Sea dilemma – podcast",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/16/arron-banks-hired-private-investigators-dig-into-conservative-party-chair",
-      "published_date": "2026-08-16T16:00:29+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/news/audio/2026/aug/20/andy-burnham-north-sea-dilemma-podcast",
+      "published_date": "2026-08-20T02:00:39+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "India's Gen Z are driving up a mega boom in its beauty market",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-19T23:31:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘Success story’ hailed as bluefin tunas caught off Yorkshire for first time since 1960s",
@@ -403,25 +424,88 @@
       "category": "Energy"
     },
     {
-      "title": "Rebecca Hendin on Richard Tice and the climate crisis – cartoon",
+      "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/aug/18/rebecca-hendin-richard-tice-climate-crisis-cartoon",
-      "published_date": "2026-08-18T15:34:22+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
+      "published_date": "2026-08-20T11:14:28+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Energy price cap hike set to send July inflation surging",
+      "title": "GCSE results: girls still ahead but gender gap narrows as hundreds of thousands of pupils receive grades – latest updates",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
+      "published_date": "2026-08-20T11:05:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Travelodge boss quits amid fallout over hotel chain’s security failings",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/20/travelodge-boss-quits-amid-fallout-over-hotel-chains-security-failings",
+      "published_date": "2026-08-20T10:20:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Many mortgage brokers are fee-free – who actually pays them and should I use them?",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/cpi-rachel-reeves-inflation-investec-government-b3034998.html",
-      "published_date": "2026-08-18T14:25:11+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/money/mortgage-brokers-fee-free-commission-property-fca-b3036244.html",
+      "published_date": "2026-08-20T10:15:31+00:00",
+      "category": "Economy"
     },
     {
-      "title": "UK risks running out of gas by 2030s, ministers told",
+      "title": "John Swinney defends £45,000 business-class flights to World Cup",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T09:53:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Aldermore battle heats up as private equity giant CVC motors into auction",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/aldermore-battle-heats-up-as-private-equity-giant-cvc-motors-into-auction-13574959",
+      "published_date": "2026-08-20T09:53:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T09:44:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sales of trainers dive at JD Sports as cost of living pressures bite",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/18/uk-risks-running-out-of-gas-2030s",
-      "published_date": "2026-08-18T13:34:12+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/aug/20/trainers-sales-dive-cost-of-living-inflation-jd-sports",
+      "published_date": "2026-08-20T09:03:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "More than 80,000 crypto traders told to cough up tax in HMRC crackdown",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/money/hmrc-bitcoin-crypto-trading-tax-letter-b3036138.html",
+      "published_date": "2026-08-20T08:55:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Greens call for windfall tax on big banks' profits to support small business",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy49k5x0w1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T07:03:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poundland owner picks A&M to advise on auction of discount chain",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/poundland-owner-picks-am-to-advise-on-auction-of-discount-chain-13574891",
+      "published_date": "2026-08-20T05:49:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/20/oxfam-cant-guarantee-future-of-charity-shops-as-it-also-reviews-warehouse-business",
+      "published_date": "2026-08-20T05:00:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "I quit my £80,000 job to make ice cream - here's how",
@@ -480,88 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "Swimmers warned of toxic algae at newly designated Thames bathing site",
+      "title": "Illegal 'drip pricing' could add thousands to the cost of your holiday",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cn8ndd8eklmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T11:17:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK hit with heavy rain and thunderstorms as Met Office warns of flash flooding",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/weather-forecast-rain-london-uk-b3036280.html",
+      "published_date": "2026-08-20T11:03:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour leadership: Marra says party must work for stronger Scotland",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cp87ggnmvjeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T10:22:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where could Prince Archie and Princess Lilibet go to school in the UK?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/archie-lilibet-school-uk-harry-meghan-royal-family-b3036153.html",
+      "published_date": "2026-08-20T10:21:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "School ‘deeply saddened’ by death of British-Palestinian family in Shoreham beach tragedy",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/shoreham-beach-school-family-el-khawas-sea-drowning-east-sussex-b3036220.html",
+      "published_date": "2026-08-20T10:18:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GCSE results reveal record education gap between London and the North",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/gcse-results-grade-boundaries-london-b3036260.html",
+      "published_date": "2026-08-20T10:14:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wirral families supported with cost of school uniforms",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c0m7ee8nmz3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T10:11:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T09:53:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harry and Meghan latest: King Charles ‘caught off-guard’ by family’s UK return",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/harry-meghan-markle-sussex-move-back-uk-latest-news-b3036122.html",
+      "published_date": "2026-08-20T09:38:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/19/swimmers-warned-toxic-algae-thames-bathing-site-ham",
-      "published_date": "2026-08-19T16:32:47+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
+      "published_date": "2026-08-20T09:25:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+      "title": "Rain to continue for UK with risk of flash flooding",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T16:14:46+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T08:41:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Record 17m parking tickets handed to UK drivers in just one year",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/parking-tickets-parkingeye-uk-dvla-b3035804.html",
-      "published_date": "2026-08-19T16:00:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The products that rose in price most - and that (surprisingly) got cheaper - since 2021",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/the-products-that-increased-in-price-most-since-2021-and-the-surprising-ones-now-a-lot-cheaper-13574703",
-      "published_date": "2026-08-19T12:09:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trainline, Virgin Atlantic and Red Driving School investigated over hidden fees",
+      "title": "GCSE results: almost one in four boys in England get top grades in maths",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/19/trainline-virgin-atlantic-driving-school-investigated-hidden-ticket-fees",
-      "published_date": "2026-08-19T11:14:33+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/education/2026/aug/20/gcse-results-almost-one-in-four-boys-in-england-get-top-grades-in-maths",
+      "published_date": "2026-08-20T08:30:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trainline, Virgin Atlantic and Red Driving School investigated over pricing",
+      "title": "School leavers urged to become train drivers to tackle shortage on GCSE results day",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/competition-and-markets-authority-trainline-virgin-atlantic-consumers-shares-b3035415.html",
-      "published_date": "2026-08-19T10:55:52+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/train-drivers-gcse-results-dft-b3036163.html",
+      "published_date": "2026-08-20T08:07:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "What are gilts and should I buy them? A guide as UK government bonds rise above 5%",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/uk-government-bonds-gilts-yields-isa-money-b2978837.html",
-      "published_date": "2026-08-19T10:44:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "title": "Councils turn to AI in attempt to fill £4bn black hole",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T09:58:24+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cdx7r9467kno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T06:41:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Limit reduced for branded school uniform items",
+      "title": "Wildfire 'overlooked' as it was in the North - MP",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20j3zrgzv2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T09:44:06+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cly5lj5xp9ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T05:09:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Supermarkets ranked for shelf life of food - with surprise name in last place",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/supermarkets-ranked-for-shelf-life-of-food-with-surprise-name-in-last-place-13574645",
-      "published_date": "2026-08-19T09:42:00+00:00",
-      "category": "Economy"
+      "title": "Monstera magic: Barbican hands out cuttings as ‘green lung of the city’ closes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/aug/20/barbican-hands-out-plant-cuttings-green-lung-city-closes",
+      "published_date": "2026-08-20T05:00:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "This high street bank will give you £100 in supermarket vouchers for opening new account",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/martin-lewis-santander-free-grocery-shopping-vouchers-b3031710.html",
-      "published_date": "2026-08-19T08:49:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "No 10 North growth focus not a demotion for Chancellor, says Rayner",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/prime-minister-angela-rayner-chancellor-andy-burnham-b3035488.html",
-      "published_date": "2026-08-19T08:42:46+00:00",
-      "category": "Economy"
+      "title": "From bone-dry to soaked to the bone, welcome to the age of climate whiplash | Aditya Chakrabortty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/20/hot-summer-wet-winter-welcome-to-the-age-of-climate-whiplash",
+      "published_date": "2026-08-20T05:00:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Former Archbishop of Canterbury accuses Nigel Farage of using Christianity to channel anti-Muslim feeling",
@@ -582,125 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/czxelyzrxr4o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-19T22:16:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands to get GCSE results amid major changes in schools",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8rnn275j3zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T22:00:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prince Harry and Meghan moving back to UK",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T21:59:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prince Harry and Meghan ‘moving back to Britain this month’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month",
-      "published_date": "2026-08-19T21:48:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged with murder after woman stabbed to death in west London",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/west-london-stabbing-alan-gore-shepherds-bush-b3035970.html",
-      "published_date": "2026-08-19T21:27:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder investigation launched after woman dies and eight others injured in house fire",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/hounslow-house-fire-murder-met-police-b3035869.html",
-      "published_date": "2026-08-19T21:23:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Male prisons in England and Wales have fewer than 1,800 spaces",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1v9elzvdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T20:45:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two accused of drug trafficking after UK-Nigeria investigation",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gpz8nd11o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T19:59:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighters still battling 'challenging' blaze after 11 days",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/firefighters-still-battling-challenging-cambridgeshire-blaze-after-11-days-13574842",
-      "published_date": "2026-08-19T18:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London’s first official bathing area hit by toxic algae outbreak",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ham-kingston-thames-london-swimmers-toxic-algae-b3035602.html",
-      "published_date": "2026-08-19T18:54:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London flat where boy fell to death could have had more safeguards, inquest told",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/19/london-flat-boy-fell-to-death-inquest",
-      "published_date": "2026-08-19T18:51:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family named after three die in sea off Shoreham",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T18:45:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Compulsory GCSE resits in England harm teenagers’ mental wellbeing, study finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/aug/19/gcse-resits-england-harm-teenagers-mental-wellbeing-ucl",
-      "published_date": "2026-08-19T18:34:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on the Ebola outbreak in the DRC: a case study in why international aid matters | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/19/the-guardian-view-on-the-ebola-outbreak-in-the-drc-a-case-study-in-why-international-aid-matters",
-      "published_date": "2026-08-19T17:59:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Couple who died with their daughter off Sussex coast named by police",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/19/andy-burnham-dangers-open-water-swimming-family-tragedy-sussex",
-      "published_date": "2026-08-19T17:48:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "All power to the UK competition watchdog’s war on ‘drip pricing’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/19/all-power-to-the-uk-competition-watchdogs-war-on-drip-pricing",
-      "published_date": "2026-08-19T17:39:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder investigation launched after woman dies and nine people injured in fire",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/woman-dies-and-nine-people-taken-to-hospital-following-fire-at-london-property-as-murder-investigation-launched-13574821",
-      "published_date": "2026-08-19T17:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham calls on wider society to help end rough sleeping by Christmas",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/19/andy-burnham-calls-on-wider-society-to-help-end-homelessness-by-christmas",
-      "published_date": "2026-08-19T17:25:03+00:00",
       "category": "Local Events"
     }
   ]
