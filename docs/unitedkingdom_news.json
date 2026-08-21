@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-20T23:16:13.854698+00:00",
+  "last_updated": "2026-08-21T11:26:30.459377+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ban on goods from occupied West Bank would help protect two-state solution, says Emily Thornberry – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
+      "published_date": "2026-08-21T10:50:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rain to stop in time for weekend as sun returns",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/c2el98pkd3po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T00:14:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Reform UK hates ‘Mickey Mouse’ degrees – apprenticeships in dodgy crypto, anyone?",
       "source": "The Guardian",
@@ -127,20 +141,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/commentisfree/2026/aug/17/young-people-brexit-burnham-europe-opportunities",
       "published_date": "2026-08-17T07:00:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Reform UK benefits ban for foreign nationals would include EU citizens",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly555430nno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-16T21:41:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Reform accused of targeting the most vulnerable with £50bn benefit cut",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/16/jenrick-cuts-benefits-disabled-people-foreign-nationals",
-      "published_date": "2026-08-16T21:00:35+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "Cut cost of loans for solar panels on UK homes, ministers urged",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/cut-cost-of-loans-for-solar-panels-on-uk-homes-ministers-urged",
+      "published_date": "2026-08-21T08:00:28+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
@@ -417,11 +424,109 @@
       "category": "Energy"
     },
     {
-      "title": "Surging energy prices push inflation up to highest level since March",
+      "title": "Royal Mail misses delivery targets yet again amid £500 million overhaul",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/office-for-national-statistics-john-healey-iran-rachel-reeves-mel-stride-b3035405.html",
-      "published_date": "2026-08-19T08:16:08+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/royal-mail-delivery-letters-post-ofcom-b3036955.html",
+      "published_date": "2026-08-21T10:42:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business growth accelerates to four-month high amid hot weather boost",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/chris-williamson-pmi-prime-minister-andy-burnham-press-association-b3036927.html",
+      "published_date": "2026-08-21T09:58:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T09:45:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand",
+      "published_date": "2026-08-21T08:58:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why the US economy is ringing alarm bells",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T08:38:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK retail sales fall as shoppers cut back on clothing and online spending",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/uk-retail-sales-clothes-footwear-ons-b3036886.html",
+      "published_date": "2026-08-21T08:27:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK debt nears £3 trillion as government borrowing unexpectedly climbs",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/uk-borrowing-budget-john-healey-b3036869.html",
+      "published_date": "2026-08-21T08:09:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "I put myself in the prime minister’s shoes – and learned some uncomfortable lessons | Zoe Williams",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/21/prime-ministers-political-survival-game",
+      "published_date": "2026-08-21T07:00:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
+      "published_date": "2026-08-21T06:34:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Number of UK firms in ‘critical distress’ increases by almost a tenth",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/press-association-b3036824.html",
+      "published_date": "2026-08-21T06:01:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "NI saw largest rise in disposable income of any UK region",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g31gqp6q2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T05:20:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Python named Jodie Foster first snake to receive pioneering cancer treatment",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/21/python-jodie-foster-snake-cancer-electrochemotherapy",
+      "published_date": "2026-08-21T04:00:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T23:16:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The teen entrepreneur transforming farm management",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r9gxp3xgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T23:01:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sussexes await decision on UK security that 'could cost millions'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/harry-and-meghans-return-uk-security-could-cost-millions-as-uncertainty-remains-over-who-will-pay-for-it-13575222",
+      "published_date": "2026-08-20T22:25:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Harry and Meghan’s security plans for UK return a ‘private matter’, says Burnham",
@@ -459,248 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "International students bring much more than money to the UK | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/aug/20/international-students-bring-much-more-than-money-to-the-uk",
-      "published_date": "2026-08-20T16:17:01+00:00",
-      "category": "Economy"
+      "title": "Killer jailed for murdering second flatmate",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq5pd0vy4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T11:24:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
-      "published_date": "2026-08-20T16:14:59+00:00",
-      "category": "Economy"
+      "title": "Coroner calls for baby monitor change after child died because volume was turned down",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/baby-monitor-volume-ismaeel-islam-b3036971.html",
+      "published_date": "2026-08-21T11:07:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Specsavers pays £12m dividend to parent company after jump in earnings",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/20/specsavers-pays-dividend-to-parent-company-as-profits-soar",
-      "published_date": "2026-08-20T15:55:13+00:00",
-      "category": "Economy"
+      "title": "Filming to take place outside Houses of Parliament for new Netflix drama",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/netflix-parliament-filming-lords-day-b3037006.html",
+      "published_date": "2026-08-21T11:04:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "British banking giants deliver tax rise warning to new chancellor",
+      "title": "Illegal immigrant jailed for murder just years after being released from Romanian jail for ‘strikingly similar’ crime",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/illegal-immigrant-jailed-for-murder-of-man-b3036976.html",
+      "published_date": "2026-08-21T10:52:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man denies charge over Manchester synagogue attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx75zllqlzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T10:48:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grade II-listed former top private school sold after being listed for £5 million",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/queen-margarets-school-york-sold-grade-two-listed-b3036882.html",
+      "published_date": "2026-08-21T10:13:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man who murdered stepmother's ex and ate finger jailed for life",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8k57j885jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T10:07:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proposed London datacentre will have annual carbon footprint of 27,000 flights to New York",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
+      "published_date": "2026-08-21T10:00:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "We would like to speak to people who have been homeless in England about what helped them off the streets",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/21/we-would-like-to-speak-to-people-who-have-been-homeless-in-england-about-what-helped-them-off-the-streets",
+      "published_date": "2026-08-21T09:49:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will Harry's return heal deep-rooted rift with William?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T09:48:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Waterland and Giacom plot £1bn carve-up of London-listed telecoms firm Gamma",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/british-banking-giants-deliver-tax-rise-warning-to-new-chancellor-13575110",
-      "published_date": "2026-08-20T15:25:00+00:00",
-      "category": "Economy"
+      "url": "https://news.sky.com/story/waterland-and-giacom-plot-1bn-carve-up-of-london-listed-telecoms-firm-gamma-13575313",
+      "published_date": "2026-08-21T09:37:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The best hair oils for glossy, healthy looking locks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/aug/20/best-hair-oil-tested-uk",
-      "published_date": "2026-08-20T14:00:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tice defends suspension of Reform UK activist over Farage criticism",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/20/tice-defends-suspension-reform-uk-activist-farage-criticism",
-      "published_date": "2026-08-20T12:41:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "September 2026 benefit and pension payment dates plus cost of living support",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/dwp-benefits-september-2026-payment-dates-pensions-uc-pip-b3036271.html",
-      "published_date": "2026-08-20T12:39:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "1.8m people to receive shock ‘simple assessment’ HMRC tax bill - here’s why and what to check next",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/hmrc-tax-bill-simple-assessment-savings-interest-dividends-b3036322.html",
-      "published_date": "2026-08-20T12:12:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How to master the basics of personal finance - from budgeting to planning your future",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/saving-budgeting-plan-personal-finance-education-b3036306.html",
-      "published_date": "2026-08-20T11:38:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
-      "published_date": "2026-08-20T11:14:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "GCSE results: girls still ahead but gender gap narrows as hundreds of thousands of pupils receive grades – latest updates",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
-      "published_date": "2026-08-20T11:05:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Travelodge boss quits amid fallout over hotel chain’s security failings",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/20/travelodge-boss-quits-amid-fallout-over-hotel-chains-security-failings",
-      "published_date": "2026-08-20T10:20:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Many mortgage brokers are fee-free – who actually pays them and should I use them?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/mortgage-brokers-fee-free-commission-property-fca-b3036244.html",
-      "published_date": "2026-08-20T10:15:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "John Swinney defends £45,000 business-class flights to World Cup",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T09:53:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Aldermore battle heats up as private equity giant CVC motors into auction",
+      "title": "NHS patient data groups Arcturis and Akrivia agree £140m merger",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/aldermore-battle-heats-up-as-private-equity-giant-cvc-motors-into-auction-13574959",
-      "published_date": "2026-08-20T09:53:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Prince Harry latest: Duke to discover legal costs in failed Daily Mail court drama after UK return bombshell",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/url-prince-harry-meghan-markle-uk-daily-mail-court-live-updates-b3036728.html",
-      "published_date": "2026-08-20T22:22:40+00:00",
+      "url": "https://news.sky.com/story/nhs-patient-data-groups-arcturis-and-akrivia-agree-140m-merger-13575267",
+      "published_date": "2026-08-21T09:18:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Footage shows migrants attacking French police trying to stop small boat crossing to UK",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/migrants-channel-crossing-french-police-attacked-b3036503.html",
-      "published_date": "2026-08-20T21:30:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teacher at £56,000-a-year boarding school banned for failing to disclose fiancé’s sex convictions",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/thomas-ridgway-teacher-banned-fiance-sex-convictions-b3036684.html",
-      "published_date": "2026-08-20T20:33:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Daily Mail v Prince Harry: The failed claims brought by the duke and other stars as court costs to be decided",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/prince-harry-daily-mail-legal-case-celebrities-elton-john-baroness-lawrence-costs-b3036468.html",
-      "published_date": "2026-08-20T19:10:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leaders attack ‘demotivating’ plan to make pupils who fail GCSEs retake maths and English",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
-      "published_date": "2026-08-20T18:21:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harry and Meghan’s security funding on UK return is private matter, Burnham says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
-      "published_date": "2026-08-20T17:50:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on GCSE results: much to celebrate, much to reform | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/20/the-guardian-view-on-gcse-results-much-to-celebrate-much-to-reform",
-      "published_date": "2026-08-20T17:46:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police appeal for information after man found shot dead in car in London",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/police-appeal-for-information-after-man-found-shot-dead-in-car-in-london-13575166",
-      "published_date": "2026-08-20T17:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why are Prince Harry and Meghan moving back to the UK? – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/video/2026/aug/20/why-are-prince-harry-and-meghan-moving-back-to-the-uk-the-latest",
-      "published_date": "2026-08-20T16:37:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Relentless' GCSE resit cycle 'simply not working', school and college leaders say",
+      "title": "Wildfire-hit residents remove Greenpeace mural of Burnham from scorched mountain",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czdm6d2z3gro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T16:26:34+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0yvpm7vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T09:02:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Trial of facts over ex-mayor's 'bigoted' tweets",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy459yg9jpzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T16:18:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged over Manchester synagogue attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T16:17:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform's leader in Scotland Malcolm Offord reveals cancer diagnosis",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c235jlpmd1jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T16:02:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged over terrorist attack at Manchester synagogue",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/heaton-park-attack-manchester-hekmat-hakim-b3036499.html",
-      "published_date": "2026-08-20T15:54:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ancient trees destroyed in devastating New Forest fire as National Highways gives A31 reopening update",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/new-forest-fire-a31-reopening-b3036496.html",
-      "published_date": "2026-08-20T15:54:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Angry shopper calls 999 after mistakenly buying alcohol-free gin and tonic",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/gin-tonic-tesco-police-call-hertfordshire-alcohol-b3036467.html",
-      "published_date": "2026-08-20T15:28:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform suspends councillor ahead of court case",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3r05r8x057o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T15:12:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
+      "title": "See the Light: Tracey Emin and Steve McQueen illuminate Durham gallery’s revival",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/20/rival-courts-prince-harry-meghan-surprise-uk-return-king-charles-prince-william",
-      "published_date": "2026-08-20T15:00:00+00:00",
+      "url": "https://www.theguardian.com/culture/2026/aug/21/durham-art-gallery-opens-with-works-by-tracey-emin-and-steve-mcqueen",
+      "published_date": "2026-08-21T09:00:30+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Lewes rail line to reopen in September as work under way to remove train",
+      "title": "Footage shows clash with French police on beach as dinghy tries to leave for UK",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/20/lewes-rail-line-reopen-september-work-under-way-remove-train",
-      "published_date": "2026-08-20T14:13:34+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/footage-french-police-clashing-people-beach-small-boats",
+      "published_date": "2026-08-21T08:05:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Met Police issue desperate appeal for missing siblings last seen on Monday",
+      "title": "London boroughs challenge PM on council tax hikes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2re0z3l0ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T07:45:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flash flood warnings for UK as heavy rain batters drought-hit ground",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/hayes-missing-children-mukarma-muhammed-b3036394.html",
-      "published_date": "2026-08-20T13:52:48+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-weather-flooding-met-office-drought-b3036865.html",
+      "published_date": "2026-08-21T07:42:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Bored’ mum joined NHS study and found out her sons could have rare condition",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-generation-study-bradford-adrenoleukodystrophy-b3036853.html",
+      "published_date": "2026-08-21T07:23:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Council with no leader faces government takeover",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9w0zwyrjdno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T07:09:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why dodgy doors are the latest casualty of the UK heatwaves",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/why-dodgy-doors-are-the-latest-casualty-of-the-uk-heatwaves",
+      "published_date": "2026-08-21T07:00:29+00:00",
       "category": "Local Events"
     }
   ]
