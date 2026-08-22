@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-22T11:20:59.632421+00:00",
+  "last_updated": "2026-08-22T23:10:58.164938+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Constance Marten granted permission to appeal sentence for killing her baby",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/constance-marten-granted-permission-to-appeal-sentence-for-killing-her-baby-13575776",
+      "published_date": "2026-08-22T12:02:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Fears for Mandelson investigation as Met still doesn’t have unredacted Epstein files",
       "source": "The Independent",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
-      "published_date": "2026-08-18T18:44:06+00:00",
-      "category": "Diplomacy"
+      "title": "Two men arrested over young soldier’s mysterious death in River Tyne",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/liam-potts-death-arrests-tyne-b3037544.html",
+      "published_date": "2026-08-22T14:25:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two men arrested on suspicion of manslaughter after death of soldier released on bail",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/two-men-arrested-on-suspicion-of-manslaughter-after-death-of-22-year-old-soldier-released-on-bail-13575853",
+      "published_date": "2026-08-22T13:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two men re-arrested after death of soldier",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7gkvnd6vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T13:40:35+00:00",
+      "category": "Military"
     },
     {
       "title": "Man tracks down siblings who sent him Christmas present as he fled war 33 years ago",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Why has Russia threatened the UK and what happens next?",
+      "title": "Struggling households need more help with bills, energy industry says",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-18T21:45:17+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T23:00:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Russia threatens UK over supplying drones to Ukraine — The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/18/russia-threatens-uk-over-supplying-drones-to-ukraine-the-latest",
-      "published_date": "2026-08-18T15:44:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Artificial intelligence to stop nuisance 101 police calls about late pizza delivery",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/police-101-ai-nuisance-calls-b3034871.html",
-      "published_date": "2026-08-18T13:44:54+00:00",
-      "category": "Military"
+      "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T11:31:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Plug-in solar: could a low-cost panel cut your bills?",
@@ -410,18 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "Tice should apologise to firefighters for ‘enjoy it’ remark on extreme heat, says Labour",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/19/richard-tice-enjoy-it-remark-extreme-heat-labour",
-      "published_date": "2026-08-19T16:19:41+00:00",
-      "category": "Energy"
+      "title": "What rejoining the EU single market would mean for the UK economy",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/what-rejoining-the-eu-single-market-would-mean-for-the-uk-economy-b3037205.html",
+      "published_date": "2026-08-22T21:51:35+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T16:12:27+00:00",
-      "category": "Energy"
+      "title": "‘Perfect for kids’: the best (and worst) supermarket ketchup, tested and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/aug/22/best-supermarket-ketchup-tested-rated",
+      "published_date": "2026-08-22T12:00:03+00:00",
+      "category": "Economy"
     },
     {
       "title": "Taxi drivers urge council to agree 8% fare hike",
@@ -550,24 +564,94 @@
       "category": "Economy"
     },
     {
-      "title": "Why the US economy is ringing alarm bells",
+      "title": "Fear and fallout three months on from Northern Ireland's race riots",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T08:38:18+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c0ej0edzddjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T23:01:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK retail sales fall as shoppers cut back on clothing and online spending",
+      "title": "Davis 'grateful' for support over cancer diagnosis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T21:50:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meghan’s casting in The Gentlemen reportedly withdrawn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/aug/22/meghan-markles-casting-in-the-gentlemen-reportedly-withdrawn-after-uk-backlash",
+      "published_date": "2026-08-22T21:23:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Video appears to show police chase minutes before fatal A66 crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T20:14:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Badenoch says Reform defectors ‘some of the most dishonest people I have met’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
+      "published_date": "2026-08-22T16:08:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of sex offenders in England and Wales could get libido-suppressing drugs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/22/sex-offenders-libido-control-drugs-prisons-england-wales",
+      "published_date": "2026-08-22T16:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chemical suppression: why the UK is exploring libido control drugs to treat sex offenders",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/22/chemical-suppression-why-the-uk-is-exploring-libido-control-drugs-to-treat-sex-offenders",
+      "published_date": "2026-08-22T16:00:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "All we know about A66 crash that killed seven as police officers who died in pursuit are named",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/uk-retail-sales-clothes-footwear-ons-b3036886.html",
-      "published_date": "2026-08-21T08:27:23+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/a66-cleveland-police-crash-middlesborough-victims-b3037541.html",
+      "published_date": "2026-08-22T15:20:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vigil held for family who died in sea off Shoreham",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c87n7xd2ye9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T14:54:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigate car crash into house in Glasgow suburb",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62e2rv94zvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T12:53:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abusers coercing or duping women to post explicit OnlyFans content, UK court cases reveal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/22/two-uk-men-convicted-explicit-content-onlyfans-without-consent",
+      "published_date": "2026-08-22T12:47:10+00:00",
+      "category": "Local Events"
     },
     {
       "title": "‘Multiple’ people die in crash involving police vehicle and car in North Yorkshire",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
       "published_date": "2026-08-22T10:52:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Third arrest in murder probe after cyclist punched",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7xrj3nd0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T10:29:12+00:00",
       "category": "Local Events"
     },
     {
@@ -599,6 +683,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Usain Bolt set to play Sunday league football",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/usain-bolt-set-to-play-sunday-league-team-football-for-manchester-side-13575711",
+      "published_date": "2026-08-22T07:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Scottish council website carried links to offshore casino sites",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c14122j83rlo?at_medium=RSS&at_campaign=rss",
@@ -610,97 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvg724e10rwo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-22T06:09:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I was being treated for dehydration - when suddenly I couldn't move",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx81qwnd8zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-22T06:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How this 1960s ex-council house is managing to stay cool without air con",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T23:56:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More students planning to live at home for university over 'insane' living costs",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T23:01:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The UK has been burning this summer - and things could get much worse",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/we-have-never-seen-anything-like-this-summer-how-wildfire-threat-in-uk-is-escalating-dramatically-13575380",
-      "published_date": "2026-08-21T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Girl, 6, dies three days after Shoreham sea incident that killed parents and sister",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/21/girl-six-dies-three-days-after-being-pulled-from-sea-off-sussex-coast",
-      "published_date": "2026-08-21T22:50:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arran ferry evacuated over 'bomb threat' by passenger rescued from sea",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g6nd3x0ppo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T21:11:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Girl, 6, dies after being pulled from sea with family in Sussex",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/sussex-shoreham-girl-dies-palestine-b3037351.html",
-      "published_date": "2026-08-21T20:34:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deselected candidate claims Lib Dems’ religious discrimination cost him £790,000",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/21/deselected-candidate-claims-lib-dems-religious-discrimination-cost-him-790000",
-      "published_date": "2026-08-21T19:16:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Body recovered after man reportedly fell overboard from cruise ship",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/body-recovered-after-man-reportedly-fell-overboard-from-cruise-ship-off-scottish-coast-13575595",
-      "published_date": "2026-08-21T18:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MPs ‘failing to learn lesson’ over freebies after accepting £400,000 of hospitality",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/21/mps-failing-to-learn-lesson-over-freebies-after-accepting-400000-of-hospitality",
-      "published_date": "2026-08-21T17:58:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder probe after wildfire uncovers body in park",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0rdk9ddepvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T17:46:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former snooker world champion 'subjected young children to worst kind of abuse'",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/graeme-dott-ex-snooker-world-champion-subjected-young-children-to-worst-kind-of-abuse-court-told-13575553",
-      "published_date": "2026-08-21T17:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man found guilty of murdering estranged wife",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62vp3yzjy5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T16:56:05+00:00",
       "category": "Local Events"
     }
   ]
