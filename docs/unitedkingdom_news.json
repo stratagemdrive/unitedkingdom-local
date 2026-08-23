@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-22T23:10:58.164938+00:00",
+  "last_updated": "2026-08-23T11:21:07.257414+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Russia withdraws ambassador to UK as Kremlin ratchets pressure over Ukraine support",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
+      "published_date": "2026-08-23T10:37:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Pretty shambolic’: new EU border checks cause stress for UK travellers",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/23/new-eu-border-checks-ees-uk-travellers-visa-queues",
+      "published_date": "2026-08-23T07:00:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Constance Marten granted permission to appeal sentence for killing her baby",
       "source": "Sky News",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Burnham urged to join EU pact to tackle small boats and fix Brexit ‘mess’",
+      "title": "MPs call for UK to hold Israeli government to account for killing of journalists following Independent investigation",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-eu-brexit-small-boat-migration-b3035127.html",
-      "published_date": "2026-08-18T21:31:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Join EU migration pact to tackle small boats, says Ed Davey",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8dn3n6pvyvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-18T21:30:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/politics/israel-gaza-mps-journalists-mariam-abu-dagga-b3034858.html",
+      "published_date": "2026-08-23T10:15:55+00:00",
+      "category": "Military"
     },
     {
       "title": "Two men arrested over young soldier’s mysterious death in River Tyne",
@@ -277,11 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "The critical tech staying safe by going underground",
+      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+      "published_date": "2026-08-23T09:07:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Households set to learn how energy bills will change as Ofgem reveals new cap",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/ofgem-households-vat-experts-b3037688.html",
+      "published_date": "2026-08-23T08:00:23+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Major UK-funded climate project in Bangladesh forced to close over aid cuts",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/climate-change/uk-aid-cuts-labour-bangladesh-climate-crisis-b3036385.html",
+      "published_date": "2026-08-23T07:36:20+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Drill, Burnham, drill? The oil basin that is a totem for Trump - and a headache for Britain’s new PM",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain",
+      "published_date": "2026-08-23T05:00:23+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-18T23:25:21+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-23T02:48:41+00:00",
+      "category": "Energy"
     },
     {
       "title": "Struggling households need more help with bills, energy industry says",
@@ -389,39 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Energy price cap hike set to send July inflation surging",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/cpi-rachel-reeves-inflation-investec-government-b3034998.html",
-      "published_date": "2026-08-20T10:19:28+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Some retailers not passing on wholesale fuel price falls quickly enough – CMA",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/government-middle-east-holly-williams-b3034823.html",
-      "published_date": "2026-08-20T10:15:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Drill Andy drill? Burnham’s North Sea dilemma – podcast",
+      "title": "‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/20/andy-burnham-north-sea-dilemma-podcast",
-      "published_date": "2026-08-20T02:00:39+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports",
+      "published_date": "2026-08-23T09:00:28+00:00",
+      "category": "Economy"
     },
     {
-      "title": "India's Gen Z are driving up a mega boom in its beauty market",
+      "title": "UK orders reviews of franchising sector after Vodafone allegations",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/23/uk-review-franchising-sector-vodafone-allegations-adrian-howe",
+      "published_date": "2026-08-23T07:00:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-19T23:31:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "‘Success story’ hailed as bluefin tunas caught off Yorkshire for first time since 1960s",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/19/first-bluefin-tunas-caught-off-yorkshire-since-1960s-success-story-for-marine-conservation",
-      "published_date": "2026-08-19T16:36:55+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-23T05:46:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "What rejoining the EU single market would mean for the UK economy",
@@ -543,25 +564,116 @@
       "category": "Economy"
     },
     {
-      "title": "Business growth accelerates to four-month high amid hot weather boost",
+      "title": "All we know about A66 crash that killed seven as police officers who died in pursuit are named",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/chris-williamson-pmi-prime-minister-andy-burnham-press-association-b3036927.html",
-      "published_date": "2026-08-21T09:58:33+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/a66-cleveland-police-crash-middlesborough-victims-b3037693.html",
+      "published_date": "2026-08-23T10:53:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
+      "title": "Tributes paid to PCs among seven dead in wrong-way crash",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T09:45:11+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-23T10:50:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
+      "title": "‘These were brave officers’: tributes paid to police among seven killed in A66 crash",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand",
-      "published_date": "2026-08-21T08:58:10+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
+      "published_date": "2026-08-23T10:43:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-23T10:02:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When I first moved to Glasgow from India, I felt welcomed and included. Now I just feel scrutinised | Sanghmitra Singh",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/23/glasgow-india-racist-disorder",
+      "published_date": "2026-08-23T09:00:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Burnham to hand mayors powers over local planning decisions",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-planning-mayors-b3037695.html",
+      "published_date": "2026-08-23T08:47:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayors to get new powers over planning decisions under Burnham proposals",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
+      "published_date": "2026-08-23T08:17:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London’s low emission zone is working – so why are cities around the world so cautious about clean air?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air",
+      "published_date": "2026-08-23T07:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First Bus bans under-16s in Stoke-on-Trent travelling alone after 6pm after disorder",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/aug/23/first-bus-bans-under-16s-in-stoke-on-trent-travelling-alone-after-6pm-after-disorder",
+      "published_date": "2026-08-23T07:00:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine out of 10 unsolved murders in London linked to minority ethnic victims",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/aug/23/nine-out-of-10-unsolved-murders-in-london-linked-to-non-white-victims",
+      "published_date": "2026-08-23T06:00:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Onshore windfarm applications hit 10-year high in England",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/onshore-windfarm-applications-10-year-high-england",
+      "published_date": "2026-08-23T06:00:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I'd swell up once a week - now my life has changed",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyq0kz2l72o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-23T05:23:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Papers:  'Power to block nimby protests' and Meghan 'deal could be off'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy070jv944po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-23T05:07:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayors to be given powers to overrule councils and green light major developments",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/pm-andy-burnham-to-give-mayors-power-to-take-control-of-planning-decisions-and-force-through-developments-13576173",
+      "published_date": "2026-08-23T04:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heathrow expansion ‘is threat to England’s largest surviving medieval barn’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/heathrow-expansion-is-threat-to-englands-largest-surviving-medieval-barn",
+      "published_date": "2026-08-23T00:00:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a new era of heatwaves could shake up the school calendar",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-22T23:16:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Fear and fallout three months on from Northern Ireland's race riots",
@@ -589,118 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-22T20:14:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Badenoch says Reform defectors ‘some of the most dishonest people I have met’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
-      "published_date": "2026-08-22T16:08:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of sex offenders in England and Wales could get libido-suppressing drugs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/22/sex-offenders-libido-control-drugs-prisons-england-wales",
-      "published_date": "2026-08-22T16:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chemical suppression: why the UK is exploring libido control drugs to treat sex offenders",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/22/chemical-suppression-why-the-uk-is-exploring-libido-control-drugs-to-treat-sex-offenders",
-      "published_date": "2026-08-22T16:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "All we know about A66 crash that killed seven as police officers who died in pursuit are named",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/a66-cleveland-police-crash-middlesborough-victims-b3037541.html",
-      "published_date": "2026-08-22T15:20:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vigil held for family who died in sea off Shoreham",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c87n7xd2ye9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-22T14:54:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police investigate car crash into house in Glasgow suburb",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62e2rv94zvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-22T12:53:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abusers coercing or duping women to post explicit OnlyFans content, UK court cases reveal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/22/two-uk-men-convicted-explicit-content-onlyfans-without-consent",
-      "published_date": "2026-08-22T12:47:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Multiple’ people die in crash involving police vehicle and car in North Yorkshire",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
-      "published_date": "2026-08-22T10:52:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Third arrest in murder probe after cyclist punched",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7xrj3nd0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-22T10:29:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Multiple deaths after police vehicle and car crash during pursuit",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-22T10:13:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police drop charge against man accused of leaking addresses of asylum seekers",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/police-drop-charge-against-man-accused-of-leaking-addresses-of-asylum-seekers-in-thetford-13575719",
-      "published_date": "2026-08-22T08:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The blueprint for Burnham’s plan to ‘rewire Britain’ could be found 700 miles away",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-prime-minister-no-10-north-manchesterism-b3027957.html",
-      "published_date": "2026-08-22T08:15:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Multiple people have died in a crash after police pursued 'suspicious vehicle'",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/multiple-people-have-died-in-crash-involving-police-vehicle-13575713",
-      "published_date": "2026-08-22T08:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Usain Bolt set to play Sunday league football",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/usain-bolt-set-to-play-sunday-league-team-football-for-manchester-side-13575711",
-      "published_date": "2026-08-22T07:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scottish council website carried links to offshore casino sites",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c14122j83rlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-22T07:05:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teen blinded by firework wants ban on public sales",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg724e10rwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-22T06:09:51+00:00",
       "category": "Local Events"
     }
   ]
