@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-29T03:57:25.766631+00:00",
+  "last_updated": "2026-08-29T15:31:27.023514+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK risks falling behind in AI race without faster telecoms upgrades, say executives",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/aug/29/uk-risk-falling-behind-ai-telecoms-upgrades",
+      "published_date": "2026-08-29T06:00:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "I couldn't reach Yr Wyddfa's summit because people jumped the queue",
       "source": "BBC News",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Woman refused flight home to UK after eVisa system mistakes her for twin sister",
+      "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/29/royal-navy-tracking-russian-vessels-uk-waters-channel-north-sea",
+      "published_date": "2026-08-29T15:06:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Royal Navy warships track Russian vessels for three days in UK waters",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c93e88jzn54o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-29T12:05:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US issues new ultimatum to UK over Falklands",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/visa-digital-evisa-uk-home-office-error-brexit-b3038052.html",
-      "published_date": "2026-08-25T06:36:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/us-uk-falkland-islands-defence-budget-trump-burnham-b3041416.html",
+      "published_date": "2026-08-29T10:45:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Exeter University approves deal with Saudi Arabia to train military officers and officials",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/aug/29/exeter-university-approves-deal-with-saudi-arabia-to-train-military-officers-and-officials",
+      "published_date": "2026-08-29T08:00:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Government’s flagship Sizewell C nuclear project could be delayed in road-building row",
+      "title": "Who exactly is eligible for £300 winter fuel payment this year under DWP rules",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/sizewell-c-nuclear-project-roads-delay-b3039712.html",
-      "published_date": "2026-08-26T15:26:00+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/winter-fuel-payment-2026-dwp-eligible-pensioners-b3041431.html",
+      "published_date": "2026-08-29T10:27:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Refugee who fled Sudan war passes GCSE exams as he targets World Cup dream",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/gcse-results-nasser-hamid-suffolk-b3036279.html",
-      "published_date": "2026-08-26T14:09:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI in everyday devices: tokenised intelligence at the edge",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/business-reporter/ai-devices-intelligence-agents-tokens-b3036705.html",
-      "published_date": "2026-08-26T07:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Canada announces tariffs on $20bn worth of US goods",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017",
-      "published_date": "2026-08-25T14:29:00+00:00",
-      "category": "Military"
+      "title": "Households could save up to £173 a year by switching to fixed energy deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/aug/29/households-could-save-up-to-173-a-year-by-switching-to-fixed-energy-deal",
+      "published_date": "2026-08-29T06:00:21+00:00",
+      "category": "Energy"
     },
     {
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
@@ -410,18 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-26T11:03:50+00:00",
-      "category": "Energy"
+      "title": "‘Simple, creamy and crunchy’: the best (and worst) supermarket coleslaw, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/aug/29/best-worst-supermarket-coleslaw-tasted-rated",
+      "published_date": "2026-08-29T12:00:28+00:00",
+      "category": "Economy"
     },
     {
-      "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
+      "title": "Barber offers free back-to-school haircuts",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3eq38dzpe5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-29T11:47:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tax promises, defence targets and Iran: Andy Burnham’s budget headaches",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
-      "published_date": "2026-08-26T10:55:34+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/29/andy-burnham-john-healey-autumn-budget-2026-challenges",
+      "published_date": "2026-08-29T09:00:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham warned against ‘stupid’ capital gains tax decision",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-capital-gains-tax-labour-b3041399.html",
+      "published_date": "2026-08-29T07:42:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sharp rise in incidents of AI escaping users’ control, research finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
+      "published_date": "2026-08-29T06:00:20+00:00",
+      "category": "Economy"
     },
     {
       "title": "'Healey to defer defence spend target' and 'Fergie's coming home'",
@@ -529,39 +564,109 @@
       "category": "Economy"
     },
     {
-      "title": "'Cowboy builders' targeted in new government clampdown",
+      "title": "Cleverly quits shadow cabinet to run for London mayor",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T10:49:38+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-29T15:25:19+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Healey’s budget to duck setting a date for 3% defence spending target",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/28/john-healey-uk-defence-spending-target-budget",
-      "published_date": "2026-08-28T10:00:22+00:00",
-      "category": "Economy"
+      "title": "Murder arrest after man found dead next to ‘seriously injured’ child",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/northern-ireland-murder-arrest-child-dungannon-b3041499.html",
+      "published_date": "2026-08-29T14:24:46+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "ADHD and autism costs in England ‘running out of control’, NHS leaders warn",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/28/adhd-autism-costs-england-running-out-of-control-nhs-alliance",
-      "published_date": "2026-08-28T09:29:37+00:00",
-      "category": "Economy"
+      "title": "Christian festival 'devastated' after man's death",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-29T14:12:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fed chair hints at US rate rise amid inflation threat",
+      "title": "Murder arrest after man found dead next to seriously injured girl",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/jackson-hole-warsh-gives-clear-us-rate-rise-signal-amid-inflation-threat-13578046",
-      "published_date": "2026-08-28T08:51:00+00:00",
-      "category": "Economy"
+      "url": "https://news.sky.com/story/murder-arrest-after-man-found-dead-next-to-seriously-injured-child-in-northern-ireland-13578610",
+      "published_date": "2026-08-29T14:07:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
+      "title": "Drivers race on dual carriageway before horror crash kills mother and daughter walking to school",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/crime-leeds-car-crash-mother-daughter-b3041441.html",
+      "published_date": "2026-08-29T14:04:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder investigation after man found dead and child seriously injured",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T07:40:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c20vngpg77zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-29T14:03:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cells for arrested offenders may run out without early prison release, says Labour",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/29/cells-for-arrested-offenders-may-run-out-without-early-prison-release-says-labour",
+      "published_date": "2026-08-29T13:25:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fourth time lucky as Chris Cantrill’s spoof whodunnit wins Edinburgh comedy award 2026",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/stage/2026/aug/29/chris-cantrill-edinburgh-comedy-award-2026",
+      "published_date": "2026-08-29T12:50:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I survived the Taliban to go to school – now the UK has blocked me from studying at Oxford’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/taliban-oxford-offer-uk-government-afghan-b3039535.html",
+      "published_date": "2026-08-29T12:43:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The UK tourists named as missing after the Nepal flash floods",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nepal-flash-floods-victims-missing-toll-kent-nurse-b3041472.html",
+      "published_date": "2026-08-29T12:34:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arsonist sets fire to own hand while torching cars on family’s driveway",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/tv/news/crime-slough-arson-krzysztof-orzechowski-b3041410.html",
+      "published_date": "2026-08-29T09:11:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "City centre street reopens after major fire gutted historic building",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/city-centre-street-in-edinburgh-reopens-after-major-fire-gutted-historic-building-13578452",
+      "published_date": "2026-08-29T08:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘In walked this big bundle of energy’: the day Dolly Parton came to Rotherham",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
+      "published_date": "2026-08-29T07:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ireland will be united, says Gordon Brown",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/29/ireland-will-be-united-says-gordon-brown",
+      "published_date": "2026-08-29T05:00:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "We helped create UK emergency alert system - but question how government is using it",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgw7xj698lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-29T01:37:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Mountain of broken fridges growing across England and Wales",
@@ -596,111 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-28T21:41:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It's destroying our town': Residents tell of concern after violent incidents near Middlesbrough",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cx2zdvlqw8yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T21:03:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Duke of Westminster wins bid to change rules on England’s 350,000 listed buildings",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/duke-of-westminster-hugh-grosvenor-listed-buildings-heatwave-retrofit-climate-change-b3041298.html",
-      "published_date": "2026-08-28T20:43:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baby died after hospital monitor volume was too low",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4glz75d57vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T20:10:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Disorder at balloon release unacceptable, says MP",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T19:38:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy, 16, dies after collapsing near river",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/boy-16-dies-after-collapsing-near-river-nith-in-dumfries-police-say-13578234",
-      "published_date": "2026-08-28T19:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who are the 33 British nationals missing in Nepal?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T19:21:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police arrest seven more men in aftermath of deadly A66 crash",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/28/police-arrest-seven-more-men-in-aftermath-of-deadly-a66-crash",
-      "published_date": "2026-08-28T19:17:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NI secretary to consider Parades Commission letter over Drumcree",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c07l9893k91o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T19:12:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Large fire near Wembley Stadium disrupts tube and rail services",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/28/large-fire-near-wembley-stadium-disrupts-tube-and-rail-services",
-      "published_date": "2026-08-28T18:59:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestine Action protestors accused of damaging Trump’s Turnberry golf course had ‘terrorist connection’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/trump-turnberry-palestone-b3041183.html",
-      "published_date": "2026-08-28T18:50:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four plead guilty to arson attack on Jewish community ambulances",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T18:41:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The UK tourists named as missing after the Nepal flash floods",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nepal-flash-floods-nurse-kent-missing-b3040681.html",
-      "published_date": "2026-08-28T18:40:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Big Church Festival cancels shows after sign falls on visitors, injuring six",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/big-church-festival-sign-falls-injuries-wiston-park-steyning-west-sussex-b3041215.html",
-      "published_date": "2026-08-28T18:34:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven more men arrested amid organised crime investigation after A66 crash",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/a66-crash-seven-arrests-organised-crime-middlesbrough-b3041236.html",
-      "published_date": "2026-08-28T18:15:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drumcree ruling raises fears of sectarian confrontation in Northern Ireland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/28/drumcree-dispute-court-ruling-garvaghy-road-marching-season",
-      "published_date": "2026-08-28T17:11:03+00:00",
       "category": "Local Events"
     }
   ]
