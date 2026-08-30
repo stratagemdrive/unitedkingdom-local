@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-30T00:53:36.372836+00:00",
+  "last_updated": "2026-08-30T15:11:33.328502+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘I’ve been waiting for this for 20 years’: Father jailed for two decades for stealing mobile phone finally going home",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/ipp-sentence-leroy-douglas-parole-un-andy-burnham-b3039743.html",
+      "published_date": "2026-08-30T12:15:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Man jailed for causing girlfriend’s death and lying about hit and run",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/matthew-duplessis-chester-charlotte-dodd-b3041724.html",
+      "published_date": "2026-08-30T09:05:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Man, 35, who lied and said girlfriend’s death was hit and run jailed for her death",
       "source": "The Independent",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "National lottery faces questions over new boss’s record in gambling industry",
+      "title": "Prosecutors consider charges against officers involved in spycops scandal",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/26/national-lottery-faces-questions-over-new-bosss-record-in-gambling-industry",
-      "published_date": "2026-08-26T05:00:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/30/prosecutors-considering-charges-against-officers-spycops-scandal",
+      "published_date": "2026-08-30T11:00:56+00:00",
+      "category": "Military"
     },
     {
-      "title": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-25T23:41:13+00:00",
-      "category": "Diplomacy"
+      "title": "Arms and the £5m man: Farage megadonor Christopher Harborne’s military empire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/30/arms-and-the-5m-man-farage-megadonor-christopher-harbornes-military-empire",
+      "published_date": "2026-08-30T05:00:47+00:00",
+      "category": "Military"
     },
     {
       "title": "Royal Navy spent three days tracking Russian vessels in UK waters",
@@ -267,20 +281,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/wes-streeting-online-homophobia-defence-secretary-b3040012.html",
       "published_date": "2026-08-26T23:18:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wes Streeting deluged with homophobic hate mail since becoming defence secretary",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly46gxgq7eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-26T21:21:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wes Streeting describes ‘unbelievable volume’ of homophobic abuse since becoming defence secretary",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/26/wes-streeting-homophobic-abuse-uk-defence-secretary",
-      "published_date": "2026-08-26T18:41:22+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,48 @@
       "category": "Energy"
     },
     {
+      "title": "Recruiter places ‘phoenix’ firm into liquidation just months after repurchase erased millions in debt",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/30/phoenix-redundancies-recruiter-hmrc",
+      "published_date": "2026-08-30T14:38:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ProCook outdoor pizza oven review: a budget-friendly model that brings the pizzeria home",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/aug/30/procook-outdoor-pizza-oven-review",
+      "published_date": "2026-08-30T12:00:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Meet the gen Zers finding job opportunities teaching English abroad",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/aug/30/young-americans-teaching-abroad",
+      "published_date": "2026-08-30T11:00:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pet owners at risk of being ripped off by private equity firms as vet ownership rules change",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/pet-owners-private-equity-firms-vet-ownership-rules-change",
+      "published_date": "2026-08-30T08:00:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Which UK supermarkets are open on the August bank holiday?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/monday-bank-holiday-supermarkets-opening-times-aldi-tesco-asda-b3041682.html",
+      "published_date": "2026-08-30T06:26:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "South West Water has worst environmental record in England, analysis shows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/30/south-west-water-worst-environmental-record-england",
+      "published_date": "2026-08-30T06:00:48+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Healey ‘considers windfall tax on banks and oil companies in first Budget’",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/healey-windfall-tax-banks-oil-companies-budget-b3041612.html",
@@ -522,46 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "Fair pay, service charges and the pressure to tip | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/28/fair-pay-service-charges-and-the-pressure-to-tip",
-      "published_date": "2026-08-28T15:38:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mapped: The 195 Beefeaters and Brewers Fayre locations at risk of closure across UK",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/beefeaters-brewers-fayre-closures-locations-map-b3041081.html",
-      "published_date": "2026-08-28T15:18:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+      "title": "British woman killed in stabbing at German railway station",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-28T15:15:26+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-30T15:00:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Labour rejects Zack Polanski’s call to ‘slam brakes’ on building AI datacentres",
+      "title": "Police release one of two fatal fire suspects",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-30T14:34:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two missing as French fishing boat sinks in Channel",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjrx2qjv3e3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-30T14:18:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Child in 'critical' condition as police continue murder investigation",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0klvyry727o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-30T13:31:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested over fatal stabbing of British woman in Germany",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/28/labour-green-party-zack-polanski-ai-datacentres",
-      "published_date": "2026-08-28T15:11:46+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/aug/30/man-arrested-fatal-stabbing-british-woman-germany-rosenheim-train-station",
+      "published_date": "2026-08-30T13:27:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "From sustainable sponges to seriously comfy walking boots: the best August bank holiday deals on the products we love",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/aug/28/best-august-bank-holiday-deals-filter-uk-tested-products",
-      "published_date": "2026-08-28T14:42:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Asda returns to growth for first time in two years amid major turnaround plan",
+      "title": "British woman, 31, dies after stabbing attack at German train station",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/asda-sales-supermarkets-fuel-allan-leighton-b3041054.html",
-      "published_date": "2026-08-28T13:53:23+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/rosenheim-railway-station-woman-stabbed-b3041740.html",
+      "published_date": "2026-08-30T13:19:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man Utd pay tribute to 'proud Red' officer who died in A66 crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-30T12:46:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Without us, no wheel would turn’: the unsung heroes keeping England’s transport moving",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/30/heroes-england-transport-airports-railways-buses",
+      "published_date": "2026-08-30T12:35:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cities are the big winners in Burnham’s devolution drive. But what happens to the rest of England? | John Harris",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/andy-burnham-mayors-devolution-regions-england-labour",
+      "published_date": "2026-08-30T11:00:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK asks banks for feelgood stories about keeping out dirty money",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/30/treasury-city-real-life-proof-blocking-dirty-money",
+      "published_date": "2026-08-30T11:00:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two murder arrests after balcony fall man dies",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgqd1pdny4po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-30T10:48:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Train drivers secure 3.6% pay rise after threat of strikes on busy UK routes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/30/train-drivers-pay-rise-avanti-aslef-uk",
+      "published_date": "2026-08-30T10:32:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British woman dies after stabbing at train station in Germany",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/british-woman-dies-after-stabbing-at-train-station-in-germany-13578974",
+      "published_date": "2026-08-30T09:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New payment set up? Get in touch! The bank scam where your ‘bank’ is the scammer",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/aug/30/new-payment-set-up-get-in-touch-the-bank-scam-where-your-bank-is-the-scammer",
+      "published_date": "2026-08-30T07:00:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "We all share a 15-acre Georgian mansion for the price of a two-bed house",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg7mglglvmgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-30T06:04:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On long road back from Brexit, north-east’s recovery rides on survival of Nissan’s ‘shining star’ plant",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/30/brexit-north-east-recovery-rides-survival-nissan-plant",
+      "published_date": "2026-08-30T06:00:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollution",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/30/sewage-brighton-swimmers-condemn-sea-pollution",
+      "published_date": "2026-08-30T06:00:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Village cricketer raises cash to fly by helicopter from wedding to play at Lord’s in lifetime ambition",
@@ -582,125 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/james-cleverly-london-mayor-sadiq-khan-b3041600.html",
       "published_date": "2026-08-29T22:53:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British boxer Moses Itauma suffers shock defeat in world title fight",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/british-boxer-moses-itauma-suffers-shock-defeat-to-filip-hrgovic-in-world-title-fight-13578896",
-      "published_date": "2026-08-29T20:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder investigation launched after body of woman found in park",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/murder-investigation-launched-after-body-of-woman-found-in-park-13578848",
-      "published_date": "2026-08-29T19:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies after collision between train and van",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-dies-after-collision-between-train-and-van-13578841",
-      "published_date": "2026-08-29T18:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Daughter traces mother and aunt’s last known location in Nepal through TikTok video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/29/daughter-traces-mother-and-aunts-last-known-location-in-nepal-through-tiktok-video",
-      "published_date": "2026-08-29T17:01:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested for murder over Middlesbrough house fire appears in court",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/middlesbrough-house-fire-jaden-wright-court-b3041561.html",
-      "published_date": "2026-08-29T16:47:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "James Cleverly resigns from shadow cabinet to run for mayor of London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/29/james-cleverly-resigns-conservative-shadow-cabinet-london-mayor",
-      "published_date": "2026-08-29T16:24:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested over fatal house fire near Middlesbrough charged with strangulation",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-arrested-on-suspicion-of-murder-over-fatal-house-fire-near-middlesbrough-charged-with-gbh-and-strangulation-13578747",
-      "published_date": "2026-08-29T16:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cleverly quits shadow cabinet to run for London mayor",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-29T15:25:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attempted murder arrest after man falls from balcony",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c93e8n8vqlpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-29T15:17:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Big-hitting' Tory MP quits shadow cabinet to stand for London mayor",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/conservative-mp-james-cleverly-quits-shadow-cabinet-to-stand-for-london-mayor-13578660",
-      "published_date": "2026-08-29T15:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder arrest after man found dead next to ‘seriously injured’ child",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/northern-ireland-murder-arrest-child-dungannon-b3041499.html",
-      "published_date": "2026-08-29T14:24:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Christian festival 'devastated' after man's death",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-29T14:12:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder arrest after man found dead next to seriously injured girl",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/murder-arrest-after-man-found-dead-next-to-seriously-injured-child-in-northern-ireland-13578610",
-      "published_date": "2026-08-29T14:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drivers race on dual carriageway before horror crash kills mother and daughter walking to school",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/crime-leeds-car-crash-mother-daughter-b3041441.html",
-      "published_date": "2026-08-29T14:04:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder investigation after man found dead and child seriously injured",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20vngpg77zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-29T14:03:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cells for arrested offenders may run out without early prison release, says Labour",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/29/cells-for-arrested-offenders-may-run-out-without-early-prison-release-says-labour",
-      "published_date": "2026-08-29T13:25:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fourth time lucky as Chris Cantrill’s spoof whodunnit wins Edinburgh comedy award 2026",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/stage/2026/aug/29/chris-cantrill-edinburgh-comedy-award-2026",
-      "published_date": "2026-08-29T12:50:21+00:00",
       "category": "Local Events"
     }
   ]
