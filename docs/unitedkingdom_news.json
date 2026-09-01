@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-08-31T17:56:26.871187+00:00",
+  "last_updated": "2026-09-01T01:30:35.823497+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -130,6 +130,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Burnham calls summit of Welsh, Scottish and Northern Irish first ministers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c14d8v83ny7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-27T15:21:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Much-loved ice cream shop to close after 106 years",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c93ep37jq8wo?at_medium=RSS&at_campaign=rss",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Atom Bank to replace veteran chief who advocated four-day working week",
+      "title": "New super flu vaccine rollout begins as NHS regroups from 'busiest summer'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T23:46:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hundreds arrested and weapons seized at Notting Hill Carnival",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/atom-bank-to-replace-veteran-chief-who-advocated-four-day-working-week-13577672",
-      "published_date": "2026-08-27T08:30:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://news.sky.com/story/hundreds-arrested-and-weapons-seized-at-notting-hill-carnival-13579638",
+      "published_date": "2026-08-31T23:11:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Conservative reshuffle: who’s who in Kemi Badenoch’s top team?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/31/conservative-reshuffle-whos-who-in-kemi-badenochs-top-team",
+      "published_date": "2026-08-31T18:45:40+00:00",
+      "category": "Military"
     },
     {
       "title": "UK households will suffer £2,400 hit from Iran war, analysis shows",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Russia says it could hit UK military targets over supply of missile technology to Ukraine – as it happened",
+      "title": "Rising microplastics in soil a threat to UK food security, MPs and campaigners say",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/aug/27/mcfadden-meta-jobs-neets-burnham-wales-unemployment-tata-steel-industry-latest-news-updates",
-      "published_date": "2026-08-27T14:41:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI can detect heart disease in women using mammograms, study suggests",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/27/mammograms-heart-disease-in-women-study",
-      "published_date": "2026-08-27T14:00:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mapped: The UK military bases threatened by Russia as Kremlin rages over missiles for Ukraine",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-military-bases-map-russia-putin-threat-ukraine-b3040282.html",
-      "published_date": "2026-08-27T13:55:44+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/sep/01/rising-microplastics-in-soil-a-threat-to-uk-food-security-mps-and-campaigners-say",
+      "published_date": "2026-08-31T23:01:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "BT on track for estimated £2bn windfall from selling old copper amid AI boom",
@@ -417,11 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Energy bills could be more than £200 higher by 2027, experts warn",
+      "title": "How Shein lost its shine ahead of long-awaited stock market debut",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-01T00:56:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham warned trans-pacific £2bn trade boost fails ‘to plug Brexit black hole’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/energy-bills-price-cap-october-january-rise-b3040213.html",
-      "published_date": "2026-08-27T11:05:56+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-britain-trans-pacific-trade-canada-b3042213.html",
+      "published_date": "2026-08-31T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "No place for ‘cheap tat’ on Not On The High Street, says Dragons’ Den investor",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/sara-davies-chinese-one-british-people-b3042391.html",
+      "published_date": "2026-08-31T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Japan Inc is betting big on India as China risks deepen",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T22:07:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "More cells being built within prisons to help tackle overcrowding",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T21:59:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T21:28:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "More public control is the way to grow UK economy, Burnham to tell MPs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-commons-more-public-ownership-only-way-to-grow-uk-economy",
+      "published_date": "2026-08-31T18:13:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Kemi Badenoch replaces top Tory economic team in shadow Cabinet reshuffle",
@@ -515,53 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Rejoining the EU, Burnham’s donors and the bedroom tax: Politics Weekly answers your questions – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast",
-      "published_date": "2026-08-31T04:00:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "State-backed investment account could be made available to children in future",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/irish-budget-department-of-finance-press-association-b3041922.html",
-      "published_date": "2026-08-30T23:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lack of clarity over SEN taxi situation 'hurtful and frustrating'",
+      "title": "Holy Cross school dispute was 'hatred at its worst'",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czezn7wxw13o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-30T23:00:18+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c0m314lrywno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T23:07:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Recruiter places ‘phoenix’ firm into liquidation just months after repurchase erased millions in debt",
+      "title": "UK houses near top state secondary schools cost £40,000 more, research reveals",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/30/phoenix-redundancies-recruiter-hmrc",
-      "published_date": "2026-08-30T14:38:00+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/money/2026/sep/01/uk-houses-near-top-state-secondary-schools-cost-40000-more",
+      "published_date": "2026-08-31T23:01:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "ProCook outdoor pizza oven review: a budget-friendly model that brings the pizzeria home",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/aug/30/procook-outdoor-pizza-oven-review",
-      "published_date": "2026-08-30T12:00:55+00:00",
-      "category": "Economy"
+      "title": "Thousands of healthcare students to get cash for travel costs under new plans",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-healthcare-student-placement-cash-b3042141.html",
+      "published_date": "2026-08-31T23:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Meet the gen Zers finding job opportunities teaching English abroad",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/aug/30/young-americans-teaching-abroad",
-      "published_date": "2026-08-30T11:00:56+00:00",
-      "category": "Economy"
+      "title": "Boy, 16, charged with murder and attempted murder",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3rnk7975po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T21:33:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pet owners at risk of being ripped off by private equity firms as vet ownership rules change",
+      "title": "Man dies near Notting Hill Carnival after entering canal",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg7kzy2n8z7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T21:33:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arrest made after boat crash and ‘assault’ on River Thames",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/river-thames-boat-crash-arrest-maidenhead-rowing-club-b3042304.html",
+      "published_date": "2026-08-31T19:20:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police appeal after unidentified woman’s body found in Liverpool park",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/pet-owners-private-equity-firms-vet-ownership-rules-change",
-      "published_date": "2026-08-30T08:00:50+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/aug/31/police-appeal-unidentified-womans-body-liverpool-stanley-park",
+      "published_date": "2026-08-31T17:58:12+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hundreds of villagers turn up with camp chairs to stop unauthorised work at wildlife spot",
@@ -634,6 +683,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Family in Wales fear for missing hydropower worker after Nepal flood",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1kxmvm39nyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T11:19:52+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Man arrested over fatal stabbing of British woman in Germany ‘detained in psychiatric hospital’",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/rosenheim-germany-stabbing-suspect-arrest-b3042069.html",
@@ -645,62 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-31T10:00:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schools need to change for good to help children cope with heatwaves – here’s how",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/schools-heatwaves-changes-climate-change-temperatures-b3040857.html",
-      "published_date": "2026-08-31T09:03:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uber driver takes TfL to court over ‘pain‘ caused by licence renewal delay",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/31/uber-driver-tfl-court-licence-renewal-delay",
-      "published_date": "2026-08-31T09:01:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cleverly accuses Burnham of 'war on London'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c93vgvyn1deo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-31T08:54:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pupils at King's old school find '1,000-year-old Viking church'",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/gordonstoun-school-pupils-discover-1000-year-old-viking-church-13579360",
-      "published_date": "2026-08-31T08:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grandfather dies months after confronting burglars",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ymv11xvl1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-31T08:15:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The millennials swapping doom-scrolling for gardening",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4r4n3p02o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-31T05:58:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hints of fiery finale for last ever episode of River City",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1dl31k01v7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-31T05:20:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS to offer free high-street cholesterol tests in England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
-      "published_date": "2026-08-31T05:00:16+00:00",
       "category": "Local Events"
     }
   ]
