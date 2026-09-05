@@ -1,8 +1,36 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-09-05T00:28:21.474888+00:00",
+  "last_updated": "2026-09-05T13:42:00.365486+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘I could watch her for hours’: the woman who rescued a bee and created a buzz",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/phoebee-queen-bee-bumblebee-rescue",
+      "published_date": "2026-09-05T12:00:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/sep/05/alzheimers-trial-drug-dementia",
+      "published_date": "2026-09-05T11:36:15+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
+      "published_date": "2026-09-05T09:16:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nearly half of adults left sunburnt and many are 'not protecting themselves'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/nearly-half-of-adults-left-sunburnt-and-many-are-not-protecting-themselves-cancer-charity-warns-13581604",
+      "published_date": "2026-09-05T06:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
       "source": "The Guardian",
@@ -116,32 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Citibank’s London unit fined £4.7m for breaching Russia sanctions",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/london-citibank-russia-uk-treasury-b3043474.html",
-      "published_date": "2026-09-02T12:58:50+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Former boxer to host annual school uniform giveaway",
+      "title": "How much can Canada fight back in its trade war with the US?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c93vkx4lzyeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T12:48:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel warns it will retaliate if UK imposes sanctions on illegal West Bank settlements",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ed-miliband-israel-sanctions-west-bank-b3043359.html",
-      "published_date": "2026-09-02T10:07:48+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Papers: 'Brexit and Thatcher to blame' and 'Hottest summer ever'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg59d209dd1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-02T00:34:58+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T02:13:21+00:00",
+      "category": "Military"
     },
     {
       "title": "Farage unveils small boats deal with French National Rally party",
@@ -277,11 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Former NCSC executive raises millions for start-up AI Score",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/former-ncsc-executive-raises-millions-for-start-up-ai-score-13580696",
-      "published_date": "2026-09-03T06:03:00+00:00",
-      "category": "Military"
+      "title": "‘Pungent and mealy’: the best (and worst) supermarket tuna, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/sep/05/best-worst-supermarket-tinned-tuna-tasted-rated",
+      "published_date": "2026-09-05T12:00:37+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Reform continues to cast doubt on climate science. Do its supporters agree?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/05/reform-continues-to-cast-doubt-on-climate-science-do-its-supporters-agree",
+      "published_date": "2026-09-05T11:00:34+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Nigel Farage latest: Reform leader battles to contain donations scandal fallout as probe expected to widen",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-uk-conference-live-channel-4-donations-scandal-news-b3045139.html",
+      "published_date": "2026-09-05T07:38:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T01:03:35+00:00",
+      "category": "Energy"
     },
     {
       "title": "Tonnes of rubble including 'bits of old toilets' being dumped in village, residents claim",
@@ -396,32 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Zika virus mosquito found breeding in east London in UK first",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/mosquito-dengue-zika-virus-london-breeding-b3044195.html",
-      "published_date": "2026-09-03T14:06:39+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The best fans to keep you cool in 2026 – tried and tested",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
-      "published_date": "2026-09-03T14:00:41+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
+      "title": "Reform promises to increase tax-free personal allowance to £15,000",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-03T13:26:54+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T12:59:02+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Invasive tropical mosquito found breeding in east London",
+      "title": "John Healey warns of tough first budget as Middle East war puts pressure on economy",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/03/invasive-tropical-mosquito-breeding-london",
-      "published_date": "2026-09-03T12:51:53+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy",
+      "published_date": "2026-09-05T11:26:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "September 2026 benefit and pension payment dates plus cost of living support",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/dwp-benefits-pension-cost-of-living-pip-september-2026-b3045175.html",
+      "published_date": "2026-09-05T09:47:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Chancellor warns tough Budget looms as Trump’s war with Iran hits UK economy",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/john-healey-trump-iran-war-uk-economy-budget-b3045143.html",
+      "published_date": "2026-09-05T07:51:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Food delivery riders call on platforms to open up AI ‘black box’ they say has cut pay",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay",
+      "published_date": "2026-09-05T06:00:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-04T23:47:40+00:00",
+      "category": "Economy"
     },
     {
       "title": "Burnham accused of ‘hiking university tuition fees to record levels’",
@@ -522,46 +564,116 @@
       "category": "Economy"
     },
     {
-      "title": "Thieves target mail order sales as Pokémon card prices soar",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/games/2026/sep/04/thieves-target-mail-order-sales-as-pokemon-card-prices-soar",
-      "published_date": "2026-09-04T09:35:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Volkswagen to cut up to 50,000 jobs amid growing Chinese competition",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/volkswagen-job-cuts-china-germany-b3044612.html",
-      "published_date": "2026-09-04T08:38:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How will bond market turmoil affect your mortgage, pension and savings in UK?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/sep/04/how-will-bond-market-turbulence-affect-uk-consumer-finances",
-      "published_date": "2026-09-04T07:56:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK has not done enough to prepare for shocks to food supplies, says watchdog",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/04/uk-not-done-enough-to-prepare-for-shocks-to-food-supplies-says-watchdog",
-      "published_date": "2026-09-04T06:00:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Revealed: how companies ‘secretly’ use billions of litres of public water in drought-hit England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/revealed-how-companies-secretly-use-billions-of-litres-of-public-water-in-drought-hit-england",
-      "published_date": "2026-09-04T06:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "title": "Disruption at Port of Dover as masked men hold protest",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-04T05:09:02+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T13:29:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protester attacked at Reform conference considering coming forward after police appeal – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
+      "published_date": "2026-09-05T13:25:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two threads torn in Bayeux Tapestry on journey to London from France",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/bayeux-tapestry-british-museum-torn-london-france-tickets-b3045132.html",
+      "published_date": "2026-09-05T13:18:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Masked protesters block access to Port of Dover",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/port-of-dover-masked-protesters-police-traffic-b3045148.html",
+      "published_date": "2026-09-05T13:15:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dover protest latest: Government condemns masked ‘stop the boats’ demonstration that blocks roads",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/dover-protest-today-live-kent-police-news-b3045196.html",
+      "published_date": "2026-09-05T13:01:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Black-clad protesters in balaclavas block road at port of Dover in Kent",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/black-clad-protesters-balaclavas-block-road-port-of-dover-kent",
+      "published_date": "2026-09-05T12:20:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform supporters say how Britain could be better",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c5yjr17z536o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T10:04:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
+      "published_date": "2026-09-05T10:00:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Sinn Féin traitors!’: how far-right rhetoric derailed party’s path to power in Ireland",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/05/sinn-fein-traitors-how-far-right-rhetoric-derailed-party-path-to-power-in-ireland",
+      "published_date": "2026-09-05T09:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The pressure on Burnham to appease the right is huge. But now is the time to step out of Reform’s shadow | Andy Beckett",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/05/andy-burnham-reform-uk-labour-rightwing-voters",
+      "published_date": "2026-09-05T09:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Clock starts ticking on race to buy Scotland's 'forgotten Einstein' church",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9e080n78o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T07:44:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The two-year trail of financial controversy dogging Reform and Farage",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage",
+      "published_date": "2026-09-05T06:00:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK subsidence claims surge after hottest summer on record",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/05/uk-insurers-surge-subsidence-claims-hottest-summer-on-record",
+      "published_date": "2026-09-05T06:00:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T05:52:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "England cricket kit supplier Castore eyes blockbuster sale",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/england-cricket-kit-supplier-castore-eyes-blockbuster-sale-13581601",
+      "published_date": "2026-09-05T05:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T01:53:45+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Child-like sex doll ban takes step closer to becoming law after MPs back new bill",
@@ -589,118 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-04T19:50:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murderer ensnared after girl he kidnapped and sexually assaulted tore hair out to leave DNA",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/paul-sharpe-stockport-manchester-kidnap-sexual-assault-b3045014.html",
-      "published_date": "2026-09-04T18:49:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Reform broke no law': Nigel Farage responds to latest donation revelations – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/sep/04/reform-broke-no-law-nigel-farage-responds-to-latest-donation-revelations-video",
-      "published_date": "2026-09-04T18:45:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigel Farage fights for survival as new Reform sleaze scandal rocks party",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-donations-scandal-police-probe-b3044924.html",
-      "published_date": "2026-09-04T18:28:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farage seeks to shore up damaged leadership as scandal engulfs Reform conference",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/04/nigel-farage-seeks-shore-up-damaged-reform-leadership-scandal-engulfs-party-conference",
-      "published_date": "2026-09-04T18:16:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform donations scandal: is this the final blow for Farage? – The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/sep/04/reform-donations-scandal-is-this-the-final-blow-for-farage",
-      "published_date": "2026-09-04T17:56:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cambridge University asks former chief crown prosecutor to open Arday review",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/04/cambridge-university-nazir-afzal-to-lead-first-part-jason-arday-review",
-      "published_date": "2026-09-04T17:48:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two threads torn in Bayeux Tapestry on journey to London from France",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/bayeux-tapestry-torn-british-museum-france-b3044928.html",
-      "published_date": "2026-09-04T17:27:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform has faced a 'campaign of attacks', Farage says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy5zrd2nydyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-04T17:21:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform councillor quits party as row erupts over alleged missing funds",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-resignation-north-east-lincolnshire-council-b3044808.html",
-      "published_date": "2026-09-04T16:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "1986: Manchester's second-hand fashion mecca",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/videos/cj9x1kejd4lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-04T15:26:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Liverpool winger Jordan Ibe avoids jail after assaulting girlfriend",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/jordon-ibe-court-liverpool-bournemouth-b3044852.html",
-      "published_date": "2026-09-04T15:23:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman who pawned Edgar Davids’ £118,000 art collection misses court after being ‘knocked out by luggage’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/edgar-davids-nabila-habiby-art-theft-fraud-wood-green-b3044902.html",
-      "published_date": "2026-09-04T15:21:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Britain's longest-serving female prisoner back behind bars weeks after release",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/maria-pearson-britains-longest-serving-female-prisoner-back-behind-bars-weeks-after-release-13581370",
-      "published_date": "2026-09-04T15:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Milky Way at the dining table: Bath art show celebrates 18th-century brother and sister astronomers",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/sep/04/bath-show-astronomers-william-caroline-herschel-art",
-      "published_date": "2026-09-04T15:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform suspends two officials over donations sting as Farage admits their comments ‘don’t look good’ – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates",
-      "published_date": "2026-09-04T14:43:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man who died after entering canal while fleeing police at Notting Hill Carnival is named",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-who-died-after-entering-canal-while-fleeing-police-at-notting-hill-carnival-is-named-as-karnell-kelly-13581347",
-      "published_date": "2026-09-04T14:08:00+00:00",
       "category": "Local Events"
     }
   ]
