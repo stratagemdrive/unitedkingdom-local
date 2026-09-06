@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-09-05T13:42:00.365486+00:00",
+  "last_updated": "2026-09-06T00:22:34.764692+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -29,6 +29,13 @@
       "source": "Sky News",
       "url": "https://news.sky.com/story/nearly-half-of-adults-left-sunburnt-and-many-are-not-protecting-themselves-cancer-charity-warns-13581604",
       "published_date": "2026-09-05T06:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Beekeepers warn of Asian hornet threat and call for UK awareness campaign",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/05/beekeepers-asian-hornet-threat-uk-awareness-campaign",
+      "published_date": "2026-09-05T05:00:29+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Swedish minister defends strict post-Brexit removals of Britons",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/02/swedish-minister-removals-deportations-britons-brexit",
-      "published_date": "2026-09-02T12:59:23+00:00",
-      "category": "Diplomacy"
+      "title": "'Fantastic' moment blind veteran, 95, drives again after giving up licence",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyw8np7nmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T20:48:26+00:00",
+      "category": "Military"
     },
     {
       "title": "How much can Canada fight back in its trade war with the US?",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "MoD withheld information about nuclear test veterans' records, ex-minister claims",
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3d787k9kpyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-03T08:52:28+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T23:20:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "‘Pungent and mealy’: the best (and worst) supermarket tuna, tasted and rated",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Unlike Keir Starmer, Andy Burnham promises us that things will get better. And we must believe they can | Polly Toynbee",
+      "title": "Scottish government told to take sewage 'crisis' seriously after record 100,000 spills",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/scottish-government-told-to-take-sewage-crisis-seriously-after-record-100000-spills-13581777",
+      "published_date": "2026-09-05T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business Secretary to meet Jaguar Land Rover bosses amid job cut reports",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/jaguar-land-rover-jonathan-reynolds-sharon-graham-government-solihull-b3045366.html",
+      "published_date": "2026-09-05T22:53:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘The chancellor is in a bind’: is No 11 at odds with Burnham’s big vision?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/03/keir-starmer-andy-burnham-things-will-get-better",
-      "published_date": "2026-09-03T16:36:05+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-andy-burnham-labour-economics",
+      "published_date": "2026-09-05T14:00:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Reform promises to increase tax-free personal allowance to £15,000",
@@ -543,25 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "Andy Burnham presents his new government as more leftwing. In reality, it’s barely moved at all | Owen Jones",
+      "title": "London Paddington fire causes rail chaos as Heathrow trains cancelled",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/04/andy-burnham-more-leftwing-keir-starmer",
-      "published_date": "2026-09-04T11:57:11+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/london-paddington-fire-causes-rail-chaos-heathrow-trains-cancelled",
+      "published_date": "2026-09-05T22:18:25+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Major UK supermarkets recall products over allergy fears",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/supermarkets-recall-allergy-tesco-waitrose-b3044698.html",
-      "published_date": "2026-09-04T11:02:49+00:00",
-      "category": "Economy"
+      "title": "Prince William to represent King Charles at funeral of Norway’s King Harald V",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/prince-william-to-represent-king-charles-at-funeral-of-norways-king-harald-v",
+      "published_date": "2026-09-05T22:11:21+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Central banks face ‘serious challenge’ from populism, says Bank of England boss",
+      "title": "Trains cancelled as grass fire near Paddington blocks lines to Heathrow",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/andrew-bailey-reform-uk-bank-of-england-donald-trump-london-school-of-economics-b3044717.html",
-      "published_date": "2026-09-04T10:25:07+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/london-heathrow-fire-disruption-paddington-b3045335.html",
+      "published_date": "2026-09-05T21:48:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Major disruption as grass fire halts all trains to Heathrow Airport",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T21:22:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T21:00:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police seize £200k Lamborghini under tightened antisocial driving laws",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/police-seize-200k-lamborghini-under-tightened-antisocial-driving-laws",
+      "published_date": "2026-09-05T19:23:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police probe after child dies in woodland",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gmk8lmzzyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T18:22:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Smartphones are now banned in schools, but teachers are divided on how to enforce it",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/mobile-phone-bans-school-uk-b3043975.html",
+      "published_date": "2026-09-05T16:20:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder investigation launched after man dies with head injuries in south London",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/lambeth-murder-poynders-road-london-b3045277.html",
+      "published_date": "2026-09-05T15:46:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catastrophic dangers await Burnham’s push for English devolution | Phillip Inman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/05/catastrophic-dangers-await-burnhams-push-english-devolution",
+      "published_date": "2026-09-05T15:00:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Raise the Colours leader given access to Reform UK conference while on bail",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/05/raise-the-colours-leader-given-access-to-reform-uk-conference-while-on-bail",
+      "published_date": "2026-09-05T14:45:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Disruption at Port of Dover as masked men hold protest",
@@ -606,6 +683,13 @@
       "category": "Local Events"
     },
     {
+      "title": "New police team to crack down on illegal number plates across England",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cge4g189e13o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-05T12:06:11+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Reform supporters say how Britain could be better",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c5yjr17z536o?at_medium=RSS&at_campaign=rss",
@@ -617,90 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
       "published_date": "2026-09-05T10:00:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Sinn Féin traitors!’: how far-right rhetoric derailed party’s path to power in Ireland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/05/sinn-fein-traitors-how-far-right-rhetoric-derailed-party-path-to-power-in-ireland",
-      "published_date": "2026-09-05T09:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The pressure on Burnham to appease the right is huge. But now is the time to step out of Reform’s shadow | Andy Beckett",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/05/andy-burnham-reform-uk-labour-rightwing-voters",
-      "published_date": "2026-09-05T09:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clock starts ticking on race to buy Scotland's 'forgotten Einstein' church",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v9e080n78o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-05T07:44:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The two-year trail of financial controversy dogging Reform and Farage",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage",
-      "published_date": "2026-09-05T06:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK subsidence claims surge after hottest summer on record",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/05/uk-insurers-surge-subsidence-claims-hottest-summer-on-record",
-      "published_date": "2026-09-05T06:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-05T05:52:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England cricket kit supplier Castore eyes blockbuster sale",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/england-cricket-kit-supplier-castore-eyes-blockbuster-sale-13581601",
-      "published_date": "2026-09-05T05:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-05T01:53:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child-like sex doll ban takes step closer to becoming law after MPs back new bill",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/child-like-sex-doll-ban-mps-bill-b3045065.html",
-      "published_date": "2026-09-04T22:25:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cleveland police chief proud of force but being 'let down' by funding",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-04T21:00:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBC visits area at heart of police investigation after A66 crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-04T20:10:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-04T19:50:01+00:00",
       "category": "Local Events"
     }
   ]
