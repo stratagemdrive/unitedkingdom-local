@@ -1,8 +1,36 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-09-07T16:18:45.925948+00:00",
+  "last_updated": "2026-09-08T00:48:04.119325+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK to announce trade ban with Israeli West Bank settlements",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/uk-israel-settlements-trade-ban-burnham-miliband-b3046204.html",
+      "published_date": "2026-09-07T21:38:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK to adopt tougher stance on Israel with illegal settlements trade ban",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
+      "published_date": "2026-09-07T18:34:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ecclestone stopped by police for taking shotgun into Portugal",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-07T17:40:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK begins talks to rejoin EU security missions",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd947jxgxe2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-07T16:39:26+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Netflix announces production of third Inbetweeners film",
       "source": "The Guardian",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "London-listed Molten Ventures joins race to run Burnham-backed £1bn tech fund",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/london-listed-molten-ventures-joins-race-to-run-burnham-backed-1bn-tech-fund-13581004",
-      "published_date": "2026-09-03T18:48:00+00:00",
-      "category": "Diplomacy"
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-07T23:29:12+00:00",
+      "category": "Military"
     },
     {
-      "title": "Andy Burnham praises UK-EU ties in meeting with Emmanuel Macron",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-03T13:38:43+00:00",
-      "category": "Diplomacy"
+      "title": "Burnham issues statement on Ukraine after holding fresh Trump talks",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-trump-ukraine-ceasefire-uk-us-b3046153.html",
+      "published_date": "2026-09-07T22:30:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Man admits killing schoolboy in hit-and-run crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn74xlz7egvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-03T13:36:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zack Polanski says he'll run for former PM Starmer's seat in by-election",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-03T12:41:46+00:00",
-      "category": "Diplomacy"
+      "title": "The Guardian view on the far right’s real weapon: it is the politics of powerlessness | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/the-guardian-view-on-the-far-rights-real-weapon-it-is-the-politics-of-powerlessness",
+      "published_date": "2026-09-07T17:48:01+00:00",
+      "category": "Military"
     },
     {
       "title": "King makes clear Harry and Meghan remain non-working royals",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "A timeline of key events in the 1982 Falklands War",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/falklands-war-argentina-milei-trump-b3044649.html",
-      "published_date": "2026-09-04T09:07:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British army told to halt non-essential training exercises to save money",
+      "title": "The Guardian view on skin cancer: fear the heat of the sun | Editorial",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/04/british-army-halt-non-essential-training-exercises-save-money",
-      "published_date": "2026-09-04T06:44:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British army ‘ordered to stop non-essential training exercises to save money’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/british-army-training-money-defence-spending-b3044458.html",
-      "published_date": "2026-09-03T22:16:34+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/the-guardian-view-on-skin-cancer-fear-the-heat-of-the-sun",
+      "published_date": "2026-09-07T17:47:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
@@ -417,11 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Canary staff not paid amid fears for news website’s future",
+      "title": "Tesco and John Lewis among UK firms in pledge to create 100,000 jobs to tackle Neets crisis",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/jobs-tesco-john-lewis-neets-universal-credit-opening-shift-b3046243.html",
+      "published_date": "2026-09-07T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "<a href=\"https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360?postid=12395036#liveblog-body\">UK to ban trade with illegal Israeli settlements</a>",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/miliband-to-toughen-uk-stance-on-israel-in-reset-statement-13582950",
+      "published_date": "2026-09-07T20:37:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Geography teacher banned from classroom after accidentally revealing search history",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/james-hindson-moreton-hall-school-b3046138.html",
+      "published_date": "2026-09-07T18:26:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Painful, unconvincing and boring: welcome to John Healey’s late show | John Crace",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/sep/04/canary-staff-not-paid-amid-fears-for-news-websites-future",
-      "published_date": "2026-09-04T15:27:35+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/2026/sep/07/john-healey-sketch-chancellor-john-crace",
+      "published_date": "2026-09-07T16:30:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Shares edge down as Iran tensions push oil higher",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/john-healey-iran-budget-shares-standard-life-b3046125.html",
+      "published_date": "2026-09-07T16:28:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham set to meet bosses to reassure over growth agenda",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/burnham-set-to-meet-bosses-to-reassure-over-growth-agenda-13582878",
+      "published_date": "2026-09-07T16:23:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Self-described 'genocidal racist monster' jailed after BBC investigation",
@@ -515,53 +557,123 @@
       "category": "Economy"
     },
     {
-      "title": "JLR set to reveal thousands of job losses amid £1.7bn cost-cutting overhaul",
+      "title": "‘I want to see wealth creation’ John Healey to say as he tries to reassure nervous markets over economy",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/jonathan-reynolds-sharon-graham-britain-government-unite-b3045751.html",
-      "published_date": "2026-09-07T08:40:46+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/healey-chancellor-wealth-economy-speech-b3045545.html",
+      "published_date": "2026-09-07T09:27:03+00:00",
       "category": "Economy"
     },
     {
-      "title": "Jaguar Land Rover to cut 4,000 jobs",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/jaguar-land-rover-to-cut-4000-jobs-13582660",
-      "published_date": "2026-09-07T08:12:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Cost of living on many minds ahead of Manx election",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1dlr2dzv20o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T05:46:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Designers should not fear being replaced by AI, industry leaders say",
+      "title": "Cities in Great Britain most vulnerable to extreme heat revealed",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
-      "published_date": "2026-09-07T04:00:25+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/environment/2026/sep/08/cities-great-britain-most-vulnerable-extreme-heat-revealed",
+      "published_date": "2026-09-07T23:01:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T02:26:12+00:00",
-      "category": "Economy"
+      "title": "Criminal gangs blackmailing schools with deepfake child sex abuse images at ‘shocking’ scale, experts say",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/blackmail-school-deepfake-child-images-b3045753.html",
+      "published_date": "2026-09-07T23:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-06T23:34:18+00:00",
-      "category": "Economy"
+      "title": "Tories to blame for anti-migration protests in Dover and Portsmouth, policing minister says",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/sarah-jones-dover-portsmouth-protests-conservatives-b3046237.html",
+      "published_date": "2026-09-07T22:25:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The £70 refund letter that isn't a scam",
+      "title": "Far-right anti-migrant protests escalate amid fears of wider mobilisation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/portsmouth-dover-protest-patriot-platform-police-migration-b3046062.html",
+      "published_date": "2026-09-07T22:09:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barrister jailed over revenge plot with client",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-06T23:16:05+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cwyzrxjlkgno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-07T20:51:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met Police sergeant sacked after inappropriately touching woman at London bar",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/rachel-bright-met-police-sacked-inappropriate-touching-b3046156.html",
+      "published_date": "2026-09-07T20:37:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Family of teenager misidentified in deadly crash 'felt they had two deaths'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/family-of-teenager-misidentified-in-deadly-crash-felt-they-had-two-deaths-inquest-hears-13582942",
+      "published_date": "2026-09-07T20:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police hunt launched after man killed in hit-and-run near Edinburgh Airport",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cde0z30zwgjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-07T20:08:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police used batons and pepper spray on far-right protesters in Portsmouth unrest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/07/police-used-batons-and-pepper-spray-on-far-right-protesters-in-portsmouth-unrest",
+      "published_date": "2026-09-07T19:12:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-07T19:04:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested in ‘Putney pusher’ case released under investigation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/putney-pusher-man-suspect-released-met-police-b3046169.html",
+      "published_date": "2026-09-07T18:19:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Farage still Reform’s best hope as rivals struggle to match appeal to party faithful",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/07/farage-still-reform-best-hope-rivals-struggle-party-faithful",
+      "published_date": "2026-09-07T17:58:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Activist plotted 'Palestine' stunt at Boris Johnson's wedding party, court hears",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-plotted-to-spray-palestine-over-giant-heart-at-boris-johnsons-wedding-party-court-hears-13582903",
+      "published_date": "2026-09-07T17:52:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polanski faces Green rival in his pursuit of Keir Starmer’s old seat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/07/polanski-faces-green-rival-in-his-pursuit-of-keir-starmers-old-seat",
+      "published_date": "2026-09-07T16:43:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Thuggish’ far-right protesters descend on Dover and Portsmouth – The Latest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/sep/07/far-right-protest-dover-portsmouth-the-latest",
+      "published_date": "2026-09-07T16:35:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why does the hard right have such a high tolerance for domestic abusers in their midst?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/07/why-does-the-hard-right-have-such-a-high-tolerance-for-domestic-abusers-in-their-midst",
+      "published_date": "2026-09-07T16:20:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Migrant protest founder confronts Reform UK over Farage’s ‘knuckle-dragger’ jibe",
@@ -589,118 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/crime/phillip-ormerod-inquest-cwmbran-wales-pub-assault-b3046098.html",
       "published_date": "2026-09-07T15:40:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No 10 condemns ‘thuggish’ far-right activists after Portsmouth unrest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/07/ministers-condemn-far-right-activists-portsmouth-asylum-seekers",
-      "published_date": "2026-09-07T15:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T15:20:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK politics live: Police hunt far-right activists in Portsmouth after officers injured and cars damaged in protest",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/uk-politics-portsmouth-protests-andy-burnham-john-healey-live-updates-b3045729.html",
-      "published_date": "2026-09-07T15:03:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portsmouth protests: Why did demonstrators block roads after record small boat crossing?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/portsmouth-protest-dover-news-danny-tommo-b3046047.html",
-      "published_date": "2026-09-07T15:02:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Plans for major overhaul of councils halted",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zkj09dy4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T15:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-England footballer Joey Barton denied bail over alleged attack at golf club",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/joey-barton-bail-trial-b3046066.html",
-      "published_date": "2026-09-07T14:57:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Tommy Robinson associate behind Portsmouth and Dover anti-migrant protests",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/danny-tommo-dover-portsmouth-patriot-platform-b3045817.html",
-      "published_date": "2026-09-07T14:49:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of murder after two people found dead at house",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd019n2pejo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T14:41:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Plans for local government overhaul on hold after legal advice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/07/angela-rayner-flagship-local-government-overhaul-on-hold",
-      "published_date": "2026-09-07T14:25:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prisoner warned cellmate ‘I’m worried I’m going to strangle you’ before alleged murder, court hears",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/jonathan-alcide-neil-ashby-stoke-heath-prison-murder-trial-b3046033.html",
-      "published_date": "2026-09-07T14:21:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government halts council reorganisation decisions following new legal advice",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/angela-rayner-local-council-reorganisation-b3046019.html",
-      "published_date": "2026-09-07T14:07:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zack Polanski faces challenge from Green councillor in bid to contest Starmer’s Westminster seat",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/zack-polanski-hamza-choudhury-holborn-st-pancras-b3046012.html",
-      "published_date": "2026-09-07T13:48:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T13:28:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Far-right activists wade through sea to film asylum seekers in Portsmouth – video",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/sep/07/far-right-activists-wade-through-sea-to-film-asylum-seekers-in-portsmouth-video",
-      "published_date": "2026-09-07T12:56:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder arrests over baby girl's death in woodland",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T12:36:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schools close early again for A66 crash funeral",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvxpn7p41o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-07T12:24:07+00:00",
       "category": "Local Events"
     }
   ]
