@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-09-12T00:47:00.600564+00:00",
+  "last_updated": "2026-09-12T13:54:40.344356+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Brexit was like Battle of Hastings defeat – rejoining EU body will fix it, says George Osborne",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-george-osborne-customs-union-bayeux-tapestry-b3048578.html",
+      "published_date": "2026-09-12T11:57:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Call it the Miliband doctrine. Let’s hope the new Israeli settlement boycott is just the start | Steve Bloomfield",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/12/miliband-doctrine-israeli-settlement-boycott-uk-foreign-policy",
+      "published_date": "2026-09-12T05:00:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US lawmakers urge secretive British court to open up about Apple case",
       "source": "The Guardian",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Majority of Britons back UK sanctions on Israeli settlements in West Bank, poll finds",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/uk-trade-ban-israel-west-bank-settlements-polling-b3047503.html",
-      "published_date": "2026-09-09T18:20:33+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
+      "title": "From black-clad agitators to an appeal for ‘Tommo’s Mum’: an unsettling week with the Patriot Platform",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements",
-      "published_date": "2026-09-09T17:57:14+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/12/from-black-clad-agitators-to-an-appeal-for-tommos-mum-an-unsettling-week-with-the-patriot-platform",
+      "published_date": "2026-09-12T05:00:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Military aircraft reportedly blamed for UK air traffic control outage",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Plan to curb tech giants after warning of AI 'threat to humanity'",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/greens-propose-ai-crackdown-in-new-policy-push-after-existential-warnings-13583704",
-      "published_date": "2026-09-09T18:30:00+00:00",
-      "category": "Military"
+      "title": "Heatwaves hit the Sunday roast: why the RHS says cauliflower is off the menu",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/12/heatwaves-hit-sunday-roast-rhs-cauliflower-off-menu",
+      "published_date": "2026-09-12T11:00:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "North Sea gasfield decision likely delayed until after Holborn and St Pancras byelection",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T00:06:33+00:00",
-      "category": "Energy"
+      "title": "‘I graduated from a top London university – 100 job applications later I’m still unemployed’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-unemployment-university-graduates-job-applications-london-goldsmiths-b3044184.html",
+      "published_date": "2026-09-12T09:41:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nurse went to work ‘drunk’ and needed help booking taxi home",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nurse-drunk-karen-jane-makinson-chesire-b3049031.html",
+      "published_date": "2026-09-12T09:10:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AI may be denting computer science graduates’ job prospects, UK data shows",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
+      "published_date": "2026-09-12T07:00:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘Costing billions’: is the pensions triple lock a lifeline or simply unaffordable?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/12/state-pensions-triple-lock-budget",
+      "published_date": "2026-09-12T06:00:26+00:00",
+      "category": "Economy"
     },
     {
       "title": "Reform receives record £36m donation from crypto billionaire",
@@ -494,6 +522,13 @@
       "category": "Economy"
     },
     {
+      "title": "Interest rates could rise again across the world – here's why",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-11T13:35:29+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Next growth in the spotlight after shrugging off high street pressures",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/hargreaves-lansdown-press-association-b3048651.html",
@@ -529,39 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "Hero mother stops Co-op shoplifter – then gets dragged under wheel of getaway car",
+      "title": "Reform could be the biggest party if Burnham calls an early election, leading polling expert says",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/shoplifter-paulton-coop-crime-hailey-bush-b3048088.html",
-      "published_date": "2026-09-11T11:09:55+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/reform-polls-election-nigel-farage-john-curtice-b3048009.html",
+      "published_date": "2026-09-12T13:44:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Berkeley calls for ‘urgent’ stamp duty reform to meet housebuilding targets",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/berkeley-budget-government-middle-east-press-association-b3048577.html",
-      "published_date": "2026-09-11T10:54:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "AI boom helps drive surprise UK growth in July",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T10:17:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "AI spending splurge helps UK economy grow in July",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/john-healey-gdp-office-for-national-statistics-budget-households-b3048539.html",
-      "published_date": "2026-09-11T10:02:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
+      "title": "Donald Trump says he would ‘love’ to see united Ireland",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
-      "published_date": "2026-09-11T08:10:36+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/us-news/2026/sep/12/donald-trump-says-he-would-love-to-see-united-ireland",
+      "published_date": "2026-09-12T13:06:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man in court following anti-migrant protests",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clym4nng4e9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T12:37:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anti-migrant protesters plot way to bypass face mask ban at Portsmouth march",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/anti-migrant-protests-portsmouth-face-mask-ban-b3049043.html",
+      "published_date": "2026-09-12T12:07:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Wonderfully rich and nutty’: the best supermarket mature cheddar, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/sep/12/best-supermarket-mature-cheddar-tasted-rated",
+      "published_date": "2026-09-12T12:00:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beyond the heatwave: what it really takes for climate warnings to cut through in the UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/12/uk-summer-climate-messaging-communities-government",
+      "published_date": "2026-09-12T11:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London Underground workers exposed to asbestos without protective masks, documents reveal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/12/london-underground-workers-exposed-to-asbestos-without-protective-masks-documents-reveal",
+      "published_date": "2026-09-12T10:00:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four arrested during gangland violence 'day of action'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyjl1lg3dgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T09:50:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested on suspicion of murder after woman, 88, found dead in home",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/police-man-appleford-drive-abingdon-b3049037.html",
+      "published_date": "2026-09-12T09:27:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met Office gives verdict on September heatwave for UK",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/weather-september-forecast-heatwave-london-met-office-b3049026.html",
+      "published_date": "2026-09-12T09:02:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teacher used Google Translate to ask child to remove shorts on gaming platform Twitch",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/teacher-twitch-liam-quinn-banned-audenshaw-school-b3048955.html",
+      "published_date": "2026-09-12T08:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of ebikes seized by London councils as anger rises over blocked paths",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/12/ebikes-seized-london-blocked-paths-lime-forest-voi",
+      "published_date": "2026-09-12T06:00:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Blaze breaks out at London tower block as multiple fire crews dispatched",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/blaze-breaks-out-at-london-tower-block-as-multiple-fire-crews-dispatched-13584698",
+      "published_date": "2026-09-12T06:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Artist delights in beautiful ‘mess’ and dead trees of England’s rewilding sites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/12/artist-england-rewilding-sites-knepp-rebecca-howard",
+      "published_date": "2026-09-12T05:00:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump set for Ireland visit amid backdrop of protests and meeting with long-standing critic",
@@ -603,104 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/zack-polanski-by-election-green-party-holborn-st-pancras-starmer-labour-b3048478.html",
       "published_date": "2026-09-11T18:39:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man sacked by Grand Theft Auto maker believes employees were put on ‘watch list’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/sep/11/man-sacked-grand-theft-auto-rockstar-games-watch-list",
-      "published_date": "2026-09-11T18:13:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern Ireland schools must give girls option to wear trousers from next year",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/11/northern-ireland-schools-girls-trousers-uniform",
-      "published_date": "2026-09-11T17:56:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why did the assisted dying bill fail in the Commons? | Rowena Mason",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/11/why-did-assisted-dying-bill-fail-commons-england-wales-analysis",
-      "published_date": "2026-09-11T17:54:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘A tragic day’: campaigners react as MPs say no to legalising assisted dying",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/11/a-tragic-day-campaigners-react-after-mps-vote-against-legalising-assisted-dying-in-england-and-wales",
-      "published_date": "2026-09-11T17:45:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British pupils lost 15 million hours of teaching time during heatwave, study finds",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/heatwave-uk-schools-children-teaching-education-b3048673.html",
-      "published_date": "2026-09-11T17:24:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Girls given legal right to wear trousers in schools in Northern Ireland",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czxzw9117k5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T17:20:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man admits encouraging another man to sexually assault sleeping wife",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/darren-conway-enfield-jail-court-b3048798.html",
-      "published_date": "2026-09-11T16:08:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why are plans for Gloucestershire's 'super council' on hold?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c39mrm218lmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T15:58:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portsmouth protesters face arrest for wearing face masks under new police powers",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/portsmouth-protest-arrest-charges-b3048699.html",
-      "published_date": "2026-09-11T15:55:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Playing With Fire review – like Disney’s Fantasia on steroids as a virtual Yuja Wang plays amid luminous dreamworlds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/sep/11/playing-with-fire-review-southbank-centre-vr-headset-yuja-wang",
-      "published_date": "2026-09-11T15:48:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sadiq Khan ‘plans to ban wood-burning stoves in parts of London’ in clean air push",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/sadiq-khan-wood-burning-stoves-ban-london-b3048637.html",
-      "published_date": "2026-09-11T15:16:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Men jailed for 'serious incident' outside airport",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd0972n93po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T14:48:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Devastating fire left family with only gerbils",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpwl19n5n4go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T14:46:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First arrest over anti-migrant protest in Portsmouth",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8zrz42yxko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T14:38:24+00:00",
       "category": "Local Events"
     }
   ]
