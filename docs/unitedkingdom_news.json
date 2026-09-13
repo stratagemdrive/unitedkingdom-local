@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-09-12T13:54:40.344356+00:00",
+  "last_updated": "2026-09-13T00:30:02.062710+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "The crypto billionaires behind Reform’s eye-watering £72 million donations",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-donations-christopher-harborne-ben-delo-nigel-farage-b3049158.html",
+      "published_date": "2026-09-12T21:46:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Brexit was like Battle of Hastings defeat – rejoining EU body will fix it, says George Osborne",
       "source": "The Independent",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Archbishop issues verdict over UK sanctions on Israeli settlements in West Bank",
+      "title": "Bereaved armed forces families granted free rail travel for Remembrance weekend",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/uk-israel-banks-sanctions-archbishop-of-york-stephen-cottrell-b3047547.html",
-      "published_date": "2026-09-09T18:32:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/free-rail-travel-remembrance-weekend-b3049190.html",
+      "published_date": "2026-09-12T21:30:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Donations of £72m make Reform’s prospects both rosier and riskier",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/12/reform-uk-billionaire-donations-analysis",
+      "published_date": "2026-09-12T16:06:59+00:00",
+      "category": "Military"
     },
     {
       "title": "From black-clad agitators to an appeal for ‘Tommo’s Mum’: an unsettling week with the Patriot Platform",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "AI poses risks to national security, Burnham says after Anthropic expert says tech ‘could kill all humans’",
+      "title": "Burnham to slash energy bills by up to £200 – see if you’re eligible",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-ai-anthropic-evan-hubinger-post-b3047587.html",
-      "published_date": "2026-09-09T22:25:36+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man charged with assisting Russian intelligence service",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7v4l9vy8m6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-09T18:31:00+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-energy-bills-cut-labour-who-eligible-b3049132.html",
+      "published_date": "2026-09-12T16:18:27+00:00",
+      "category": "Energy"
     },
     {
       "title": "Heatwaves hit the Sunday roast: why the RHS says cauliflower is off the menu",
@@ -417,17 +424,45 @@
       "category": "Energy"
     },
     {
-      "title": "Chaplain settles LGBT sermon unfair dismissal case",
+      "title": "Government urged to deliver promised crackdown on exploitative zero hours contracts",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nowak-tuc-zero-hours-crackdown-b3049196.html",
+      "published_date": "2026-09-12T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Graduates could get student loan relief as Treasury reviews repayment freeze",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/treasury-student-loan-threshold-b3049194.html",
+      "published_date": "2026-09-12T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Planned Gibraltar-sized rail testing centre has cost taxpayers £70m but hasn't been built",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8e3deyrjkno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T00:46:37+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/cy0zv4end8no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T20:53:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T20:37:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "‘I graduated from a top London university – 100 job applications later I’m still unemployed’",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/uk-unemployment-university-graduates-job-applications-london-goldsmiths-b3044184.html",
       "published_date": "2026-09-12T09:41:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hero vigilante describes moment she stops shoplifter – then gets mowed down by getaway car",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/shoplifter-paulton-coop-crime-hailey-bush-b3048088.html",
+      "published_date": "2026-09-12T09:21:37+00:00",
       "category": "Economy"
     },
     {
@@ -529,39 +564,95 @@
       "category": "Economy"
     },
     {
-      "title": "Next growth in the spotlight after shrugging off high street pressures",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/hargreaves-lansdown-press-association-b3048651.html",
-      "published_date": "2026-09-11T12:45:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stormont in 'substantive negotiation' about budget with UK government",
+      "title": "Student loan terms to be made clearer in England",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dqe02nvqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T12:42:57+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T23:20:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK chancellor urged to remove ‘hidden taxes’ from energy bills",
+      "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T23:15:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince William to launch major regeneration fund for isolated Dartmoor village",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/prince-william-dartmoor-prison-village-b3049204.html",
+      "published_date": "2026-09-12T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Driver threatened with knife as bus hijacked and chased in police pursuit",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crl62z3e797o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T18:56:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three arrests at rival protests in Portsmouth",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T18:43:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anti-migrant rally and counter-protesters face off in Portsmouth – video",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/sep/11/chancellor-remove-hidden-taxes-energy-bills",
-      "published_date": "2026-09-11T12:37:01+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/video/2026/sep/12/anti-migrant-rally-and-counter-protesters-face-off-in-portsmouth-video",
+      "published_date": "2026-09-12T18:35:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Meet the sisters behind one of the fastest-growing businesses in Wales",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/lloyds-business-security-investment-b3031910.html",
-      "published_date": "2026-09-11T11:39:18+00:00",
-      "category": "Economy"
+      "title": "Protesters against Trump’s visit to Ireland react to ‘united Ireland’ comments – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/video/2026/sep/12/protesters-against-trumps-visit-to-ireland-react-to-united-ireland-comments-video",
+      "published_date": "2026-09-12T18:27:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The recurring nightmare that haunts British 9/11 survivor who escaped south tower",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/9-11-survivor-twin-towers-september-11-janice-brooks-b3047210.html",
-      "published_date": "2026-09-11T11:25:29+00:00",
-      "category": "Economy"
+      "title": "Portsmouth experiences second weekend of anti-immigration protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/12/portsmouth-experiences-second-weekend-of-anti-immigration-protests",
+      "published_date": "2026-09-12T17:41:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T17:36:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police seal off street after being called to incident in Armadale",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr50ee415g6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T17:28:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Number of UK anti-migrant vigilante groups surges in last 18 months",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/12/number-of-uk-anti-migrant-vigilante-groups-surges-in-last-18-months",
+      "published_date": "2026-09-12T16:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six people rescued after yacht gets tangled in fish farm",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdpzdwxz5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T15:52:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anti-migrant demonstrators clash with counter-protesters during march in Portsmouth",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/anti-migrant-demonstrators-chase-down-counter-protesters-after-portsmouth-march-13584910",
+      "published_date": "2026-09-12T14:53:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Reform could be the biggest party if Burnham calls an early election, leading polling expert says",
@@ -599,108 +690,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Elderly woman found dead named by police",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn07954lyeeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T11:25:56+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Beyond the heatwave: what it really takes for climate warnings to cut through in the UK",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/sep/12/uk-summer-climate-messaging-communities-government",
       "published_date": "2026-09-12T11:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London Underground workers exposed to asbestos without protective masks, documents reveal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/12/london-underground-workers-exposed-to-asbestos-without-protective-masks-documents-reveal",
-      "published_date": "2026-09-12T10:00:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four arrested during gangland violence 'day of action'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyjl1lg3dgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-12T09:50:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man arrested on suspicion of murder after woman, 88, found dead in home",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/police-man-appleford-drive-abingdon-b3049037.html",
-      "published_date": "2026-09-12T09:27:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Met Office gives verdict on September heatwave for UK",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/weather-september-forecast-heatwave-london-met-office-b3049026.html",
-      "published_date": "2026-09-12T09:02:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teacher used Google Translate to ask child to remove shorts on gaming platform Twitch",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/teacher-twitch-liam-quinn-banned-audenshaw-school-b3048955.html",
-      "published_date": "2026-09-12T08:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of ebikes seized by London councils as anger rises over blocked paths",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/12/ebikes-seized-london-blocked-paths-lime-forest-voi",
-      "published_date": "2026-09-12T06:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blaze breaks out at London tower block as multiple fire crews dispatched",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/blaze-breaks-out-at-london-tower-block-as-multiple-fire-crews-dispatched-13584698",
-      "published_date": "2026-09-12T06:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Artist delights in beautiful ‘mess’ and dead trees of England’s rewilding sites",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/12/artist-england-rewilding-sites-knepp-rebecca-howard",
-      "published_date": "2026-09-12T05:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump set for Ireland visit amid backdrop of protests and meeting with long-standing critic",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/europe/trump-ireland-visit-itinerary-protests-connolly-martin-b3048919.html",
-      "published_date": "2026-09-11T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police and crime commissioner defends going on 130-date UK theatre tour",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/colin-sutton-reform-uk-norfolk-pcc-theatre-tour-b3048822.html",
-      "published_date": "2026-09-11T22:08:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T21:38:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children and woman injured on fairground ride",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clymlyg7y44o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T21:11:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two arrested after one-year-old girl found dead at Warwickshire home",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/warwickshire-police-arrests-child-dead-west-midlands-b3048900.html",
-      "published_date": "2026-09-11T20:53:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zack Polanski selected as Green candidate in two-horse race with Labour for Starmer’s former seat",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/zack-polanski-by-election-green-party-holborn-st-pancras-starmer-labour-b3048478.html",
-      "published_date": "2026-09-11T18:39:35+00:00",
       "category": "Local Events"
     }
   ]
