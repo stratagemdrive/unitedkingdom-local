@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-09-14T16:50:02.943539+00:00",
+  "last_updated": "2026-09-15T01:05:26.245875+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Metropolitan Police officer who called senior colleague ‘wasteman’ on social media sacked",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/idominik-efeotor-met-police-officer-sacked-podcast-social-media-b3050124.html",
+      "published_date": "2026-09-14T20:43:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andrew Davies admits to drawing on ‘stimulating’ Made in Chelsea for Jane Austen adaptation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/sep/14/andrew-davies-made-in-chelsea-jane-austen-adaptation",
+      "published_date": "2026-09-14T17:41:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Key convicted Palestine Action member on the run",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxly50gm0npmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T16:33:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Oasis announce 2027 tour, including return to Knebworth 30 years after historic concerts",
       "source": "The Guardian",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Andy Burnham runs Great North Run as PM hands over salary donation to charity",
+      "title": "Middle East conflict and reduced demand behind drop in small boat crossings, report says",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/andy-burnham-great-north-run-b3049321.html",
-      "published_date": "2026-09-13T09:41:05+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/small-boat-crossings-decline-migrants-middle-east-nca-b3050156.html",
+      "published_date": "2026-09-14T22:01:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "€5bn EU venture fund backs AI medical assistant Tandem Health",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/5bn-eu-venture-fund-backs-ai-medical-assistant-tandem-health-13585284",
-      "published_date": "2026-09-13T09:03:00+00:00",
-      "category": "Diplomacy"
+      "title": "Uganda reverses withdrawal from Invictus Games after King Charles intervenes",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uganda-invictus-games-king-charles-harry-meghan-b3049939.html",
+      "published_date": "2026-09-14T17:33:10+00:00",
+      "category": "Military"
     },
     {
-      "title": "The crypto billionaires behind Reform’s eye-watering £72 million donations",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-donations-christopher-harborne-ben-delo-nigel-farage-b3049158.html",
-      "published_date": "2026-09-12T21:46:10+00:00",
-      "category": "Diplomacy"
+      "title": "Richard Tice rallies to the defence of Reform’s crypto ‘patriots’ | John Crace",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/14/richard-tice-rallies-to-the-defence-of-reforms-crypto-patriots",
+      "published_date": "2026-09-14T17:05:50+00:00",
+      "category": "Military"
     },
     {
       "title": "UK armed forces member killed in crash in Ukraine",
@@ -176,6 +197,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-14T15:03:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chief coroner calls for inquiry into Manchester synagogue attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w47x890d2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T14:44:20+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "IEA slashes global oil demand and supply forecast again as Iran war intensifies",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/iea-iran-paris-united-states-middle-east-b3048760.html",
-      "published_date": "2026-09-11T15:03:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Man loses appeal against murder conviction of British soldier",
+      "title": "UK could 'unlock' 100 more oil and gas projects, say North Sea bosses",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czxzw5k17y1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-11T12:56:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tech whistleblowers warn AI could wipe out humanity. Doomspeak or not, we must take these claims seriously | Gaby Hinsliff",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/11/risky-ai-research-pause-humanity",
-      "published_date": "2026-09-11T10:00:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Veteran industrialist Lovell to chair publicly owned British Steel",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/veteran-industrialist-lovell-to-chair-publicly-owned-british-steel-13584287",
-      "published_date": "2026-09-11T08:51:00+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c65ym93p73xmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T21:59:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "Petrol and diesel prices hit highest since 2022",
@@ -375,6 +382,13 @@
       "category": "Energy"
     },
     {
+      "title": "Alstom to build new battery-electric train fleet",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-11T14:43:33+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Mapped: How UK energy bills compare to the rest of Europe",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/map-energy-bills-uk-europe-compare-b3048523.html",
@@ -410,18 +424,67 @@
       "category": "Energy"
     },
     {
-      "title": "Speed up electricity grid upgrade or else face higher bills, warns UK watchdog",
+      "title": "Duke and Duchess of Sussex granted security review after return to UK",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/11/speed-up-electricity-grid-upgrade-or-else-face-higher-bills-warns-uk-watchdog",
-      "published_date": "2026-09-11T05:00:02+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/uk-news/2026/sep/14/duke-and-duchess-of-sussex-granted-security-review-after-return-to-uk",
+      "published_date": "2026-09-14T22:54:06+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Can Europe recharge its battery industry?",
+      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-10T23:05:47+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T22:01:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "British Crown symbol was branded on enslaved Africans, research finds",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20l8vpznqjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T21:36:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pubs and restaurants say they are losing business due to weight-loss drugs",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/weight-loss-drugs-injections-uk-pubs-restaurants-b3050093.html",
+      "published_date": "2026-09-14T20:15:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Guardian view on Reform UK: crypto billionaires must be stopped from undermining democracy | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/14/the-guardian-view-on-reform-uk-crypto-billionaires-must-be-stopped-from-undermining-democracy",
+      "published_date": "2026-09-14T18:13:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Who are the biggest donors bankrolling Reform, Labour and the Tories?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-labour-tories-donations-biggest-donors-b3049713.html",
+      "published_date": "2026-09-14T18:08:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pubs and restaurants 'losing business because of boom in weight-loss drugs'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/scotlands-pubs-and-restaurants-losing-business-because-of-boom-in-weight-loss-drugs-report-says-13585882",
+      "published_date": "2026-09-14T18:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Farm tax a mistake, Lord Blunkett says in call for Burnham 'rural reset'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrxjqvgjj1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T17:46:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "As Reform celebrates £72m in donations, tell me this: are you ready to see two rich men buy our democracy? | Owen Jones",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/14/reform-72m-donations-nigel-farage-super-rich",
+      "published_date": "2026-09-14T17:19:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "Farage hints that Reform’s £72m donations may not be legal under new elections bill - UK politics live",
@@ -473,6 +536,13 @@
       "category": "Economy"
     },
     {
+      "title": "UK banks kick off fundraising in bid to create new payments giant",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/uk-banks-kick-off-fundraising-in-bid-to-create-new-payments-giant-13585850",
+      "published_date": "2026-09-14T14:22:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Workers return to packed lunches to cope with rising cost of living",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/ocado-consumers-sales-b3049834.html",
@@ -494,74 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "What is the Register of British Slave Traders and whom does it identify?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/14/register-british-slave-traders-africa-research",
-      "published_date": "2026-09-14T10:20:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hundreds of hospitality businesses call on Burnham to lower VAT",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/andy-burnham-prime-minister-vat-burnham-government-b3049546.html",
-      "published_date": "2026-09-14T09:17:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mortgage lenders are now letting these types of buyers borrow more money",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/mortgage-rates-borrowing-income-homebuyers-property-b3048421.html",
-      "published_date": "2026-09-14T06:57:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Burnham to urge ‘culture shift’ to unlock UK’s business potential",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/labour-burnham-business-entrepreneurs-b3049607.html",
-      "published_date": "2026-09-14T06:15:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK credit scores: should you worry about a big shake-up?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/sep/14/uk-credit-scores-debt-rules",
-      "published_date": "2026-09-14T06:00:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Carney gambles on the world's biggest investors betting on Canada",
+      "title": "Balaclava ban comes into force in Nottingham city centre",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-13T23:03:06+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cq0kldp8k100o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-15T00:55:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
-      "published_date": "2026-09-13T23:01:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK rent crisis deepens as soaring mortgage rates trap aspiring homeowners",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/zoopla-uk-rental-mortgage-rates-b3049507.html",
-      "published_date": "2026-09-13T23:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hundreds of hospitality businesses call on Burnham to lower VAT",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/andy-burnham-prime-minister-tom-kerridge-vat-burnham-b3049546.html",
-      "published_date": "2026-09-13T23:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'Culture shift' needed in how UK does business, PM urges",
+      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-13T21:30:21+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T23:07:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Digital ID to be accepted as proof of age in pubs and shops under new laws",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/digital-id-proof-of-age-pubs-shops-england-wales-b3050035.html",
+      "published_date": "2026-09-14T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince Harry and Meghan change children’s school due to security concerns",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/prince-harry-meghan-sussex-archie-lilibet-school-b3050122.html",
+      "published_date": "2026-09-14T21:45:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harry and Meghan to have security review and children change school",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T20:29:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harry and Meghan move children to new school over 'security concerns'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/prince-harry-and-duchess-of-sussex-move-children-to-new-school-over-security-concerns-13585871",
+      "published_date": "2026-09-14T20:04:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will the £72m of donations to Reform UK be allowed?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/14/will-donations-to-reform-uk-be-allowed-crypto-billionaires",
+      "published_date": "2026-09-14T18:41:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British man accused of drugging and raping wife over two decades admits 60 offences",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/14/british-man-accused-of-drugging-and-raping-wife-over-two-decades-admits-60-offences",
+      "published_date": "2026-09-14T18:07:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Husband pleads guilty to drugging and raping his wife for over 20 years",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/husband-wife-rape-drugs-guilty-plea-manchester-b3050045.html",
+      "published_date": "2026-09-14T18:02:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police officer who put suspect in headlock and punched him 9 times faces misconduct hearing",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg79915re4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T17:59:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Police probe continues in Armadale as man named in suspected shooting",
@@ -582,6 +652,20 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/sep/14/british-man-accused-of-drugging-and-raping-wife-over-two-decades-admits-all-offences",
       "published_date": "2026-09-14T16:32:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-Met detective to stand for Reform in by-election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmeq81ze9lj4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T16:16:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I had 11 years of chemotherapy for a cancer I didn't have",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74e0zwkk18o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-14T16:09:39+00:00",
       "category": "Local Events"
     },
     {
@@ -617,90 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw14dvrjnepeo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-14T14:25:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crispin Odey loses challenge over City ban after sexual misconduct allegations",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/crispin-odey-city-financial-conduct-authority-rupert-jones-lawyers-b3049856.html",
-      "published_date": "2026-09-14T14:10:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The English town that has given trees the same rights as humans",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/lewes-trees-rights-east-sussex-b3049758.html",
-      "published_date": "2026-09-14T13:50:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speedboat killer Jack Shepherd jailed for violently assaulting his girlfriend",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/jack-shepherd-speedboat-killer-jailed-girlfriend-assault-b3049769.html",
-      "published_date": "2026-09-14T13:31:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Westminster’s time is coming to an end, say first ministers of UK’s Celtic nations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/14/westminster-first-ministers-uk-celtic-nations-wales-northern-ireland-scotland",
-      "published_date": "2026-09-14T13:21:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform’s £72m donations represent ‘crisis for our democracy’, says union boss",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/reform-donations-crypto-georgia-gould-labour-b3049657.html",
-      "published_date": "2026-09-14T13:05:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London musical cancelled after Ariana Grande and Jonathan Bailey pull out",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqpved1p2j4zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-14T12:28:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ice cream and deep-fried food banned from UK school dinners in healthy overhaul",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/school-meal-ban-ice-cream-lentils-fried-food-b3049823.html",
-      "published_date": "2026-09-14T12:26:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "There’s a surprisingly simple reason for England’s high antidepressant use: lots of people need them | Dean Burnett",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/14/england-record-antidepressant-use-gp-guidelines-overprescribing",
-      "published_date": "2026-09-14T12:00:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speedboat killer jailed for attack on girlfriend",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zvkglvm8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-14T11:37:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Campaigners told to respect rivals as local election abuse rises",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3re7v5399zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-14T10:46:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tories pick ex-councillor to contest Starmer's seat",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3d70r2xn0ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-14T10:03:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK ministers urged to act after US flies out diplomat accused of possessing indecent images of children",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/14/ministers-us-diplomat-accused-indecent-images-children-uk",
-      "published_date": "2026-09-14T09:06:53+00:00",
       "category": "Local Events"
     }
   ]
