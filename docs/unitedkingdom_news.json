@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-09-25T15:46:42.340572+00:00",
+  "last_updated": "2026-09-26T01:05:23.492406+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Burnham blames Brexit for small boats crisis - but rules out early general election",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-brexit-small-boat-channel-crossings-general-election-b3056576.html",
+      "published_date": "2026-09-25T17:03:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Ed Miliband has embraced his ‘awkward dad’ image in viral TikTok video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/25/why-ed-miliband-has-embraced-his-awkward-dad-image-in-viral-tiktok-video",
+      "published_date": "2026-09-25T16:22:55+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Has Burnham proved he can handle Trump? - The Latest",
       "source": "The Guardian",
@@ -130,20 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The UK’s only obstacle to rejoining the bloc may be the EU itself",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-rejoin-blair-burnham-uk-b3055150.html",
-      "published_date": "2026-09-23T23:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Multiple arrests made and properties raided in major police operation targeting alleged human trafficking",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/scotland-police-human-trafficking-drugs-glasgow-vietnam-b3055246.html",
-      "published_date": "2026-09-23T23:01:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "‘Serious concern’ after MOD fails to disclose nearly 100m files to Afghan killings inquiry, court hears",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/uk-special-forces-afghan-killings-war-crimes-inquiry-b3056333.html",
@@ -162,6 +162,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/homes-for-ukraine-funding-cut-putin-uk-government-shapps-b3056275.html",
       "published_date": "2026-09-25T09:08:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "I’ve covered Labour for decades – ask me anything on Andy Burnham’s first conference as PM",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/labour-party-conference-burnham-questions-answers-b3053608.html",
+      "published_date": "2026-09-25T07:39:45+00:00",
       "category": "Military"
     },
     {
@@ -277,11 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "West Yorkshire criminals using social media to recruit students",
+      "title": "Earth microbes survive simulated conditions of Saturn moon’s ocean",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/23/west-yorkshire-criminals-using-social-media-to-recruit-students",
-      "published_date": "2026-09-23T15:01:09+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/science/2026/sep/25/earth-microbes-survive-conditions-enceladus-saturn-moon-ocean-study",
+      "published_date": "2026-09-25T18:00:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "FTSE 100 edges up as oil fall offsets bond worry",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/donald-trump-iran-aim-dow-jones-industrial-average-new-york-b3056578.html",
+      "published_date": "2026-09-25T16:22:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
@@ -410,18 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "High-mileage electric cars are more reliable than petrol ones, study finds",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/22/high-mileage-used-electric-cars-reliable-petrol-ev-mot",
-      "published_date": "2026-09-22T13:37:50+00:00",
-      "category": "Energy"
+      "title": "Fury v Joshua fight to provide 'big boost' to city's economy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6qxv75g4zx8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T21:55:42+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Wasp spider seen in north of England latest ‘climate refugee’ amid global heating",
+      "title": "Save or Overpay? What to do with your mortgage if interest rates rise",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c65y55j2dxepo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T18:43:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Labour can reform Britain’s pensions triple lock | Letters",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/22/wasp-spider-climate-refugee-north-of-england",
-      "published_date": "2026-09-22T12:31:11+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/money/2026/sep/25/how-labour-can-reform-britains-pensions-triple-lock",
+      "published_date": "2026-09-25T16:37:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Teen girl killed after being hit by taxi is named",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/girl-16-killed-after-being-hit-by-taxi-in-london-named-by-police-13591884",
+      "published_date": "2026-09-25T16:33:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fact check: Current GDP growth is lower than during 2010-2024",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/gdp-labour-jonathan-reynolds-liberal-democrats-ons-b3056564.html",
+      "published_date": "2026-09-25T16:07:07+00:00",
+      "category": "Economy"
     },
     {
       "title": "Question Time panel clash over welfare policy",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "UK food and drink trade deficit largest since 2000 at £21bn",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/25/uk-food-drink-trade-deficit-homegrown-produce-national-security",
-      "published_date": "2026-09-24T23:01:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Young people forced to turn down work because they can’t afford travel, clothes or childcare",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/work-employment-young-people-costs-travel-childcare-b3055885.html",
-      "published_date": "2026-09-24T23:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'This is the final offer,' says NI secretary over £1.5bn Stormont funding package",
+      "title": "The Papers: 'Verdicts that rocked football' and 'Burnham bottles it'",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwjdv4yp121yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-24T22:35:51+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/ck9dwwp20690o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-26T00:25:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Hostinger review 2026: Quick, easy and affordable web hosting",
+      "title": "Drumcree parade decision to be challenged in High Court",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T23:07:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "E-bikes seized by police sold on at auction, BBC finds",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T23:02:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder or medical mix-up? New questions in the case of killer nurse Colin Norris",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg7q33gnwro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T21:48:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Diesel prices exceed £2 a litre at hundreds of forecourts across Scotland",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T21:47:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Relegation? Titles stripped? Appeals? What next for Man City",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T20:48:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man City found guilty of majority of 115 financial rule breaches",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T20:11:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One person taken to hospital after barracks fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T20:10:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Glasgow City Council halts fire and rehire plans after negotiations",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/hostinger-review-2026-b2961681.html",
-      "published_date": "2026-09-24T18:15:02+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/business/glasgow-city-council-unison-gmb-unite-scottish-b3056647.html",
+      "published_date": "2026-09-25T18:56:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Guardian view on vocational GCSEs: why now? | Editorial",
+      "title": "PM rules out giving Wales independence referendum powers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw980019v929o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T18:16:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More sex offenders in England and Wales could be released amid court system crisis, police sources say",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/24/the-guardian-view-on-vocational-gcses-why-now",
-      "published_date": "2026-09-24T17:35:58+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/sep/25/more-sex-offenders-in-england-and-wales-could-be-released-amid-court-system-crisis-police-sources-say",
+      "published_date": "2026-09-25T18:00:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham pledges extra £210m towards regenerating boarded-up high streets",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/25/burnham-pledges-extra-210m-regenerate-high-streets",
+      "published_date": "2026-09-25T18:00:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I'm not tempted to call an early election, Burnham says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T17:15:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No general election before 2029, Andy Burnham says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says",
+      "published_date": "2026-09-25T17:06:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Council 'pauses' plan to fire and rehire 23,000 workers",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/glasgow-city-council-pauses-plan-to-fire-and-rehire-more-than-23000-workers-13591898",
+      "published_date": "2026-09-25T17:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How 'largest phone smuggling network' was uncovered",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjepekz5dvko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-25T16:51:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHS boss says staff suspected of snooping on patients’ records should be suspended immediately",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/sep/25/nhs-england-staff-patient-records-suspended",
+      "published_date": "2026-09-25T16:45:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schoolgirl who died after being hit by London taxi named",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/melissa-premaratne-dead-london-taxi-crash-highgate-b3056580.html",
+      "published_date": "2026-09-25T16:33:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man denies failing to disclose details on Manchester synagogue attack",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/manchester-synagogue-attack-hekmat-ali-hakim-b3056554.html",
+      "published_date": "2026-09-25T15:57:02+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Scottish government urges council to pause fire and rehire plans",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6kg090rx2kdo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-25T15:35:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rapist and grooming gang members who preyed on children jailed",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvrl67zk1328o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-25T15:33:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyber attack on police force may have 'compromised' staff information",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8dx573qnlpwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-25T15:30:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police watchdog says Met should investigate itself over arrest of 'Putney pusher' suspect",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/putney-pusher-met-police-nicholas-brandram-b3056435.html",
-      "published_date": "2026-09-25T15:19:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Couple jailed for life for abusing and murdering a vulnerable man in their care",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/couple-jailed-for-life-for-abusing-and-murdering-a-vulnerable-man-in-their-care",
-      "published_date": "2026-09-25T15:15:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Rushing’ judge caught speeding to court three times vows to use bus instead",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/judge-charles-crow-speeding-courts-b3056526.html",
-      "published_date": "2026-09-25T15:12:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour rejects Declassified journalists from party conference for third year – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates",
-      "published_date": "2026-09-25T15:10:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Major milestone’: TfL to launch new public bus operator in London",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/tfl-to-launch-new-public-bus-operator-in-london",
-      "published_date": "2026-09-25T15:04:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man jailed for ramming tractor into Middlesbrough house in revenge attack on rival",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-jailed-for-ramming-tractor-into-middlesbrough-house-in-revenge-attack-on-rival-13591839",
-      "published_date": "2026-09-25T14:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prisoner who strangled cellmate and wrote on his body guilty of murder after chilling confession",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/jonathan-alcide-neil-ashby-murder-stoke-heath-b3056489.html",
-      "published_date": "2026-09-25T14:34:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Golders Green stabbing suspect Essa Suleiman denies attempted murder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/golders-green-stabbing-suspect-court-essa-suleiman-b3056212.html",
-      "published_date": "2026-09-25T14:32:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We will get stuff done’: Burnham seeks to banish ghosts of Starmerism at Labour conference",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/25/andy-burnham-labour-conference-liverpool-starmerism",
-      "published_date": "2026-09-25T14:25:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Glasgow council bosses ‘feel sick’ about firing and rehiring 23,000 workers",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/glasgow-city-council-glasgow-unison-two-b3056401.html",
-      "published_date": "2026-09-25T14:01:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeffrey Donaldson could face more than 10 years in jail for child sexual abuse, court told",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/jeffrey-donaldson-should-get-more-than-10-years-jail-for-child-sexual-abuse-court-told",
-      "published_date": "2026-09-25T13:58:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Couple jailed for life for murdering ‘broken’ man they starved and tortured",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/kenneth-newton-melanie-james-rubin-blount-murder-tamworth-b3056466.html",
-      "published_date": "2026-09-25T13:53:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cyber-attack on Dyfed-Powys police ‘may have accessed staff information’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/cyber-attack-dyfed-powys-police-may-accessed-staff-information",
-      "published_date": "2026-09-25T13:52:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mosques given £66m in emergency security funds after Southport disorder",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/sep/25/mosques-emergency-security-funding-home-office-southport-disorder",
-      "published_date": "2026-09-25T13:50:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Noah Woods died after leaving playground through gap in fence, inquest told",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/noah-woods-died-leaving-playground-gap-fence-inquest",
-      "published_date": "2026-09-25T13:49:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tommy Robinson at court to see tearful anti-migrant activist Danny Tommo deny criminal damage",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/tommy-robinson-danny-tommo-magistrates-court-channel-boat-b3056302.html",
-      "published_date": "2026-09-25T13:43:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Daniel Thomas pleads not guilty after alleged dinghy slashing in Channel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/daniel-thomas-court-charged-criminal-damage-dinghy-channel",
-      "published_date": "2026-09-25T13:28:05+00:00",
       "category": "Local Events"
     }
   ]
