@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-09-28T18:33:05.047082+00:00",
+  "last_updated": "2026-09-29T02:25:16.661685+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Russian foreign minister questions 'what will become of UK' and future of 'the Celts'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9xk474wxgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-28T18:58:58+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Questions remain over Iran’s link to alleged RAF Fairford bomb plot",
       "source": "The Guardian",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Andy Burnham talks about ‘public control’ of the utilities but it’s a minefield. We can lead him through it | Will Hutton and Andy Haldane",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/25/andy-burnham-utilities-public-ownership-nationalisation-thames-water",
-      "published_date": "2026-09-25T05:00:41+00:00",
-      "category": "Diplomacy"
+      "title": "Did Trump reveal secret US-UK operation over RAF Fairford incident?",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/did-trump-reveal-secret-us-uk-operation-over-raf-fairford-incident-13593076",
+      "published_date": "2026-09-28T23:42:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump ‘surprised’ as five suspects released on bail over suspected RAF Fairford plot",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/trump-surprised-raf-fairford-bail-release-suspects-b3057842.html",
+      "published_date": "2026-09-28T19:54:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Five men arrested in RAF Fairford incident released on police bail",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-28T19:16:26+00:00",
+      "category": "Military"
     },
     {
       "title": "Nandy labels Farage ‘master of conspiracy theory’ over Fairford claims",
@@ -263,25 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "RAF Fairford: Five men arrested for ‘preparing a terrorist act’ near airbase used by US",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/raf-fairford-bomb-squad-major-incident-b3057051.html",
-      "published_date": "2026-09-27T15:16:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WW2 sailor and SBS member dies aged 101",
+      "title": "Burnham to unveil public body to invest in electricity grid",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw3055j73pe7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-26T13:35:20+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-29T00:40:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "‘Serious concern’ after MOD fails to disclose nearly 100m files to Afghan killings inquiry, court hears",
+      "title": "Burnham promises to roll back privatisation with government-backed grid plan",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/28/burnham-to-announce-government-backed-body-to-invest-in-electricity-grid",
+      "published_date": "2026-09-28T21:33:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Andy Burnham to unveil publicly owned Great British Grid to slash UK energy costs",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-special-forces-afghan-killings-war-crimes-inquiry-b3056333.html",
-      "published_date": "2026-09-25T12:13:33+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-gb-grid-energy-costs-b3057858.html",
+      "published_date": "2026-09-28T20:29:37+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘They will bow’: energy secretary challenges Reform and Tories – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/sep/28/they-will-bow-energy-secretary-challenges-reform-tories-podcast",
+      "published_date": "2026-09-28T19:03:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK diesel price hits all-time high, the RAC says",
@@ -396,32 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Three-quarters of UK’s popular plug-in hybrid cars unable to use rapid chargers",
+      "title": "Labour conference live: Burnham to unveil funding for social care fix after refusing to rule out tax hikes",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/labour-party-conference-2026-live-updates-healey-mahmood-burnham-b3057534.html",
+      "published_date": "2026-09-28T23:27:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Disabled young people to get government-funded jobs at Tesco and Lidl",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/neet-jobs-disability-benefits-labour-dwp-b3057731.html",
+      "published_date": "2026-09-28T23:06:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Shop price inflation slows as retailers ramp up promotions to drive demand",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/british-retail-consortium-helen-dickinson-inflation-chancellor-budget-b3057903.html",
+      "published_date": "2026-09-28T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cost of green transition could be spread among UK taxpayers, energy secretary suggests",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/26/uk-plug-in-hybrid-electric-vehicles-rapid-chargers-analysis",
-      "published_date": "2026-09-26T09:00:32+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fuel costs putting off meal delivery driver applicants",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyzkwnd258o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-26T06:33:02+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "British man and Greek wife 'killed in Athens gas leak explosion'",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/british-man-and-greek-wife-killed-in-athens-building-collapse-13591977",
-      "published_date": "2026-09-26T05:12:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Labour must reunite progressive voters to win the next election, says Lucy Powell",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/26/labour-must-reunite-progressive-voters-to-win-the-next-election-says-lucy-powell",
-      "published_date": "2026-09-26T05:00:29+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/2026/sep/28/green-transition-uk-taxpayers-energy-secretary-miatta-fahnbulleh",
+      "published_date": "2026-09-28T19:25:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "What a US diesel export ban could mean for you",
@@ -515,6 +543,13 @@
       "category": "Economy"
     },
     {
+      "title": "Gene-edited bananas that don’t go brown could hit UK supermarkets",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/sep/28/gene-edited-non-browning-banana-britain-shops",
+      "published_date": "2026-09-28T15:50:44+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "What you need to know about Your First Home scheme for first-time buyers",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/money/2026/sep/28/first-home-scheme-first-time-buyers-what-you-need-to-know",
@@ -529,39 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Young Brighton woman dies on holiday after falling 98ft from waterfall",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/death-brighton-sri-lanka-valentina-stragliotto-b3057584.html",
-      "published_date": "2026-09-28T14:16:05+00:00",
-      "category": "Economy"
+      "title": "From Amazon retreats to clinical research: The rise of psychedelic therapy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy9ew7815o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-29T00:59:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bananas that don’t go brown could hit UK supermarkets after scientific breakthrough",
+      "title": "Andy Burnham to set out plans for social care in Labour Party conference speech",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/bananas-brown-uk-supermarkets-b3057479.html",
-      "published_date": "2026-09-28T13:58:57+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/andy-burham-first-speech-labour-party-conference-b3057864.html",
+      "published_date": "2026-09-28T23:37:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Healey offers upbeat vision but sheds little light on how it will be paid for",
+      "title": "Scrapping state pension triple lock to fund social care would be ‘almost electoral sucide’, Burnham warned",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/money/state-pension-triple-lock-social-care-burnham-b3057355.html",
+      "published_date": "2026-09-28T23:31:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Warning more homes will be uninsurable due to flood risk",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-28T23:10:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stroke patient, 80, could be placed in care 100 miles from home",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yen96l1p6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-28T22:00:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Horror as boy, 2, is trapped by car that ploughs into nursery school playground",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/cheshire-police-woman-drove-nursery-playground-b3057808.html",
+      "published_date": "2026-09-28T20:59:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Local representatives question official accounts after suspected bomb plot at RAF Fairford",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain",
-      "published_date": "2026-09-28T13:46:18+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/sep/28/raf-fairford-representatives-sceptical-suspected-bomb-plot",
+      "published_date": "2026-09-28T19:13:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The supermarket swaps recommended by nutritionists to avoid harmful UPFs",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ultra-processed-food-swaps-health-b3057539.html",
-      "published_date": "2026-09-28T13:18:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Healey signals welfare reform push and new apprenticeships scheme",
+      "title": "Michael Wynn-Jones, husband of Delia Smith, dies aged 85",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
-      "published_date": "2026-09-28T12:25:29+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/sep/28/michael-wynn-jones-dies-aged-85-delia-smith-husband",
+      "published_date": "2026-09-28T19:07:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Absence of violence in Drumcree does not make standoff any less significant",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/28/absence-of-violence-in-drumcree-does-not-make-standoff-any-less-significant",
+      "published_date": "2026-09-28T18:37:08+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Police break silence on welfare of explorer Ranulph Fiennes",
@@ -620,6 +683,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Slipknot fans hit back after Marilyn Manson announced as support act for UK show",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-28T17:00:29+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Five men arrested near RAF Fairford to be released on bail, police say – as it happened",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
@@ -631,76 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/rejoin-eu-brexit-burnham-labour-conference-b3057631.html",
       "published_date": "2026-09-28T16:27:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens arrested at pro-Palestine protest on Sunday outside Labour conference",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/28/dozens-arrested-pro-palestine-protest-labour-conference",
-      "published_date": "2026-09-28T16:22:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avanti West Coast to be renationalised in March as ministers float public ownership of new trains",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march",
-      "published_date": "2026-09-28T16:22:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Angela Rayner promises greater public control of housing in England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/28/angela-rayner-labour-conference-greater-public-control-housing-england",
-      "published_date": "2026-09-28T16:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Men arrested over RAF Fairford ‘bomb plot’ released on bail",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/raf-fairford-arrests-released-bail-met-police-b3057688.html",
-      "published_date": "2026-09-28T15:39:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shabana Mahmood: I feel revulsion and fear at the sight of masked racists",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/shabana-mahmood-labour-conference-speech-b3057651.html",
-      "published_date": "2026-09-28T15:32:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman found dead in bin bag had no teeth and several medical conditions, police say",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/woman-found-dead-in-bin-bag-had-no-teeth-and-several-medical-conditions-police-say-13592960",
-      "published_date": "2026-09-28T15:15:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Are these chemicals in my blood?’ How one community learned the truth about Pfas pollution",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/28/blackpool-community-pfas-pollution-forever-chemicals",
-      "published_date": "2026-09-28T14:54:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Council dropped initial investigation into sex abuse teacher",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck980zr67j7do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-28T14:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham wants to fix social care - what are the options?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-28T13:58:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avanti West Coast services to be nationalised from March",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-28T12:52:56+00:00",
       "category": "Local Events"
     }
   ]
