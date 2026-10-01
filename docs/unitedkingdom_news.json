@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-09-30T16:43:58.415524+00:00",
+  "last_updated": "2026-10-01T01:42:28.663070+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "No 10 gathering evidence on public support for UK rejoining EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/30/no-10-gathering-evidence-public-support-rejoining-eu-reversing-brexit",
+      "published_date": "2026-09-30T18:33:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Macron says ‘welcome back’ to Burnham suggestion UK could rejoin EU",
       "source": "The Guardian",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sephora to run beauty departments in 100 M&S shops from next year",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/sephora-marks-spencer-oxford-street-france-b3058201.html",
-      "published_date": "2026-09-29T11:00:48+00:00",
-      "category": "Diplomacy"
+      "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-01T01:10:30+00:00",
+      "category": "Military"
     },
     {
       "title": "Burnham says ‘strong indications’ Iran played part in suspected RAF Fairford bomb plot",
@@ -277,11 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "RAF Fairford incident involves 'foreign actor', says Rubio",
+      "title": "Energy price cap rise of 4% takes effect amid warnings of 16% New Year increase",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/government-vat-households-simon-francis-b3059397.html",
+      "published_date": "2026-09-30T23:02:10+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy bills are going up - here's what you can do about it",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm7502650gy6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-29T11:35:26+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-30T23:01:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Thousands of UK manufacturers offered new scheme to cut energy bills by 25 per cent",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/energy-bills-uk-manufacturers-government-scheme-b3059143.html",
+      "published_date": "2026-09-30T23:01:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Experts issue warning over scam ‘energy-saving devices’ which could cause fires and electric shock",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/scam-energy-saving-devices-fire-electric-shock-b3058326.html",
+      "published_date": "2026-09-30T23:01:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Government must stop dithering over energy bill support for the vulnerable | Nils Pratley",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/sep/30/energy-bill-support-social-tariff-warm-homes-discount",
+      "published_date": "2026-09-30T17:04:09+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy debt hits record £5bn as experts issue winter warning",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/energy-debt-arrears-bills-ofgem-price-cap-b3059068.html",
+      "published_date": "2026-09-30T17:01:46+00:00",
+      "category": "Energy"
     },
     {
       "title": "New UK gas and oil projects are a ‘no-brainer’, says EDF boss",
@@ -382,46 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Can a mushroom make music? Devon exhibition explores ‘cultural world’ of fungi",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/science/2026/sep/30/exeter-devon-exhibition-fungi-mushrooms-living-labyrinths-ramm",
-      "published_date": "2026-09-30T04:00:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The start-ups hoping to return battery making to the US",
+      "title": "Vape prices to rise as new tax takes effect",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-29T23:06:50+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-30T23:02:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Household energy bills forecast to see biggest rise in four years",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-29T23:03:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "FTSE 100 falls as bond worries offset lower oil",
+      "title": "UK launches new vaping tax to deter young people and tackle illegal trading",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/andy-burnham-donald-trump-ag-barr-vesuvius-iran-b3058482.html",
-      "published_date": "2026-09-29T16:50:26+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/vaping-tax-uk-young-people-illicit-trade-b3059230.html",
+      "published_date": "2026-09-30T23:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "E-scooter battery ignited house fire that killed mother and three children",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/e-scooter-battery-ignited-house-fire-that-killed-mother-and-her-three-children-13593361",
-      "published_date": "2026-09-29T15:42:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Burnham announces plan for Great British Grid",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/crx2z07w8yxeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-29T14:37:39+00:00",
-      "category": "Energy"
+      "title": "The Brit Awards boosted Manchester economy by £5m, study finds",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/greater-manchester-north-west-jack-whitehall-noel-gallagher-raye-b3059399.html",
+      "published_date": "2026-09-30T23:01:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Stocks mixed as inflation worry weighs on Europe",
@@ -543,25 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "'I like proving people wrong': The women taking up DIY and plumbing",
+      "title": "Oasis take legal action to stop sale of unheard recordings valued at more than £1m",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/music/2026/oct/01/oasis-legal-action-sale-of-unheard-recordings",
+      "published_date": "2026-10-01T01:07:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How the new prison release scheme will work - and number of inmates to be freed",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-29T23:06:14+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c6z0zk9e7ggpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-01T01:00:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Scottish business confidence plummets, report finds",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/scottish-bank-of-scotland-middle-east-b3058639.html",
-      "published_date": "2026-09-29T23:01:00+00:00",
-      "category": "Economy"
+      "title": "Northern Ireland's young drivers first in UK to get new driving licensing laws",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2rgmn74pro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-30T23:02:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Supplements costing hundreds of pounds a year no better than 6p options – Which?",
+      "title": "Newborn babies in England now being tested for SMA after Jesy Nelson campaign",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/minerals-b3058640.html",
-      "published_date": "2026-09-29T23:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-england-sma-test-jesy-nelson-b3059252.html",
+      "published_date": "2026-09-30T23:01:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Hugely exciting’ finds on tiny Scottish island shed light on spread of Christianity",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/2026/oct/01/lismore-archaeological-finds-scottish-island-monastery-spread-of-christianity",
+      "published_date": "2026-09-30T23:00:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Catching scabies in hospital meant my husband was labelled an environmental hazard when he died",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9zrz5vkz47go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-30T22:02:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three unions to strike at once over Glasgow Caledonian job cuts",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck24jev5e8l3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-30T22:01:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drumcree standoff continues after Orange Order says it will ‘not surrender’ to proposed deal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/30/garvaghy-road-march-talks-tantalisingly-close-to-resolution-says-minister",
+      "published_date": "2026-09-30T21:31:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man City's sponsor warns of legal action against Premier League",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-citys-sponsor-warns-of-potential-legal-action-against-premier-league-13593746",
+      "published_date": "2026-09-30T19:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teenagers killed after car went into River Wear named by police",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/teenagers-killed-after-car-went-into-river-wear-in-sunderland-named-by-police-13593730",
+      "published_date": "2026-09-30T18:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grenfell fire police investigators pass files on 20 firms and 54 people to prosecutors",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/grenfell-fire-police-arrests-london-b3058919.html",
+      "published_date": "2026-09-30T17:47:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince Harry and Meghan brand paparazzi ‘extraordinarily reckless’ for looking into grounds of children’s school",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/prince-harry-meghan-markle-children-archie-lilibet-school-paparazzi-b3058877.html",
+      "published_date": "2026-09-30T17:39:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on falling pupil numbers: a chance to improve opportunities for young people | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/30/the-guardian-view-on-falling-pupil-numbers-a-chance-to-improve-opportunities-for-young-people",
+      "published_date": "2026-09-30T17:36:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grenfell police hand files on 20 organisations and 54 people to CPS",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/30/grenfell-fire-police-investigators-files-prosecutors",
+      "published_date": "2026-09-30T17:33:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM: I'd be 'really concerned' if Man City owners sell club",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckz6zq6gjpvgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-30T17:24:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ben Jennings on Andy Burnham’s pledge to overhaul social care – cartoon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/sep/30/ben-jennings-andy-burnham-pledge-social-care-cartoon",
+      "published_date": "2026-09-30T17:18:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham vows to resist potential talks with UAE government over Man City verdict appeal",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-man-city-premier-league-charges-uae-government-b3059249.html",
+      "published_date": "2026-09-30T17:01:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scottish screen sector boom brings questions over jobs and overtourism",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/30/crews-filming-in-scotland-told-to-hire-local-as-industry-booms",
+      "published_date": "2026-09-30T16:53:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "O'Neill returns to Garvaghy Road as police investigate Sunday's 'unlawful protest'",
@@ -575,132 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/river-wear-car-sunderland-teenagers-killed-b3059235.html",
       "published_date": "2026-09-30T16:34:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grooming gangs inquiry expanded to Birmingham and Wales",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2zr39l716o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-30T16:16:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police officer tasered care home resident then joked about it on Facebook hours later",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/donald-burgess-stephen-smith-rachel-comotto-b3059217.html",
-      "published_date": "2026-09-30T16:15:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-30T16:01:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/30/strong-indications-that-iran-played-role-in-raf-fairford-incident-says-burnham",
-      "published_date": "2026-09-30T16:00:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "French court jails six men for manslaughter over mass drowning in Channel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/30/french-court-jails-six-manslaughter-mass-drowning-channel",
-      "published_date": "2026-09-30T15:58:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Met hands Grenfell fire investigation file to CPS",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-30T15:49:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man denies murder after body found inside suitcase in Kent woodland",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/dale-mundell-murder-jamie-cooper-joshua-miller-b3059196.html",
-      "published_date": "2026-09-30T15:49:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/30/labour-ministers-moved-persuaded-andy-burnham-emotional-conference-speech",
-      "published_date": "2026-09-30T15:28:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS trust admits 'failing families' over stillbirths",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyz0ryz701o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-30T15:22:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mapped: The UK areas to be hardest hit by scrapping pensions triple lock",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/pensions-triple-lock-pension-credit-map-labour-burnham-b3058885.html",
-      "published_date": "2026-09-30T15:02:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBC commentator thanks Cardiff City legend for saving him after heart attack scare",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx2z0v4j0lqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-30T14:58:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electoral reform could be a gamble too far for Burnham – but so far he’s on a winning streak| Zoe Williams",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/30/electoral-reform-gamble-andy-burnham-labour-proportional-representation",
-      "published_date": "2026-09-30T14:55:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 44,000 file legal objections to Palantir NHS platform handling their data",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/sep/30/legal-objections-palantir-nhs-platform-handling-data",
-      "published_date": "2026-09-30T14:51:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grooming gangs inquiry to investigate offending in Wales and Birmingham",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/30/grooming-gangs-inquiry-wales-birmingham",
-      "published_date": "2026-09-30T14:30:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two million people in England unaware their properties are at risk of flooding",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/30/two-million-people-uk-unaware-flooding-risk",
-      "published_date": "2026-09-30T13:50:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Birmingham and Wales confirmed as next locations for grooming gangs inquiry",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/grooming-gangs-investigation-wales-birmingham-b3059067.html",
-      "published_date": "2026-09-30T13:49:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Grooming gangs inquiry expands to Wales and Birmingham",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/grooming-gangs-inquiry-expands-to-wales-and-birmingham-13593656",
-      "published_date": "2026-09-30T13:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Village cut off and plunged into ‘absolute chaos’ by Harry Potter filming",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/harry-potter-filming-latimer-buckinghamshire-b3058966.html",
-      "published_date": "2026-09-30T13:19:57+00:00",
       "category": "Local Events"
     }
   ]
