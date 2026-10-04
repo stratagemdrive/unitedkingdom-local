@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-03T15:06:07.784128+00:00",
+  "last_updated": "2026-10-04T02:14:55.674528+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Labour back on top in polls after Burnham’s Brexit pledge",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/polls-latest-labour-burnham-brexit-tories-reform-opinium-b3060839.html",
+      "published_date": "2026-10-03T19:00:19+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Brexit to take centre stage in battle for London",
       "source": "The Independent",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Burnham’s reopening of Brexit debate is ‘biggest boost in my career’, says Farage",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/01/burnhams-reopening-of-brexit-debate-is-biggest-boost-in-my-career-says-farage",
-      "published_date": "2026-10-01T15:47:43+00:00",
-      "category": "Diplomacy"
+      "title": "Trump is ‘absolutely right’ the UK must spend more on defence, says Wes Streeting",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/uk-defence-spending-wes-streeting-donald-trump-nato-b3060890.html",
+      "published_date": "2026-10-03T19:23:42+00:00",
+      "category": "Military"
     },
     {
       "title": "UK-Iran national arrested over alleged bomb plot at RAF Fairford released on bail",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-01T11:37:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Suppliers pile pressure on government over energy bills",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
@@ -295,6 +295,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5j9x99yep92o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-03T05:27:43+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Worst ever outbreak of bluetongue hits British farms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/03/bluetongue-hits-british-farmers",
+      "published_date": "2026-10-03T05:00:52+00:00",
       "category": "Energy"
     },
     {
@@ -403,6 +410,13 @@
       "category": "Energy"
     },
     {
+      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-01T07:08:22+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Africa's richest man launches Kenya oil refinery despite land protests",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
@@ -410,24 +424,38 @@
       "category": "Energy"
     },
     {
-      "title": "The zero-bills home: how one family is beating the energy price hikes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/01/the-zero-bills-home-how-one-family-is-beating-the-energy-price-hikes",
-      "published_date": "2026-10-01T05:00:29+00:00",
-      "category": "Energy"
+      "title": "The Papers: 'Another tax bombshell?' and 'Terror plot targets'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdmk479mr1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T23:49:57+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Energy price cap rise of 4% takes effect amid warnings of 16% New Year increase",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/government-vat-households-simon-francis-b3059397.html",
-      "published_date": "2026-09-30T23:02:10+00:00",
-      "category": "Energy"
+      "title": "Tories would expand free childcare to high earners, Badenoch says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge",
+      "published_date": "2026-10-03T21:00:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+      "published_date": "2026-10-03T15:00:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Greens would offer two-year jobs to unemployed under-24s",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-03T12:51:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘A hefty umami punch’: the best (and worst) supermarket light soy sauce, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/oct/03/best-worst-supermarket-light-soy-sauce-tasted-rated",
+      "published_date": "2026-10-03T12:00:59+00:00",
       "category": "Economy"
     },
     {
@@ -536,38 +564,94 @@
       "category": "Economy"
     },
     {
-      "title": "Tesco expected to reveal improving growth after ‘soft’ first quarter",
+      "title": "Burnham scraps controversial Starmer plan to axe jury trials",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/tesco-experts-asda-middle-east-europe-b3060485.html",
-      "published_date": "2026-10-02T14:48:59+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-starmer-jury-trials-labour-b3060841.html",
+      "published_date": "2026-10-03T23:01:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US jobs market sees sharp slowdown ahead of midterm elections",
+      "title": "The murder of a journalist 25 years on - why has no one been caught?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-02T14:30:48+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cq78323yl5zno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T23:01:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gordon Ramsay’s restaurant empire toasts Netflix series for record year",
+      "title": "Ministers drop plans to cut jury trials in England and Wales after outcry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/oct/04/ministers-drop-radical-plans-cut-jury-trials-outcry-lawyers-centuries-old-right-courts",
+      "published_date": "2026-10-03T23:01:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man shot dead at London memorial service in ‘senseless act of violence’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/03/met-launches-inquiry-after-man-shot-dead-at-london-memorial-service",
+      "published_date": "2026-10-03T22:04:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Celtic condemn fan protest as Desmond targeted at Alfred Dunhill",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T21:46:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man shot dead as families gather for memorial",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T20:42:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huge crowds turn out in support of residents over Drumcree parade dispute",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dywn1nnvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T19:15:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Badenoch: 'We are a new Conservative Party'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ck62y4d55qyeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T16:49:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man shot dead in 'senseless act of violence' as people gathered for memorial service",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-shot-dead-in-senseless-act-of-violence-as-people-gathered-for-west-london-memorial-service-13594784",
+      "published_date": "2026-10-03T16:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police launch manhunt after mourner shot dead at memorial service in London",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/netflix-gordon-ramsay-bishopsgate-restaurants-b3060447.html",
-      "published_date": "2026-10-02T14:19:07+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/acton-shooting-police-braybrook-street-b3060870.html",
+      "published_date": "2026-10-03T16:31:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tories aim to be election-ready ahead of party conference",
+      "title": "Landslip leaves Skye drivers facing 40-mile diversion",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-02T14:09:25+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/crn8w7zp77gzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T15:41:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hundreds of anti-migrant protesters gather in Dover and Southampton",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/anti-migrant-protests-dover-southampton-live-updates-b3060837.html",
       "published_date": "2026-10-03T15:00:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
+      "published_date": "2026-10-03T15:00:02+00:00",
       "category": "Local Events"
     },
     {
@@ -582,6 +666,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/ofsted-school-inspections-lucy-powell-b3060829.html",
       "published_date": "2026-10-03T14:21:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tories pledge to build 50,000 new prison places",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T14:17:52+00:00",
       "category": "Local Events"
     },
     {
@@ -610,97 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqwy75k3xd1lo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-03T13:27:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alison Hammond returns home from hospital after rushing off This Morning",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr20w7j8jd21o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T13:21:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police searching for mum of baby girl found on shoreline tell her not to be afraid to call",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dzpq2zpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T13:12:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenager taken to hospital after Glasgow shopping centre gang attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1dq9q50xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T12:59:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two Iranian men identified Manchester synagogue as site for alleged bomb plot, court hears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/03/iranian-men-manchester-synagogue-alleged-bomb-plot-court-hears",
-      "published_date": "2026-10-03T12:53:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T12:51:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UAE may halt UK investments after Manchester City guilty verdict",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/oct/03/united-arab-emirates-uae-uk-investments-manchester-city-guilty-verdict",
-      "published_date": "2026-10-03T12:00:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian men ‘identified Heaton Park Synagogue as bomb plot target’ court hears",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/heaton-park-synagogue-terror-plot-b3060785.html",
-      "published_date": "2026-10-03T10:59:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T10:58:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farage ‘not listened to’ on safety concerns says Tice after terror plot charge",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-widdecombe-terror-plot-b3060756.html",
-      "published_date": "2026-10-03T08:45:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Home Secretary warns UK is facing ‘serious threats’ from Iran after bomb plot charges",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/shabana-mahmood-iran-threat-uk-b3060736.html",
-      "published_date": "2026-10-03T07:25:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside Crimestoppers: How the ‘Sarah Everard effect’ is solving crimes – one anonymous call at a time",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/crimestoppers-charity-police-trust-sarah-everard-b3056851.html",
-      "published_date": "2026-10-03T07:24:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Victorian bridge hidden under reservoir is revealed",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj2070wgle33o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T06:09:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London Labour council warns it may raise council tax by 150%",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/03/london-labour-council-tax-hammersmith-fulham",
-      "published_date": "2026-10-03T06:00:53+00:00",
       "category": "Local Events"
     }
   ]
