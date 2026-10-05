@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-04T15:43:08.406901+00:00",
+  "last_updated": "2026-10-05T01:25:32.167385+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "For Kemi, being the Nasty party is not toxic but a badge of honour | John Crace",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/04/for-kemi-being-the-nasty-party-is-not-toxic-but-a-badge-of-honour",
+      "published_date": "2026-10-04T17:13:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "'Get on with the day job' - Welsh Tory leader attacks first minister's independence push",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdmkgemmd4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T15:23:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Scottish independence referendum not on the table, minister insists after Burnham’s Brexit pledge",
       "source": "The Independent",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "PM warned Rosebank oil field could breach West Bank sanctions",
+      "title": "US removes all bombers from RAF Fairford base",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-01T18:38:22+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T21:57:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Ben Jennings on Andy Burnham’s suggestion that the Brexit question could be revisited – cartoon",
+      "title": "US bombers pulled from RAF Fairford base after suspected terror plot",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/01/ben-jennings-andy-burnham-suggestion-brexit-question-revisited-cartoon",
-      "published_date": "2026-10-01T17:27:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot",
+      "published_date": "2026-10-04T21:25:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US removes all Air Force bombers from RAF Fairford",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/us-removes-all-air-force-bombers-from-raf-fairford-13595162",
+      "published_date": "2026-10-04T21:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Decades old debris likely caused fatal Spitfire crash that killed Royal Air Force pilot",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "UK-Iran national arrested under Terrorism Act over RAF Fairford incident",
+      "title": "Strikes by North Sea oil workers could ‘severely disrupt’ UK fuel supplies",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/01/uk-iran-national-arrested-terrorism-act-raf-fairford",
-      "published_date": "2026-10-01T17:02:01+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/business/2026/oct/05/strikes-by-north-sea-oil-workers-could-severely-disrupt-uk-fuel-supplies",
+      "published_date": "2026-10-04T23:01:40+00:00",
+      "category": "Energy"
     },
     {
-      "title": "'I took RAF Fairford arrests photo - then all hell broke loose'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dwdn9e74lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-01T17:00:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British Iranian man arrested over alleged RAF Fairford bomb plot",
+      "title": "Oil worker strike threatens to severely disrupt Britain’s fuel supply",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/raf-fairford-iran-arrest-b3059956.html",
-      "published_date": "2026-10-01T16:53:41+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/oil-worker-strike-uk-fuel-b3061118.html",
+      "published_date": "2026-10-04T23:01:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UK hygiene poverty crisis deepens as millions skip deodorant and toilet roll, survey finds",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-hygiene-poverty-survey-toilet-roll-b3061078.html",
+      "published_date": "2026-10-04T23:01:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Suppliers pile pressure on government over energy bills",
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "'We're still cold paying £300 a month energy bills'",
+      "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cw1mvdd349v1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-01T07:57:07+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T21:35:30+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-01T07:08:22+00:00",
-      "category": "Energy"
+      "title": "Andy Burnham risks repeating Liz Truss mini budget chaos, Shadow Chancellor warns",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-liz-truss-mini-budget-b3061123.html",
+      "published_date": "2026-10-04T21:09:45+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-01T07:04:27+00:00",
-      "category": "Energy"
+      "title": "Tories vow to boost economy by cutting safeguards that protect Britain’s countryside",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/andrew-griffith-conservative-economy-countryside-b3061119.html",
+      "published_date": "2026-10-04T21:00:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Guardian view on nurseries: some things are going right for under-fives | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/04/the-guardian-view-on-nurseries-some-things-are-going-right-for-under-fives",
+      "published_date": "2026-10-04T16:25:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Own a mobile phone? Then you’re paying the ‘app tax’. It’s a racket and it’s time the UK faced Apple and Google down | Chi Onwurah",
@@ -536,32 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "‘It’s shocking really’: Devon community tracks River Dart sewage spills",
+      "title": "Gillian Anderson responds to backlash after telling ‘distracting’ fans to stop sitting in front row",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/03/devon-community-platform-river-hub-dart-sewage-spills-overflows",
-      "published_date": "2026-10-03T06:00:53+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/culture/2026/oct/05/fans-backlash-west-end-gillian-anderson",
+      "published_date": "2026-10-05T01:02:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tories pledge to slash overseas aid budget to fund ‘biggest prison increase since Queen Victoria’",
+      "title": "The Papers: Badenoch's 'bonfire of green laws' and 'Drop in global dealmaking'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn30zn288o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-05T00:18:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anti-migrant protesters gather in seaside town as dinghy arrives in UK",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/conservatives-tories-prison-places-badenoch-b3060483.html",
-      "published_date": "2026-10-02T22:14:34+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/anti-migrant-protesters-dinghy-english-channel-gosport-live-updates-b3061162.html",
+      "published_date": "2026-10-04T23:15:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Guardian view on the Conservative conference: a party still searching for a purpose | Editorial",
+      "title": "Children’s books with Black main characters down 8% in a year, study shows",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/02/the-guardian-view-on-the-conservative-conference-a-party-still-searching-for-a-purpose",
-      "published_date": "2026-10-02T16:51:19+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/books/2026/oct/05/childrens-books-with-black-main-characters-down-study-uk",
+      "published_date": "2026-10-04T23:01:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Burnham to pass law scrapping pension triple lock before next election",
+      "title": "Inquiry probes controversial camera tech linked to mental health patient deaths",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/oxevision-cameras-mental-health-inquiry-b3061115.html",
+      "published_date": "2026-10-04T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Slim Chickens ramps up expansion with drive-throughs on the menu",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/people-europe-press-association-arkansas-b3061225.html",
+      "published_date": "2026-10-04T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bellamy bemoans new schedule after Denmark loss",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T22:36:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters gather as migrants brought ashore on south coast",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T21:37:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tories to pledge to scrap Environment Agency and Natural England",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/02/burnham-law-pension-triple-lock",
-      "published_date": "2026-10-02T16:39:11+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/2026/oct/04/tories-scrap-environment-agency-natural-england-conservative-conference",
+      "published_date": "2026-10-04T21:00:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Money-grab' or celebration? NFL kicks off London series",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T20:36:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after woman in her 40s found dead in Norfolk",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-arrested-after-woman-in-her-40s-found-dead-in-norfolk-13595144",
+      "published_date": "2026-10-04T20:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder investigation after woman found dead in Norfolk home",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/norfolk-murder-fern-hill-police-b3061173.html",
+      "published_date": "2026-10-04T19:58:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine fire engines called to Glasgow city centre bar fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq99zv40n8klo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T18:36:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Green party votes to adopt policy that equates Zionism with racism",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
+      "published_date": "2026-10-04T17:40:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rugby league fans in Wakefield for bus parade",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cred30y7n2dgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T17:14:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on trapped leaseholders: Labour must keep its promise to set them free | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/04/the-guardian-view-on-trapped-leaseholders-labour-must-keep-its-promise-to-set-them-free",
+      "published_date": "2026-10-04T16:30:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Triathlete was 'very sick' in hospital after swimming in 'dirty' open water",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3034l3z6zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-04T16:24:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "I'm a classic old school Conservative, says Kemi Badenoch",
@@ -582,125 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmvgxw5y4y0wo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-04T14:52:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK justice secretary unable to say how many early-release prisoners have been tagged",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/04/uk-justice-secretary-alex-norris-prisoners-tagged-england-wales",
-      "published_date": "2026-10-04T14:35:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Missing woman found 'safe and well' after appeal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv4k7kvl9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-04T13:52:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wales' Elfyn Evans wins his first World Rally Championship",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/motorsport/articles/cmd6dq5gyw7xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-04T13:46:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘My shop was robbed at gunpoint – I still don’t feel safe after the Nottingham balaclava ban’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/nottingham-balaclava-ban-police-public-opinion-b3055546.html",
-      "published_date": "2026-10-04T13:46:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Medieval leprosy hospital uncovered in Lincoln",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw77pxjv76jpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-04T13:18:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Brexit could end up being Kemi Badenoch’s arrow in the eye",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/conservative-party-conference-kemi-badenoch-brexit-tory-b3060948.html",
-      "published_date": "2026-10-04T13:15:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Met Police officer charged with sexually assaulting two women while on duty",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/met-police-charged-sexual-assualt-b3061033.html",
-      "published_date": "2026-10-04T12:48:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The demands of Welsh devolution are simple: just give us what Scotland has | Will Hayward",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/04/demands-welsh-devolution-scotland-andy-burnham",
-      "published_date": "2026-10-04T12:21:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-04T11:59:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-04T11:19:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Housing or data centre? London's land-use dilemma",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj20709qxleyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-04T11:12:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court quashes block on mothers and children in Gaza joining families in UK",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/04/court-quashes-block-on-mothers-and-children-in-gaza-joining-families-in-uk",
-      "published_date": "2026-10-04T11:00:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can teaching schoolchildren about Britain’s role in the transatlantic slave trade remain optional? | Morgan Ofori",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/oct/04/teaching-schoolchildren-britain-role-transatlantic-slave-trade",
-      "published_date": "2026-10-04T11:00:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham’s plans for social care and its workers are admirable but changes must come quickly | Heather Stewart",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/04/andy-burnham-plans-social-care-workers-changes",
-      "published_date": "2026-10-04T10:37:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The violence is off the scale’: staff and passengers at risk as assaults on UK trains soar to record high",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/04/violence-rail-workers-passengers-risk-assaults-uk-railways-soar-record-high-transport",
-      "published_date": "2026-10-04T10:00:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of Glasgow council workers face pay cuts in one of UK’s biggest fire-and-rehire plans",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
-      "published_date": "2026-10-04T09:13:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Badenoch says Tory policy is to keep pension triple lock",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmed3094q7qqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-04T09:01:34+00:00",
       "category": "Local Events"
     }
   ]
