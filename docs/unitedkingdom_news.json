@@ -1,8 +1,36 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-06T02:37:26.894595+00:00",
+  "last_updated": "2026-10-06T17:05:24.203934+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Britain could expel Israeli diplomats if Jerusalem consulate closes, say sources",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/israel-british-consulate-east-jerusalem-b3062252.html",
+      "published_date": "2026-10-06T15:56:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T14:30:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Argentina will stop Falklands exploiting offshore oilfields, foreign minister says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
+      "published_date": "2026-10-06T11:40:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Football chiefs hold new summit over £180m-a-year deal",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/football-chiefs-hold-new-summit-over-180m-a-year-deal-13595694",
+      "published_date": "2026-10-06T10:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kemi Badenoch refuses to say if Brexit has benefitted London",
       "source": "The Independent",
@@ -116,32 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Europe to release ‘massive amount of diesel’ after Trump’s supply threat",
+      "title": "Iranian men accused of spying targeted journalists for 'serious violence', court hears",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlye0zydy0eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T16:37:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lower oil boosts FTSE 100 but defence stocks lag",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/uk-diesel-shortage-trump-europe-b3060784.html",
-      "published_date": "2026-10-03T10:56:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/business/london-john-healey-bloomberg-frankfurt-aj-bell-b3062303.html",
+      "published_date": "2026-10-06T16:19:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+      "title": "British national arrested in connection with RAF Fairford incident",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T15:03:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Badenoch's £10bn air defence plan points to growing concern over protecting UK's skies",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm86zqg553q8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T13:26:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British man arrested over terror offences in connection to RAF Fairford incident",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/raf-fairford-arrest-terror-offences-london-b3062122.html",
+      "published_date": "2026-10-06T12:44:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police make further arrest over RAF Fairford incident",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/police-make-further-arrest-over-raf-fairford-incident-13595771",
+      "published_date": "2026-10-06T12:18:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK special forces may have committed 'serious offences' in Afghanistan, court told",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-special-forces-afghanistan-deaths-b3062081.html",
+      "published_date": "2026-10-06T11:06:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Alleged Iranian spy wanted £150,000 to 'finish off' journalist, court hears",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/iranian-spy-wanted-150000-to-finish-off-uk-based-journalist-court-hears-13595691",
+      "published_date": "2026-10-06T09:46:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tories plan £10bn ‘British Iron Dome’ to protect UK – how would it work?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/badenoch-iron-dome-enemy-missiles-tory-conference-b3061949.html",
+      "published_date": "2026-10-06T09:19:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Badenoch denies ‘British Iron Dome’ plan – after Tories use phrase in press release",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
-      "published_date": "2026-10-03T05:00:52+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
+      "published_date": "2026-10-06T08:27:41+00:00",
+      "category": "Military"
     },
     {
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T04:38:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Papers: 'G7 strikes oil deal' and 'Alison's TV heart scare'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crje52vpqwdyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T00:21:27+00:00",
-      "category": "Diplomacy"
+      "title": "‘It really hammers people’: Scottish islanders hit by highest diesel prices in UK",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/06/scottish-islanders-highest-level-diesel-prices-uk-hebrides-shetland",
+      "published_date": "2026-10-06T05:00:03+00:00",
+      "category": "Military"
     },
     {
       "title": "The Papers: Badenoch's 'Britannia Dome' and 'King tells Andrew 'I won't fund court fight''",
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Southport Inquiry: Violent material left online for weeks",
+      "title": "Badenoch warns Tories they will not be allowed back if they defect to Reform as she rules out coalition with Farage",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-tory-conference-conservatives-reform-defection-b3062180.html",
+      "published_date": "2026-10-06T16:00:33+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Electricity grid operator asks market for more back-up power generation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/electricity-grid-operator-asks-market-for-more-backup-power-generation-b3061914.html",
+      "published_date": "2026-10-06T06:54:05+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5j6j1n42ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T17:44:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/snp-scotland-scottish-government-energy-conservative-b3061423.html",
-      "published_date": "2026-10-05T16:50:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T16:13:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why did the US rush to withdraw bombers from RAF Fairford? - The Latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
-      "published_date": "2026-10-05T15:45:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mel B ‘heartbroken’ by Windrush scandal victims’ fight for justice",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/05/mel-b-windrush-scandal-fight-for-justice-legal-support-commissioner",
-      "published_date": "2026-10-05T14:11:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Vance and Rubio address why US removed its bombers from RAF Fairford",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/us-removes-all-air-force-bombers-from-raf-fairford-after-suspected-terror-plot-13595162",
-      "published_date": "2026-10-05T13:10:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "SAS: The Shadow War podcast – How to listen to the series as soldiers break their silence",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/sas-the-shadow-war-sam-kiley-podcast-how-to-listen-b3061324.html",
-      "published_date": "2026-10-05T10:04:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T10:03:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why has the US withdrawn military bombers from RAF Fairford in the UK?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/raf-fairford-us-bombers-withdraw-b3061336.html",
-      "published_date": "2026-10-05T09:37:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Why as an SAS soldier it goes against decades of training to speak out",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/sas-northern-ireland-troubles-secret-b3061038.html",
-      "published_date": "2026-10-05T04:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Shadow War: Inside story of deadly SAS conflict with IRA revealed for the first time",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/sas-ira-shadow-war-northern-ireland-b3058267.html",
-      "published_date": "2026-10-05T04:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T06:01:12+00:00",
+      "category": "Energy"
     },
     {
       "title": "Andy Burnham facing calls to rule out coalition deal with Greens after ‘Zionism is racism’ motion",
@@ -403,25 +424,88 @@
       "category": "Energy"
     },
     {
-      "title": "Worst ever outbreak of bluetongue hits British farms",
+      "title": "Badenoch announces £2.3bn proposal to cut employer national insurance for young workers – UK politics live",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/03/bluetongue-hits-british-farmers",
-      "published_date": "2026-10-03T05:00:52+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+      "published_date": "2026-10-06T16:49:03+00:00",
+      "category": "Economy"
     },
     {
-      "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T02:36:19+00:00",
-      "category": "Energy"
+      "title": "All options to save nearly 400 Grangemouth workers will be explored – Flynn",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/grangemouth-government-scottish-government-scottish-parliament-chinese-b3062269.html",
+      "published_date": "2026-10-06T15:59:52+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'No jobs on a dead planet' - former commissioner defends helping scrap M4 relief road",
+      "title": "Asos warns customer data may be compromised after ‘unauthorised’ app access",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
+      "published_date": "2026-10-06T15:06:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sainsbury’s launches new savings account to challenge supermarket rival",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/money/sainsburys-savings-account-nectar-tesco-bank-b3062108.html",
+      "published_date": "2026-10-06T14:29:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ofwat lines up independent monitor for troubled South East Water",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/ofwat-lines-up-independent-monitor-for-troubled-south-east-water-13595737",
+      "published_date": "2026-10-06T10:57:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Major business group piles pressure on Burnham over tax cuts",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andy-burnham-tax-cuts-budget-andrew-griffith-bcc-b3061940.html",
+      "published_date": "2026-10-06T10:35:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "MPs demand investigation after UK trader who exposed links between US commerce secretary and Epstein dies",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/epstein-lutnick-simon-andriesz-whistleblower-fca-b3061951.html",
+      "published_date": "2026-10-06T09:59:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK events firm that hosts arms fairs and comic shows sold to rival for £2bn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/06/informa-buy-clarion-blackstone-ftse-100",
+      "published_date": "2026-10-06T08:16:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Informa to buy rival events firm Clarion for £2.2bn amid strategy overhaul",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/blackstone-stephen-carter-north-america-asia-holly-williams-b3061959.html",
+      "published_date": "2026-10-06T08:03:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lego fraudster among last year's most high-profile insurance scammers",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmjrxeyx2q2vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-02T21:49:44+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T07:03:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Irish budget tackles childcare and energy costs",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T05:30:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Community supermarket opens in shopping centre",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjnmx6ln4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T04:54:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "Five reasons India's stock market is sinking even when its economy is growing",
@@ -480,227 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Tories pledge tax cuts in free-market revival",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-inheritance-tax-cut-speech-b3061578.html",
-      "published_date": "2026-10-05T17:00:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FTSE outperforms European peers as euro struggles",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/frankfurt-schneider-electric-french-aj-bell-paris-b3061697.html",
-      "published_date": "2026-10-05T16:21:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sainsbury’s for Tories, Waitrose for... Labour? New poll reveals what your supermarket says about your politics",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/supermarket-voting-labour-reform-polls-shopping-supermarket-tesco-aldi-b3061531.html",
-      "published_date": "2026-10-05T16:09:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sainsbury’s and Morrisons ‘held talks this year’ on multibillion-pound merger",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/05/sainsburys-morrisons-merger-talks",
-      "published_date": "2026-10-05T15:24:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Would the Conservatives' plan make new houses £50,000 cheaper?",
+      "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4n8yprglo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T15:19:46+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T17:00:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Sainsbury's in merger talks with supermarket giant rival",
+      "title": "Afghan men jailed for rape of teenager after being caught fleeing UK by French police",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j4j6yd7n0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T16:58:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Tories are talking about winning the next election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly02ry5982o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T16:49:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Don’t mention the Iron Dome: comedy genius Kemi on warpath at Tory conference | John Crace",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/06/kemi-badenoch-britannia-shield-conservative-conference",
+      "published_date": "2026-10-06T16:49:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I’m voting anti-Starmer’: Holborn and St Pancras divided as Polanski eyes former PM’s seat in crucial by-election",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/sainsbury-morrisons-murger-aldi-asda-b3061614.html",
-      "published_date": "2026-10-05T15:00:36+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/holborn-st-pancras-by-election-labour-greens-polanski-b3062297.html",
+      "published_date": "2026-10-06T16:47:51+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "What went wrong at telecoms group TalkTalk?",
+      "title": "Boats 'set for people smugglers' seized at airport",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cme8r9267dpko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T16:22:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Student admits murdering woman in 'Dexter' kill room",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2v8x72g4ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T16:19:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russell Brand back in court ahead of rape and sexual assault trial",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/talktalk-london-carphone-warehouse-verizon-holly-williams-b3061483.html",
-      "published_date": "2026-10-05T12:52:12+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/russell-brand-trial-court-charges-b3061982.html",
+      "published_date": "2026-10-06T16:03:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Sainsbury's held talks about merger with supermarket rival Morrisons",
+      "title": "When the Tories need to rely on Ed Davey’s school of gimmickry, you know Kemi Badenoch has a problem",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-conservative-conference-tories-2026-b3062059.html",
+      "published_date": "2026-10-06T15:42:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK city with most National Lottery millionaires in the last 30 years revealed",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/national-lottery-winners-millionaires-lucky-cities-b3062066.html",
+      "published_date": "2026-10-06T15:37:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Proportion of people in Great Britain vaping who never smoked doubles in four years",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years",
+      "published_date": "2026-10-06T15:05:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two police officers sacked after tasering 92-year-old amputee in care home",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/stephen-smith-rachel-comotto-sacked-tasered-donald-burgess-care-home-b3062220.html",
+      "published_date": "2026-10-06T14:35:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "People evacuated as fire sweeps through historic London market place",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/fire-market-kingston-upon-thames-london-b3062185.html",
+      "published_date": "2026-10-06T14:32:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PCs sacked after 92-year-old tasered and pepper sprayed in care home",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/sainsburys-held-talks-about-merger-with-supermarket-rival-morrisons-13595383",
-      "published_date": "2026-10-05T12:23:00+00:00",
-      "category": "Economy"
+      "url": "https://news.sky.com/story/two-officers-sacked-after-92-year-old-man-tasered-and-pepper-sprayed-in-care-home-police-watchdog-says-13595825",
+      "published_date": "2026-10-06T14:25:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Average five-year fixed mortgage rate hits 6% for first time in three years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
-      "published_date": "2026-10-05T11:39:37+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Euro falls to 17-month low against dollar amid French debt fears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
-      "published_date": "2026-10-05T11:18:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lidl lures in millions of new shoppers with budget deals and Deluxe range",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/lidl-deluxe-sales-supermarket-middle-aisle-b3061461.html",
-      "published_date": "2026-10-05T11:08:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lidl GB’s sales soar by over 10%, helped by price cuts and Deluxe range",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/05/lidl-gb-sales-price-cuts-deluxe-range",
-      "published_date": "2026-10-05T10:27:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tate brothers exploited women using 'lover boy' model, UK alleges",
+      "title": "Man pleads guilty after wife's body found in freezer",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/tate-brothers-exploited-women-using-lover-boy-model-uk-alleges-13595592",
-      "published_date": "2026-10-06T01:02:00+00:00",
+      "url": "https://news.sky.com/story/man-pleads-guilty-after-wifes-body-found-in-freezer-at-west-yorkshire-home-13595820",
+      "published_date": "2026-10-06T14:09:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Tate brothers lured women with ‘lover boy’ tactic before coercing them into porn, court documents allege",
+      "title": "What is the XFG Covid variant? Cases on rise as hospitalisations up more than 400% in a month",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/andrew-tristan-tate-women-pornography-romania-court-documents-b3061814.html",
-      "published_date": "2026-10-05T23:46:42+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/covid-xfg-stratus-variant-strain-symptoms-cases-hospital-b3062084.html",
+      "published_date": "2026-10-06T13:56:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T23:07:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeffrey Archer: A gift for self-publicity but dogged by scandal – he was the nearly man of British politics",
+      "title": "‘We live in one of the world’s most beautiful villages – but we can’t wait to leave’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/jeffrey-archer-death-obituary-scandals-jail-books-b3061826.html",
-      "published_date": "2026-10-05T22:17:37+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/bibury-arlington-row-cottages-cotswolds-over-tourism-b3061699.html",
+      "published_date": "2026-10-06T13:54:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Scotland's first AI teacher warns pupils: Don't trust everything it tells you",
+      "title": "NHS supply lorry drivers to strike in pay dispute",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6qjk9n7gge7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T21:54:41+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxnwev78dro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T13:43:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "London to Chicago BA flight declares emergency after dropping 28,000 feet",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/05/london-to-chicago-ba-flight-declares-emergency-after-dropping-28000-feet",
-      "published_date": "2026-10-05T20:33:30+00:00",
+      "title": "GP found dead in home near Sandringham Estate named locally as murder investigation continues",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/dr-hannah-terry-dersingham-grimston-medical-centre-b3062166.html",
+      "published_date": "2026-10-06T13:37:40+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Green party of England and Wales facing ostracism over ‘Zionism is racism’ vote",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-england-wales-zionism-racism-vote-europe-germany",
-      "published_date": "2026-10-05T19:10:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zack Polanski may regret not using his influence when Greens needed him to act",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/05/zack-polanski-may-rue-lack-of-leadership-when-greens-needed-him-to-act",
-      "published_date": "2026-10-05T19:00:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King's funding for Andrew not to be used for legal action against police",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T18:48:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British Airways flight from London turns back after 27,000ft drop",
+      "title": "Police cannot ban pro-Palestine march on anniversary of 7 October attacks, Met says",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/british-airways-flight-from-london-turns-back-after-27000-feet-drop-13595539",
-      "published_date": "2026-10-05T18:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andrew Mountbatten-Windsor takes legal action against police and Old Bailey over Epstein raids",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/05/andrew-mountbatten-windsor-court-action-police-epstein-raids",
-      "published_date": "2026-10-05T18:40:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Appeal court reserves judgement over Drumcree parade dispute",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47xdq5nz9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T18:21:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tory shadow minister claims Luton has ‘no-go zones’ where ‘white people won’t go’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/05/tory-shadow-minister-luton-no-go-zones-white-people-blake-stephenson",
-      "published_date": "2026-10-05T18:06:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conservative plans to slash aid budget would ‘irreparably damage’ UK’s global credibility, charities say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/oct/05/conservative-plans-to-slash-aid-budget-by-90-to-irreparably-damage-uks-global-credibility-charities-say",
-      "published_date": "2026-10-05T17:56:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hidden illegal poker den on industrial estate discovered by police",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c689zlnx3v9eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T17:52:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on sexual abuse in schools: teachers cannot deal with this alone | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/05/the-guardian-view-on-sexual-abuse-in-schools-teachers-cannot-deal-with-this-alone",
-      "published_date": "2026-10-05T17:45:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No queues, empty seats and the worst speech ever heard: welcome to the Tory conference | John Crace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/05/no-queues-empty-seats-and-the-worst-speech-ever-heard-welcome-to-the-tory-conference",
-      "published_date": "2026-10-05T17:34:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England star 'almost caused crash' with careless driving",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/england-keeper-jordan-pickford-almost-caused-crash-with-careless-driving-13595528",
-      "published_date": "2026-10-05T17:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Katie Price's ex urged girl not to tell, court hears",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c623dk217435o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T17:32:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tory plan to cut energy efficiency rule for builders will cost new home owners £1,000 a year, says thinktank – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
-      "published_date": "2026-10-05T17:06:50+00:00",
+      "url": "https://news.sky.com/story/police-cannot-ban-pro-palestine-march-on-anniversary-of-7-october-attacks-met-says-13595801",
+      "published_date": "2026-10-06T13:24:00+00:00",
       "category": "Local Events"
     }
   ]
