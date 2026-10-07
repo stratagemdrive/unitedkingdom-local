@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-06T17:05:24.203934+00:00",
+  "last_updated": "2026-10-07T01:55:31.874691+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Senior academics set out key questions Cambridge must answer over Jason Arday’s death",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/oct/06/cambridge-university-academics-jason-arday-death-investigation-inadequate",
+      "published_date": "2026-10-06T18:44:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Guardian view on the Green party and Palestine: rejecting two states is no shortcut to peace | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/06/the-guardian-view-on-the-green-party-and-palestine-rejecting-two-states-is-no-shortcut-to-peace",
+      "published_date": "2026-10-06T18:34:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
+      "published_date": "2026-10-06T16:58:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Britain could expel Israeli diplomats if Jerusalem consulate closes, say sources",
       "source": "The Independent",
@@ -120,27 +141,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/scottish-independence-brexit-scotland-eu-alex-norris-b3060995.html",
       "published_date": "2026-10-04T08:15:40+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Labour back on top in polls after Burnham’s Brexit pledge",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/polls-latest-labour-burnham-brexit-tories-reform-opinium-b3060839.html",
-      "published_date": "2026-10-03T19:00:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brexit to take centre stage in battle for London",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-james-cleverly-london-mayor-sadiq-khan-b3060323.html",
-      "published_date": "2026-10-03T13:47:12+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Boost for Burnham as poll shows half of UK supports rejoining EU",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-uk-rejoin-eu-poll-burnham-labour-b3060749.html",
-      "published_date": "2026-10-03T12:45:55+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,27 @@
       "category": "Military"
     },
     {
+      "title": "Jaguar targets young Americans with Type 01 EV – but it’s too long for UK parking spaces",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/07/jaguar-launch-type-01-electric-vehicle",
+      "published_date": "2026-10-07T00:00:28+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns oil giant",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T23:01:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Labour figures rule out working with Greens after ‘Zionism is racism’ vote",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/06/labour-figures-rule-out-working-with-greens-after-zionism-is-racism-vote",
+      "published_date": "2026-10-06T18:26:29+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Badenoch warns Tories they will not be allowed back if they defect to Reform as she rules out coalition with Farage",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-tory-conference-conservatives-reform-defection-b3062180.html",
@@ -403,31 +424,31 @@
       "category": "Energy"
     },
     {
-      "title": "UK hygiene poverty crisis deepens as millions skip deodorant and toilet roll, survey finds",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-hygiene-poverty-survey-toilet-roll-b3061078.html",
-      "published_date": "2026-10-04T23:01:00+00:00",
-      "category": "Energy"
+      "title": "The Papers: 'Badenoch promises tax cuts' and 'Asos hacker havoc'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c317k0zqz5lzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-07T01:41:20+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Suppliers pile pressure on government over energy bills",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T08:58:44+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Rising energy costs add to cost of living for Northern Ireland's consumers",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5j9x99yep92o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-03T05:27:43+00:00",
-      "category": "Energy"
+      "title": "Chancellor plans major intervention to help poorer UK households with rising energy bills",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/oct/06/chancellor-plans-major-intervention-to-help-poorer-uk-households-with-rising-energy-bills",
+      "published_date": "2026-10-06T19:27:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "Badenoch announces £2.3bn proposal to cut employer national insurance for young workers – UK politics live",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
       "published_date": "2026-10-06T16:49:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tell us: do you use AI agents to manage your finances?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/tell-us-do-you-use-ai-agents-to-manage-your-finances",
+      "published_date": "2026-10-06T16:02:24+00:00",
       "category": "Economy"
     },
     {
@@ -543,25 +564,109 @@
       "category": "Economy"
     },
     {
-      "title": "Jeremy Clarkson says farmers being attacked ‘from everywhere’ amid ‘terrible’ year",
+      "title": "Green Party member behind anti-Zionist motion ‘close friend’ of jailed al Qaida terrorist",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/jeremy-clarkson-tory-conference-birmingham-farming-b3061723.html",
-      "published_date": "2026-10-05T17:32:31+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/green-party-member-behind-antizionist-motion-close-friend-of-jailed-terrorist-b3062451.html",
+      "published_date": "2026-10-06T22:50:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+      "title": "Family affected by asylum hotel closure left with ‘shock, anxiety and panic’, court told",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/asylum-hotels-uk-closures-home-office-high-court-b3062327.html",
+      "published_date": "2026-10-06T22:13:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with murder of GP found dead at home near Sandringham Estate",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/mark-cain-hannah-cain-death-murder-dersingham-norfolk-b3062357.html",
+      "published_date": "2026-10-06T22:13:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Green member behind Zionism motion named as 'close friend' of jailed al-Qaeda supporter in court",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T17:23:28+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/ckm23709pjz7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T21:41:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "King’s money won’t be used to finance Andrew Mountbatten-Windsor’s claim against police",
+      "title": "Andrew Mountbatten-Windsor ‘accuses police of taking personal items’ during searches of his home",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/charles-andrew-windsor-thames-valley-police-b3061682.html",
-      "published_date": "2026-10-05T17:20:46+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/andrew-mountbatten-windsor-police-search-legal-action-b3062427.html",
+      "published_date": "2026-10-06T21:21:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Badenoch draws battle lines to take on Labour for ‘soul of the nation’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/badenoch-conservative-conference-speech-tax-cuts-labour-b3062289.html",
+      "published_date": "2026-10-06T21:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kimmins orders officials to 'get on with job' of A5 upgrade after court ruling",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z9nev326o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T20:31:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with GP's murder",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1p3ry51do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T19:29:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watch: Police raid on gang behind fake gay asylum claims",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T19:01:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with murder after Norfolk GP found dead",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-charged-with-murder-of-gp-whose-body-was-found-at-her-norfolk-home-13595913",
+      "published_date": "2026-10-06T18:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British man arrested over suspected RAF Fairford terrorism plot",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/06/british-man-arrested-over-suspected-raf-fairford-terrorism-plot",
+      "published_date": "2026-10-06T18:13:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kemi Badenoch is the most rightwing leader in Tory history. Isn’t it time she got some actual scrutiny? | Owen Jones",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/06/kemi-badenoch-rightwing-leader-tory-history-nigel-farage",
+      "published_date": "2026-10-06T18:04:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Footballer left with fatal injuries after man ‘drove into crowd’, murder trial told",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/duane-anthony-tyler-fairman-death-nottingham-b3062335.html",
+      "published_date": "2026-10-06T17:36:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alleged Iranian spies planned ‘serious violence’ against UK journalists, court hears",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/06/alleged-iranian-spies-planned-serious-violence-against-uk-journalists-court-hears",
+      "published_date": "2026-10-06T17:34:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three men jailed for raping teenage girl before fleeing UK in back of lorry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/06/three-men-raped-girl-fled-in-lorry-jailed-bristol",
+      "published_date": "2026-10-06T17:23:48+00:00",
+      "category": "Local Events"
     },
     {
       "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
@@ -596,111 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/holborn-st-pancras-by-election-labour-greens-polanski-b3062297.html",
       "published_date": "2026-10-06T16:47:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boats 'set for people smugglers' seized at airport",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cme8r9267dpko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T16:22:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Student admits murdering woman in 'Dexter' kill room",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2v8x72g4ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T16:19:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russell Brand back in court ahead of rape and sexual assault trial",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/russell-brand-trial-court-charges-b3061982.html",
-      "published_date": "2026-10-06T16:03:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When the Tories need to rely on Ed Davey’s school of gimmickry, you know Kemi Badenoch has a problem",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-conservative-conference-tories-2026-b3062059.html",
-      "published_date": "2026-10-06T15:42:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK city with most National Lottery millionaires in the last 30 years revealed",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/national-lottery-winners-millionaires-lucky-cities-b3062066.html",
-      "published_date": "2026-10-06T15:37:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Proportion of people in Great Britain vaping who never smoked doubles in four years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years",
-      "published_date": "2026-10-06T15:05:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two police officers sacked after tasering 92-year-old amputee in care home",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/stephen-smith-rachel-comotto-sacked-tasered-donald-burgess-care-home-b3062220.html",
-      "published_date": "2026-10-06T14:35:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People evacuated as fire sweeps through historic London market place",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fire-market-kingston-upon-thames-london-b3062185.html",
-      "published_date": "2026-10-06T14:32:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PCs sacked after 92-year-old tasered and pepper sprayed in care home",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/two-officers-sacked-after-92-year-old-man-tasered-and-pepper-sprayed-in-care-home-police-watchdog-says-13595825",
-      "published_date": "2026-10-06T14:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man pleads guilty after wife's body found in freezer",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-pleads-guilty-after-wifes-body-found-in-freezer-at-west-yorkshire-home-13595820",
-      "published_date": "2026-10-06T14:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is the XFG Covid variant? Cases on rise as hospitalisations up more than 400% in a month",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/covid-xfg-stratus-variant-strain-symptoms-cases-hospital-b3062084.html",
-      "published_date": "2026-10-06T13:56:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We live in one of the world’s most beautiful villages – but we can’t wait to leave’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/bibury-arlington-row-cottages-cotswolds-over-tourism-b3061699.html",
-      "published_date": "2026-10-06T13:54:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS supply lorry drivers to strike in pay dispute",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckqxnwev78dro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T13:43:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GP found dead in home near Sandringham Estate named locally as murder investigation continues",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/dr-hannah-terry-dersingham-grimston-medical-centre-b3062166.html",
-      "published_date": "2026-10-06T13:37:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police cannot ban pro-Palestine march on anniversary of 7 October attacks, Met says",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/police-cannot-ban-pro-palestine-march-on-anniversary-of-7-october-attacks-met-says-13595801",
-      "published_date": "2026-10-06T13:24:00+00:00",
       "category": "Local Events"
     }
   ]
