@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-08T17:47:59.760231+00:00",
+  "last_updated": "2026-10-09T02:41:34.924911+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -36,6 +36,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/audio/2026/oct/08/come-back-eu-flirts-with-uk-rejoining-the-latest-podcast",
       "published_date": "2026-10-08T16:32:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK and Germany will face threats together, says Burnham in Berlin",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-08T15:25:08+00:00",
       "category": "Diplomacy"
     },
     {
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Football chiefs hold new summit over £180m-a-year deal",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/football-chiefs-hold-new-summit-over-180m-a-year-deal-13595694",
-      "published_date": "2026-10-06T10:00:00+00:00",
-      "category": "Diplomacy"
+      "title": "Royal Navy sailor accused of spying for Russia appears in court",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act",
+      "published_date": "2026-10-08T18:14:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two Latvian men arrested on suspicion of trespass offences at RAF base",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/raf-base-trespass-arrests-cambridgeshire-molesworth-b3063726.html",
+      "published_date": "2026-10-08T18:00:20+00:00",
+      "category": "Military"
     },
     {
       "title": "At least 30 killed as Russian guided bomb hits civilian bus in Ukraine",
@@ -270,18 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Eckert free to stay as Southampton boss as Spygate ban suspended",
+      "title": "Why are more roofs not made of solar tiles?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj9knmvm2ryo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-07T16:11:15+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-08T23:09:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Southampton owner says 'we have suffered enough' as manager gets suspended ban over Spygate scandal",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/southampton-coach-handed-suspended-ban-over-spygate-scandal-13596210",
-      "published_date": "2026-10-07T15:15:00+00:00",
-      "category": "Military"
+      "title": "E-bike battery in fatal fire had repairs - inquest",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0vx22zrno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-08T18:10:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Tesco stars but oil price gains keep stocks lower",
@@ -302,6 +316,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/gulf-of-mexico-brent-middle-east-chevron-qatar-b3063476.html",
       "published_date": "2026-10-08T12:28:56+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Shell upgrades gas production outlook and says refining profit margins to grow",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/shell-iran-middle-east-strait-of-hormuz-b3062539.html",
+      "published_date": "2026-10-08T12:00:03+00:00",
       "category": "Energy"
     },
     {
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Badenoch: Tories must not let Reform 'take us backwards'",
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cme3x1d7d9e4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-07T12:11:27+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-08T23:14:02+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Oil and gas business hit with £300,000 fine after breaching offshore regulations",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/north-sea-b3062771.html",
-      "published_date": "2026-10-07T12:04:37+00:00",
-      "category": "Energy"
+      "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-08T23:01:16+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Blair warns Burnham Labour should not do coalition with the Greens: ‘They’ve crossed a line’",
+      "title": "Cheapest supermarket to buy popular branded products revealed",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/blair-burnham-green-coalition-zionism-racism-b3062648.html",
-      "published_date": "2026-10-07T10:39:02+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/which-cheapest-supermarket-october-2026-tesco-aldi-b3063604.html",
+      "published_date": "2026-10-08T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Healey under pressure from Labour MPs to hit billionaires with private jet tax",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-private-jet-tax-labour-mps-b3062892.html",
+      "published_date": "2026-10-08T22:52:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "A lake pilgrimage and a quiet car ride to beach: last hours of sisters who took own lives in Brighton",
@@ -536,32 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "Reynolds to take industry chiefs on crucial India trade mission",
+      "title": "Holborn and St Pancras by-election result live: Polanski’s Greens beaten by Labour in Starmer’s old seat",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/holborn-st-pancras-by-election-live-updates-result-polanski-labour-b3063754.html",
+      "published_date": "2026-10-09T02:33:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour sees off Green challenge to win Holborn by-election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqly3xjy1g11o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-09T02:27:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour wins Holborn and St Pancras byelection as Polanski falls short – UK politics live",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+      "published_date": "2026-10-09T02:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Labour fends off Green party to win Holborn and St Pancras byelection",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/labour-wins-holborn-st-pancras-byelection-green-party",
+      "published_date": "2026-10-09T02:03:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Papers: 'Stark warning' over ADHD and 'Andrew wins legal fight'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm8ezw2wjkxgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-09T00:30:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haaland and Maresca address Man City's guilty verdicts for first time",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/reynolds-to-take-industry-chiefs-on-crucial-india-trade-mission-13596438",
-      "published_date": "2026-10-08T09:45:00+00:00",
-      "category": "Economy"
+      "url": "https://news.sky.com/story/haaland-and-maresca-address-man-citys-guilty-verdicts-for-first-time-13596668",
+      "published_date": "2026-10-08T23:27:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tesco expects Christmas celebrations to be less boozy and healthier",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/tesco-alcohol-christmas-sales-profits-b3063322.html",
-      "published_date": "2026-10-08T09:20:29+00:00",
-      "category": "Economy"
+      "title": "NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/09/nhs-fonagy-review-autism-adhd-mental-health-conditions-care",
+      "published_date": "2026-10-08T23:01:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Winston Churchill dropped for wildlife drawings on new bank notes",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/bank-of-england-new-banknotes-wildlife-churchill-b3063303.html",
-      "published_date": "2026-10-08T08:39:25+00:00",
-      "category": "Economy"
+      "title": "No ‘snowflakes’: mental health review says today’s youth have it harder and harms are real",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health",
+      "published_date": "2026-10-08T23:01:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Just Eat Takeaway orders return to growth after nearly five years",
+      "title": "NHS England mental health services review: what has it found and what does it recommend?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/09/key-findings-fonagy-nhs-mental-health-adhd-autism",
+      "published_date": "2026-10-08T23:01:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Ofsted inspection regime damaging teachers, survey says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/oct/09/new-ofsted-inspection-regime-damaging-teachers-survey-says",
+      "published_date": "2026-10-08T23:01:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polls close in Holborn and St Pancras byelection as Labour hopes to retain seat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
+      "published_date": "2026-10-08T22:43:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Head of maternity review says 'we will listen to parents'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmj4791qgzlxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-08T22:02:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andrew and Tristan Tate mount legal challenge against ongoing detention amid UK extradition fight",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/dutch-brazil-holly-williams-b3063289.html",
-      "published_date": "2026-10-08T08:16:26+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/andrew-tristan-tate-detention-uk-extradition-b3063819.html",
+      "published_date": "2026-10-08T21:42:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polls close in Holborn and St Pancras by-election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck24059mlzm8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-08T21:01:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teacher accused of grooming and raping pupil claimed it was ‘loving and consensual relationship’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/darlington-nuwertey-oasis-academy-silvertown-snaresbrook-b3063788.html",
+      "published_date": "2026-10-08T20:21:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "45 serving officers suspended from major police force over alleged violence against women and girls",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/police-scotland-officers-suspended-violence-women-girls-b3063781.html",
+      "published_date": "2026-10-08T20:02:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-08T19:10:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on cancers in under-50s: the risks of obesity must be confronted | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/08/the-guardian-view-on-cancers-in-under-50s-the-risks-of-obesity-must-be-confronted",
+      "published_date": "2026-10-08T17:50:05+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Ex-councillor guilty of running sham Covid-19 lab",
@@ -575,132 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/crime/thorpe-st-andrew-school-stabbing-court-b3063533.html",
       "published_date": "2026-10-08T17:27:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why the search warrant was deemed 'unlawful' and what happens next?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T17:26:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Harvey Nichols’ Birmingham store to close in January",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/08/harvey-nichols-birmingham-store-closure-frasers-group-mike-ashley",
-      "published_date": "2026-10-08T17:18:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farage opens door to Reform-Tories post-election pact – one day after Badenoch ruled it out",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/farage-badenoch-reform-tories-post-election-pact-b3063677.html",
-      "published_date": "2026-10-08T16:45:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Warrants used to search Andrew's homes were unlawful, court says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T16:33:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Campaigners led by Chris Packham urge prime minister to rethink Send overhaul",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/oct/08/campaigners-letter-send-reform-chris-packham-sally-phillips",
-      "published_date": "2026-10-08T16:30:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Slightly ominous’ sign that England could be set for an early flu season",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-flu-jab-symptoms-covid-xfg-b3063566.html",
-      "published_date": "2026-10-08T16:26:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Search warrants used in Andrew Mountbatten-Windsor raids were unlawful, court rules",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/08/search-warrants-used-in-andrew-mountbatten-windsor-raids-were-unlawful-court-rules",
-      "published_date": "2026-10-08T16:23:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Forty five Scottish police officers suspended over alleged crimes against women",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9l0r105l8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T16:12:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police raids on Andrew Mountbatten-Windsor’s royal properties were unlawful",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/andrew-mountbatten-windsor-arrest-raids-thames-valley-police-b3063382.html",
-      "published_date": "2026-10-08T15:39:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBC pays compensation to PinkNews couple over false sexual misconduct allegations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/oct/08/bbc-pays-compensation-pinknews-couple-false-sexual-misconduct-allegations-benjamin-cohen",
-      "published_date": "2026-10-08T15:23:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Birmingham Airport announces £2bn expansion",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm0ldg95j034o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T15:01:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Holborn and St Pancras by-election live: Polanski eyes upset in Starmer’s old seat as central London goes to the polls",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/holborn-st-pancras-by-election-live-updates-b3063333.html",
-      "published_date": "2026-10-08T14:57:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Estate agent loses £200k court battle with race driver neighbour over hedge dividing seaside homes",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ronald-channon-torquay-sarah-douglas-devon-hedge-b3063569.html",
-      "published_date": "2026-10-08T14:41:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teacher unleashed 'traumatic' attack on BBC's Nicky Campbell when he was a schoolboy, court hears",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/edinburgh-teacher-unleashed-traumatic-attack-on-nicky-campbell-when-he-was-a-schoolboy-court-hears-13596527",
-      "published_date": "2026-10-08T13:50:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Racial and religious hate crimes at record high in England and Wales, data shows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/08/racial-and-religious-hate-crimes-at-record-high-in-england-and-wales-data-shows",
-      "published_date": "2026-10-08T13:29:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deloitte fined £6m by watchdog over Go-Ahead audits",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/deloitte-frc-goahead-govia-government-b3063508.html",
-      "published_date": "2026-10-08T13:14:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T13:11:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged over 'police assault' amid anti-immigration protest",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/man-charged-over-police-assault-amid-anti-immigration-protest-in-glasgow-13596458",
-      "published_date": "2026-10-08T13:10:00+00:00",
       "category": "Local Events"
     }
   ]
