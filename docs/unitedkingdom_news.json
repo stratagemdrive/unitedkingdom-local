@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-09T17:24:00.644270+00:00",
+  "last_updated": "2026-10-10T02:00:47.669873+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Britain says it ‘strongly disagrees’ with US sanctions on ICC in joint statement with G7 allies",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/icc-sanctions-us-uk-g7-marco-rubio-navi-pillay-b3064370.html",
+      "published_date": "2026-10-09T17:58:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Drought declared in Yorkshire as reservoirs and rivers run low after months of dry weather",
       "source": "The Independent",
@@ -130,18 +137,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Senior academics set out key questions Cambridge must answer over Jason Arday’s death",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/oct/06/cambridge-university-academics-jason-arday-death-investigation-inadequate",
-      "published_date": "2026-10-06T18:44:25+00:00",
+      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-06T19:17:44+00:00",
       "category": "Diplomacy"
     },
     {
-      "title": "The Guardian view on the Green party and Palestine: rejecting two states is no shortcut to peace | Editorial",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T00:45:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two Latvians arrested at RAF base in Cambridgeshire released on bail",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/06/the-guardian-view-on-the-green-party-and-palestine-rejecting-two-states-is-no-shortcut-to-peace",
-      "published_date": "2026-10-06T18:34:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/uk-news/2026/oct/09/two-latvians-arrested-at-raf-molesworth-base-in-cambridgeshire-released-on-bail",
+      "published_date": "2026-10-09T17:46:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US plans to execute former army major by firing squad are ‘disturbing’, Bridget Phillipson says",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/nidal-malik-hasan-execution-bridget-phillipson-b3064366.html",
+      "published_date": "2026-10-09T17:35:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Two Latvian men arrested for alleged trespass offences at RAF base released on bail",
@@ -263,25 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Live bomb handed into stunned charity shop staff before disposal experts detonate it on beach",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/paignton-bomb-charity-bomb-beach-explode-b3063383.html",
-      "published_date": "2026-10-08T11:23:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK’s military needs to focus spending on domestic defence, not overseas missions – report",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/08/uk-military-domestic-defence-overseas-missions-thinktank-report",
-      "published_date": "2026-10-08T11:22:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Seventh man bailed in connection with RAF Fairford incident",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk0p043kdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T10:53:38+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-09T22:30:22+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Swinney backs Flynn in ferry gas leak row and says 'nobody's perfect'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yn75jr75ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-09T18:04:08+00:00",
+      "category": "Energy"
     },
     {
       "title": "Disabled man awarded £20,000 by council after being forced to ‘drag himself across the floor to use toilet’",
@@ -316,6 +330,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/northern-lights-uk-weekend-met-office-b3063953.html",
       "published_date": "2026-10-09T08:57:16+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Tories overstate net zero cost by nearly £500bn in apparent spreadsheet error",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/tories-overstate-net-zero-cost-500bn-spreadsheet-error",
+      "published_date": "2026-10-09T06:00:41+00:00",
       "category": "Energy"
     },
     {
@@ -400,27 +421,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-07T23:50:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "What independence could mean for oil-rich Alberta's economy",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-07T23:10:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "No child should have to learn in a cold classroom - children's commissioner",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-07T17:15:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Labour could oversee worst parliament on record for living standards, study warns",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis",
-      "published_date": "2026-10-07T16:30:55+00:00",
       "category": "Energy"
     },
     {
@@ -564,6 +564,62 @@
       "category": "Economy"
     },
     {
+      "title": "Headteachers threaten strike ballots after losing confidence in Ofsted",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
+      "published_date": "2026-10-09T23:01:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boy and father in critical condition after attack in own home by masked men",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/boy-and-father-in-critical-condition-after-attack-in-own-home-by-masked-men-in-thurnby-13597095",
+      "published_date": "2026-10-09T22:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Daniel Craig buys haunted 18th century pub in London",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/daniel-craig-haunted-pub-london-b3064208.html",
+      "published_date": "2026-10-09T21:37:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One in three Brits thinks Polanski should resign after by-election defeat, poll shows",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/polanski-green-resign-zionism-racism-election-b3064351.html",
+      "published_date": "2026-10-09T21:33:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Northern Ireland Secretary Chris Bryant announces Drumcree parade ban",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/drumcree-parade-2026-banned-garvaghy-road-update-chris-bryant-b3064437.html",
+      "published_date": "2026-10-09T21:14:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Northern Ireland secretary Chris Bryant bans Drumcree parade",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/09/northern-ireland-secretary-chris-bryant-bans-drumcree-parade",
+      "published_date": "2026-10-09T20:58:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parties prepare for byelection in Farage seat amid speculation over £5m gift inquiry",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/nigel-farage-byelection-clacton-seat-speculation-5m-gift-inquiry",
+      "published_date": "2026-10-09T17:52:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHS faces exodus of ADHD and autism services staff to private clinics",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/09/nhs-exodus-adhd-autism-services-staff-private-clinics",
+      "published_date": "2026-10-09T17:24:16+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Labour byelection win shows party starting to win back voters on left",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/oct/09/labour-byelection-winning-back-voters-on-left-greens",
@@ -645,62 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/crime/melanie-rock-grooming-sexual-activity-schoolboy-isle-of-wight-b3064295.html",
       "published_date": "2026-10-09T15:25:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ann Widdecombe murder suspect had ‘hostility towards Reform’, court told",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/joshua-kerry-court-ann-widdecombe-nigel-farage-b3064136.html",
-      "published_date": "2026-10-09T15:23:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Michelle O'Neill invited for police interview over Garvaghy Road protest",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/michelle-oneill-invited-for-police-interview-over-garvaghy-road-protest-13596985",
-      "published_date": "2026-10-09T15:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polanski vows to stay as Green leader as he faces criticism after by-election defeat",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-09T15:16:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dad and son remain critical after masked men attack",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj040n79wk94o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-09T15:07:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "London-listed Gamma joins chorus of opposition to BT's TalkTalk rescue",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/london-listed-gamma-joins-chorus-of-opposition-to-bts-talktalk-rescue-13596977",
-      "published_date": "2026-10-09T15:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abusive ex murdered woman after she began new relationship",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/abusive-ex-murdered-woman-in-scottish-borders-after-she-began-new-relationship-13596797",
-      "published_date": "2026-10-09T14:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-09T14:35:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman found dead in burning van was pregnant, police say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crn4ez947zezo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-09T14:29:20+00:00",
       "category": "Local Events"
     }
   ]
