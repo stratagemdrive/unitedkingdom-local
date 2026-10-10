@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-10T02:00:47.669873+00:00",
+  "last_updated": "2026-10-10T16:09:21.404647+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Alleged abuse victims at British military school in Germany tell of agonising fight for justice",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/10/military-school-alleged-abuse-1980s-bunde-germany",
+      "published_date": "2026-10-10T09:00:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK accused of giving people of Gaza false hope over new refugee safe route",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
+      "published_date": "2026-10-10T06:00:50+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
@@ -270,18 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Royal Navy sailor in court accused of preparing to spy for Russia",
+      "title": "Barlinnie visitors unable to use toilets as water supply problems continue",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T12:44:03+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c6n4ezpkz0yxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T14:41:11+00:00",
+      "category": "Energy"
     },
     {
-      "title": "We’ll protect Troubles military veterans, Northern Ireland secretary promises",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/troubles-northern-ireland-sas-ira-shadow-war-chris-bryant-b3062925.html",
-      "published_date": "2026-10-08T12:34:29+00:00",
-      "category": "Military"
+      "title": "‘A proud loaf with a deep, caramel crust’: the best (and worst) supermarket sliced wholemeal bread, tasted and rated",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter/2026/oct/10/best-supermarket-sliced-bread-tasted-rated",
+      "published_date": "2026-10-10T12:00:57+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘Gaza is a moral tear in the universe’: Naomi Klein and Astra Taylor | Radical Thinking with Aditya Chakrabortty – podcast",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
+      "published_date": "2026-10-10T06:45:50+00:00",
+      "category": "Energy"
     },
     {
       "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -403,25 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Vegetables are now half as nutritious than 60 years ago. Experts have worked out why",
+      "title": "M&S boss tells Healey to ‘take the handcuffs off Britain’ weeks before Burnham’s first Budget",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/vegetables-nutrition-soil-quality-decline-b3063325.html",
-      "published_date": "2026-10-08T09:11:58+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/marks-and-spencer-boss-healey-britain-budget-warning-b3064507.html",
+      "published_date": "2026-10-10T12:31:42+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Britons kept in dark about scale of climate crisis, say viewers of ‘first-of-its-kind’ emergency briefing",
+      "title": "Further taxes on warehouses ruled out ahead of budget after M&S and John Lewis issue warnings",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/ms-and-john-lewis-bosses-warn-chancellor-over-business-rates-ahead-of-budget-13597209",
+      "published_date": "2026-10-10T11:10:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Recruitment boss accused of being behind ‘doxxing’ campaign against RNLI and anti-racism activists",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/britons-kept-in-dark-scale-of-climate-crisis-first-of-its-kind-emergency-briefing",
-      "published_date": "2026-10-08T08:00:13+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/uk-news/2026/oct/10/recruitment-boss-accused-of-being-behind-doxxing-campaign-against-rnli-and-anti-racism-activists",
+      "published_date": "2026-10-10T07:00:50+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-07T23:50:29+00:00",
-      "category": "Energy"
+      "title": "Irish property group in talks about rescue deal for Poundland",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/irish-property-group-in-talks-about-rescue-deal-for-poundland-13597114",
+      "published_date": "2026-10-10T06:26:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "‘If voters aren’t better off by the next election, we’re screwed’: Labour insiders voice fears over budget",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/10/labour-fears-budget-burnham-healey",
+      "published_date": "2026-10-10T06:00:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK savings: 5% interest rate deals may not last, say experts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds",
+      "published_date": "2026-10-10T06:00:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Create new pre-apprenticeship scheme to close youth unemployment gap, says Milburn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report",
+      "published_date": "2026-10-10T05:00:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Ed Davey faces growing revolt against leadership as senior Lib Dem MP quits",
@@ -515,53 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "Cheapest supermarket to buy popular branded products revealed",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/which-cheapest-supermarket-october-2026-tesco-aldi-b3063604.html",
-      "published_date": "2026-10-08T23:01:00+00:00",
-      "category": "Economy"
+      "title": "Camden council was warned about paedophile nursery worker years before arrest",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest",
+      "published_date": "2026-10-10T15:00:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Business Daily",
+      "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9x?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T23:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T14:27:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Healey under pressure from Labour MPs to hit billionaires with private jet tax",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-private-jet-tax-labour-mps-b3062892.html",
-      "published_date": "2026-10-08T22:52:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A lake pilgrimage and a quiet car ride to beach: last hours of sisters who took own lives in Brighton",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/08/last-hours-three-sisters-brighton-inquest",
-      "published_date": "2026-10-08T17:19:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "310 jobs at risk as Carlsberg announces shock closure of historic Marston’s Brewery",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/marston-s-brewery-close-job-carlsberg-b3063674.html",
-      "published_date": "2026-10-08T16:46:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank governor urges John Healey to use budget to allay market fears amid bond turmoil",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/08/medium-term-borrowing-costs-uk-government-19-year-high",
-      "published_date": "2026-10-08T16:38:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Great Wines Direct owner challenges Tesco in Majestic auction",
+      "title": "Four people arrested on suspicion of murder after teenager dies",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/great-wines-direct-owner-challenges-tesco-in-majestic-auction-13596582",
-      "published_date": "2026-10-08T15:29:00+00:00",
-      "category": "Economy"
+      "url": "https://news.sky.com/story/four-people-arrested-on-suspicion-of-murder-after-teenager-dies-13597313",
+      "published_date": "2026-10-10T14:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight men arrested by Greater Manchester Police days after early release from jail",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pdj4x33eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T13:10:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How a South African billionaire is turning a corner of Somerset into ‘one man’s estate’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/oct/10/how-a-south-african-billionaire-is-turning-a-corner-of-somerset-into-one-mans-estate",
+      "published_date": "2026-10-10T13:00:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Study explores links between 19th-century Manchester workers and enslaved Africans in Caribbean",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/oct/10/study-explores-links-between-19th-century-manchester-workers-and-enslaved-africans-in-caribbean",
+      "published_date": "2026-10-10T12:00:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested after boy, 11, injured in 'dog attack'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn49mv14ydro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T11:45:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drumcree parade ban was in 'best interests of peace', says Bryant",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6z0vlg3xvz3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T11:21:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rail disruption after overhead line fault",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28pd23pn5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T11:21:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Our town is making jeans again’: meet the firm reviving jobs and skills in Wales",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/10/hiut-denim-jeans-cardigan-wales-manufacturing",
+      "published_date": "2026-10-10T11:00:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How drones are hunting fires hidden beneath the Cairngorms",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T09:31:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Volunteer police force chief sacked after using work phone to capture sexual images",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/head-of-metropolitan-polices-volunteer-force-sacked-after-ai-finds-he-captured-sexual-images-on-work-phone-13597161",
+      "published_date": "2026-10-10T09:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four murder arrests after teenagers attacked",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm93zlvgvw2po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T09:20:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T09:19:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Much-loved mum’ whose body was found in burning van was pregnant, say police",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/samantha-natalie-phythian-burning-van-murder-b3064494.html",
+      "published_date": "2026-10-10T08:37:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "We sold everything and bought a one-way ticket to take our three children travelling",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm75pldpzrv5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T06:27:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Would I sit down with Tommy Robinson? It’s not a definite no’: lessons from people who fought the far right in the 70s, 80s and beyond",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/10/lessons-from-people-who-fought-the-far-right-in-the-70s-80s-and-beyond",
+      "published_date": "2026-10-10T05:00:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Headteachers threaten strike ballots after losing confidence in Ofsted",
@@ -582,125 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/daniel-craig-haunted-pub-london-b3064208.html",
       "published_date": "2026-10-09T21:37:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One in three Brits thinks Polanski should resign after by-election defeat, poll shows",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/polanski-green-resign-zionism-racism-election-b3064351.html",
-      "published_date": "2026-10-09T21:33:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern Ireland Secretary Chris Bryant announces Drumcree parade ban",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/drumcree-parade-2026-banned-garvaghy-road-update-chris-bryant-b3064437.html",
-      "published_date": "2026-10-09T21:14:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern Ireland secretary Chris Bryant bans Drumcree parade",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/09/northern-ireland-secretary-chris-bryant-bans-drumcree-parade",
-      "published_date": "2026-10-09T20:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parties prepare for byelection in Farage seat amid speculation over £5m gift inquiry",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/nigel-farage-byelection-clacton-seat-speculation-5m-gift-inquiry",
-      "published_date": "2026-10-09T17:52:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS faces exodus of ADHD and autism services staff to private clinics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/09/nhs-exodus-adhd-autism-services-staff-private-clinics",
-      "published_date": "2026-10-09T17:24:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour byelection win shows party starting to win back voters on left",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/labour-byelection-winning-back-voters-on-left-greens",
-      "published_date": "2026-10-09T17:08:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham is lucky – Polanski, Farage and Badenoch all seem determined to help him | Jonathan Freedland   | Jonathan Freedland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/09/andy-burnham-zack-polanski-nigel-farage-kemi-badenoch",
-      "published_date": "2026-10-09T17:05:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on Labour and the Greens: winning trust takes more than words | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/09/the-guardian-view-on-labour-and-the-greens-winning-trust-takes-more-than-words",
-      "published_date": "2026-10-09T16:52:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Martin Rowson on Zack Polanski losing the Holborn and St Pancras byelection – cartoon",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/09/martin-rowson-zack-polanski-losing-holborn-and-st-pancras-byelection-cartoon",
-      "published_date": "2026-10-09T16:33:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Does Polanski have to go? Greens at the crossroads after Holborn and St Pancras",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/zack-polanski-future-as-green-party-leader-holborn-st-pancras-byelection-defeat",
-      "published_date": "2026-10-09T16:32:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zack Polanski facing calls to quit as Green Party leader after by-election defeat",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/zack-polanski-resign-green-party-holborn-st-pancras-green-labour-b3064077.html",
-      "published_date": "2026-10-09T16:32:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teacher at £44k-a-year school banned after telling pupil ‘I would really like to punch your face in’ – then punching wall",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/teacher-school-punch-face-wall-b3064255.html",
-      "published_date": "2026-10-09T16:30:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First minister called for police interview over Garvaghy Road protests",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5qrlp7w5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-09T16:27:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The real deal’: Sagal Abdi-Wali’s journey from child refugee to Labour MP in former PM’s seat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/sagal-abdi-wali-journey-child-refugee-labour-mp-former-pms-seat-london",
-      "published_date": "2026-10-09T16:17:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform councillor breaches rules by being leader of his own political party",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/oldham-reform-uk-councillor-party-nigel-farage-b3063405.html",
-      "published_date": "2026-10-09T15:41:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man jailed for life after 'brutal' murder of his bed-bound mother with a hammer",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/michael-bowen-hammer-murder-janet-bowen-hampshire-b3064307.html",
-      "published_date": "2026-10-09T15:37:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teaching assistant guilty of grooming and sexual activity with schoolboy",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/melanie-rock-grooming-sexual-activity-schoolboy-isle-of-wight-b3064295.html",
-      "published_date": "2026-10-09T15:25:15+00:00",
       "category": "Local Events"
     }
   ]
