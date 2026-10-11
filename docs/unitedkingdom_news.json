@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-10T16:09:21.404647+00:00",
+  "last_updated": "2026-10-11T01:26:10.551658+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Northern Lights stun UK down to England's south coast",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-10T20:57:29+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Britain says it ‘strongly disagrees’ with US sanctions on ICC in joint statement with G7 allies",
       "source": "The Independent",
@@ -134,13 +141,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-07T05:16:14+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-06T19:17:44+00:00",
       "category": "Diplomacy"
     },
     {
@@ -564,6 +564,41 @@
       "category": "Economy"
     },
     {
+      "title": "Man dies after tiger attack at wildlife park",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T01:05:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man dies after tiger attack at Yorkshire zoo",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/tiger-attack-zoo-death-yorkshire-wildlife-park-doncaster-b3064651.html",
+      "published_date": "2026-10-10T21:42:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yorkshire tiger latest: Man dies after being attacked by big cat in wildlife park enclosure",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/yorkshire-wildlife-park-tiger-enclosure-zoo-closed-latest-updates-b3064608.html",
+      "published_date": "2026-10-10T17:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man dies after jumping into tiger enclosure at Yorkshire zoo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure",
+      "published_date": "2026-10-10T17:13:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
+      "published_date": "2026-10-10T16:52:15+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Camden council was warned about paedophile nursery worker years before arrest",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest",
@@ -666,41 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/crime/samantha-natalie-phythian-burning-van-murder-b3064494.html",
       "published_date": "2026-10-10T08:37:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We sold everything and bought a one-way ticket to take our three children travelling",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm75pldpzrv5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-10T06:27:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Would I sit down with Tommy Robinson? It’s not a definite no’: lessons from people who fought the far right in the 70s, 80s and beyond",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/10/lessons-from-people-who-fought-the-far-right-in-the-70s-80s-and-beyond",
-      "published_date": "2026-10-10T05:00:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Headteachers threaten strike ballots after losing confidence in Ofsted",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
-      "published_date": "2026-10-09T23:01:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy and father in critical condition after attack in own home by masked men",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/boy-and-father-in-critical-condition-after-attack-in-own-home-by-masked-men-in-thurnby-13597095",
-      "published_date": "2026-10-09T22:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Daniel Craig buys haunted 18th century pub in London",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/daniel-craig-haunted-pub-london-b3064208.html",
-      "published_date": "2026-10-09T21:37:23+00:00",
       "category": "Local Events"
     }
   ]
