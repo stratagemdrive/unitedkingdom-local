@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-11T16:36:04.187079+00:00",
+  "last_updated": "2026-10-12T01:56:03.339853+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK prime minister say it is 'clear' Russia interfered in 2016 Brexit referendum",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/russia-andy-burnham-european-union-brexit-london-b3064887.html",
+      "published_date": "2026-10-11T19:49:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T18:00:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK could get fast-track entry back into EU, new report says",
       "source": "The Independent",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "title": "The Papers: 'Tax rises needed to plug £35bn gap' and 'Putin breaks Trump's 'ceasefire\"",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T15:21:46+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/crp3gydddnxdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-12T00:37:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bid to run new trains on West Coast Mainline refused",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wve9l057vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-08T15:15:14+00:00",
-      "category": "Diplomacy"
+      "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+      "published_date": "2026-10-11T23:01:39+00:00",
+      "category": "Military"
     },
     {
       "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
@@ -267,20 +281,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-08T17:36:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two Latvian men arrested at RAF base in Cambridgeshire used by US military",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/08/two-latvian-men-arrested-raf-molesworth-cambridgeshire-us-nato",
-      "published_date": "2026-10-08T17:34:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "MoD has objected to four windfarms in past year over radar interference fears",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/mod-objection-four-windfarms-radar-interference-fears",
-      "published_date": "2026-10-08T17:00:24+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,41 @@
       "category": "Energy"
     },
     {
+      "title": "Roofing scammers con homeowners out of thousands of pounds",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T23:19:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Debt advice that may leave you owing even more money",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T23:19:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham warned ‘steady as she goes Budget’ would mean ‘chunky cuts’ to public services as inflation bites",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/budget-inflation-ifs-chancellor-john-healey-b3064829.html",
+      "published_date": "2026-10-11T23:09:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran war threatens Healey's Budget plans, think tank warns",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T23:04:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Firms taking on new borrowing has doubled this year, survey finds",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/hsbc-gdp-evidence-middle-east-b3064930.html",
+      "published_date": "2026-10-11T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote",
@@ -529,39 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Stocks rebound but SpaceX fears spark telecommunications falls",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/russ-mould-spacex-london-telefonica-donald-trump-b3064344.html",
-      "published_date": "2026-10-09T16:31:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Senior Liberal Democrat MP quits front bench in bid to oust leader Sir Ed Davey",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/charlie-maynard-resigns-ed-davey-liberal-democrats-b3064297.html",
-      "published_date": "2026-10-09T16:11:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Christian Bittar has conviction for rigging interest rates quashed",
+      "title": "Sacha Baron Cohen to star in Quentin Tarantino’s West End play The Popinjay Cavalier",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/09/christian-bittar-conviction-rigging-interest-rates-quashed-euribor",
-      "published_date": "2026-10-09T15:59:38+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/stage/2026/oct/12/sacha-baron-cohen-quentin-tarantinos-west-end-popinjay-cavalier",
+      "published_date": "2026-10-11T23:27:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "City bosses warn Healey hiking bank taxes could drive business out of UK",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/chancellor-trades-union-congress-budget-uk-finance-confederation-of-british-industry-b3064302.html",
-      "published_date": "2026-10-09T15:26:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-09T14:36:35+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T23:18:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Failure to fit tags left 5,000 offenders unmonitored in England and Wales, report finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/12/failure-fit-tags-offenders-unmonitored-england-wales",
+      "published_date": "2026-10-11T23:01:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scottish independence push has ‘turned a corner’, Swinney claims",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/scottish-independence-referendum-john-swinney-b3064747.html",
+      "published_date": "2026-10-11T23:01:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yorkshire tiger latest: Woman ‘tried to pull tiger attack victim back’ before he jumped into zoo enclosure",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/yorkshire-wildlife-park-tiger-enclosure-zoo-closed-latest-updates-b3064608.html",
+      "published_date": "2026-10-11T21:26:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Prepare for the unthinkable' warning over autumn flooding",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T20:51:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T20:02:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham vows to publish details of his meetings with Man City owners",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-man-city-owner-abu-dhabi-b3064845.html",
+      "published_date": "2026-10-11T18:06:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Burnham to release details of Man City meetings",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-11T18:01:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Firefighters spend second night at scene of Glasgow scrapyard blaze",
@@ -638,69 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckgel112lr1qo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-11T10:35:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 36, arrested six years on from double murder",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw0y7p10ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T09:52:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lost monastery masonry may have been reused for hospital's drain",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmeq395p331no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T08:05:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Do not eat': Warning issued after Salmonella identified in imported eggs",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/salmonella-egg-ukraine-supplier-contamination-b3064698.html",
-      "published_date": "2026-10-11T07:10:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Action on knife crime needed more than ever, says Damilola Taylor's brother",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm1ex703ln0xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T07:08:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman racially abused at work by boys awarded £15k",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crvg9pkvzv9yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T06:24:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester-based composer creates requiem to honour enslaved Africans",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/oct/11/manchester-based-composer-creates-requiem-to-honour-enslaved-africans",
-      "published_date": "2026-10-11T06:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Retrofit schools and consider moving exams to beat extreme heat, says teaching union leader",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/oct/11/schools-exams-extreme-heat-neu-daniel-kebede",
-      "published_date": "2026-10-11T05:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man dies after tiger attack at wildlife park",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T01:05:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK launches flood taskforce to prepare for extreme winter weather",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T00:44:37+00:00",
       "category": "Local Events"
     }
   ]
