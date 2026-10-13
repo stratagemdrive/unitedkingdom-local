@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-12T20:11:02.967029+00:00",
+  "last_updated": "2026-10-13T03:17:52.475670+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Why the prime minister wants to talk about Brexit again",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T01:27:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Publicly owned rail is popular. But is it making the trains run on time?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-12T23:37:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "RAF Fairford incident ‘almost certainly’ directed by Iran’s security force, Burnham says",
       "source": "The Independent",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "PM says it is 'clear' Russia interfered with Brexit vote",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T18:00:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK could get fast-track entry back into EU, new report says",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/eu-brexit-rejoin-best-britain-burnham-b3064811.html",
-      "published_date": "2026-10-11T15:43:11+00:00",
-      "category": "Diplomacy"
+      "title": "D-Day veteran remembered as 'great character with cheeky smile' after death aged 100",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/henry-rice-second-world-war-veteran-who-was-part-of-d-day-landings-dies-aged-100-13598315",
+      "published_date": "2026-10-12T19:38:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Burnham vows to keep Falklands after Argentinian ‘sabre-rattling’",
@@ -277,11 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "US plans to execute former army major by firing squad are ‘disturbing’, Bridget Phillipson says",
+      "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T03:14:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Heating oil customers face tough winter despite shake-up promise",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-12T23:02:24+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Midwives win £750,000 in compensation for dangerous exposure to laughing gas",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nidal-malik-hasan-execution-bridget-phillipson-b3064366.html",
-      "published_date": "2026-10-09T17:35:28+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/midwives-nitrous-oxide-laughing-gas-basildon-hospital-b3065334.html",
+      "published_date": "2026-10-12T23:01:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fridges in French supermarkets hit by cyber attack",
@@ -403,25 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Britain is at risk of running out of gas this winter, report warns",
+      "title": "UK households to face sharper rise in inflation than previously thought, IMF warns",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-gas-warning-energy-bills-b3064086.html",
-      "published_date": "2026-10-09T14:23:54+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/uk-households-inflation-imf-burnham-healey-b3065391.html",
+      "published_date": "2026-10-13T02:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Robert Jenrick launches scathing broadside against ‘Kensington Kemi’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/robert-jenrick-launches-scathing-broadside-against-kensington-kemi",
-      "published_date": "2026-10-09T13:21:14+00:00",
-      "category": "Energy"
+      "title": "UK households to see higher-than-expected inflation as energy prices jump – IMF",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andy-burnham-middle-east-prime-minister-john-healey-andrew-griffith-b3065579.html",
+      "published_date": "2026-10-13T02:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'We didn't get it over the line': Green party's Zack Polanski on byelection loss – video",
+      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T01:50:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK economy to grow more than expected - but households face sharper rise in inflation, IMF says",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/uk-economy-to-grow-more-than-expected-but-households-face-sharper-rise-in-inflation-imf-says-13598675",
+      "published_date": "2026-10-13T00:16:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "English councils warn of ‘catastrophic’ Send debts forecast to hit £10bn by 2028",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/video/2026/oct/09/green-party-zack-polanski-byelection-loss-video",
-      "published_date": "2026-10-09T08:58:40+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/education/2026/oct/13/english-councils-catastrophic-send-debts-forecast-2028",
+      "published_date": "2026-10-12T23:01:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Retail sales sluggish as consumers exercise spending caution ahead of Budget",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/brc-budget-kpmg-helen-dickinson-b3065553.html",
+      "published_date": "2026-10-12T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Revealed: Britain spent £1.1 trillion more on benefits than investment in transport, homes and technology",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-welfare-spending-centre-for-social-justice-b3065478.html",
+      "published_date": "2026-10-12T21:00:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU",
@@ -515,53 +564,25 @@
       "category": "Economy"
     },
     {
-      "title": "Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/12/roman-abramovich-aides-paperwork-tax-records-suggest",
-      "published_date": "2026-10-12T05:00:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Roofing scammers con homeowners out of thousands of pounds",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T23:19:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Debt advice that may leave you owing even more money",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T23:19:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Burnham warned ‘steady as she goes Budget’ would mean ‘chunky cuts’ to public services as inflation bites",
+      "title": "Police name man charged after ‘mocking of A66 crash’ at Middlesbrough football match",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/budget-inflation-ifs-chancellor-john-healey-b3064829.html",
-      "published_date": "2026-10-11T23:09:59+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/middlesbrough-football-match-arrest-a66-crash-b3065507.html",
+      "published_date": "2026-10-12T23:37:40+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iran war threatens Healey's Budget plans, think tank warns",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-11T23:04:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Firms taking on new borrowing has doubled this year, survey finds",
+      "title": "Harvey Willgoose: Inquest to be held into death of murdered Sheffield schoolboy after coroner U-turn",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/hsbc-gdp-evidence-middle-east-b3064930.html",
-      "published_date": "2026-10-11T23:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/harvey-willgoose-death-inquest-sheffield-mohammed-umar-khan-b3065470.html",
+      "published_date": "2026-10-12T23:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote",
-      "published_date": "2026-10-11T15:00:29+00:00",
-      "category": "Economy"
+      "title": "Children caught playing ‘chicken’ with trains at busy level crossing",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/london-train-railway-closed-network-rail-b3065510.html",
+      "published_date": "2026-10-12T21:44:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "BBC to stop recording The Archers in Birmingham for first time in its 75-year history",
@@ -634,6 +655,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Burnham had formal meeting with Man City chair while mayor",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-12T17:09:30+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Farage accused of ‘dangerous dog whistle’ with ‘profoundly un-British’ asylum crackdown",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-asylum-immigration-b3065242.html",
@@ -673,34 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/flu-uk-hospital-admissions-vaccine-health-b3065214.html",
       "published_date": "2026-10-12T14:10:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charity van delivering meals from food bank stolen and stripped of its engine by thieves",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/thieves-cambridge-city-food-bank-van-charity-engine-b3065142.html",
-      "published_date": "2026-10-12T13:43:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy accused of stabbing girl at school sent mother ‘I’m sorry’ message",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/thorpe-st-andrew-school-stabbing-b3065261.html",
-      "published_date": "2026-10-12T13:25:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schoolboy knife attacker texted 'sorry' to mum",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx28950p253o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-12T13:12:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police officer seriously injured as 10 arrested at tense Liverpool v Manchester City clash",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/liverpool-man-city-arrests-police-chants-b3065244.html",
-      "published_date": "2026-10-12T12:53:13+00:00",
       "category": "Local Events"
     }
   ]
