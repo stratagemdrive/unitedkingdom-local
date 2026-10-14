@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-13T18:01:19.995954+00:00",
+  "last_updated": "2026-10-14T01:30:33.472633+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Brexit result 'not in dispute' despite PM's Russia meddling claim, MI5 chief says",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/brexit-result-not-in-dispute-despite-pms-russia-meddling-claim-mi5-chief-says-13598980",
+      "published_date": "2026-10-13T19:43:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "British nationals getting just one-fifth of new jobs as non-EU hiring soars, report finds",
       "source": "The Independent",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UK and EU confirm date of summit after Burnham says Russian meddling shows the need for closer ties",
+      "title": "Half of Britons unwilling to fight for UK in the event of war, poll finds",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-brexit-london-labour-party-nigel-farage-b3065403.html",
-      "published_date": "2026-10-12T16:17:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/politics/uk-fight-war-russia-uk-nato-poll-b3065856.html",
+      "published_date": "2026-10-13T23:01:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky and Burnham to meet in Downing Street",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T21:31:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham sends fresh message to Ukraine ahead of Zelensky visit after Trump's diesel deal with Russia",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-zelensky-trump-russia-diesel-deal-b3066176.html",
+      "published_date": "2026-10-13T21:30:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Raye says Royal Albert Hall gig sign-up was 'overwhelmed' by ticket touts using AI bots",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/raye-says-royal-albert-hall-gig-sign-up-was-overwhelmed-by-ticket-touts-using-ai-bots-13599002",
+      "published_date": "2026-10-13T20:34:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Far-right and Iran add to mix of terror threats UK faces – not to mention AI",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update",
+      "published_date": "2026-10-13T17:58:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Wes Streeting might be an unlikely defence secretary – but he’s still a better bet than Penny Mordaunt",
@@ -249,39 +284,46 @@
       "category": "Military"
     },
     {
-      "title": "One thing must now be clear to Andy Burnham. The rightwing press is on a war footing – and he’s the enemy | Jane Martinson",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/andy-burnham-rightwing-press-nigel-farage-kemi-badenoch",
-      "published_date": "2026-10-13T07:00:18+00:00",
-      "category": "Military"
+      "title": "1.7 million UK households 'will not turn heating on this winter'",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/home-heating-winter-uswitch-energy-b3066066.html",
+      "published_date": "2026-10-13T23:01:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Attorney General approval required for serious Troubles prosecutions",
+      "title": "1.7 million households will not turn heating on this winter, survey suggests",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/ofgem-uswitch-government-opinium-b3066283.html",
+      "published_date": "2026-10-13T23:01:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Some hake and coley stocks suffering from population decline, consumers warned",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/north-sea-marine-conservation-society-bay-of-biscay-fish-rockall-b3066285.html",
+      "published_date": "2026-10-13T23:01:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "More tea? How Scotland's crops of the future could be set to change",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crq8nynzpq0vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-12T20:50:53+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T21:57:25+00:00",
+      "category": "Energy"
     },
     {
-      "title": "D-Day veteran remembered as 'great character with cheeky smile' after death aged 100",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/henry-rice-second-world-war-veteran-who-was-part-of-d-day-landings-dies-aged-100-13598315",
-      "published_date": "2026-10-12T19:38:00+00:00",
-      "category": "Military"
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T21:42:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Burnham vows to keep Falklands after Argentinian ‘sabre-rattling’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/falkland-islands-burnham-argentina-british-b3065421.html",
-      "published_date": "2026-10-12T17:55:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rogue AI hack of UK cyber defences ‘inevitable’, minister warns",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/ai-uk-cyber-defence-security-b3065286.html",
-      "published_date": "2026-10-12T16:36:40+00:00",
-      "category": "Military"
+      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T17:36:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "Swimming pool evacuated after handyman mistakenly releases mustard gas",
@@ -382,46 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Stocks up ahead of US earnings data but oil prices stays high",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/cpi-jp-morgan-brent-aim-wall-street-b3065402.html",
-      "published_date": "2026-10-12T16:14:09+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why some have no choice but to pay costly oil prices",
+      "title": "How long will humans be needed for translation?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cq4g1dn81y9xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-12T15:34:48+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T23:05:29+00:00",
+      "category": "Economy"
     },
     {
-      "title": "King, Queen and Prince William to visit Aberfan on 60th anniversary of disaster",
+      "title": "Is it OK for jobseekers or employers to use AI?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d8l9znvqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-12T15:31:39+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T23:04:39+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Martin Lewis warns fixed tariffs won’t stop your energy bill rising. Here’s how to avoid it",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/martin-lewis-energy-fixed-tariff-price-cap-b3065063.html",
-      "published_date": "2026-10-12T08:25:30+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "UK van drivers face extra £2.5bn in diesel costs this year, figures show",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty",
-      "published_date": "2026-10-12T06:00:49+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "iPhone 18 Pro Max review: Apple’s biggest, heaviest and longest-lasting superphone",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/12/iphone-18-pro-max-review-apples-biggest-heaviest-and-longest-lasting-superphone",
-      "published_date": "2026-10-12T06:00:47+00:00",
-      "category": "Energy"
+      "title": "Civil servant 'fraudulently juggled five government jobs using remote work and sick notes'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/civil-servant-fraudulently-juggled-five-government-jobs-using-remote-work-and-sick-notes-13598956",
+      "published_date": "2026-10-13T17:50:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK high street bosses urge chancellor to cut cost of employing young people",
@@ -449,6 +470,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-13T16:00:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T15:59:07+00:00",
       "category": "Economy"
     },
     {
@@ -536,32 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "Three things we've learnt about the UK economy from the IMF",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T11:58:43+00:00",
-      "category": "Economy"
+      "title": "Average child has spent over 53 school days on social media since ban announcement",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/social-media-ban-government-children-meta-b3066018.html",
+      "published_date": "2026-10-13T23:12:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK shoppers seek deals as grocery price inflation rises again",
+      "title": "Fostering in crisis: can flexible care models fix England’s child placement shortfall?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/13/uk-shoppers-deals-grocery-price-inflation-supermarkets-prices-halloween",
-      "published_date": "2026-10-13T10:37:00+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/oct/14/fostering-in-crisis-can-flexible-care-models-fix-englands-child-placement-shortfall",
+      "published_date": "2026-10-13T23:01:39+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Poundland could fall into administration ‘within days’ putting thousands of jobs at risk",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/poundland-shops-sale-gordon-brothers-b3065692.html",
-      "published_date": "2026-10-13T10:01:35+00:00",
-      "category": "Economy"
+      "title": "Use of AI in job interviews on the rise – but UK recruiters say they can spot the cheats",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/14/use-of-ai-job-interviews-on-rise-uk-recruiters-cheats",
+      "published_date": "2026-10-13T23:01:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK economy set to contract after strong start to summer, say experts",
+      "title": "Rules, London’s oldest restaurant, donated to National Trust",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/food/2026/oct/14/rules-london-oldest-restaurant-donated-national-trust",
+      "published_date": "2026-10-13T23:01:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "£11m site of London’s oldest restaurant given to the National Trust",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/office-for-national-statistics-gdp-data-prime-minister-inflation-b3064712.html",
-      "published_date": "2026-10-13T09:25:12+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/national-trust-rules-restaurant-london-b3065997.html",
+      "published_date": "2026-10-13T23:01:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "French anti-riot police to patrol beaches to stop small boat crossings to UK",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/french-riot-police-small-boat-crossings-uk-b3066035.html",
+      "published_date": "2026-10-13T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man killed by tiger at Yorkshire Wildlife Park named",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/13/man-killed-by-tiger-at-yorkshire-wildlife-park-named",
+      "published_date": "2026-10-13T22:22:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lib Dems seek court order to evict former member with terminal cancer from her home",
@@ -652,55 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/police-car-crash-railings-ryde-pier-b3065999.html",
       "published_date": "2026-10-13T14:58:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex-Met Police officer trained to support rape victims accused of rape",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34xzp85jjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T14:50:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suicide rates for men in their early 50s reach record high in England and Wales",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/suicide-rates-ons-england-wales-b3066001.html",
-      "published_date": "2026-10-13T14:47:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Almost 5,000 evacuated in City of London gas leak",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c679p3vznylro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T14:35:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What happened in the Yorkshire tiger attack? Police issue update on man killed in enclosure",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/yorkshire-tiger-attack-victim-name-b3065611.html",
-      "published_date": "2026-10-13T14:21:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "50 years on from Arts Britain Ignores: how much has changed for black and Asian artists?",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/13/arts-britain-ignores-50-years-on-black-asian-artists-naseem-khan",
-      "published_date": "2026-10-13T13:48:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court hears church warden murder appeal",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqly384j8x3mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-13T13:04:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Winter floods could arrive as Met Office issues UK weather forecast",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-weather-october-november-forecast-winter-rain-snow-b3065825.html",
-      "published_date": "2026-10-13T12:20:23+00:00",
       "category": "Local Events"
     }
   ]
