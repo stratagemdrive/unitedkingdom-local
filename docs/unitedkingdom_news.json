@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-16T15:17:59.711446+00:00",
+  "last_updated": "2026-10-17T00:55:30.738851+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "£800,000 spent on scrapped sports dome project",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm87z3x1evn3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T23:00:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+      "published_date": "2026-10-16T18:09:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK could rejoin EU ‘within months’ with ‘Switzerland plus’ deal, MEP says",
       "source": "The Independent",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Brexit result 'not in dispute' despite PM's Russia meddling claim, MI5 chief says",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/brexit-result-not-in-dispute-despite-pms-russia-meddling-claim-mi5-chief-says-13598980",
-      "published_date": "2026-10-13T19:43:00+00:00",
-      "category": "Diplomacy"
+      "title": "RAF jets report ‘unidentified drones over UK’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/raf-reports-mystery-drones-uk-b3068419.html",
+      "published_date": "2026-10-16T23:06:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "British nationals getting just one-fifth of new jobs as non-EU hiring soars, report finds",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/british-nationals-payroll-jobs-non-eu-hiring-hmrc-b3066133.html",
-      "published_date": "2026-10-13T17:40:41+00:00",
-      "category": "Diplomacy"
+      "title": "UK national security adviser under pressure over wife’s comment on supporting Palestine Action",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/16/uk-national-security-adviser-jonathan-powell-sarah-helm-sally-rooney-palestine-action",
+      "published_date": "2026-10-16T17:03:20+00:00",
+      "category": "Military"
     },
     {
       "title": "Army chief warns Britons will have to make ‘sacrifices’ to prepare for war",
@@ -270,18 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Badenoch and Farage embroiled in furious row over Falklands and Chagos Islands",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-nigel-farage-chagos-falklands-b3066561.html",
-      "published_date": "2026-10-14T12:40:30+00:00",
-      "category": "Military"
+      "title": "Data centre developers may build 'climate-wrecking' gas power plant next door",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c639mg9d1vp0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T21:53:42+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Job cuts could fund diesel price drop says deputy",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-14T11:13:10+00:00",
-      "category": "Military"
+      "title": "Martin Lewis hits out at plans to introduce new energy bills ‘penalty’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/martin-lewis-ofgem-market-stabilisation-charge-b3068268.html",
+      "published_date": "2026-10-16T17:58:32+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fish and chip fans told to avoid two cod alternatives in threat to popular takeaway",
@@ -316,6 +330,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/uk-government-douglas-alexander-john-swinney-government-scottish-b3067949.html",
       "published_date": "2026-10-16T08:22:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Ofgem could force energy suppliers to pay rivals if they lure customers with cheaper deals",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals",
+      "published_date": "2026-10-16T08:14:53+00:00",
       "category": "Energy"
     },
     {
@@ -403,25 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Ten unions call on Burnham to reject drilling at Rosebank oil field",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/labour-uk-government-burnham-trade-unions-north-sea-b3067067.html",
-      "published_date": "2026-10-14T23:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "My contraceptive coil saved my life after it revealed I had cancer",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8nkqlvv9qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-14T21:57:24+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Plan unveiled to increase share of land farmed organically in England to 10%",
+      "title": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
-      "published_date": "2026-10-14T16:49:15+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+      "published_date": "2026-10-16T21:30:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cut public spending rather than raising taxes on banks, IMF warns Healey",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/imf-john-healey-budget-spending-banks-taxes-b3068321.html",
+      "published_date": "2026-10-16T17:38:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Guardian view on the banks: too big to fail cannot mean too big to tax | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/the-guardian-view-on-the-banks-too-big-to-fail-cannot-mean-too-big-to-tax",
+      "published_date": "2026-10-16T16:52:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FTSE forges ahead but banks stutter on tax threat",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andrew-bailey-bank-of-england-john-healey-wpp-aim-b3068287.html",
+      "published_date": "2026-10-16T16:28:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IMF warns John Healey to consider spending cuts rather than raising bank taxes",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/john-healey-imf-chancellor-bangkok-tuc-b3068253.html",
+      "published_date": "2026-10-16T15:39:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Target pensions or welfare, not banks, IMF tells John Healey",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
+      "published_date": "2026-10-16T15:33:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sainsbury’s strategy in focus after reports over Morrisons talks",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/morrisons-sainsbury-tesco-cooperative-group-asda-b3068239.html",
+      "published_date": "2026-10-16T15:18:29+00:00",
+      "category": "Economy"
     },
     {
       "title": "Four ways small business owners can stop costs from spiralling as they grow",
@@ -515,192 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "'TV and cheap booze' blamed for landlord quitting",
+      "title": "Two-week half terms: The school holiday no one can agree on",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyk77jq9d2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T05:03:15+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvd7x01jqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T23:26:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "John Healey urged to hike taxes on banks’ ‘bumper profits’ in Budget",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/john-healey-government-trades-union-congress-labour-iran-b3067812.html",
-      "published_date": "2026-10-15T23:01:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Spending time in nature makes you more likely to eat healthily, first-of-its-kind study suggests",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/healthy-eating-nature-study-anglia-ruskin-b3067496.html",
-      "published_date": "2026-10-15T21:00:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The water torture goes on at Thames. Sector-wide reform isn’t moving much faster | Nils Pratley",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/15/water-torture-thames-sector-wide-reform-delay-public-control",
-      "published_date": "2026-10-15T18:00:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'I paid thousands to a company for jobs that never came'",
+      "title": "Swinney insists 'stars are aligning' for Scottish independence",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-15T17:19:49+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T23:00:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Thames Water asks for £2.4bn more to avoid going bust this year or early 2027",
+      "title": "Reform councillor resigns after being filmed making racist remarks",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
-      "published_date": "2026-10-15T17:14:48+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks",
+      "published_date": "2026-10-16T22:30:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Banks say Healey is planning Budget tax raid on their profits",
+      "title": "Nurse who took £770k from ‘vulnerable and lonely’ 99-year-old struck off",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/rebecca-burwood-nurse-bryn-yr-haul-care-home-wales-b3068403.html",
+      "published_date": "2026-10-16T21:18:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arson plotter jailed for targeting Keir Starmer’s house is deported from UK",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/arson-plotter-deported-keir-starmer-house-b3068349.html",
+      "published_date": "2026-10-16T20:51:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-15T17:14:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Cowardly former soapstar jailed for model agency scam after going on the run to Spain",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/philip-foster-brookside-jail-spain-b3068223.html",
-      "published_date": "2026-10-16T15:05:52+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T20:08:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "UK police force pays out after claims it protected officers accused of abusing women",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/16/devon-cornwall-police-settle-lawsuit-male-officers-abuse-claims",
-      "published_date": "2026-10-16T15:00:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tory shadow minister slammed for calling Manchester Arena attack anti-terror act her ‘most hated law’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/katie-lam-martyn-s-law-terror-attack-legislation-tory-b3068096.html",
-      "published_date": "2026-10-16T14:54:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man killed by tiger may have had medical records breached by NHS staff",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/potential-data-breaches-investigated-after-death-of-man-in-tiger-enclosure-13599989",
-      "published_date": "2026-10-16T14:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham says ‘too much time is wasted in those dramas’ when asked about Scottish independence – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/16/andy-burnham-scotland-devolution-speech-reform-uk-documentary-jenrick-farage-latest-news-updates",
-      "published_date": "2026-10-16T14:51:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
+      "title": "Police assess Palestine Action post by national security adviser's wife",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T14:36:27+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/crn4el88y7p2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T18:58:05+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Norwegian teen hitman jailed for 20 years for UK murder plot linked to Iran gang",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/johannes-kongsnes-natland-iran-sentence-b3068044.html",
-      "published_date": "2026-10-16T14:08:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "British man fined €3,000 for causing two-year-old son’s death in Cyprus",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/16/british-man-joshua-foster-fined-son-death-cyprus",
-      "published_date": "2026-10-16T14:05:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teen 'hitman' detained for 20 years over murder plot",
+      "title": "Reform councillor quits over offensive remarks",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T13:43:21+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1803dkp7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T18:53:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "London man wins payout after landlord demolished his flat while he was asleep inside",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nicola-saia-the-cricketers-oval-london-b3068146.html",
-      "published_date": "2026-10-16T13:41:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neet rates higher in England’s smaller cities and towns than in biggest cities",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/16/neet-rates-england-smaller-cities-towns-youth-unemployment-training",
-      "published_date": "2026-10-16T13:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norwegian teenage hitman hired for UK murder by Iran-backed crime gang jailed for 20 years",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years",
-      "published_date": "2026-10-16T12:40:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We must save water as drought becomes new normal, says minister",
+      "title": "'Well-known' man asks court to stop publication of sexual offence allegation",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T12:15:15+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c674pz3l0e73o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T18:46:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Reform tells its councillors to consider equalities – despite pledging to rip up the Equality Act",
+      "title": "Trans women barred from female hospital wards under new NHS guidance",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/reform-equality-act-councils-farage-labour-b3067555.html",
-      "published_date": "2026-10-16T12:07:38+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-england-trans-patients-rules-b3067873.html",
+      "published_date": "2026-10-16T18:39:03+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Doctor on Lucy Letby ward says he should have gone to police with fears earlier",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/lucy-letby-guilty-thirlwall-hospital-b3068085.html",
-      "published_date": "2026-10-16T12:06:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "RNLI lifeboat crews threatened by ‘thuggery’ from anti-migrant protesters, charity watchdog says",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/rnli-far-right-protests-charity-commission-b3067992.html",
-      "published_date": "2026-10-16T11:22:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Early release of murderer's mother would be 'significant blow' to Henry Nowak's family – police chief",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/henry-nowak-vickrum-digwa-mother-kiran-kaur-b3067870.html",
-      "published_date": "2026-10-16T11:09:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Older Brits urged to get flu vaccine after nearly 4,000 deaths in England last winter",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/flu-jab-vaccine-nhs-book-rsv-covid-b3068018.html",
-      "published_date": "2026-10-16T11:06:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We should all be worried’: calls grow to limit London rollout of robotaxis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/16/london-driverless-robotaxis-uber-drivers-wayve-tfl-licences",
-      "published_date": "2026-10-16T11:00:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police officer who raped two women jailed for 12 years",
+      "title": "Police feared Andrew would delay search by saying King owned his home, documents show",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg53v29005o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T10:54:24+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrk0gxlw2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T18:37:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Well-known individual’ tries to secure permanent injunction against Guardian and ITN",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/oct/16/well-known-individual-tries-to-secure-permanent-injunction-against-guardian-and-itn",
+      "published_date": "2026-10-16T18:20:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arson attacker ‘targeted photo of Crown Prince of Iran who he blamed for cousin’s death’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/ali-fallahi-arson-golders-green-memorial-wall-iran-b3068325.html",
+      "published_date": "2026-10-16T17:57:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met police investigating row over founding of Your Party",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/16/met-police-investigating-row-over-founding-of-your-party",
+      "published_date": "2026-10-16T17:29:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform councillor calls TV report 'vote interference'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdm2nylkz0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T17:07:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government settles after challenge by sacked Foreign Office chief over Peter Mandelson vetting",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/olly-robbins-starmer-payout-peter-mandelson-b3068262.html",
+      "published_date": "2026-10-16T17:05:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Off Campus star collaboration 'gave me chills', says Babydoll singer",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yndllj8d8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T16:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHS staff may have breached tiger attack victim's medical records",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-16T16:53:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHS staff ‘may have breached medical records of man killed by tiger’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/tiger-william-chapman-killed-nhs-yorkshire-b3068235.html",
+      "published_date": "2026-10-16T16:50:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barack Obama pays tribute to Manchester cotton workers and cites them as an inspiration",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/oct/16/barack-obama-pays-tribute-to-manchester-cotton-workers-and-cites-them-as-an-inspiration",
+      "published_date": "2026-10-16T16:47:32+00:00",
       "category": "Local Events"
     }
   ]
