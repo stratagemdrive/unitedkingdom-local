@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-18T00:30:33.890766+00:00",
+  "last_updated": "2026-10-18T14:21:27.408387+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
+      "published_date": "2026-10-18T07:00:53+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK should scrap ‘stupid’ ban on petrol cars to close EU trade deal, says Renault boss",
       "source": "The Independent",
@@ -134,13 +141,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/nigel-ward-amputee-blue-badge-norfolk-council-b3066761.html",
       "published_date": "2026-10-14T14:54:51+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘English nationalist’ content creators film themselves in asylum seekers’ house",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/oct/14/content-creators-described-as-english-nationalist-film-themselves-in-asylum-seekers-house",
-      "published_date": "2026-10-14T14:08:24+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,27 @@
       "category": "Military"
     },
     {
+      "title": "Fuel leak spreads more than two miles along River Taff",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T13:59:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T08:12:24+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Heating oil customers face tough winter",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T06:07:40+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Reform activist caught on camera saying asylum seekers should be put in 'concentration camps'",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-farage-itv-racism-b3068609.html",
@@ -403,25 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Repressive, secretive and highly militarised: Eritrea, the east African country facing UK visa ban threat",
+      "title": "What is the Budget and what could be in it?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T10:22:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sainsbury’s strategy in focus after reports over Morrisons talks",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/morrisons-sainsbury-tesco-cooperative-group-asda-b3068707.html",
+      "published_date": "2026-10-18T08:00:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Condé Nast’s UK profits drop by more than a third as sale of Vogue publisher ruled out",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/15/eritrea-repressive-secretive-uk-asylum-returns",
-      "published_date": "2026-10-15T15:52:19+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group",
+      "published_date": "2026-10-18T07:00:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Woman, 36, trampled to death during UK border force small boat rescue, probe finds",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/woman-dies-small-boat-rescue-uk-border-force-b3067255.html",
-      "published_date": "2026-10-15T15:14:18+00:00",
-      "category": "Energy"
+      "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
+      "published_date": "2026-10-18T07:00:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Fiddler’s Ferry: Crews tackle blaze at former power station in Cheshire",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fiddlers-ferry-fire-power-station-warrington-cheshire-b3067524.html",
-      "published_date": "2026-10-15T14:43:23+00:00",
-      "category": "Energy"
+      "title": "Heat pumps and insulation would cut UK living costs more than new oilfields, study suggests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/18/heat-pumps-insulation-warm-homes-plan-beat-new-oilfields-cutting-uk-cost-of-living-study",
+      "published_date": "2026-10-18T06:00:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "There's a crackdown on sports piracy - but is it already out of control?",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "UK sees growing demand for help bridging gap between end of work and start of pension",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/oct/17/uk-pensions-retire-early-fixed-term-annuities",
-      "published_date": "2026-10-17T06:00:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T03:57:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T01:59:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
-      "published_date": "2026-10-16T21:30:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Cut public spending rather than raising taxes on banks, IMF warns Healey",
+      "title": "Police officer hospitalised after shooting in Nottingham city centre",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/imf-john-healey-budget-spending-banks-taxes-b3068321.html",
-      "published_date": "2026-10-16T17:38:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Comedian Paul Whitehouse mugged at London cash machine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-18T00:06:36+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/police-officer-shot-nottingham-angle-row-b3068750.html",
+      "published_date": "2026-10-18T13:59:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Papers: 'French protests become violent' and SAS men 'arrested for murder'",
+      "title": "Suspects hunted after police officer injured in shooting",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T23:40:34+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T13:10:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The playground murder: Trauma, loss and a love that endured",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T23:04:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yvette Cooper pledges £140m to boost urgent care as NHS faces ‘tough’ winter",
+      "title": "Bristol Old Vic tackles arts ‘emergency’ by bringing the theatre into classrooms",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/18/yvette-cooper-140m-boost-urgent-care-nhs-tough-winter",
-      "published_date": "2026-10-17T23:00:43+00:00",
+      "url": "https://www.theguardian.com/stage/2026/oct/18/bristol-old-vic-arts-emergency-city-academy-theatre-plays-access",
+      "published_date": "2026-10-18T13:00:03+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Health workers run out of patience with Stormont budget delay",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c32l4ezn05vdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T23:00:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fifteen NHS staff sacked after accessing medical records of Valdo Calocane victims",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/17/fifteen-nhs-staff-sacked-after-accessing-medical-records-of-valdo-calocane-victims",
-      "published_date": "2026-10-17T22:39:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS sacks 15 staff for snooping on Nottingham stabbing victims' records",
+      "title": "Stark new report names the ‘hardest places to grow up’ in England",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-nottingham-victims-data-breach-b3068653.html",
-      "published_date": "2026-10-17T21:44:52+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/middlesbough-bradford-childhood-lottery-hardest-places-live-england-b3068752.html",
+      "published_date": "2026-10-18T12:13:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "How day of protests unfolded as disorder breaks out across France",
+      "title": "Ending corridor care in hospitals for children a priority, says health secretary",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T21:33:17+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T12:09:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Reform politician says smart glasses helping him make speeches in Wales' parliament",
+      "title": "New NHS England policy for trans people could have ‘a number of adverse impacts’, report finds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/18/nhs-england-guidance-single-sex-wards-trans-people-adverse-impacts-report",
+      "published_date": "2026-10-18T12:00:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nottinghamshire police officer in hospital after being shot in the foot",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/18/nottingham-police-officer-in-hospital-shot-in-foot",
+      "published_date": "2026-10-18T11:15:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHS data breaches a disgrace, says health secretary",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmp8g2kk3392o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T20:58:45+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9nw82ljdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T10:52:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
+      "title": "Zack Polanski says application of Zionism is racist and no state has right to exist",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
-      "published_date": "2026-10-17T19:47:45+00:00",
+      "url": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist",
+      "published_date": "2026-10-18T10:39:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+      "title": "Health secretary vows to end ‘corridor care’ for children in hospitals",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/nhs-hospital-children-yvette-cooper-laura-kuenssberg-b3068737.html",
+      "published_date": "2026-10-18T10:19:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inside the British far right’s new social media tactics leading police on a cat and mouse chase",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/police-british-far-right-small-boats-protests-tactics-b3055860.html",
+      "published_date": "2026-10-18T10:18:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
-      "published_date": "2026-10-17T16:00:34+00:00",
+      "url": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
+      "published_date": "2026-10-18T10:03:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "More NHS staff sacked after accessing medical records of Nottingham attack victims",
+      "title": "NHS staff who wrongly accessed tiger victim’s records should be sacked, says Yvette Cooper",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/18/nhs-staff-tiger-william-chapman-records-yvette-cooper",
+      "published_date": "2026-10-18T09:38:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "House that looks like boulders to be built on moor",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c674k23qvyv4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T08:39:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police identify new ‘area of interest’ in search for missing fishing boat crew",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/fishing-boat-isle-lewis-kilda-b3068710.html",
+      "published_date": "2026-10-18T08:28:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polanski’s popularity plummets to record low in wake of Green by-election loss and ‘Zionism’ motion",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/zack-polanski-polls-green-zionism-motion-b3068706.html",
+      "published_date": "2026-10-18T08:06:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gun pictured at scene after police officer shot - as suspects hunted",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/more-nhs-staff-sacked-after-accessing-medical-records-of-nottingham-attack-victims-13600282",
-      "published_date": "2026-10-17T15:30:00+00:00",
+      "url": "https://news.sky.com/story/police-officer-shot-in-nottingham-city-centre-13600507",
+      "published_date": "2026-10-18T08:05:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Bibles, rosary beads and Russell Brand’s unbroken resolve: I spent the week in court with him – this is what I saw",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/russell-brand-trial-news-court-b3068150.html",
-      "published_date": "2026-10-17T13:43:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More NHS staff sacked over attacks victims' records",
+      "title": "Boy, 14, stabbed in shopping centre attack",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T13:18:32+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6z983n5qp33o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T07:36:10+00:00",
       "category": "Local Events"
     },
     {
-      "title": "‘We’re not playing games’: Parents launch playground protests to fight school field sell-off",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
-      "published_date": "2026-10-17T13:00:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From little acorns … to his 1,000th article for the Guardian country diary",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/17/1000-articles-for-the-guardian-country-diary-mark-cocker",
-      "published_date": "2026-10-17T12:00:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From 3,000 feathers to pet portraits, Rolls-Royce rides high on custom craze",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/17/rolls-royce-customised-cars",
-      "published_date": "2026-10-17T12:00:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged with murder after fatal assault at caravan park",
+      "title": "NHS faces 'more challenging' winter than normal, minister warns",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/man-charged-with-murder-after-fatal-assault-at-clacton-caravan-park-13600141",
-      "published_date": "2026-10-17T11:14:00+00:00",
+      "url": "https://news.sky.com/story/nhs-faces-more-challenging-winter-after-summer-of-heatwaves-yvette-cooper-warns-13600504",
+      "published_date": "2026-10-18T00:52:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two people killed in light aircraft crash near Loch Lomond",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/17/two-people-killed-light-aircraft-crash-near-loch-lomond-scotland",
-      "published_date": "2026-10-17T10:52:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murder charge after man dies at Essex caravan park",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/clacton-murder-daniel-fox-valley-farm-holiday-park-b3068506.html",
-      "published_date": "2026-10-17T10:51:21+00:00",
+      "title": "Making murder fun: How the Traitors' soundtrack sets the tone",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T00:29:58+00:00",
       "category": "Local Events"
     }
   ]
