@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-17T14:06:45.659568+00:00",
+  "last_updated": "2026-10-18T00:30:33.890766+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "UK should scrap ‘stupid’ ban on petrol cars to close EU trade deal, says Renault boss",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/europe/petrol-diesel-cars-ban-renault-francois-provost-b3068625.html",
+      "published_date": "2026-10-17T21:14:39+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "British under-30s set to work in EU again as UK pushes for Brexit reset",
       "source": "The Independent",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
+      "title": "SNP says campaign for next referendum on independence ‘has already begun’",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
-      "published_date": "2026-10-14T13:57:03+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
+      "published_date": "2026-10-17T15:45:53+00:00",
+      "category": "Military"
     },
     {
       "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "British soldier who had 'homemade cannon' and promoted extreme right-wing views is jailed",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/british-soldier-mark-broadhurst-who-had-homemade-cannon-and-promoted-extreme-right-wing-views-is-jailed-13599315",
-      "published_date": "2026-10-14T15:57:00+00:00",
-      "category": "Military"
+      "title": "Reform activist caught on camera saying asylum seekers should be put in 'concentration camps'",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-farage-itv-racism-b3068609.html",
+      "published_date": "2026-10-17T19:00:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "Bottoms up: Stuck TV remotes, vapes and Lego removed from rectums at English hospitals",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Heating oil market to be better regulated under plans to help households",
+      "title": "There's a crackdown on sports piracy - but is it already out of control?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T00:11:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BBC licence fee to be extended with ‘YouTube tax’ to force more to pay",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/competition-and-markets-authority-government-middle-east-ed-miliband-b3065894.html",
-      "published_date": "2026-10-15T10:48:50+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/bbc-licence-fee-charter-youtube-tax-netflix-disney-b3067500.html",
+      "published_date": "2026-10-17T20:23:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ex-culture secretary blasts ‘retrograde’ plan for ‘YouTube tax’ to fund BBC",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/bbc-tv-licence-youtube-tax-nicky-morgan-b3068168.html",
+      "published_date": "2026-10-17T20:21:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sainsbury’s strategy in focus after reports over Morrisons talks",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/morrisons-sainsbury-tesco-cooperative-group-asda-b3068239.html",
+      "published_date": "2026-10-17T13:10:18+00:00",
+      "category": "Economy"
     },
     {
       "title": "New cheapest online food shop revealed – and it’s not Aldi or Tesco",
@@ -536,32 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "The Guardian view on the banks: too big to fail cannot mean too big to tax | Editorial",
+      "title": "Comedian Paul Whitehouse mugged at London cash machine",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-18T00:06:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Papers: 'French protests become violent' and SAS men 'arrested for murder'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T23:40:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The playground murder: Trauma, loss and a love that endured",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T23:04:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yvette Cooper pledges £140m to boost urgent care as NHS faces ‘tough’ winter",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/16/the-guardian-view-on-the-banks-too-big-to-fail-cannot-mean-too-big-to-tax",
-      "published_date": "2026-10-16T16:52:37+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/oct/18/yvette-cooper-140m-boost-urgent-care-nhs-tough-winter",
+      "published_date": "2026-10-17T23:00:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FTSE forges ahead but banks stutter on tax threat",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/andrew-bailey-bank-of-england-john-healey-wpp-aim-b3068287.html",
-      "published_date": "2026-10-16T16:28:42+00:00",
-      "category": "Economy"
+      "title": "Health workers run out of patience with Stormont budget delay",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4ezn05vdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T23:00:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "IMF warns John Healey to consider spending cuts rather than raising bank taxes",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/john-healey-imf-chancellor-bangkok-tuc-b3068253.html",
-      "published_date": "2026-10-16T15:39:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Target pensions or welfare, not banks, IMF tells John Healey",
+      "title": "Fifteen NHS staff sacked after accessing medical records of Valdo Calocane victims",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/16/target-pensions-or-welfare-not-banks-imf-tells-john-healey",
-      "published_date": "2026-10-16T15:33:29+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/oct/17/fifteen-nhs-staff-sacked-after-accessing-medical-records-of-valdo-calocane-victims",
+      "published_date": "2026-10-17T22:39:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHS sacks 15 staff for snooping on Nottingham stabbing victims' records",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-nottingham-victims-data-breach-b3068653.html",
+      "published_date": "2026-10-17T21:44:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How day of protests unfolded as disorder breaks out across France",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T21:33:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reform politician says smart glasses helping him make speeches in Wales' parliament",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmp8g2kk3392o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T20:58:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
+      "published_date": "2026-10-17T19:47:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
+      "published_date": "2026-10-17T16:00:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More NHS staff sacked after accessing medical records of Nottingham attack victims",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/more-nhs-staff-sacked-after-accessing-medical-records-of-nottingham-attack-victims-13600282",
+      "published_date": "2026-10-17T15:30:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Bibles, rosary beads and Russell Brand’s unbroken resolve: I spent the week in court with him – this is what I saw",
@@ -617,90 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/crime/clacton-murder-daniel-fox-valley-farm-holiday-park-b3068506.html",
       "published_date": "2026-10-17T10:51:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Squash down: smaller pumpkins expected this Halloween after drought in England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/17/smaller-pumpkins-halloween-drought-england",
-      "published_date": "2026-10-17T09:00:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Teenage boy and pensioner killed in Scotland plane crash",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/plane-crash-scotland-deaths-teen-pensioner-drymen-b3068471.html",
-      "published_date": "2026-10-17T08:40:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform councillor resigns after being filmed making racist remarks",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/reform-resign-councillor-alan-feeney-itv-b3068451.html",
-      "published_date": "2026-10-17T07:54:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two dead after light aircraft crash",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/two-dead-after-light-aircraft-crash-13600111",
-      "published_date": "2026-10-17T07:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nightclubs are disappearing - and it's affecting young people",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yngn0pl2ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-17T06:01:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palantir patient data tech rejected by many NHS trusts in England",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
-      "published_date": "2026-10-17T06:00:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestine Action post by wife of PM's adviser being assessed by police",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/palestine-action-post-by-sarah-helms-wife-of-national-security-adviser-being-assessed-by-met-police-13600095",
-      "published_date": "2026-10-17T01:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two-week half terms: The school holiday no one can agree on",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wvd7x01jqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T23:26:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Swinney insists 'stars are aligning' for Scottish independence",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-16T23:00:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform councillor resigns after being filmed making racist remarks",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks",
-      "published_date": "2026-10-16T22:30:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nurse who took £770k from ‘vulnerable and lonely’ 99-year-old struck off",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/rebecca-burwood-nurse-bryn-yr-haul-care-home-wales-b3068403.html",
-      "published_date": "2026-10-16T21:18:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arson plotter jailed for targeting Keir Starmer’s house is deported from UK",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/arson-plotter-deported-keir-starmer-house-b3068349.html",
-      "published_date": "2026-10-16T20:51:42+00:00",
       "category": "Local Events"
     }
   ]
