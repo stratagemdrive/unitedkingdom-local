@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-19T17:22:55.258710+00:00",
+  "last_updated": "2026-10-20T01:22:19.084592+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "The Papers: 'The French correction' and 'Labour cuts £2bn from Army'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7y0vkz2yno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T23:35:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T18:21:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Armed Forces need to ‘live within their means’, Wes Streeting warns",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/wes-streeting-uk-armed-forces-training-money-b3069456.html",
+      "published_date": "2026-10-19T17:34:27+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Hegseth wrong to say most non-US Nato forces in Afghanistan did not fight, says No 10",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/us-news/2026/oct/19/pete-hegseth-nato-afghanistan-downing-street",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Lockerbie accused's alleged confession can be used in trial, US judge rules",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx1l3d128vrjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-15T20:35:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wes Streeting in US for Hegseth meeting as Ukraine tensions escalate – as it happened",
+      "title": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
-      "published_date": "2026-10-15T15:19:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Top health civil servant urged to play no role in clampdown on ADHD clinics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/15/health-department-civil-servant-adhd-clinics-clampdown",
-      "published_date": "2026-10-15T14:34:30+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns",
+      "published_date": "2026-10-19T17:39:13+00:00",
+      "category": "Energy"
     },
     {
       "title": "Russell Brand had ‘big grin’ as he grabbed woman’s breasts and dragged her into toilet and raped her, woman claims",
@@ -316,6 +323,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/media/2026/oct/19/the-canary-leftwing-news-website-closure",
       "published_date": "2026-10-19T13:52:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Charging battery believed to have caused house fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmglwnw2d3d8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T13:34:58+00:00",
       "category": "Energy"
     },
     {
@@ -410,18 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "‘A direct cultural threat’: your questions on the rise of the right across Europe answered",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/community/2026/oct/16/far-right-politics-rise-across-europe-afd-germany-elections-your-questions-answered",
-      "published_date": "2026-10-16T09:00:56+00:00",
-      "category": "Energy"
+      "title": "Healey rejects calls to raise capital gains tax at the Budget",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andy-burnham-john-healey-budget-kemi-badenoch-government-b3069570.html",
+      "published_date": "2026-10-19T23:01:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Government being ‘cautious’ about public announcements on Jackdaw and Rosebank",
+      "title": "‘We are the shame of Europe’: France imposes curfews to stop growing riots",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/uk-government-douglas-alexander-john-swinney-government-scottish-b3067949.html",
-      "published_date": "2026-10-16T08:22:49+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/world/europe/france-protests-curfew-italy-europe-b3069394.html",
+      "published_date": "2026-10-19T21:29:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Traditional degrees failing to prepare young people for work and UK needs more technical universities, new report finds",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/university-skills-technical-college-neet-crisis-young-people-b3069392.html",
+      "published_date": "2026-10-19T21:00:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Healey should adopt cuts at Budget to ‘live within our means’, Badenoch to say",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/labour-party-kemi-badenoch-andy-burnham-government-budget-b3069543.html",
+      "published_date": "2026-10-19T21:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why you might not know if your salmon is being raised on chicken",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/farmed-salmon-chicken-byproducts-uk-supermarkets-b3069343.html",
+      "published_date": "2026-10-19T17:44:59+00:00",
+      "category": "Economy"
     },
     {
       "title": "European stocks dip as French riots spark concern",
@@ -494,6 +529,13 @@
       "category": "Economy"
     },
     {
+      "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
+      "published_date": "2026-10-19T12:51:04+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
@@ -522,46 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "Musk and Anthropic pledge public share giveaways",
+      "title": "Criminals detained in hospital set to lose benefits",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T09:38:25+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T23:21:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Uber sees off £340m claim by London cabbies",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/uber-sees-off-340m-claim-by-london-cabbies-13600892",
-      "published_date": "2026-10-19T09:27:00+00:00",
-      "category": "Economy"
+      "title": "Human trafficking 'hidden in plain sight' online",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzvdj8n7no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T23:05:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "More than half of UK first-time buyers paying more for mortgage than they did for rent",
+      "title": "Parents face childcare 'postcode lottery' as more schools extend October half-term break",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/october-half-term-childcare-uk-parents-b3069383.html",
+      "published_date": "2026-10-19T23:01:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Experts reconstruct face of man from Roman Scotland after 2,000 years",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/roman-scotland-facial-reconstruction-exhibition-b3069219.html",
+      "published_date": "2026-10-19T23:01:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Criminals detained in hospital to be stripped of benefits, government says",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/criminals-killers-sex-offenders-hospital-detained-benefits-b3069415.html",
+      "published_date": "2026-10-19T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The NHS is not ready for winter, top A&E doctors warn: ‘We can’t tell where one crisis ends and the next begins’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/ae-nhs-winter-crisis-hospital-b3069299.html",
+      "published_date": "2026-10-19T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Having ‘hot baths’ could ease pain for disease which affects 1 in 5 over 60s, experts say",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/hot-tub-baths-over-60s-peripheral-artery-disease-b3069384.html",
+      "published_date": "2026-10-19T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funeral for gangster turned author Paul Ferris takes place in Glasgow",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/paul-ferris-funeral-glasgow-death-b3069525.html",
+      "published_date": "2026-10-19T22:23:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teacher banned from classroom after swearing at pupil and pushing him against wall",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/teacher-banned-staffordshire-school-pushed-student-b3069519.html",
+      "published_date": "2026-10-19T22:05:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hundreds of holiday lets operating without planning permission",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c680488y41v8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T21:50:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/oct/19/uk-first-time-buyers-paying-more-mortgage-rent",
-      "published_date": "2026-10-19T09:10:41+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice",
+      "published_date": "2026-10-19T21:30:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Discount retailer B&M plots offer to cherry-pick shops from rival Poundland",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/discount-retailer-bm-plots-offer-to-cherry-pick-shops-from-rival-poundland-13600868",
-      "published_date": "2026-10-19T08:14:00+00:00",
-      "category": "Economy"
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T21:12:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The childcare change that could boost incomes and bring parents back to work",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/tax-free-childcare-universal-credit-reforms-b3068992.html",
-      "published_date": "2026-10-19T08:01:03+00:00",
-      "category": "Economy"
+      "title": "First minister promises to look at Welsh council powers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckz7xrjg924no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T20:53:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Mulberry sales lift 18% as turnaround progress accelerates",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/mulberry-somerset-christopher-kane-europe-press-association-b3068960.html",
-      "published_date": "2026-10-19T07:07:19+00:00",
-      "category": "Economy"
+      "title": "British people react to Burnham's campaign against ‘headphone dodgers’ on public transport – video",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/video/2026/oct/19/british-public-react-to-burnhams-campaign-against-headphone-dodgers-on-public-transport-video",
+      "published_date": "2026-10-19T18:36:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leicester to visit Oxford City in FA Cup first round - see full draw",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T18:13:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ITV’s exposé of racism and misogyny in Reform? Just a few (more) bad apples | John Crace",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/19/itv-expose-racism-misogyny-reform",
+      "published_date": "2026-10-19T17:42:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister says Mahmood’s migration policy will ‘prolong integration’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh",
+      "published_date": "2026-10-19T17:35:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jurors sitting in Katie Price ex-husband rape trial told to cut through ‘big egos and personalities’",
@@ -582,125 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-19T16:31:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schools 'explosive device' email a hoax, say police",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m4pvdzzj0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T16:28:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
-      "published_date": "2026-10-19T16:21:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four arrested after police officer injured in shooting",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T15:50:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bikes 'not for jousting,' says Lime after duel video",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T15:44:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judge throws out case against Uber brought by 13,000 London cab drivers",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uber-case-dismissed-black-cab-drivers-london-b3069307.html",
-      "published_date": "2026-10-19T15:44:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four arrested after police officer shot in Nottingham",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/police-officer-shooting-nottingham-arrests-city-centre-b3069119.html",
-      "published_date": "2026-10-19T15:35:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bomb threat email sent to 300 schools ‘originated outside the UK’, say police",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/schools-northern-ireland-bomb-threat-police-news-b3069173.html",
-      "published_date": "2026-10-19T14:31:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform mayor investigated for ‘cyberflashing’ female employee",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-mayor-luke-campbell-cyberflashing-b3069002.html",
-      "published_date": "2026-10-19T14:25:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southport killer faces trial for alleged prison attacks",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjx23p2q6rl5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T14:24:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I lay in a pool of blood after being shot at point blank range while undercover in Northern Ireland’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/sas-undercover-soldier-shot-northern-ireland-shadow-war-b3062093.html",
-      "published_date": "2026-10-19T14:12:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man pleads guilty to Huntingdon mass train stabbings but denies attempted murder",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/anthony-williams-huntingdon-train-stabbings-trial-b3069185.html",
-      "published_date": "2026-10-19T14:01:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second man arrested on suspicion of murder after woman stabbed to death",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/second-man-arrested-on-suspicion-of-murder-after-woman-stabbed-to-death-13600987",
-      "published_date": "2026-10-19T13:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mapped: What you need to save for Your First Home deposit in each region of England",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/house-deposit-uk-map-your-first-home-labour-b3067327.html",
-      "published_date": "2026-10-19T13:23:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ellie Goulding admits error over promoting diamonds from controversial Australian mine",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/oct/19/ellie-goulding-diamonds-australia-argyle-mine",
-      "published_date": "2026-10-19T13:20:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morgan Gibbs-White fined after his car ran red light",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyr3rrxnrxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T12:49:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Actor and boxer among mourners of ex-gangster whose life was made into film",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/funeral-of-former-gangster-and-author-whose-story-was-made-into-movie-13600965",
-      "published_date": "2026-10-19T12:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stop ‘cash to trash’ housebuilding in Norfolk Broads, says Labour MP",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/19/stop-cash-for-trash-housebuilding-norfolk-broads-labour-mp-chris-hinchcliffe",
-      "published_date": "2026-10-19T12:20:08+00:00",
       "category": "Local Events"
     }
   ]
