@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-23T01:06:45.729643+00:00",
+  "last_updated": "2026-10-23T15:41:26.978175+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
+      "published_date": "2026-10-23T15:16:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU leaders to press Burnham to pay more towards Ukraine’s defence",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence",
+      "published_date": "2026-10-23T06:00:03+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Youth mobility scheme may be delayed to ensure success of UK-EU summit",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/uk-eu-brexit-reset-youth-mobility-scheme-summit",
+      "published_date": "2026-10-23T05:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "King Charles urged ‘as human brother’ to support reparations talks at Caribbean summit",
       "source": "The Guardian",
@@ -15,6 +36,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/uk-motorists-drivers-headlight-glare-rac-b3071600.html",
       "published_date": "2026-10-22T23:01:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The national resilience moment that almost unfolded in silence - in stark contrast to NATO allies",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/be-ready-checklist-the-national-resilience-moment-that-almost-barely-happened-13602517",
+      "published_date": "2026-10-22T22:05:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Digital wallet provider Hyperlayer lands £20m funding injection",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/digital-wallet-provider-hyperlayer-lands-20m-funding-injection-13600872",
-      "published_date": "2026-10-19T08:12:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Britain cannot deal effectively with geopolitical crises without rejoining EU, says thinktank",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/19/britain-geopolitical-crises-rejoin-eu-thinktank",
-      "published_date": "2026-10-19T04:00:18+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "title": "Military base asylum plans challenged at High Court",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-18T23:28:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3rm4l39no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T13:22:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK must rejoin EU to combat growing threat from Russia and Trump, Burnham warned",
+      "title": "Government tells people to be prepared for 'everyday' threats",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cqj9ky23ymwro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T12:38:05+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police officers joked about death of Paul Hardcastle’s son in crash",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-burnham-eu-russia-trump-ippr-b3067667.html",
-      "published_date": "2026-10-18T23:01:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/crime/paul-hardcastle-son-death-crash-essex-police-b3072060.html",
+      "published_date": "2026-10-23T09:29:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "New charges for Royal Navy sailor accused of plotting to leak secrets to Russia",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/new-charges-for-royal-navy-sailor-accused-of-plotting-to-leak-secrets-to-russia-13602597",
+      "published_date": "2026-10-23T08:59:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "MoD seeks out-of-court resolution over compensation battle with gay veterans",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/mod-wes-streeting-legal-battle-gay-veterans",
+      "published_date": "2026-10-23T05:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "The Papers: 'Prepare for the worst' and 'Covid report fallout'",
@@ -249,39 +284,74 @@
       "category": "Military"
     },
     {
-      "title": "‘Glaring gaps’ in military capability leave UK exposed to Russian attacks in High North, MPs warn",
+      "title": "How residents in flood-prone areas are rejecting traditional ideas of resilience",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/uk-military-defence-armed-forces-russia-high-north-b3070804.html",
-      "published_date": "2026-10-21T23:01:00+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/weather-flood-warning-risk-prone-areas-resilience-b3072329.html",
+      "published_date": "2026-10-23T14:56:16+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Former Tory election candidate suspended over contract killing claims",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/21/former-tory-election-candidate-suspended-over-contract-killing-claims",
-      "published_date": "2026-10-21T18:13:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police granted more time to question men re-arrested in RAF Fairford investigation",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/raf-fairford-two-men-rearrested-iran-police-investigation-b3070971.html",
-      "published_date": "2026-10-21T17:54:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police given more time to question two men re-arrested in RAF Fairford investigation",
+      "title": "What is in the Be Ready checklist as Britons urged to stock up to survive potential cyber or climate emergencies?",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/police-given-more-time-to-question-two-men-re-arrested-in-raf-fairford-investigation-13601987",
-      "published_date": "2026-10-21T17:23:00+00:00",
-      "category": "Military"
+      "url": "https://news.sky.com/story/what-is-in-the-be-ready-checklist-as-britons-urged-to-stock-up-to-survive-potential-cyber-or-climate-emergencies-13602659",
+      "published_date": "2026-10-23T11:33:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Mural of World War II hero Donald Rose unveiled on Ilkeston Town Hall",
+      "title": "Storm Austen mapped: Where high winds and rain will hit UK today before Storm Boelo arrives",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/donald-rose-mural-ilkeston-town-hall-b3070795.html",
-      "published_date": "2026-10-21T14:03:32+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/storm-austen-map-boelo-uk-weather-forecast-b3072122.html",
+      "published_date": "2026-10-23T10:32:11+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Three people linked to Conservatives sentenced after cheating at gambling on general election",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/three-people-linked-to-conservatives-sentenced-after-cheating-at-gambling-on-general-election-13602611",
+      "published_date": "2026-10-23T09:18:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Jackdaw gas field approval will strengthen UK energy security, Burnham says",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andy-burnham-douglas-alexander-scotland-aberdeen-government-b3071947.html",
+      "published_date": "2026-10-23T07:12:50+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘We’ve lost a basic sense of politeness’: UK readers reveal daily reality of public transport",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign",
+      "published_date": "2026-10-23T06:00:02+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking",
+      "published_date": "2026-10-23T06:00:01+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Some of Europe’s highest energy costs expected in Britain this winter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter",
+      "published_date": "2026-10-23T05:00:03+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Britain’s gas security needs reinforcement. Last-minute deals with Belgium are not a proper fix",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/23/britains-gas-security-needs-reinforcement-last-minute-deals-with-belgium-are-not-a-proper-fix",
+      "published_date": "2026-10-23T05:00:02+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
+      "published_date": "2026-10-23T04:01:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Grid operator says lights will stay on this winter after concerns",
@@ -354,353 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "Rosebank row: will Labour block the oilfield? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/oct/22/rosebank-row-will-labour-block-the-oilfield-podcast",
-      "published_date": "2026-10-22T13:24:13+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Government urges households to make £150 energy bill check",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/warm-home-discount-eligibility-apply-letter-providers-150-b3071397.html",
-      "published_date": "2026-10-22T12:19:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Woman 'scared to turn heating on' due to oil cost",
+      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T09:55:16+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T15:15:13+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Is the UK set to green-light a huge untapped oil field?",
+      "title": "Andrew Mountbatten-Windsor can be called to give evidence in fraud trial, judge rules",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/andrew-mountbatten-windsor-court-evidence-selman-turk-nebahat-isbilen-b3072335.html",
+      "published_date": "2026-10-23T14:46:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK government to make unprecedented intervention in setting of water bills",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+      "published_date": "2026-10-23T13:51:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What is the state of the UK economy heading into next week’s Budget?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/john-healey-international-monetary-fund-press-association-budget-office-for-national-statistics-b3072248.html",
+      "published_date": "2026-10-23T13:23:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The tax rises and cuts to expect from the Budget – from inheritance to capital gains",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-inheritance-tax-capital-gains-john-healey-b3072207.html",
+      "published_date": "2026-10-23T12:35:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Potholes, bus fares and headphone dodgers: will Burnham’s strategy of ‘everyday fixes’ succeed?",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
+      "published_date": "2026-10-23T12:26:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Island inflation rate rises to 3%, figures show",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T06:09:44+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T11:58:19+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Government urged to approve Rosebank oil and gas field after Jackdaw go-ahead",
+      "title": "Banks set to report stronger profits as they face prospect of tax hike",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/kemi-badenoch-labour-uk-government-donald-trump-north-sea-b3071178.html",
-      "published_date": "2026-10-22T06:02:36+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/john-healey-banks-lloyds-banking-group-barclays-budget-b3072130.html",
+      "published_date": "2026-10-23T10:38:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Thursday briefing: The crisis putting maternity units in England at risk of closure",
+      "title": "Retail sales in Great Britain fall as struggling households cut back",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/22/thursday-briefing-the-crisis-putting-maternity-units-in-england-at-risk-of-closure",
-      "published_date": "2026-10-22T05:42:19+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back",
+      "published_date": "2026-10-23T10:35:55+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Woman 'scared to turn heating on' due to oil cost",
+      "title": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
+      "published_date": "2026-10-23T10:33:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Victorian Gothic tower with spiral staircase goes on market for £300,000",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/gazebo-tower-ross-on-wye-on-sale-b3072104.html",
+      "published_date": "2026-10-23T10:29:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK business activity grows at fastest pace for eight months",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/chris-williamson-pmi-budget-middle-east-ukraine-b3072113.html",
+      "published_date": "2026-10-23T10:20:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pub group Punch reveals jump in sales after snapping up 74 sites",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/burtonupontrent-hertfordshire-pub-press-association-b3072021.html",
+      "published_date": "2026-10-23T08:16:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What is the Budget and what could be in it?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmgel220j7nvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T05:29:22+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T08:14:04+00:00",
+      "category": "Economy"
     },
     {
-      "title": "'I can't afford to heat my home on my pension'",
+      "title": "Evoke urges no further gambling tax hikes in Budget after 270 shops shut",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/government-budget-william-hill-rank-group-b3072016.html",
+      "published_date": "2026-10-23T08:09:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK consumer confidence falls at fastest rate since Brexit vote as cost of living bites",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+      "published_date": "2026-10-23T07:25:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Boohoo owner Debenhams hails return to profit for first time in five years",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/debenhams-primark-pretty-little-thing-sheffield-b3071975.html",
+      "published_date": "2026-10-23T06:58:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Chancellor says he will cut 'pointless paperwork' to save businesses up to £800m",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g19jnjgpno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T05:24:13+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T05:00:32+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Government approves drilling in Jackdaw gasfield in North Sea",
+      "title": "Chancellor unveils £800 million savings for businesses by slashing 'pointless paperwork'",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/jackdaw-gas-field-north-sea-drilling-government-approve-andy-burnham-b3070417.html",
-      "published_date": "2026-10-22T05:15:40+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/budget-burnham-chancellor-john-healey-b3071711.html",
+      "published_date": "2026-10-23T05:00:23+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+      "title": "Imagine if, for once, Labour decided to tell the truth about immigration | Gaby Hinsliff",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/labour-truth-immigration-economy-nhs-home-secretary",
+      "published_date": "2026-10-23T05:00:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why driving through floodwaters can be deadly – and when to turn the car around",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/weather-flood-warning-risk-uk-drive-die-b3072356.html",
+      "published_date": "2026-10-23T15:30:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meghan Markle ‘deeply distressed’ over ‘disturbing allegations’ against her father passed to Met police",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/meghan-markle-father-thomas-allegations-statement-b3072076.html",
+      "published_date": "2026-10-23T15:27:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-21T23:27:05+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T15:23:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK to relax post-2008 rules that hold City bosses accountable for wrongdoing",
+      "title": "France to deploy 70,000 police across country on Saturday to prevent unrest",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
-      "published_date": "2026-10-22T20:00:49+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
+      "published_date": "2026-10-23T15:16:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "title": "Former Conservatives campaign boss spared jail after betting on 2024 general election date",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/anthony-lee-general-election-conservatives-b3072336.html",
+      "published_date": "2026-10-23T15:07:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met Police confirm they are not investigating Thomas Markle over ‘disturbing allegations’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/thomas-markle-met-police-allegations-meghan-b3072324.html",
+      "published_date": "2026-10-23T15:03:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prince William makes surprise appearance on Graham Norton show",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/prince-william-graham-norton-show",
+      "published_date": "2026-10-23T14:52:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK politics: Andy Burnham warns of ‘winter of greater flooding’ – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
+      "published_date": "2026-10-23T14:50:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "£20,000 reward offered after man found dead in ‘awful circumstances’ inside Birmingham flat",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/jinming-zhang-murder-digbeth-birmingham-b3072318.html",
+      "published_date": "2026-10-23T14:29:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mum sentenced for killing her three children",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T18:26:56+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cm4g17qn738xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T14:24:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Harrods fights Mohamed Al-Fayed's family for control of estate as abuse victims seek £150m",
+      "title": "The driveway tweak that could reduce the risk of your home flooding",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/harrods-mohamed-al-fayed-abuse-court-b3071706.html",
-      "published_date": "2026-10-22T16:50:10+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/flood-warning-storm-uk-home-driveway-b3072272.html",
+      "published_date": "2026-10-23T14:05:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
-      "published_date": "2026-10-22T16:39:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Autumn Budget 2026: What it could mean for pensions and benefits",
+      "title": "Mother who killed her three children given indefinite hospital order",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/budget-healey-chancellor-pensions-benefits-b3070787.html",
-      "published_date": "2026-10-22T16:18:28+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/yasmeen-ali-murder-sea-mills-bristol-court-b3072263.html",
+      "published_date": "2026-10-23T14:02:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Carers can’t live on 51p an hour | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/22/carers-cant-live-on-51p-an-hour",
-      "published_date": "2026-10-22T15:26:59+00:00",
-      "category": "Economy"
+      "title": "White-supremacist teen admits raft of terror charges, including having neo-Nazi manifesto",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/terror-charges-white-supremacist-damian-woolfenden-manchester-b3072243.html",
+      "published_date": "2026-10-23T13:39:27+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-      "published_date": "2026-10-22T15:14:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "title": "Wales plans to ban steel pylons as government launches consultation",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T15:05:47+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T13:26:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Aldi and Lidl to face to same rules as rival supermarkets in crackdown",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/aldi-lidl-land-agreements-cma-rules-b3071527.html",
-      "published_date": "2026-10-22T14:53:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+      "title": "Thousands of homes without power as Storm Austen hits south-west England",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
-      "published_date": "2026-10-22T14:39:29+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
+      "published_date": "2026-10-23T13:23:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "title": "Angry scenes as Reform MSs call for burka ban",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T14:28:59+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/videos/cjr4ydz6n950o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T13:17:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Post Office to launch first TV ads since Horizon scandal",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/post-office-to-launch-first-tv-ads-since-horizon-scandal-13602318",
-      "published_date": "2026-10-22T14:23:00+00:00",
-      "category": "Economy"
+      "title": "Man jailed for murder of stepdaughter he was sexually obsessed with",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/carla-georgescu-preston-jail-court-b3072231.html",
+      "published_date": "2026-10-23T13:13:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ten councillors quit after leader's fraud conviction",
+      "title": "Met police searching for suspect after man shot near Royal Artillery barracks",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/shooting-royal-artillery-barracks-woolwich-london",
+      "published_date": "2026-10-23T13:08:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NHS radiographer who left women feeling like 'pieces of meat' during mammograms struck off",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nottingham-radiographer-mammogram-nhs-oluwaseyi-idowu-b3072111.html",
+      "published_date": "2026-10-23T13:00:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Sexually obsessed' stepdad jailed for murdering student",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c674p078v013o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T14:06:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Briefing Room",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T13:19:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Three-quarters of small business owners delay having kids or buying houses over tax fears",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/tax-ni-budget-sme-founders-owners-property-children-b3071315.html",
-      "published_date": "2026-10-22T13:08:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Barclays to cut 5,000 jobs by end of year after AI drive",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/barclays-bank-job-cuts-uk-b3071247.html",
-      "published_date": "2026-10-22T12:55:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BBC News to axe education editor role in cost-cutting move",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/oct/22/bbc-news-to-axe-education-editor-role-in-cost-cutting-move",
-      "published_date": "2026-10-22T12:21:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK gender pay gap declines as more workers in low-paid jobs",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/office-for-national-statistics-data-press-association-b3071343.html",
-      "published_date": "2026-10-22T11:44:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "John Healey vows to be a chancellor ‘who backs business’ ahead of Budget",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-business-b3071198.html",
-      "published_date": "2026-10-22T11:42:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tax online sales more heavily to save high streets, Burnham urged",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
-      "published_date": "2026-10-22T11:32:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Give more people weight-loss jabs on the NHS, say MPs",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T23:06:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child health in England at risk from sharp rise in NHS waiting times, report says",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/23/child-health-england-at-risk-sharp-rise-nhs-waiting-times",
-      "published_date": "2026-10-22T23:01:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman charged over shooting of police officer in Nottingham",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/22/woman-arrested-over-shooting-of-police-officer-in-nottingham",
-      "published_date": "2026-10-22T21:31:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
-      "published_date": "2026-10-22T21:30:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Storm Austen live: ‘Danger to life’ warning to come into effect tonight with 80mph winds to batter UK",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/storm-austen-uk-weather-boelo-live-updates-b3071786.html",
-      "published_date": "2026-10-22T20:53:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 27, charged after police officer shot in Nottingham",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/aisha-zaman-police-officer-shot-nottingham-b3071804.html",
-      "published_date": "2026-10-22T20:39:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 27, charged after police officer shot in Nottingham city centre",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/woman-27-charged-after-police-officer-shot-in-nottingham-city-centre-13602485",
-      "published_date": "2026-10-22T19:39:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman, 27, charged over shooting of police officer in Nottingham",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/aisha-zaman-police-officer-shot-nottingham-b3071803.html",
-      "published_date": "2026-10-22T19:36:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man charged with murder after death of housing association worker in Bridgend",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/eleanor-barnfield-bridgend-car-crash-clifford-foster-b3071745.html",
-      "published_date": "2026-10-22T18:12:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amy Winehouse musical in development for West End",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/oct/22/amy-winehouse-musical-west-end",
-      "published_date": "2026-10-22T18:00:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unsafe water, burning eyes and kerosene slicks: residents demand answers on River Taff leak",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
-      "published_date": "2026-10-22T17:58:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Beautifully preserved buildings seen for first time in decades after drought exposes lost village",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/drought-uk-weather-lost-village-reappears-for-first-time-decades-b3071660.html",
-      "published_date": "2026-10-22T17:32:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huge crowds gather at final pre-election rally of Serbia's students",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/aleksandar-vucic-serbia-belgrade-support-serbian-progressive-party-b3071732.html",
-      "published_date": "2026-10-22T17:29:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russell Brand scolded woman about his bed sheets after she was injured in alleged rape, court told",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/russell-brand-court-rape-trial-sheets-b3071583.html",
-      "published_date": "2026-10-22T17:29:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Guardian view on England's north-south divide: Burnham must deliver more than devolution | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-englands-north-south-divide-burnham-must-deliver-more-than-devolution",
-      "published_date": "2026-10-22T17:25:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man murdered stepdaughter at university halls after developing 'perverted' sexual obsession",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/nathan-owens-hartlepool-carla-georgescu-b3071665.html",
-      "published_date": "2026-10-22T16:20:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 61, charged with murder after 'stabbed' woman dies following crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8g473g2wp1ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T16:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vietnamese man to be deported after being caught working at nail salon",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/newcastle-nail-salon-vietnam-deportation-b3071640.html",
-      "published_date": "2026-10-22T15:44:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Council vows support for 'Toxic Town' public inquiry",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrp8yr23ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T15:35:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four London councils challenge funding reforms",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvze4692lxp1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T15:35:09+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0l12y9p9qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-23T12:15:31+00:00",
       "category": "Local Events"
     }
   ]
