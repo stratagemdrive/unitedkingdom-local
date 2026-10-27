@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-26T17:10:37.291504+00:00",
+  "last_updated": "2026-10-27T01:43:56.445845+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "‘I, The TrUssTER, will NeveR die’ – Liz Truss’s Bank Job, digested by John Crace",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
+      "published_date": "2026-10-26T18:46:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+      "published_date": "2026-10-26T18:03:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Local services are vital’: Former rough sleepers on what helped them off the streets",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/26/homeless-people-summit-andy-burnham-need-help",
+      "published_date": "2026-10-26T17:02:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "What makes Andy Burnham think Britain can rejoin the EU? – podcast",
       "source": "The Guardian",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Smart TVs could take longer to switch on as UK seeks to follow EU rule",
+      "title": "Royal Mail releases new stamps honouring British armed forces on Armistice Day",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/smart-tv-standby-uk-eu-regulations-b3072666.html",
-      "published_date": "2026-10-24T21:24:28+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/royal-mail-stamps-armistice-day-b3073592.html",
+      "published_date": "2026-10-27T00:01:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Osborne lists Tory Brexiteers who ‘stopped him cutting welfare’ in warning to Badenoch",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/george-osborne-welfare-cuts-tory-brexiteers-kemi-badenoch-b3072704.html",
-      "published_date": "2026-10-24T14:09:26+00:00",
-      "category": "Diplomacy"
+      "title": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
+      "published_date": "2026-10-27T00:01:02+00:00",
+      "category": "Military"
     },
     {
-      "title": "Charity expects demand for Christmas present campaign",
+      "title": "‘Autonomy, not flesh’: RAF chief outlines AI drone-powered future",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
+      "published_date": "2026-10-26T19:09:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Shabana Mahmood launches review into murder of student Henry Nowak",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/shabana-mahmood-launches-review-into-of-student-henry-nowak",
+      "published_date": "2026-10-26T17:30:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Army officer killed by reversing Warrior with faulty alarm - inquest",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-24T09:53:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxjedkn5ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-26T16:55:02+00:00",
+      "category": "Military"
     },
     {
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
@@ -249,39 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Military base asylum plans challenged at High Court",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3rm4l39no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-23T13:22:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Government tells people to be prepared for 'everyday' threats",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqj9ky23ymwro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-23T12:38:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Police officers joked about death of Paul Hardcastle’s son in crash",
+      "title": "Choose cheap energy supply over net zero at Budget, Blair tells Healey",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/paul-hardcastle-son-death-crash-essex-police-b3072060.html",
-      "published_date": "2026-10-23T09:29:14+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/politics/tony-blair-john-healey-budget-energy-net-zero-b3073804.html",
+      "published_date": "2026-10-27T00:01:38+00:00",
+      "category": "Energy"
     },
     {
-      "title": "New charges for Royal Navy sailor accused of plotting to leak secrets to Russia",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/new-charges-for-royal-navy-sailor-accused-of-plotting-to-leak-secrets-to-russia-13602597",
-      "published_date": "2026-10-23T08:59:00+00:00",
-      "category": "Military"
+      "title": "Chris Mason: The Budget is imminent as tricky things pile up for Burnham",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-26T23:03:14+00:00",
+      "category": "Energy"
     },
     {
-      "title": "MoD seeks out-of-court resolution over compensation battle with gay veterans",
+      "title": "Energy bills could hit nearly £2,200 a year as Iran war drives up gas prices",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/energy-bills-gas-prices-iran-war-b3073716.html",
+      "published_date": "2026-10-26T19:27:29+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Political battle intensifies within Labour over Rosebank oil field",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-26T18:09:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‘This gadget could genuinely replace your tumble dryer’: the best heated airers – tested",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/23/mod-wes-streeting-legal-battle-gay-veterans",
-      "published_date": "2026-10-23T05:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/thefilter/2024/oct/18/best-heated-clothes-airers-dryer-save-time-money-laundry",
+      "published_date": "2026-10-26T15:00:18+00:00",
+      "category": "Energy"
     },
     {
       "title": "UK looking to give carmakers incentives to turn EVs into ‘power plants on wheels’",
@@ -389,39 +424,74 @@
       "category": "Energy"
     },
     {
-      "title": "Martin Rowson on the approval of the Jackdaw gasfield – cartoon",
+      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T01:10:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Papers: 'England's golden boy' Kane and 'Time to pay fair'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dw6rn024vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T01:00:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T00:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Healey ‘to announce UK minimum wage will rise by nearly 4%’ in new boost for workers",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/minimum-wage-rise-increase-budget-healey-b3073792.html",
+      "published_date": "2026-10-26T23:34:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Budget 2026 latest: Chancellor Healey to cut food costs in bid to deliver ‘everyday fixes’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-john-healey-food-prices-live-updates-b3073658.html",
+      "published_date": "2026-10-26T22:32:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Carers allowed to earn over the weekly limit without losing out as ‘cliff-edge’ abolished in the budget",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/oct/23/martin-rowson-cartoon-jackdaw-gasfield-andy-burnham-labour-climate-crisis",
-      "published_date": "2026-10-23T15:36:29+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/society/2026/oct/26/carers-allowance-cliff-edge-abolished-in-the-budget",
+      "published_date": "2026-10-26T22:30:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "How residents in flood-prone areas are rejecting traditional ideas of resilience",
+      "title": "Full list of ‘family favourite’ food items targeted for price cuts in Budget 2026",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/weather-flood-warning-risk-prone-areas-resilience-b3072329.html",
-      "published_date": "2026-10-23T14:56:16+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/politics/budget-food-items-price-cuts-burnham-healey-b3073754.html",
+      "published_date": "2026-10-26T22:30:13+00:00",
+      "category": "Economy"
     },
     {
-      "title": "What is in the Be Ready checklist as Britons urged to stock up to survive potential cyber or climate emergencies?",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/what-is-in-the-be-ready-checklist-as-britons-urged-to-stock-up-to-survive-potential-cyber-or-climate-emergencies-13602659",
-      "published_date": "2026-10-23T11:33:00+00:00",
-      "category": "Energy"
+      "title": "The regime change we need for Thames Water | Letters",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/26/the-regime-change-we-need-for-thames-water",
+      "published_date": "2026-10-26T17:39:41+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Storm Austen mapped: Where high winds and rain will hit UK today before Storm Boelo arrives",
+      "title": "Lloyds boss backs devolution plan - but warns against further taxes on banks",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/storm-austen-map-boelo-uk-weather-forecast-b3072122.html",
-      "published_date": "2026-10-23T10:32:11+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/lloyds-charlie-nunn-bank-tax-devolution-b3073293.html",
+      "published_date": "2026-10-26T17:38:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Three people linked to Conservatives sentenced after cheating at gambling on general election",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/three-people-linked-to-conservatives-sentenced-after-cheating-at-gambling-on-general-election-13602611",
-      "published_date": "2026-10-23T09:18:00+00:00",
-      "category": "Energy"
+      "title": "Stocks rally ahead of UK Budget and interest rate calls",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/john-healey-city-budget-government-b3073683.html",
+      "published_date": "2026-10-26T17:23:30+00:00",
+      "category": "Economy"
     },
     {
       "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics live",
@@ -449,6 +519,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/money/2026/oct/26/healey-pensioners-low-income-tax-budget-how-will-it-work",
       "published_date": "2026-10-26T13:25:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Curzon Cinemas-owner Fortress screen-tests potential bidders",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/curzon-cinemas-owner-fortress-screen-tests-potential-bidders-13604014",
+      "published_date": "2026-10-26T13:19:00+00:00",
       "category": "Economy"
     },
     {
@@ -487,81 +564,74 @@
       "category": "Economy"
     },
     {
-      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+      "title": "Police and fire services in UK issued urgent warning over 'significant' cyber attack threats",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/police-fire-service-cyber-b3073647.html",
+      "published_date": "2026-10-27T00:01:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met ‘misplaced letter sent to Meghan Markle over father’s sex abuse allegations and asked her for copy’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/met-meghan-markle-thomas-sex-abuse-letter-b3073790.html",
+      "published_date": "2026-10-26T23:45:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shabana Mahmood criticises author Sally Rooney over Palestine Action comments",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/shabana-mahmood-sally-rooney-palestine-action-book-b3073723.html",
+      "published_date": "2026-10-26T19:48:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police hunt orange wig man after fatal London pub shooting",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/enfield-pub-shooting-erdem-mustafa-abreham-woldegiworgis-b3073734.html",
+      "published_date": "2026-10-26T19:24:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unison urges Glasgow City Council staff to reject pay package",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/glasgow-city-council-unison-glasgow-city-scottish-b3073671.html",
+      "published_date": "2026-10-26T19:13:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavenly Creatures killer Pauline Parker dies in Orkney, aged 88",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-26T10:48:46+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cwj3425g5381o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-26T19:11:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Healey to shield low-income pensioners from income tax in the Budget",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-26T10:28:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Scottish Labour leader calls for tax hikes on big banks ahead of Budget",
+      "title": "Police probe launched after woman found dead at popular seaside resort",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/john-healey-budget-scottish-labour-chancellor-b3073336.html",
-      "published_date": "2026-10-26T10:09:42+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/police-probe-rhyl-woman-dead-b3073687.html",
+      "published_date": "2026-10-26T18:25:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "If the PM reboots the UK for working-class people, unions will be with him. But the time for talking is over | Andrea Egan",
+      "title": "Major clean-up under way after two storms cause havoc in Britain",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/26/andy-burnham-reboot-uk-working-class-people-budget-unions",
-      "published_date": "2026-10-26T10:00:27+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk",
+      "published_date": "2026-10-26T18:25:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Money moves to make before the Budget - and one key thing not to do",
+      "title": "Curator killed by falling tree while walking near home during Storm Boelo",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/money/budget-2026-personal-finances-isas-tax-pensions-b3073254.html",
-      "published_date": "2026-10-26T09:44:01+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/storm-boelo-richard-baines-dumfries-galloway-b3073653.html",
+      "published_date": "2026-10-26T18:10:57+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bayeux Tapestry proves bigger hit than Spider-Man with young culture fans",
+      "title": "Inside the Coagh IRA ambush, one of the most controversial SAS killings in Northern Ireland",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/bayeux-tapestry-british-museum-monzo-b3073222.html",
-      "published_date": "2026-10-26T08:26:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Plus500 upgrades annual outlook amid jump in new customers",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/canada-mexico-holly-williams-b3073245.html",
-      "published_date": "2026-10-26T08:22:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-      "published_date": "2026-10-26T06:59:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Higher training costs for older workers risks plan to tackle youth jobs crisis, employers say",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet",
-      "published_date": "2026-10-26T06:00:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "What time does the Budget 2026 announcement start?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/budget-2026-start-time-date-john-healey-b3072208.html",
-      "published_date": "2026-10-26T06:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "What is the Budget and what could be in it?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-26T02:16:37+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/sas-coagh-northern-ireland-controversy-killings-b3062200.html",
+      "published_date": "2026-10-26T17:33:14+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
@@ -613,94 +683,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Harry Kane ends England's 25-year wait to win men's Ballon d'Or",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/harry-kane-ends-englands-25-year-wait-for-ballon-dor-13604077",
+      "published_date": "2026-10-26T15:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drivers who killed mum and girl while racing jailed",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-26T15:39:39+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Thousands still without power after Storm Boelo",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmx2dyd73gyeo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-26T15:34:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "R&B star Chris Brown avoids jail after bottle attack at London nightclub",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/chris-brown-sentence-assault-london-nightclub-b3073434.html",
-      "published_date": "2026-10-26T15:23:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khan hails traffic-free Oxford Street as ‘momentous day’ for London",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/oxford-street-pedestrianisation-sadiq-khan-oxford-street-b3073544.html",
-      "published_date": "2026-10-26T15:16:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russell Brand had ‘insane sexual appetite’ and his bad behaviour was normalised, trial told",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/26/russell-brand-trial-personal-assistant-evidence",
-      "published_date": "2026-10-26T14:58:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russell Brand asked assistant for female fan phone numbers, court hears",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwly02l45ny3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-26T14:57:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What in the World",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct98yb?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-26T14:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unions suspend planned V&A strike after improved pay offer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/26/v-and-a-museum-unions-suspend-strike-after-improved-pay-offer-london",
-      "published_date": "2026-10-26T14:25:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senior NHS doctors to strike over pay row",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/senior-doctors-strike-nhs-date-b3073345.html",
-      "published_date": "2026-10-26T14:08:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NHS consultants to go on two-day strike in England in November, says BMA",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
-      "published_date": "2026-10-26T13:33:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex Premier League player Jermaine Pennant saved by his dog after being attacked by German Shepherd",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/jermaine-pennant-german-shepherd-dog-attack-b3073465.html",
-      "published_date": "2026-10-26T12:52:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Drivers who killed mother and young daughter as they raced are jailed",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/drivers-who-killed-mother-and-young-daughter-as-they-raced-are-jailed-13603999",
-      "published_date": "2026-10-26T12:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chris Brown given suspended sentence over bottle attack at London club",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
-      "published_date": "2026-10-26T12:28:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man, 61, appears in court over murder of housing association worker who died after crash",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/eleanor-barnfield-murder-clifford-foster-b3073430.html",
-      "published_date": "2026-10-26T12:19:27+00:00",
       "category": "Local Events"
     }
   ]
