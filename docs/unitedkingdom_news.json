@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-29T17:21:03.793610+00:00",
+  "last_updated": "2026-10-30T02:17:24.491628+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Reeves urges EU to ‘act now’ and seize £175bn of Russian assets to protect Ukraine",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/rachel-reeves-ukraine-russian-assets-eu-b3076054.html",
+      "published_date": "2026-10-29T22:35:38+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Burnham denies preventing ministers from speaking about plans for closer relationship with EU – UK politics live",
       "source": "The Guardian",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Burnham: Brexit is to blame for Britain’s small boats crisis",
+      "title": "British soldiers ‘told to take screen breaks and use emojis to help with stress in new guidance’",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-brexit-small-boats-immigration-b3073395.html",
-      "published_date": "2026-10-26T16:35:08+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/soldiers-uk-screen-breaks-emojis-mod-guidance-b3076046.html",
+      "published_date": "2026-10-30T00:15:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Combating UK obesity crisis should be your 'personal mission', MPs tell Burnham",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/obesity-uk-government-mps-layla-moran-b3075733.html",
+      "published_date": "2026-10-30T00:01:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Guardian view on a changing Brexit debate: Kemi Badenoch is trapped in denial | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/29/the-guardian-view-on-a-changing-brexit-debate-kemi-badenoch-is-trapped-in-denial",
+      "published_date": "2026-10-29T18:30:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Lib Dems and Reform UK in war of words over alleged shove",
@@ -260,27 +281,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/royal-mail-stamps-armistice-day-b3073592.html",
       "published_date": "2026-10-27T00:01:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
-      "published_date": "2026-10-27T00:01:02+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Autonomy, not flesh’: RAF chief outlines AI drone-powered future",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
-      "published_date": "2026-10-26T19:09:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shabana Mahmood launches review into murder of student Henry Nowak",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/26/shabana-mahmood-launches-review-into-of-student-henry-nowak",
-      "published_date": "2026-10-26T17:30:46+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,48 @@
       "category": "Energy"
     },
     {
+      "title": "Polymarket temporarily suspends trading on international platform due to security incident",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
+      "published_date": "2026-10-29T23:20:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Healey backs away from cutting welfare cost amid warnings of public finance shortfall",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall",
+      "published_date": "2026-10-29T20:02:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hold your nose: a £1.25bn subsidy for rich Rolls-Royce’s new engine had to happen",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/29/hold-your-nose-125bn-subsidy-rolls-royces-engine-justified-budget",
+      "published_date": "2026-10-29T18:07:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Female Lib Dem MP accuses Nigel Farage of shoving her in parliament",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/29/nigel-farage-accused-shoving-female-lib-dem-parliament",
+      "published_date": "2026-10-29T17:54:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "European stocks rally after ECB and Fed holds",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/christine-lagarde-ecb-fed-antonio-costa-wpp-b3075907.html",
+      "published_date": "2026-10-29T17:22:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US interest rates held steady and economy grows - what it means for you",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T17:15:05+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Healey’s ‘risky’ Budget criticised for failing to tackle worst decade for UK growth on record",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-ifs-growth-debt-b3075512.html",
@@ -501,6 +543,13 @@
       "category": "Economy"
     },
     {
+      "title": "Google owner Alphabet suffers its worst-ever day on stock market - as value plunges $500bn",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428",
+      "published_date": "2026-10-29T16:06:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Union in plea to save Poundland from administration, with 12,000 jobs at risk",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/oct/29/poundland-brink-administration-12000-jobs-at-risk",
@@ -515,59 +564,80 @@
       "category": "Economy"
     },
     {
-      "title": "Faisal Islam: This Budget was micro and that was deliberate",
+      "title": "The Papers: 'No welfare cuts before election' and 'Police probe Epstein's Balmoral stay'",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T15:48:44+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c6kg5p2l5d2jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-30T01:00:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T15:42:56+00:00",
-      "category": "Economy"
+      "title": "David Attenborough praises public for £1m donation after Rothbury Estate victory",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/david-attenborough-northumberland-rothbury-estate-b3075863.html",
+      "published_date": "2026-10-30T00:01:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Reader Q&A: Send a question to Guardian economics writer Aditya Chakrabortty",
+      "title": "Manosphere and online misogyny should be treated as public health issues, say UK experts",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
-      "published_date": "2026-10-29T15:31:25+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/society/2026/oct/29/manosphere-online-misogyny-public-health-policy-lancet-report",
+      "published_date": "2026-10-29T23:30:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bereaved families will not face tax bill over pension delays under new rules",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T15:18:04+00:00",
-      "category": "Economy"
+      "title": "Gang jailed over smash-and-grab robberies that caused £1 million worth of damage in London's West End",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/west-end-gang-jailed-london-robbery-ysl-b3076055.html",
+      "published_date": "2026-10-29T22:05:31+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Your pay, energy bills and savings: How the Budget affects you",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T15:11:35+00:00",
-      "category": "Economy"
+      "title": "Driver given six month ban after object flew from car roof and smashed into police windscreen",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/driver-banned-after-flying-debris-shatters-police-car-windscreen-b3075973.html",
+      "published_date": "2026-10-29T20:18:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The South West reacts to Budget announcements",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T14:52:12+00:00",
-      "category": "Economy"
+      "title": "Met refers itself to police watchdog over Meghan warning letter",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/29/metropolitan-police-refers-itself-to-watchdog-over-meghan-warning-letter",
+      "published_date": "2026-10-29T19:55:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Economist and former Burnham advisor scores Budget 4 out of 10",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cve8rjl6ewjno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T14:45:40+00:00",
-      "category": "Economy"
+      "title": "More prisoners recalled to jail than released in England and Wales",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/29/more-prisoners-recalled-than-released-england-wales",
+      "published_date": "2026-10-29T18:55:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man pleads guilty to 'heinous' murder of woman in Henley-on-Thames drowning case",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/jennifer-symonds-nelio-gouveia-murder-oxfordshire-drowning-b3075909.html",
+      "published_date": "2026-10-29T17:43:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The rainfall England needs between now and April to escape drought, according to experts",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/weather-winter-rain-drought-austen-boleo-b3075862.html",
+      "published_date": "2026-10-29T17:26:11+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Hundreds of GP practices lose online services after collapse of tech firm Silicon Practice",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq146562ld3no?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-29T17:13:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FACT FOCUS: Misinformation about voting spreads less than a week before Election Day",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/facts-ventura-county-california-xavier-becerra-new-york-city-b3075894.html",
+      "published_date": "2026-10-29T17:12:06+00:00",
       "category": "Local Events"
     },
     {
@@ -631,76 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/southport-attack-nhs-hospital-records-b3075802.html",
       "published_date": "2026-10-29T15:32:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leaflets promoting clinics in illegal Israeli settlements handed out at London medical recruitment event",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/leaflets-promoting-clinics-in-illegal-israeli-settlements-handed-out-at-london-medical-recruitment-event-13605395",
-      "published_date": "2026-10-29T15:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'I died twice', says man saved by off-duty police sergeant",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv4ygj5wno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T15:16:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Traitors star Joe Lycett hits out at council after he got parking fine while taking son to hospital",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/traitors-star-joe-lycett-birmingham-council-parking-ticket-hospital-b3075690.html",
-      "published_date": "2026-10-29T15:11:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: Passenger fights off knife attacker with frying pan",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ckg5j49v7lp8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T14:44:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police ‘granted warrant to examine Thomas Markle’s devices’ over alleged child sex abuse images",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/asia/southeast-asia/thomas-markle-meghan-markle-warrant-philippines-b3075642.html",
-      "published_date": "2026-10-29T14:12:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England striker Ivan Toney set to face trial during Euro 2028 over alleged assault",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/england-striker-ivan-toney-set-to-face-trial-during-euro-2028-over-alleged-assault-13605360",
-      "published_date": "2026-10-29T14:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Record prison recalls surge in England and Wales after criminals freed early to cut jail overcrowding",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/prison-recalls-overcrowding-england-wales-b3075675.html",
-      "published_date": "2026-10-29T13:17:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chancellor's £30m pledge for train station is insult to the people of Wales, minister says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c69wzq0d1w00o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T13:10:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England striker Ivan Toney to face trial in 2028 over nightclub assault allegations",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/ivan-toney-soho-nightclub-assault-trial-b3075551.html",
-      "published_date": "2026-10-29T12:53:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After three weeks of evidence, Russell Brand finally got his day in court – this is what he said",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/russell-brand-evidence-trial-court-witness-box-b3075651.html",
-      "published_date": "2026-10-29T12:52:15+00:00",
       "category": "Local Events"
     }
   ]
