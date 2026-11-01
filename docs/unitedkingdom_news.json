@@ -1,8 +1,22 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-10-31T15:59:41.083954+00:00",
+  "last_updated": "2026-11-01T01:39:02.705159+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Rachel Reeves calls for UK to rejoin EU: ‘Brexit has made us poorer, weaker and less secure’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-rachel-reeves-rejoin-eu-europe-brussels-andy-burnham-b3076971.html",
+      "published_date": "2026-10-31T23:16:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T22:56:15+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Burnham 'open' to calls for slavery apology but not reparations",
       "source": "BBC News",
@@ -130,24 +144,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The new visa rule that could hit British backpackers",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/british-backpackers-australia-visa-brexit-free-trade-b3074865.html",
-      "published_date": "2026-10-28T14:58:34+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Burnham insists 'no confusion at all' over his Brexit position",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlyejngjenxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-28T14:29:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "UK police should not have let US force take over airbase trial, MoD documents show",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
       "published_date": "2026-10-31T13:30:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T13:20:39+00:00",
       "category": "Military"
     },
     {
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Political rivals, and their wives, vote in Israeli election",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c98rz14pjyy2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T14:12:38+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Healey to veto new offshore wind projects if they will not lower bills",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/oct/31/john-healey-chancellor-offshore-wind-projects-veto",
@@ -382,6 +382,13 @@
       "category": "Energy"
     },
     {
+      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T11:52:55+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Millions of UK households to get £100 energy bill payment – check if you’re eligible",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/energy-bill-payment-budget-2026-eligibility-council-tax-band-checker-b3075405.html",
@@ -417,11 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "How will John Healey’s energy support package affect you?",
+      "title": "Healey risks breaking minimum wage promise for younger workers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T17:26:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Britain’s housing crisis won’t be fixed without a new tax landscape",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/oct/29/john-healey-energy-support-package-budget-explainer",
-      "published_date": "2026-10-29T05:00:26+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/business/2026/oct/31/housing-crisis-fix-britain-tax-landscape",
+      "published_date": "2026-10-31T16:00:46+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK charity shop profits plummet amid shift in secondhand clothes market",
@@ -550,18 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "Treasury accepts role in staff member's death",
+      "title": "Thick fog to create hazardous driving conditions into next week",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c620r2vg355ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-30T17:26:40+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/weather/articles/c3n04pl19zzqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-01T00:33:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "FTSE 100 edges up but tech woes rock New York",
+      "title": "Police hunt masked men after Halloween party stabbing leaves teen hospitalised",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/new-york-schneider-electric-intel-amazon-astrazeneca-b3076576.html",
-      "published_date": "2026-10-30T17:17:48+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/police-hunt-masked-men-stabbing-newham-b3076967.html",
+      "published_date": "2026-10-31T23:58:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T23:07:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fireworks and fancy dress at Derry's 40th Halloween festival",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmly095jjnwlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T21:06:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man in Belfast charged with possessing explosives and firearms",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/31/man-belfast-charged-possessing-explosives-firearms",
+      "published_date": "2026-10-31T20:21:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dozens of arrests made as hundreds attend pro-Palestine Action protest outside US embassy",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/palestine-action-protest-arrests-london-us-embassy-b3076856.html",
+      "published_date": "2026-10-31T19:29:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Shabana Mahmood ‘to dilute immigration plans’ after Labour backlash",
@@ -571,10 +613,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Everton striker's relief family not home during burglary",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwm26rnyrk23o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-31T15:27:55+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "More than 100 protest against Palestine Action ban outside US embassy in London",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
       "published_date": "2026-10-31T14:35:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man charged with explosives offences in Belfast",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/man-charged-in-belfast-under-explosives-act-and-firearms-order-13606110",
+      "published_date": "2026-10-31T14:10:00+00:00",
       "category": "Local Events"
     },
     {
@@ -620,6 +676,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Police arrest 139 during  Palestine Action protest",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/139-people-arrested-during-protest-in-support-of-palestine-action-13606066",
+      "published_date": "2026-10-31T10:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'Significant development' in Leeds murder investigation as man arrested in London",
       "source": "Sky News",
       "url": "https://news.sky.com/story/significant-development-in-leeds-murder-investigation-as-man-arrested-in-london-13606065",
@@ -638,69 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/oct/31/five-things-we-learned-from-week-three-russell-brand-rape-trial",
       "published_date": "2026-10-31T08:00:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK has 'no authority' over case of woman killed by father in US",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9dz48g24yzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-31T07:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avanti West Coast paid out £20m in ‘delay repay’ passenger refunds this summer",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/31/avanti-west-coast-gwr-lner-train-delay-repay-passenger-refunds-compensation",
-      "published_date": "2026-10-31T07:00:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fireworks warning issued after teen suffers life-changing injuries: 'His eye leaked down his face'",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fireworks-bonfire-night-safety-injuries-aleks-stasiukiewicz-hartlepool-b3076439.html",
-      "published_date": "2026-10-31T00:01:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why MPs keep talking about an early election despite Burnham's denials",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-31T00:00:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why does the legend of Sawney Bean and Scotland's cannibal clan persist?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn9n2v0g4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-30T23:01:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The childhood promise that brought professional ballet to a post-industrial town",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vp7xg29ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-30T22:59:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Labour delivers planning officers pledge as 1.5m homes target deadline nears",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/labour-manifesto-new-homes-b3076519.html",
-      "published_date": "2026-10-30T22:35:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Broken tap at hospital ran for months and wasted a million litres of water before being fixed",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/broken-tap-hospital-wales-water-waste-b3076605.html",
-      "published_date": "2026-10-30T20:07:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police investigate Epstein visit to Balmoral with Andrew Mountbatten-Windsor and Ghislaine Maxwell",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/andrew-mountbatten-windsor-epstein-balmoral-police-scotland-b3076226.html",
-      "published_date": "2026-10-30T19:34:04+00:00",
       "category": "Local Events"
     }
   ]
