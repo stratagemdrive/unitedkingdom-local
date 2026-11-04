@@ -1,8 +1,50 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-11-04T02:51:11.497759+00:00",
+  "last_updated": "2026-11-04T18:31:30.816028+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Sausages, cheese and pet passports: What could change in new EU deal?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/brexit-new-deal-red-tape-food-eu-b3079311.html",
+      "published_date": "2026-11-04T17:42:05+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New EU deal worth billions must be ‘launch pad’ to rejoin bloc, Burnham told",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-eu-deal-andy-burnham-b3079028.html",
+      "published_date": "2026-11-04T16:51:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UNHCR criticises UK’s 30-year ‘earned settlement’ plans for refugees",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/04/unhcr-criticises-uks-30-year-earned-settlement-plans-for-refugees",
+      "published_date": "2026-11-04T14:20:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Slavery apology will not bring cost for UK taxpayers, Miliband insists",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/slave-trade-reparations-uk-commonwealth-ed-miliband-b3078843.html",
+      "published_date": "2026-11-04T12:37:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Restaurants run on thin margins – Nory is changing that",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/restaurants-nory-food-and-beverage-industry-cost-saving-b3077601.html",
+      "published_date": "2026-11-04T08:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What would freedom of movement mean for the UK in 2026?",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/freedom-of-movement-uk-brexit-eu-burnham-b3078772.html",
+      "published_date": "2026-11-04T05:11:41+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
       "source": "BBC News",
@@ -22,6 +64,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/politics/burnham-uk-eu-deal-brexit-b3078599.html",
       "published_date": "2026-11-03T21:03:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T20:53:03+00:00",
       "category": "Diplomacy"
     },
     {
@@ -95,53 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Burnham to make major Brexit concession on border checks",
+      "title": "Ukrainian children who fled Putin’s war were pushed to study Russian in UK schools",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/brexit-andy-burnham-border-checks-eu-uk-b3078103.html",
-      "published_date": "2026-11-03T15:18:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/ukrainian-children-russian-gcse-apology-b3079307.html",
+      "published_date": "2026-11-04T17:40:04+00:00",
+      "category": "Military"
     },
     {
-      "title": "What would freedom of movement mean for the UK in 2026?",
+      "title": "Man hid woman's body in freezer for three years, jury told",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8gdl4k74lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T17:22:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK politics: Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – as it happened",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+      "published_date": "2026-11-04T17:01:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "World’s largest military airshow announces move to Boscombe Down",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/freedom-of-movement-uk-brexit-eu-andy-burnham-b3078242.html",
-      "published_date": "2026-11-03T12:13:29+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/boscombe-down-royal-international-air-tattoo-b3079192.html",
+      "published_date": "2026-11-04T15:56:59+00:00",
+      "category": "Military"
     },
     {
-      "title": "UK-EU agri-deal demonstrates ‘lack of ambition’ from Government, DUP claims",
+      "title": "Time to focus on cost of living, says PM after US election results",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T15:35:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Burnham says ‘world has an opportunity’ to resolve Iran war after Trump’s US midterms disaster",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/northern-ireland-gavin-robinson-government-dup-brussels-b3078203.html",
-      "published_date": "2026-11-03T11:47:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/politics/midterm-results-burnham-iran-trump-b3079081.html",
+      "published_date": "2026-11-04T14:24:45+00:00",
+      "category": "Military"
     },
     {
-      "title": "Shabana Mahmood has barely softened her plans – Britain’s immigration regime is now a theatre of cruelty | Owen Jones",
+      "title": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/shabana-mahmood-immigration-theatre-cruelty-labour",
-      "published_date": "2026-11-03T11:14:54+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.theguardian.com/news/2026/nov/04/london-wiener-holocaust-library-dreyfus-affair-antisemitism",
+      "published_date": "2026-11-04T10:58:48+00:00",
+      "category": "Military"
     },
     {
-      "title": "Burnham denies proposing return to free movement in talks with EU",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-labour-free-movement-eu-europe",
-      "published_date": "2026-11-03T10:09:39+00:00",
-      "category": "Diplomacy"
+      "title": "Nigel Farage said he ‘understood’ why ‘rational’ Vladimir Putin annexed Crimea",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-russia-crimea-putin-b3078861.html",
+      "published_date": "2026-11-04T09:51:42+00:00",
+      "category": "Military"
     },
     {
-      "title": "‘Mogging’ crowned Collins English dictionary word of the year",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/mogging-crowned-collins-word-of-the-year",
-      "published_date": "2026-11-03T09:25:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK and EU agree deal to remove Brexit checks on food and animal products",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
-      "published_date": "2026-11-03T09:19:21+00:00",
-      "category": "Diplomacy"
+      "title": "From dried chillies to tomato powder and military catering packs: Readers’ best stockpiling tips",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/prepping-disaster-apocalypse-readers-advice-b3077776.html",
+      "published_date": "2026-11-04T06:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "All aboard with Kaptain Kemi, lost at sea on the good ship amnesia",
@@ -221,67 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "Russia ramps up disinformation war on UK with propaganda claiming Britain is ‘ungovernable and defenceless’",
+      "title": "Stocks surge as Democrats win and oil price slips",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/russian-disinformation-uk-putin-ukraine-b3066537.html",
-      "published_date": "2026-11-01T16:33:29+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/democrats-senate-ubs-wall-street-republicans-b3079310.html",
+      "published_date": "2026-11-04T17:39:30+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Reform and Farage ‘don’t do defence’ in parliament, new analysis shows",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/farage-reform-defence-parliament-analysis-b3076542.html",
-      "published_date": "2026-11-01T16:19:27+00:00",
-      "category": "Military"
+      "title": "UK government to outlaw new North Sea drilling",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn734d24l0go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T16:28:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "UK police should not have let US force take over airbase trial, MoD documents show",
+      "title": "The best Christmas gifts in the UK for mums, grannies, aunties and friends",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
-      "published_date": "2026-10-31T13:30:43+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/thefilter/2026/nov/04/best-christmas-gifts-mums-grannies-aunties-friends-uk",
+      "published_date": "2026-11-04T15:00:37+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-31T13:20:39+00:00",
-      "category": "Military"
+      "title": "How to challenge your council tax band - and potentially get £100 energy payout",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/how-to-challenge-your-council-tax-band-and-potentially-get-100-energy-payout-13607924",
+      "published_date": "2026-11-04T12:37:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Burnham’s flagship council housebuilding pledge faces £7bn blackhole to meet demand",
+      "title": "Energy is becoming telecom’s next competitive advantage",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-council-housebuilding-pledge-funding-nef-b3076366.html",
-      "published_date": "2026-10-31T10:19:10+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/business-reporter/telecom-energy-ai-electricity-batteries-sustainability-b3077559.html",
+      "published_date": "2026-11-04T08:00:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The Papers: 'Rush to recover stolen $6bn' and 'War on wind farms'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnp91pzv8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-31T05:24:22+00:00",
-      "category": "Military"
+      "title": "Rogue UK energy bosses and brokers face crackdown on mis-selling",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/rogue-energy-bosses-and-brokers-face-crackdown-on-mis-selling",
+      "published_date": "2026-11-04T06:00:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Streeting denies 'kicking can down the road' in defence spending row",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-30T11:23:38+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British soldiers issued emoji advice in new guidance",
+      "title": "UK fridges hacked in cyberattack targeting several counties – here’s what you need to know",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/soldiers-uk-army-screen-breaks-emojis-mod-guidance-b3076297.html",
-      "published_date": "2026-10-30T11:06:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British soldiers ‘told to take screen breaks and use emojis to help with stress in new guidance’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/soldiers-uk-screen-breaks-emojis-mod-guidance-b3076046.html",
-      "published_date": "2026-10-30T00:15:46+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-fridges-freezers-hack-supermarkets-cyber-attack-ai-b3078770.html",
+      "published_date": "2026-11-04T05:10:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Survey reveals what some eligible households plan to use £100 energy payment for",
@@ -375,332 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "Greenpeace deploys boulders in North Sea to 'protect porpoises'",
+      "title": "Air traffic control outage that caused flight chaos cost UK economy £33 million, new report finds",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/nats-air-traffic-control-outage-uk-economy-b3079304.html",
+      "published_date": "2026-11-04T17:46:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK competition watchdog scraps outdated restrictions on thousands of businesses",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/cma-bbc-b3079119.html",
+      "published_date": "2026-11-04T17:25:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Paddy Power owner Flutter cuts outlook after hefty quarterly loss",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/paddy-power-ireland-new-york-betfair-porto-b3079248.html",
+      "published_date": "2026-11-04T16:14:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham calls for Poundland executives to work with Government to save stores",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andy-burnham-poundland-jonathan-reynolds-government-prime-minister-b3079087.html",
+      "published_date": "2026-11-04T16:04:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "M&S chief attacks Labour over scale of tax increases",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/m-s-labour-party-business-tax-increase-b3079189.html",
+      "published_date": "2026-11-04T15:48:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bank of England set to hike interest rates to 4% to tackle rising inflation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/bank-of-england-mpc-us-federal-reserve-middle-east-oxford-economics-b3079224.html",
+      "published_date": "2026-11-04T15:44:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Don’t let Poundland owner maximise its return at our expense, suppliers say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/poundland-suppliers-facing-losses-gordon-brothers",
+      "published_date": "2026-11-04T15:31:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "M&S boss accuses Labour of ‘one of the biggest tax grabs in history’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/john-healey-budget-labour-spencer-b3079017.html",
+      "published_date": "2026-11-04T14:58:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hampshire bakery owners banned from food trade over dead ants and rotting lettuce",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/gosport-phoenix-bakery-food-hygiene-b3078980.html",
+      "published_date": "2026-11-04T14:12:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "M&S boss bemoans last week’s budget as ‘whole lot of nothing’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+      "published_date": "2026-11-04T12:34:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poundland supplier urges 'thorough' state probe into owner's conduct",
       "source": "Sky News",
-      "url": "https://news.sky.com/story/greenpeace-deploys-boulder-barrier-in-north-sea-to-protect-porpoises-13607103",
-      "published_date": "2026-11-02T13:33:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Greenpeace activists create ‘boulder barrier’ in North Sea to deter industrial fishing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
-      "published_date": "2026-11-02T13:10:08+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ryanair to review pay freezes and AI use to counter jet fuel price surge",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/ryanair-dublin-sky-news-press-association-b3077331.html",
-      "published_date": "2026-11-02T11:43:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "From a life-changing garlic press to a super-glowy serum: 12 buys you’re loving right now",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/oct/30/things-you-loved-most-october-2026",
-      "published_date": "2026-11-02T10:45:02+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "BP nets £4.4bn boost for balance sheet after Castrol deal completes",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/ben-van-beurden-new-york-shell-holly-williams-b3077362.html",
-      "published_date": "2026-11-02T10:39:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Use £5bn oil and gas revenues to fund Acorn carbon capture – SNP",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/john-healey-westminster-john-swinney-budget-government-b3077363.html",
-      "published_date": "2026-11-02T09:39:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Antigua and Barbuda PM says Burnham should offer reparations",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/burnham-caribbean-reparations-king-charles-b3077234.html",
-      "published_date": "2026-11-01T23:37:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Markets fall on Wall Street as Democrats gain early momentum",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/us-midterms-markets-fall-on-wall-street-as-democrats-gain-early-momentum-13607737",
-      "published_date": "2026-11-04T01:52:00+00:00",
+      "url": "https://news.sky.com/story/poundland-supplier-urges-thorough-state-probe-into-owners-conduct-13607893",
+      "published_date": "2026-11-04T11:43:00+00:00",
       "category": "Economy"
     },
     {
-      "title": "The Papers: King calls slavery 'monstrous' and 'Celeb loses gag bid'",
+      "title": "Children spending too long on maths app TT Rockstars, MP warns",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l4q52p9w4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-04T00:32:39+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T11:31:39+00:00",
       "category": "Economy"
     },
     {
-      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "title": "Growth in UK’s services industry ends two-year period of job cutting",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/tim-moore-pmi-b3078946.html",
+      "published_date": "2026-11-04T10:58:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-04T00:09:35+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T10:47:31+00:00",
       "category": "Economy"
     },
     {
-      "title": "Graduates are managing AI - but are they learning much else?",
+      "title": "Beyond growth: why confidence is the real currency of property investment",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/property-investment-finance-development-residential-opportunities-b3077628.html",
+      "published_date": "2026-11-04T08:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FM has spent years buying technology – now it needs to make it work",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/fm-technology-data-automation-compliance-facilities-management-b3077584.html",
+      "published_date": "2026-11-04T08:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Jaja Finance is redefining the credit card market",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/credit-card-finance-customers-lending-money-b3077547.html",
+      "published_date": "2026-11-04T08:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why AI initiatives fail without a strong data integration foundation",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/business-reporter/ai-data-integration-systems-technology-roi-b3077617.html",
+      "published_date": "2026-11-04T08:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "M&S profits surge on cyber attack recovery despite ‘onslaught’ of costs",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/marks-london-spencer-press-association-b3078830.html",
+      "published_date": "2026-11-04T07:51:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nando's reports pre-tax loss despite strong sales and expansion plans",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/nandos-cost-pressures-loss-retuarant-b3078810.html",
+      "published_date": "2026-11-04T07:23:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "£80m cocaine plot unravelled after lorry driver stopped at burger van",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/cocaine-met-police-northampton-mexico-b3079265.html",
+      "published_date": "2026-11-04T18:12:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Husband who invited men to rape wife asked for an online review, court told",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/04/husband-who-invited-men-to-rape-wife-asked-for-an-online-review-court-told",
+      "published_date": "2026-11-04T18:07:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The pollsters had got it wrong on the US midterms, said Nige. That aged well | John Crace",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/04/john-crace-nigel-farage-us-midterms",
+      "published_date": "2026-11-04T18:02:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestine Action ban undermined confidence in anti-terror laws, Supreme Court told",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-04T00:04:35+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cmr4yvel29keo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T17:55:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Poundland supplier 'will lose millions' if retailer collapses",
+      "title": "Police find child sex abuse images in investigation into Meghan Markle’s father",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/thomas-markle-meghan-philippines-police-b3079312.html",
+      "published_date": "2026-11-04T17:45:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government to tighten facial recognition rules for police amid human rights fears",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/facial-recognition-technology-police-uk-law-lfr-b3079275.html",
+      "published_date": "2026-11-04T17:25:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police launch inquiry after two inmates die in prison",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-04T00:03:17+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c51kdx83y11lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T17:23:06+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK housing market recovery set to be delayed amid Middle East conflict",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-housing-market-middle-east-conflict-mortgage-rates-b3078545.html",
-      "published_date": "2026-11-04T00:01:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ministers urged to set target to almost treble Scotland’s onshore wind power",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/scotland-scottish-government-uk-government-government-b3078683.html",
-      "published_date": "2026-11-04T00:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
+      "title": "Passengers thought mass train attack 'was a joke'",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T20:05:21+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez378661xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T17:20:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Guardian view on apologising for slavery: a necessary process has at last begun | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-apologising-for-slavery-a-necessary-process-has-at-last-begun",
-      "published_date": "2026-11-03T18:31:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Guardian view on Labour’s growth obsession: a different economics is possible | Editorial",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-labours-growth-obsession-a-different-economics-is-possible",
-      "published_date": "2026-11-03T18:30:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Jewellery sold as sterling silver on Amazon and Temu found ‘to contain toxic chemicals’",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/jewellery-sold-silver-amazon-temu-toxic-chemicals-b3078108.html",
-      "published_date": "2026-11-03T18:09:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "King Charles brands UK slave trade ‘monstrous’ - but stops short of offering apology",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-uk-slave-trade-apology-commonwealth-antigua-b3078415.html",
-      "published_date": "2026-11-03T18:02:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "On Brexit, Andy Burnham could do worse than follow the lead of Pericles | Letter",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/03/on-brexit-andy-burnham-could-do-worse-than-follow-the-lead-of-pericles",
-      "published_date": "2026-11-03T17:49:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Give us all a share of  Rolls-Royce’s profits | Brief letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/03/give-us-all-a-share-of-rolls-royce-profits",
-      "published_date": "2026-11-03T17:49:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – as it happened",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-      "published_date": "2026-11-03T17:30:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Protect Poundland from predatory capitalism, MPs tell government",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail",
-      "published_date": "2026-11-03T17:29:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-      "published_date": "2026-11-03T17:28:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Virgin Media O2 cutting thousands of jobs in cost savings overhaul",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/virgin-media-telefonica-liberty-global-competition-and-markets-authority-talktalk-b3078075.html",
-      "published_date": "2026-11-03T17:23:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Unilever targets £830m in productivity savings by 2029",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/unilever-marmite-magnum-press-association-b3078520.html",
-      "published_date": "2026-11-03T17:05:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Keeping mortgage interest relief approved",
+      "title": "Chloe Mitchell murder accused 'dismembered body', court told",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T16:44:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Chill to grip Bonfire Night as temperatures dip into single digits",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/cqr7yk19l41no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-04T01:00:11+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lz500glko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T17:20:25+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Houses of Parliament at risk of ‘Notre Dame-style fire’ as renovation costs rise",
+      "title": "Every UK police investigation into Epstein and Andrew Mountbatten-Windsor as new probe announced",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/andrew-mountbatten-windsor-epstein-uk-police-investigation-balmoral-b3076259.html",
+      "published_date": "2026-11-04T16:45:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tattie or Tunnock? Edinburgh Zoo wants your help in naming its newborn capybara triplets",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/edinburgh-zoo-capybara-scotland-triplets-name-vote-b3079205.html",
+      "published_date": "2026-11-04T16:07:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Palestine Action activists used similar tactics to the suffragettes, court told",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs",
-      "published_date": "2026-11-04T00:01:18+00:00",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/04/palestine-action-tactics-suffragettes-uk-supreme-court",
+      "published_date": "2026-11-04T15:49:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Andrew Mountbatten-Windsor ‘summoned to give evidence’ in High Court fraud trial",
+      "title": "Man killed 'soulmate' and kept body in freezer with her guinea pigs for almost three years, court told",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/andrew-mountbatten-windsor-fraud-trial-hugh-court-b3078641.html",
-      "published_date": "2026-11-03T22:55:29+00:00",
+      "url": "https://www.independent.co.uk/news/uk/crime/george-gordon-delia-mcinerney-freezer-murder-guinea-pigs-st-helens-b3079195.html",
+      "published_date": "2026-11-04T15:20:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
+      "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
-      "published_date": "2026-11-03T22:04:24+00:00",
+      "url": "https://www.theguardian.com/society/2026/nov/04/cocaine-overtakes-heroin-drug-deaths-england-wales",
+      "published_date": "2026-11-04T15:09:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Child sex abuse images among material found in Thomas Markle investigation",
+      "title": "Liz Truss pictured at Mar-a-Lago on night of midterms as Trump's Republicans wiped out",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/thomas-markle-meghan-philippines-police-b3078510.html",
-      "published_date": "2026-11-03T20:36:32+00:00",
+      "url": "https://www.independent.co.uk/news/uk/politics/liz-truss-trump-mar-a-lago-midterms-b3079126.html",
+      "published_date": "2026-11-04T15:03:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Reform UK councillor charged with rape and sexual assault",
+      "title": "PSNI pays damages to relatives of murdered UVF victims",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm1j31301n20o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T19:23:26+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cmjrwx7pznypo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T14:21:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Man who drugged and raped wife found strangers online who ‘wanted to abuse an unconscious woman’",
+      "title": "Kent town pokes fun at Gianni Infantino with 11-metre Bonfire Night effigy",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/stockport-wife-sex-abuse-trial-b3078578.html",
-      "published_date": "2026-11-03T19:22:34+00:00",
+      "url": "https://www.independent.co.uk/news/uk/home-news/bonfire-night-edenbridge-effigy-gianni-infantino-fifa-b3079118.html",
+      "published_date": "2026-11-04T14:12:12+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Latest Sarah J Maas book becomes UK’s fastest-selling adult fantasy novel",
+      "title": "Effigy of Fifa president chosen for bonfire event",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06jy1jr1ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T14:11:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hackers steal 320,000 UK school files and publish them on dark web",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/bristol-school-hack-files-dark-web-b3078972.html",
+      "published_date": "2026-11-04T13:58:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Phoebe Waller-Bridge donates flat to help early-career writers live in London",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/nov/03/sarah-j-maas-court-of-splintered-harmony-uk-fastest-selling-adult-fantasy-novel",
-      "published_date": "2026-11-03T18:51:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Third teen arrested on suspicion of attempted murder over stabbing at Halloween party",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/third-teen-arrested-on-suspicion-of-attempted-murder-after-five-boys-stabbed-at-halloween-party-13607558",
-      "published_date": "2026-11-03T18:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MP to highlight girl’s tragic story to urge parents to report councils to police over special needs failures",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/special-needs-send-councils-police-eivie-white-b3078352.html",
-      "published_date": "2026-11-03T18:09:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kristin Scott Thomas stars in festive John Lewis jaunt with toy dog Pickles",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/pickles-kristin-scott-thomas-john-lewis-gloria-paul-whitehouse-b3077960.html",
-      "published_date": "2026-11-03T18:02:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Well-known individual’ fails in bid for injunction against Guardian and ITN",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
-      "published_date": "2026-11-03T17:56:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rape accused 'told woman would pretend to be asleep'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm1ex19ejzwqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T17:51:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man who drugged and raped wife found many men ‘whose fantasy is an unconscious woman’, court told",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/man-drugged-and-raped-wife-stockport-men-fantasy-unconscious-woman-court-told",
-      "published_date": "2026-11-03T17:47:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stocks falter amid uncertainty ahead of US polls",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/donald-trump-democrats-iran-hiscox-ubs-b3078526.html",
-      "published_date": "2026-11-03T17:18:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK councillor charged with rape and sexual assault",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T16:43:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Americans on the value of their votes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cx4g13296p2mo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T15:39:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asda hires ex-Morrisons boss in bid to grow firm",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T15:12:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform UK councillor charged with 12 counts of rape and making indecent images of child",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/george-madgwick-reform-uk-councillor-charges-b3078370.html",
-      "published_date": "2026-11-03T15:01:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Devon water supply in ‘crisis’ as locals urged to follow steps to protect vulnerable residents",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/devon-water-supply-crisis-uk-b3078342.html",
-      "published_date": "2026-11-03T14:48:51+00:00",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/04/fleabag-creator-phoebe-waller-bridge-donates-flat-to-help-writers",
+      "published_date": "2026-11-04T13:50:59+00:00",
       "category": "Local Events"
     }
   ]
