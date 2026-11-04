@@ -1,8 +1,36 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-11-03T18:16:42.952842+00:00",
+  "last_updated": "2026-11-04T02:51:11.497759+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T02:14:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "British lawyer Dapo Akande elected to UN top court in big diplomatic win",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/law/2026/nov/03/british-lawyer-dapo-akande-elected-to-un-international-court-of-justice-diplomatic-win",
+      "published_date": "2026-11-03T21:09:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Burnham says Britons would expect him to take up new EU deal 'with both hands'",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-uk-eu-deal-brexit-b3078599.html",
+      "published_date": "2026-11-03T21:03:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
+      "published_date": "2026-11-03T20:00:13+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'Shameful chapter': King Charles stops short of slavery apology in Commonwealth speech – video",
       "source": "The Guardian",
@@ -113,34 +141,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
       "published_date": "2026-11-03T09:19:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T02:11:13+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "PM to ask countries affected by UK’s role in slavery to help shape formal apology",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
-      "published_date": "2026-11-02T22:30:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Palace says King’s role is not about policy-making as calls grow for slavery apology",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-slavery-apology-commonwealth-summit-burnham-b3077841.html",
-      "published_date": "2026-11-02T19:47:58+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Half-witted at best, a people-pleaser at worst: step forward, Chris Philp | John Crace",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/02/half-witted-at-best-a-people-pleaser-at-worst-step-forward-chris-philp",
-      "published_date": "2026-11-02T19:27:09+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,20 @@
       "category": "Military"
     },
     {
+      "title": "Survey reveals what some eligible households plan to use £100 energy payment for",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/survey-budget-john-healey-vat-government-b3078685.html",
+      "published_date": "2026-11-04T00:01:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T23:00:14+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "UK fridges hacked in cyberattack targeting several counties – here’s what you need to know",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/fridges-hacked-supermarkets-ai-uk-b3078187.html",
@@ -410,18 +424,74 @@
       "category": "Energy"
     },
     {
-      "title": "Bank of England set to rise interest rates for first time since 2023",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/interest-rates-increase-bank-of-england-b3077035.html",
-      "published_date": "2026-11-01T15:14:28+00:00",
-      "category": "Energy"
+      "title": "Markets fall on Wall Street as Democrats gain early momentum",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/us-midterms-markets-fall-on-wall-street-as-democrats-gain-early-momentum-13607737",
+      "published_date": "2026-11-04T01:52:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The Norfolk locals fighting plans for a giant data centre. ‘We are facing an existential threat’",
+      "title": "The Papers: King calls slavery 'monstrous' and 'Celeb loses gag bid'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l4q52p9w4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T00:32:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T00:09:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T00:04:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poundland supplier 'will lose millions' if retailer collapses",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T00:03:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UK housing market recovery set to be delayed amid Middle East conflict",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/norfolk-data-centre-longmarsh-energy-project-b3076419.html",
-      "published_date": "2026-11-01T14:22:51+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-housing-market-middle-east-conflict-mortgage-rates-b3078545.html",
+      "published_date": "2026-11-04T00:01:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ministers urged to set target to almost treble Scotland’s onshore wind power",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/scotland-scottish-government-uk-government-government-b3078683.html",
+      "published_date": "2026-11-04T00:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T20:05:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Guardian view on apologising for slavery: a necessary process has at last begun | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-apologising-for-slavery-a-necessary-process-has-at-last-begun",
+      "published_date": "2026-11-03T18:31:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Guardian view on Labour’s growth obsession: a different economics is possible | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/the-guardian-view-on-labours-growth-obsession-a-different-economics-is-possible",
+      "published_date": "2026-11-03T18:30:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "Jewellery sold as sterling silver on Amazon and Temu found ‘to contain toxic chemicals’",
@@ -494,74 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Can profit and purpose truly align in the built environment?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/business-reporter/buildings-carbon-sustainability-renewables-accommodation-environment-b2994521.html",
-      "published_date": "2026-11-03T16:09:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "I’d all but forgotten my ‘altercation’ with Nigel Farage. But since he mentions it, here’s what happened | Caroline Voaden",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/nigel-farage-caroline-voaden-altercation-reform-uk-parliament",
-      "published_date": "2026-11-03T16:06:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "title": "Chill to grip Bonfire Night as temperatures dip into single digits",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T15:51:23+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/weather/articles/cqr7yk19l41no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-04T01:00:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "UK meat processing firms hit amid fridge and freezer cyber attacks",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/ncsc-french-youtube-hackers-china-b3078297.html",
-      "published_date": "2026-11-03T15:39:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Guaranteed pension income ‘resurrected’ for 17m private sector workers",
+      "title": "Houses of Parliament at risk of ‘Notre Dame-style fire’ as renovation costs rise",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/03/pension-income-retirement-for-17m-private-sector-workers",
-      "published_date": "2026-11-03T15:24:17+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs",
+      "published_date": "2026-11-04T00:01:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Financial watchdog ‘stands ready’ to take action over potential Budget leak",
+      "title": "Andrew Mountbatten-Windsor ‘summoned to give evidence’ in High Court fraud trial",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/john-healey-fca-meg-hillier-cabinet-office-treasury-b3078366.html",
-      "published_date": "2026-11-03T14:16:33+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/andrew-mountbatten-windsor-fraud-trial-hugh-court-b3078641.html",
+      "published_date": "2026-11-03T22:55:29+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Hackers already targeting UK supermarket freezers, cybersecurity chief warns",
+      "title": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
+      "published_date": "2026-11-03T22:04:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Child sex abuse images among material found in Thomas Markle investigation",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/uk-freezers-europe-cyber-hack-ncsc-b3078173.html",
-      "published_date": "2026-11-03T14:06:46+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/thomas-markle-meghan-philippines-police-b3078510.html",
+      "published_date": "2026-11-03T20:36:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "British people don’t need to apologise for slavery – but the government does | Olivette Otele",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/03/british-people-slavery-governmment-andy-burnham-transatlantic-trade",
-      "published_date": "2026-11-03T13:52:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Car finance: Barclays becomes first big lender to offer payouts for mis-selling of loans",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans",
-      "published_date": "2026-11-03T13:34:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+      "title": "Reform UK councillor charged with rape and sexual assault",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T13:07:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/videos/cm1j31301n20o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T19:23:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man who drugged and raped wife found strangers online who ‘wanted to abuse an unconscious woman’",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/stockport-wife-sex-abuse-trial-b3078578.html",
+      "published_date": "2026-11-03T19:22:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Latest Sarah J Maas book becomes UK’s fastest-selling adult fantasy novel",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/nov/03/sarah-j-maas-court-of-splintered-harmony-uk-fastest-selling-adult-fantasy-novel",
+      "published_date": "2026-11-03T18:51:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Third teen arrested on suspicion of attempted murder over stabbing at Halloween party",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/third-teen-arrested-on-suspicion-of-attempted-murder-after-five-boys-stabbed-at-halloween-party-13607558",
+      "published_date": "2026-11-03T18:22:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "MP to highlight girl’s tragic story to urge parents to report councils to police over special needs failures",
@@ -582,6 +645,13 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
       "published_date": "2026-11-03T17:56:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rape accused 'told woman would pretend to be asleep'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm1ex19ejzwqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T17:51:12+00:00",
       "category": "Local Events"
     },
     {
@@ -631,76 +701,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/devon-water-supply-crisis-uk-b3078342.html",
       "published_date": "2026-11-03T14:48:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform councillor charged with 35 offences including 12 counts of rape",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/reform-councillor-charged-with-35-offences-including-rape-13607499",
-      "published_date": "2026-11-03T14:36:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Girl who rescued injured boy from bonfire acted 'on instinct'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9l747pvkgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T13:53:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tories dramatically close gap on Labour in best polling since general election",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/kemi-badenoch-conservatives-tories-burnham-latest-polls-uk-b3078062.html",
-      "published_date": "2026-11-03T13:42:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Train knifeman appeared to believe 17-year-old victim was the devil, court hears",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/train-knifeman-appeared-to-believe-17-year-old-victim-was-the-devil-court-hears-13607468",
-      "published_date": "2026-11-03T13:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Slavery reparations would be ‘a vast unjust fine on the British people’, says ex-Archbishop of Canterbury",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/justin-welby-slavery-reparations-andy-burnham-b3078153.html",
-      "published_date": "2026-11-03T12:38:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "England's childhood obesity crisis in numbers as 'deprivation gap' widens",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/childhood-obesity-uk-england-government-consultation-b3078274.html",
-      "published_date": "2026-11-03T12:23:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is mogging? The slang term named word of the year by Collins English Dictionary",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/mogging-colins-word-of-the-year-b3078081.html",
-      "published_date": "2026-11-03T12:18:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'I never enjoyed exercise at school as I was bullied' says DJ, ahead of 400-mile bike feat",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrm92jdpvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T11:33:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Work finishes at rail junction near power plant",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e0jn07nzdo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-03T11:24:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Czech public media workers go on strike over a government plan to overhaul their funding",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/andrej-babis-prague-viktor-orban-robert-fico-hungary-b3078164.html",
-      "published_date": "2026-11-03T09:51:15+00:00",
       "category": "Local Events"
     }
   ]
