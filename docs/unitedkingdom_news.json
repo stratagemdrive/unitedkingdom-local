@@ -1,6 +1,6 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-11-05T18:34:48.879132+00:00",
+  "last_updated": "2026-11-06T02:59:23.479518+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -424,6 +424,41 @@
       "category": "Energy"
     },
     {
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-06T00:06:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Milburn review to call for young Neets to be located and tracked",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/milburn-neets-review-welfare-benefits-cuts-labour-b3079939.html",
+      "published_date": "2026-11-06T00:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Firms told to publish salaries in job adverts ahead of new law",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-05T22:32:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Charles hailed as UK's 'secret weapon' by royal aide after challenging Caribbean trip",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-caribbean-trip-slavery-apology-burnham-b3080158.html",
+      "published_date": "2026-11-05T22:30:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-05T19:08:48+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
@@ -456,6 +491,13 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/business/bank-of-england-democrats-dow-jones-industrial-average-amd-london-b3079993.html",
       "published_date": "2026-11-05T17:25:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-05T17:09:55+00:00",
       "category": "Economy"
     },
     {
@@ -522,46 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "Three ways the interest rate rise could affect you",
+      "title": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-05T13:08:30+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-06T00:09:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The three-acre meadow seized for HS2 that cost UK taxpayers £10m",
+      "title": "Slashing number of police forces in England and Wales is only option, says Met chief",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
+      "published_date": "2026-11-06T00:04:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beavers make historic return to Loch Ness after 500 years",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/hs2-land-stoke-mandeville-buckinghamshire-b3079083.html",
-      "published_date": "2026-11-05T13:05:58+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/beavers-loch-ness-scotland-b3080026.html",
+      "published_date": "2026-11-06T00:01:23+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
+      "title": "Parents issue urgent plea for stem cell donor to save baby boy with rare blood condition",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/stem-cell-donor-baby-ellis-wiskott-aldrich-syndrome-b3079964.html",
+      "published_date": "2026-11-06T00:01:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mapped: UK's most affordable towns where homes can be snapped up for less than £300k",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/zoopla-house-sale-prices-cheapest-uk-durham-b3079900.html",
+      "published_date": "2026-11-06T00:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Storms and soaring costs combine to send shopper footfall sliding in October",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/northern-ireland-england-scotland-wales-british-retail-consortium-b3080185.html",
+      "published_date": "2026-11-06T00:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cancer diagnoses hit record high of more than 1,000 people a day",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/cancer-diagnoses-england-record-nhs-uk-b3080178.html",
+      "published_date": "2026-11-05T23:47:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "British doctor with Ebola arrives back in the UK",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/british-man-ebola-arrives-uk-drc-congo-b3079771.html",
+      "published_date": "2026-11-05T22:01:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK doctor infected with Ebola being treated at London hospital",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-05T12:26:24+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-05T21:26:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Bonfire Night tradition that brings hidden economic and environmental costs",
+      "title": "Declaration of final vote results in Serbia paves way for student movement to form government",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/fireworks-tonight-bonfire-night-november-5-injury-b3079690.html",
-      "published_date": "2026-11-05T11:33:09+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/aleksandar-vucic-serbia-parliament-belgrade-serbian-progressive-party-b3080109.html",
+      "published_date": "2026-11-05T20:50:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "HMRC now has powers to raid your bank account. This is what you need to know",
+      "title": "New tranche of Mandelson papers set to be published before Christmas",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/hmrc-bank-account-tax-raid-debt-uk-b3079669.html",
-      "published_date": "2026-11-05T11:15:15+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/peter-mandelson-files-christmas-us-ambassador-epstein-b3080097.html",
+      "published_date": "2026-11-05T20:32:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Poundland owners issue update on store closures — what will happen to shops and jobs?",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/poundland-shops-closures-jobs-latest-news-b3079592.html",
-      "published_date": "2026-11-05T10:43:46+00:00",
-      "category": "Economy"
+      "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
+      "published_date": "2026-11-05T20:30:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More Mandelson papers set to be published before Christmas",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60meenj1ke8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-05T20:15:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police investigating two further rape allegations against Russell Brand",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-detective-other-potential-victims",
+      "published_date": "2026-11-05T19:17:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met 'reset' means fewer police at major events",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9m26m2xzgmjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-05T19:00:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I know the dangers a wounded Trump presents – this is how the UK should deal with him now | Kim Darroch",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/05/trump-midterms-defeat-how-should-uk-deal-ambassador-kim-darroch",
+      "published_date": "2026-11-05T19:00:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cancer diagnoses in England hit record high of more than 1,000 people a day",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/nov/05/nhs-england-cancer-diagnoses-record-high-1000-people-diagnosed-every-day",
+      "published_date": "2026-11-05T18:49:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Guardian view on cocaine and domestic abuse: new links between drugs and crime need investigating | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/05/the-guardian-view-on-cocaine-and-domestic-abuse-new-links-between-drugs-and-need-investigating",
+      "published_date": "2026-11-05T18:47:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Transport boss who called colleague a 'cow' for rearranging office furniture awarded £5k",
@@ -575,132 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-05T18:05:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "King Charles’s estate in court battle to evict UK’s oldest Indian restaurant",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/king-charles-veeraswamy-indian-restaurant-b3079955.html",
-      "published_date": "2026-11-05T17:46:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
-      "published_date": "2026-11-05T17:37:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russell Brand behind bars after being found guilty of raping fan and sexually assaulting three women",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/russell-brand-trial-verdict-guilty-court-b3078282.html",
-      "published_date": "2026-11-05T17:30:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Henry Nowak’s killer has sentence extended by court of appeal",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/law/2026/nov/05/henry-nowak-killer-vickrum-digwa-should-have-had-longer-sentence-court-of-appeal-hears",
-      "published_date": "2026-11-05T17:29:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russell Brand guilty: Inside his dramatic rape trial in court sketches and pictures",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/russell-brand-rape-guilty-court-sketch-b3079897.html",
-      "published_date": "2026-11-05T17:09:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russell Brand found guilty of rape and sexual assault",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault",
-      "published_date": "2026-11-05T17:03:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russell Brand investigated for raping schoolgirl as police warn there could be more victims",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/russell-brand-investigation-met-police-victim-appeal-b3079700.html",
-      "published_date": "2026-11-05T16:48:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Henry Nowak's killer has 'unduly lenient' jail sentence increased",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/vickrum-digwa-sentence-henry-nowak-b3079942.html",
-      "published_date": "2026-11-05T16:37:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inside the courtroom, Russell Brand was a shadow of his flamboyant self. He knew his game was up",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/russell-brand-trial-verdict-inside-southwark-crown-court-b3077150.html",
-      "published_date": "2026-11-05T16:34:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch Russell Brand police interviews released by Met after rape conviction",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/tv/news/russell-brand-police-interview-watch-b3079904.html",
-      "published_date": "2026-11-05T15:58:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Londoners worst prepared for emergency as Britons urged to stockpile",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/londoners-worst-prepared-for-emergency-uk-stockpile-b3079625.html",
-      "published_date": "2026-11-05T15:58:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russell Brand is being investigated over two new rape complaints, police say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-05T15:44:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why do veterinary fees and sausage rolls vary in price across London?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-05T15:19:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russell Brand’s dramatic fall from grace – from Hollywood star to disgraced rapist",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/russell-brand-wife-children-net-worth-podcast-trial-b3078179.html",
-      "published_date": "2026-11-05T15:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK and US condemn ‘cruel’ second jail term handed to Hong Kong activist Joshua Wong",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/uk-and-us-condemn-second-jail-term-handed-to-hong-kong-activist-joshua-wong",
-      "published_date": "2026-11-05T14:38:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Russell Brand I saw in court was not the flamboyant character most people will know",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-05T14:37:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What can Andy Burnham learn from the ‘blue wave’ in the US? – podcast",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/nov/05/what-can-andy-burnham-learn-from-the-blue-wave-in-the-us-podcast",
-      "published_date": "2026-11-05T14:35:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman wrongly denied Pip for using noise-cancelling headphones and Alexa, court rules",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/pip-dwp-appeal-tribunal-adhd-autism-b3079683.html",
-      "published_date": "2026-11-05T13:38:15+00:00",
       "category": "Local Events"
     }
   ]
