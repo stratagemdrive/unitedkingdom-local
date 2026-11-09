@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-11-08T16:57:22.483892+00:00",
+  "last_updated": "2026-11-09T02:13:23.315460+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+      "published_date": "2026-11-08T18:20:06+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK could rejoin the EU within four years, Barnier suggests",
       "source": "The Independent",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-      "published_date": "2026-11-05T16:58:54+00:00",
-      "category": "Diplomacy"
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-09T00:50:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Royal Navy launches its first autonomous squadron of uncrewed boats",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-defence-royal-navy-autonomous-squadron-b3081231.html",
+      "published_date": "2026-11-09T00:01:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK military sends specialist ‘hunt’ missions overseas to thwart hostile hackers",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/british-defence-hostile-hackers-b3081365.html",
+      "published_date": "2026-11-08T23:41:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "AI giant Nvidia launches investigation into CEO's affair with 'Chinese spy'",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
+      "published_date": "2026-11-08T20:41:00+00:00",
+      "category": "Military"
     },
     {
       "title": "King Charles leads two-minute silence as thousands gather for Remembrance Sunday",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "US falls knock Europe as Artificial Intelligence slowdown fears mount",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/europe-nasdaq-aim-nasdaq-composite-dow-jones-industrial-average-b3080713.html",
-      "published_date": "2026-11-06T17:40:00+00:00",
-      "category": "Military"
+      "title": "The Papers:  'There are more like Brand' and 'Steep cuts to EV targets'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-09T00:31:03+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Royal Navy launches drones from HMS Queen Elizabeth amid push for tech 'with increased lethality'",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/hms-queen-elizabeth-royal-navy-strike-drone-b3080597.html",
-      "published_date": "2026-11-06T16:42:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK dairy farmers face further pressure as milk processor cuts prices",
+      "title": "Climate always comes second: are green issues slipping down Burnham’s agenda?",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/06/uk-dairy-farmers-face-squeeze-as-milk-processor-cuts-prices",
-      "published_date": "2026-11-06T16:27:32+00:00",
-      "category": "Military"
+      "url": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
+      "published_date": "2026-11-08T18:01:01+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Crossbow-wielding 'soldier of God' who tried to burn down 5G towers detained indefinitely",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/milo-creese-crossbow-arson-5g-masts-surrey-b3080577.html",
-      "published_date": "2026-11-06T15:11:50+00:00",
-      "category": "Military"
+      "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+      "published_date": "2026-11-08T17:51:19+00:00",
+      "category": "Energy"
     },
     {
       "title": "Labour’s ‘absurd’ energy bill scheme to give £350m to the richest households",
@@ -403,25 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "65% of Labour voters want Government to approve Rosebank oil field – survey",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/labour-uk-government-north-sea-andy-burnham-government-b3079714.html",
-      "published_date": "2026-11-05T13:26:44+00:00",
-      "category": "Energy"
+      "title": "Doing these things now will help you save money at Christmas",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-09T00:09:14+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Ofgem opens investigation into ScottishPower",
+      "title": "Frozen asset: Pack of ice cubes is Deliveroo’s most delivered item for 2026",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/ofgem-b3079649.html",
-      "published_date": "2026-11-05T11:43:00+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/iceland-deliveroo-horsham-west-sussex-london-b3081381.html",
+      "published_date": "2026-11-09T00:01:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Warming UK seas could ‘fundamentally reshape marine ecosystems’ – report",
+      "title": "Prince Harry spotted in low-key appearance at market town’s Remembrance Sunday memorial service",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/prince-harry-brackley-remembrance-sunday-b3081300.html",
+      "published_date": "2026-11-08T20:17:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Half of NHS trusts in England lack funds earmarked to cover maternity leave",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report",
-      "published_date": "2026-11-05T07:00:56+00:00",
-      "category": "Energy"
+      "url": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
+      "published_date": "2026-11-08T17:42:39+00:00",
+      "category": "Economy"
     },
     {
       "title": "UK spent £100m on zombie Brexit border inspection posts",
@@ -536,32 +564,46 @@
       "category": "Economy"
     },
     {
-      "title": "FTSE 100 index falls amid fears of AI slowdown",
+      "title": "Only 6.4% of stroke survivors receive enough therapy, finds ‘damning’ report",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/nov/09/few-stroke-survivors-receive-enough-therapy-damning-report",
+      "published_date": "2026-11-09T00:01:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
+      "published_date": "2026-11-09T00:01:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man arrested on suspicion of murder also under investigation over five aggravated burglaries",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/ftse-100-index-ai-us-europe-b3080750.html",
-      "published_date": "2026-11-06T18:38:34+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/oldham-man-arrested-murder-burglary-greater-manchester-b3081355.html",
+      "published_date": "2026-11-08T22:55:30+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "AI stocks climb after trillions wiped from market values",
+      "title": "Burnham admits NHS faces difficult winter as he unveils £40m to help keep patients out of hospital",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/burnham-nhs-winter-gp-hospital-b3081294.html",
+      "published_date": "2026-11-08T22:39:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+      "published_date": "2026-11-08T22:30:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Secondary schools told to stop teaching GCSEs before Year 10",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-06T17:03:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "John Smedley will always be in vogue | Letters",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/fashion/2026/nov/06/john-smedley-will-always-be-in-vogue",
-      "published_date": "2026-11-06T16:36:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-      "published_date": "2026-11-06T15:48:36+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/c680z89dk827o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-08T19:00:32+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Chessington World of Adventures evacuated as police respond to incident",
@@ -659,48 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-08T04:09:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Property, football and politics: The links between Manchester and Abu Dhabi explained",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckpqg13710wjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-08T01:11:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Briton among six killed in 'far-right' shooting in Krakow",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-08T00:55:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huge M20 crash involving more than 30 vehicles leaves two people seriously injured",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/m20-crash-kent-30-vehicles-serious-injuries-b3081115.html",
-      "published_date": "2026-11-07T23:05:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five teenagers rushed to hospital with serious injuries after Peak District car crash",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/peak-district-car-crash-derbyshire-five-teenagers-hospital-b3081107.html",
-      "published_date": "2026-11-07T22:16:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ipswich Town's new club shop 'here to stay'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-07T21:40:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-07T21:36:16+00:00",
       "category": "Local Events"
     }
   ]
