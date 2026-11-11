@@ -1,8 +1,15 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-11-10T18:31:29.573812+00:00",
+  "last_updated": "2026-11-11T02:23:31.983080+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Parents back to choosing toys for fun over educational value as market soars",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/tom-williams-britons-mayfair-london-hasbro-b3082807.html",
+      "published_date": "2026-11-11T00:01:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Scottish Labour leader says the UK should re-join EU",
       "source": "BBC News",
@@ -137,11 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Leaked papers show what the EU wants in Burnham’s reset plans",
+      "title": "US soldier suspected of spying for Russia arrested by British counter-terror police",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/eu-demands-andy-burnham-brexit-reset-uk-brussels-b3080425.html",
-      "published_date": "2026-11-06T11:38:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/us-soldier-arrested-uk-gloucester-russia-espionage-b3082698.html",
+      "published_date": "2026-11-11T01:41:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-11T00:19:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Government must go 'further and faster' to ensure Britain is ready for war in 1,000 days, peers warn",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/uk-government-war-1000-days-burnham-streeting-b3082789.html",
+      "published_date": "2026-11-11T00:01:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T22:52:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
+      "published_date": "2026-11-10T21:57:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T21:22:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T20:20:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
+      "published_date": "2026-11-10T20:12:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Senior US Army officer arrested in UK on allegations of Russia espionage",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/member-of-us-army-arrested-in-uk-over-allegations-of-espionage-involving-russia-13610748",
+      "published_date": "2026-11-10T18:50:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ex-investigator admits depriving war crimes probe of potentially valuable information",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/ex-investigator-admits-depriving-war-crimes-investigation-of-potentially-valuable-information-13610746",
+      "published_date": "2026-11-10T18:32:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-10T09:23:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Streeting wants more direct contact with Russia to avoid war 'miscalculation'",
+      "title": "Ads for four brands banned over ‘misleading’ carbon neutral delivery claims",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/russia-ukraine-war-streeting-b3082164.html",
-      "published_date": "2026-11-10T07:18:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gen Z doesn‘t relish going to war – so what! You should worry more about the reckless generations that do | Jason Okundaye",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/10/britain-gen-z-war-right-young-people-protect",
-      "published_date": "2026-11-10T07:00:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-10T03:58:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "FBI investigating Nvidia CEO over affair with alleged Chinese spy",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/fbi-to-investigate-nvidia-ceo-over-affair-with-alleged-chinese-spy-trump-says-13610382",
-      "published_date": "2026-11-10T02:06:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prince William wants more protection from harassment for service women",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8g85pxe9ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-10T00:41:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-10T00:08:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Prince William warns military must do more to make women feel safe and respected",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/prince-william-women-military-armed-forces-b3081916.html",
-      "published_date": "2026-11-10T00:01:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-09T21:52:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-09T19:58:01+00:00",
-      "category": "Military"
+      "url": "https://www.independent.co.uk/news/business/advertising-standards-authority-b3082806.html",
+      "published_date": "2026-11-11T00:01:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fraudster who used AI to fake £154 million oil company takeover bid spared jail",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Labour ‘plans to cut EV targets’ despite backlash from MPs",
+      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-11T00:02:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+      "published_date": "2026-11-11T00:01:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Interest rates should rise to 5% to control inflation, says think tank",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/labour-electric-vehicle-cut-targets-louise-haigh-b3081455.html",
-      "published_date": "2026-11-09T08:13:16+00:00",
-      "category": "Energy"
+      "url": "https://www.independent.co.uk/news/business/national-institute-of-economic-and-social-research-government-interest-rates-gdp-b3082805.html",
+      "published_date": "2026-11-11T00:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation",
+      "published_date": "2026-11-10T20:00:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "Closer ties with EU would boost UK economic growth, Bank of England governor says",
@@ -494,6 +522,13 @@
       "category": "Economy"
     },
     {
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T13:39:28+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Anthropic seeks $1.4trn valuation amid worry over AI investment",
       "source": "Sky News",
       "url": "https://news.sky.com/story/claude-maker-anthropic-seeks-14trn-valuation-amid-worry-over-ai-investment-13610628",
@@ -505,6 +540,13 @@
       "source": "Sky News",
       "url": "https://news.sky.com/story/poundland-owner-releases-10m-to-retailer-hours-before-mp-grilling-13610590",
       "published_date": "2026-11-10T11:47:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Overvaluing AI stocks may cause ‘bubble’ to burst, warns Bank of England boss",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/andrew-bailey-bank-of-england-national-cyber-security-centre-britain-b3081974.html",
+      "published_date": "2026-11-10T10:09:59+00:00",
       "category": "Economy"
     },
     {
@@ -522,52 +564,80 @@
       "category": "Economy"
     },
     {
-      "title": "Meet four Black-owned businesses building the next generation of British brands",
+      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+      "published_date": "2026-11-11T01:18:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘No one is in charge’: social care system in England in chaos, Louise Casey to say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/nov/11/louise-casey-england-social-care-system",
+      "published_date": "2026-11-11T00:01:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Disabled people in England ‘have to wait up to two years for wheelchairs’",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs",
+      "published_date": "2026-11-11T00:01:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
+      "published_date": "2026-11-10T22:37:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Angela Rayner to push for 'new wave' of homes to 'turn the tide' on housebuilding crisis",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/lloyds-blackowned-businesses-initiative-b3067587.html",
-      "published_date": "2026-11-10T09:42:27+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/politics/angela-rayner-labour-housing-new-homes-b3082784.html",
+      "published_date": "2026-11-10T22:30:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Medicinal cannabis producer Grow Group weeds out new funding",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/medicinal-cannabis-producer-grow-group-weeds-out-new-funding-13610494",
-      "published_date": "2026-11-10T09:06:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Civil service chief Antonia Romeo to call for ‘fundamental’ overhaul of Whitehall",
+      "title": "Ritz hotel raided by French police in Mohamed Al-Fayed trafficking probe",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/antonia-romeo-whitehall-fundamental-overhaul-b3082130.html",
-      "published_date": "2026-11-10T04:31:54+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/crime/mohamed-al-fayed-raid-ritz-paris-arrests-b3082724.html",
+      "published_date": "2026-11-10T20:42:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Californians reject wealth tax for billionaires",
+      "title": "What we know about the allegations against David Walliams",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-10T03:34:46+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T19:35:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "title": "The Guardian view on rough sleeping: Burnham’s laudable target is in danger of being missed | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/10/the-guardian-view-on-rough-sleeping-burnhams-laudable-target-is-in-danger-of-being-missed",
+      "published_date": "2026-11-10T19:19:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stevie Wonder leaves cafe staff £1,000 tip after Manchester gig",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-10T01:55:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Retailers suffer subdued October as shoppers hold back ahead of Black Friday",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/brc-kpmg-helen-dickinson-government-budget-b3082084.html",
-      "published_date": "2026-11-10T00:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.bbc.co.uk/news/articles/cvj6j6jpwd62o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-10T18:31:27+00:00",
+      "category": "Local Events"
     },
     {
       "title": "David Walliams slashes price of London mansion by £1.45m as he faces allegations of preying on teenage girls",
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/uk/home-news/david-walliams-home-asking-price-b3082560.html",
       "published_date": "2026-11-10T18:22:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Train driver 'heard someone screaming' about knifeman stabbing people",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/huntingdon-train-attack-driver-heard-someone-screaming-about-knifeman-stabbing-people-13610739",
+      "published_date": "2026-11-10T18:14:00+00:00",
       "category": "Local Events"
     },
     {
@@ -631,76 +701,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwdd8dejj4edo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-10T17:17:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Call it tough love, with the love removed: it’s Kemi’s war on benefits claimants",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/10/john-crace-kemi-badenoch-tough-love-war-on-benefits",
-      "published_date": "2026-11-10T17:04:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Summer solstice murder suspect charged with assaults at stone circle",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/summer-solstice-murder-szymon-babynko-assault-stone-circle-b3082614.html",
-      "published_date": "2026-11-10T16:53:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MP warns of ‘vast evidence of law breaking’ by councils over special needs education",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/special-needs-education-week-send-councils-ehcps-b3081832.html",
-      "published_date": "2026-11-10T16:28:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK court overturns Trinidad and Tobago law criminalising homosexual sex",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/uk-court-overturns-trinidad-and-tobago-law-criminalising-homosexual-sex-13610702",
-      "published_date": "2026-11-10T16:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-10T16:19:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "People in deprived areas of England more than twice as likely to die early, study shows",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/nov/10/early-death-deprived-areas-england",
-      "published_date": "2026-11-10T16:19:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Injunctions explained after David Walliams loses High Court bid",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/david-walliams-injunction-celebrity-appeal-b3082571.html",
-      "published_date": "2026-11-10T15:56:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What new school mobile phone rules mean for pupils and parents",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/mobile-phone-ban-rules-uk-schools-b3082328.html",
-      "published_date": "2026-11-10T15:17:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How I Christmas Shop with Jamie Oliver: ‘The most important thing? Gravy.’",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/thefilter/2026/nov/10/how-i-shop-with-jamie-oliver",
-      "published_date": "2026-11-10T15:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police receive further criminal allegations against Russell Brand",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
-      "published_date": "2026-11-10T14:57:34+00:00",
       "category": "Local Events"
     }
   ]
