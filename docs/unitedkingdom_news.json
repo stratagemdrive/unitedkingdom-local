@@ -1,8 +1,29 @@
 {
   "country": "United Kingdom",
-  "last_updated": "2026-11-11T18:26:51.822379+00:00",
+  "last_updated": "2026-11-12T03:31:00.285352+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Burnham's push for closer EU ties causes ripples in his party and others",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-12T00:30:48+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UK appoints world’s first special representative for climate security",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
+      "published_date": "2026-11-11T22:30:01+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "He triggered Brexit. Now Lord Cameron warns Burnham against rejoining EU",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-david-cameron-andy-burnham-european-union-b3083411.html",
+      "published_date": "2026-11-11T18:44:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Climate crisis threatens national security for all, Ed Miliband tells Cop31",
       "source": "The Independent",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Runner's 'nasty fall' at Saturday Parkrun sparks row over dog rule",
+      "title": "Team reviewing alleged war crimes did not see key evidence, Afghanistan inquiry told",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/team-reviewing-alleged-war-crimes-did-not-see-key-photographic-evidence-afghanistan-inquiry-told-13611205",
+      "published_date": "2026-11-11T19:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "British soldier charged with rape of army servicewoman in Cyprus",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus",
+      "published_date": "2026-11-11T19:06:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Revealed: The UK areas safest in a national catastrophe – and those most at risk",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/parkrun-uk-dogs-cardiff-dorset-b3080914.html",
-      "published_date": "2026-11-07T10:32:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-      "published_date": "2026-11-07T09:15:35+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Finally there’s hope’: UK weighs up opportunities and risks after Trump’s midterms disaster",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/nov/07/uk-weighs-risks-opportunities-after-trump-us-midterms-disaster",
-      "published_date": "2026-11-07T09:00:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-areas-safest-dangerous-doomsday-attack-b3083375.html",
+      "published_date": "2026-11-11T18:40:31+00:00",
+      "category": "Military"
     },
     {
       "title": "British soldier charged with raping woman serving with UK armed forces in Cyprus",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-10T20:20:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
-      "published_date": "2026-11-10T20:12:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Senior US Army officer arrested in UK on allegations of Russia espionage",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/member-of-us-army-arrested-in-uk-over-allegations-of-espionage-involving-russia-13610748",
-      "published_date": "2026-11-10T18:50:00+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-11T21:42:20+00:00",
+      "category": "Energy"
     },
     {
       "title": "Senior Reform UK official quits as questions over vetting failures continue",
@@ -417,11 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "New regulation for heating oil market, but no price controls",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-10T13:42:29+00:00",
-      "category": "Energy"
+      "title": "UK economic growth expected to have picked up amid AI and defence drive",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/gdp-office-for-national-statistics-consumers-iran-deutsche-bank-b3083535.html",
+      "published_date": "2026-11-12T02:45:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Experts give bleak prediction for UK housing market with sales set to drop to lowest level in years",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/uk-house-sales-mortgage-rates-b3083273.html",
+      "published_date": "2026-11-12T00:01:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
+      "published_date": "2026-11-11T19:10:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Poundland’s future hangs in balance as administration deadline looms",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/poundland-liam-byrne-richard-tice-business-alixpartners-b3083416.html",
+      "published_date": "2026-11-11T18:47:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Guardian view on welfare reform: time to retire lazy myths and stereotypes | Editorial",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/the-guardian-view-on-welfare-reform-time-to-retire-lazy-myths-and-stereotypes",
+      "published_date": "2026-11-11T18:30:56+00:00",
+      "category": "Economy"
     },
     {
       "title": "Poundland founder writes to King for help",
@@ -529,39 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "Unilever-McCormick deal may harm competition in dry ingredients market, says CMA",
+      "title": "How much art does your council own and is it locked away or on display?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwgzxeexno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-12T01:03:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-12T00:12:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Patients left 'stuck' on wards and waiting to be discharged for weeks, NHS figures show",
       "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/business/unilever-french-bisto-english-b3082919.html",
-      "published_date": "2026-11-11T08:39:48+00:00",
-      "category": "Economy"
+      "url": "https://www.independent.co.uk/news/uk/home-news/nhs-hospital-delays-patients-discharge-b3083276.html",
+      "published_date": "2026-11-12T00:01:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tories would have to raise state pension age above 70 to keep triple lock, says minister",
+      "title": "Man shot dead outside London pub was in 'wrong place at wrong time', Met Police say",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/shooting-clapham-met-police-bus-driver-b3083245.html",
+      "published_date": "2026-11-12T00:01:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/money/2026/nov/11/tories-raise-state-pension-age-70-triple-lock-torsten-bell",
-      "published_date": "2026-11-11T07:29:40+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+      "published_date": "2026-11-12T00:01:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tonnes of dumped rubbish leaves £10m business park an 'apocalyptic' mess",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6y434mpg1d0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-11T05:52:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-11T00:02:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
+      "title": "Bronze leg found in Scottish bog sheds new light on Roman occupation",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-      "published_date": "2026-11-11T00:01:23+00:00",
-      "category": "Economy"
+      "url": "https://www.theguardian.com/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit",
+      "published_date": "2026-11-12T00:01:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ads for sunbeds must not claim they are ‘safe’ or can treat medical conditions",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/business/cap-uv-rays-advertising-standards-authority-ads-b3083518.html",
+      "published_date": "2026-11-12T00:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cruel carer caught stealing wedding rings from dementia suffer to buy Christmas gifts",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/crime/amy-bassett-dementia-steal-fraud-bristol-court-b3083463.html",
+      "published_date": "2026-11-11T21:37:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman, 80, in critical condition after being set on fire",
+      "source": "Sky News",
+      "url": "https://news.sky.com/story/woman-80-in-critical-condition-after-being-set-on-fire-13611231",
+      "published_date": "2026-11-11T21:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ed Miliband says he ‘deeply regrets’ Russell Brand interview as he condemns ‘horrifying’ crimes",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/ed-miliband-russell-brand-interview-b3083450.html",
+      "published_date": "2026-11-11T20:55:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How would you describe your ethnicity on the census?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckz6qx8zdg2wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-11T19:45:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Glasgow road where car struck pedestrians closed after second incident in hours",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk/news/uk/home-news/glasgow-hyndland-road-second-incident-crash-injury-b3083421.html",
+      "published_date": "2026-11-11T19:19:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police believed Huntingdon train attacker had schizophrenia, jury told",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqzr5g8n1lg2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-11T19:03:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-11T18:53:57+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Thousands of schools across the UK and Italy targeted by bomb hoax",
@@ -603,104 +701,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/nov/11/andy-burnham-safety-concerns-astley-manchester-megashed-inquiry",
       "published_date": "2026-11-11T18:00:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brad Friedel on Shrewsbury Town takeover",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-11T17:55:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Facebook groups trusted over mainstream media in asylum hotel protest towns, report shows",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/immigration-asylum-seeker-hotel-protest-study-b3081590.html",
-      "published_date": "2026-11-11T17:54:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No risk to public from hoax school bomb threats, says government minister",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr868l17yj4jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-11T17:47:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hoax bomb threats made to hundreds of schools in Scotland and Northern Ireland",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
-      "published_date": "2026-11-11T17:47:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-11T17:44:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farage sacked Reform UK’s general secretary over failed candidate vetting",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/politics/nigel-farage-reform-general-secretary-sacked-b3083210.html",
-      "published_date": "2026-11-11T17:04:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Workers across Spain stage first general strike in 14 years",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-11T17:01:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andy Burnham hints at 'tougher' rules for e-bikes in fresh crackdown",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/ebikes-rules-conversion-kits-andy-burnham-b3083333.html",
-      "published_date": "2026-11-11T17:00:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reform and Tory councils lose High Court bid to halt construction of UK's largest solar farm",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/reform-conservatives-springwell-solar-farm-lincolnshire-b3083318.html",
-      "published_date": "2026-11-11T16:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No 'certainty' man sexually touched wife advertised for sex, court told",
-      "source": "Sky News",
-      "url": "https://news.sky.com/story/no-certainty-man-sexually-touched-wife-advertised-for-sex-court-told-13611161",
-      "published_date": "2026-11-11T16:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serial Greggs shoplifter who admitted to 80 offences spared jail as police issue furious statement",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/crime/greggs-shoplifter-tiffany-oneill-spared-jail-met-police-b3083313.html",
-      "published_date": "2026-11-11T16:18:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters gather in Spain for first general strike in 14 years",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwj0587gde88o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-11T16:12:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Smart glasses face school ban in new crackdown against controversial tech",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/smart-glasses-banned-school-meta-ray-bans-b3083294.html",
-      "published_date": "2026-11-11T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Psychic poet left 'penniless' after losing court fight over father's £450k will",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/uk/home-news/inheritance-court-gary-pammen-cockney-bard-b3083248.html",
-      "published_date": "2026-11-11T15:14:54+00:00",
       "category": "Local Events"
     }
   ]
